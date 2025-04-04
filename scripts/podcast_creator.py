@@ -159,20 +159,28 @@ def text_to_speech(text, output_file=None):
         print(f"Error during text-to-speech conversion: {e}")
         return None
 
-def create_podcast_with_music(transcript_file, output_file="latest_podcast_audio.mp3"):
+def create_podcast_with_music(transcript_file, output_file=None):
     """
     Create a podcast with text-to-speech and music in podcast-standard format
     
     Args:
         transcript_file (str): Path to the transcript file
-        output_file (str): Path to save the final audio file
+        output_file (str): Path to save the final audio file. If None, will use current date
     """
     try:
+        # If no output file specified, create one with today's date
+        if output_file is None:
+            current_date = datetime.now().strftime('%Y-%m-%d')
+            output_file = f"public/{current_date}.mp3"
+        
         # Read the transcript file
         with open(transcript_file, 'r', encoding='utf-8') as f:
             text = f.read()
         
-        # Extract sections from the text (before filtering sound effects)
+        # Filter out sound effects and speaker markers
+        text = filter_sound_effects(text)
+        
+        # Extract sections from the filtered text
         sections = extract_sections(text)
         
         if not sections:
@@ -183,9 +191,6 @@ def create_podcast_with_music(transcript_file, output_file="latest_podcast_audio
         intro_music = AudioSegment.from_mp3("public/DvirSilver_intro.mp3")
         transition_music = AudioSegment.from_mp3("public/IvanLuzan_transition.mp3")
         outro_music = AudioSegment.from_mp3("public/DvirSilver_intro.mp3")
-        
-        # Reduce transition music volume to 50%
-        transition_music = transition_music - 6  # -6 dB is approximately 50% volume
         
         # Create the podcast
         podcast = AudioSegment.empty()
@@ -238,75 +243,9 @@ def create_podcast_with_music(transcript_file, output_file="latest_podcast_audio
         print(f"Error creating podcast: {e}")
         return False
 
-def upload_to_redcircle(audio_file, title=None, description=None):
-    """
-    Upload the podcast episode to RedCircle
-    
-    Args:
-        audio_file (str): Path to the audio file
-        title (str, optional): Episode title. If None, uses current date
-        description (str, optional): Episode description. If None, uses default
-    """
-    try:
-        # Get RedCircle credentials from environment variables
-        redcircle_api_key = os.getenv('REDCIRCLE_API_KEY')
-        redcircle_podcast_id = os.getenv('REDCIRCLE_PODCAST_ID')
-        
-        if not redcircle_api_key or not redcircle_podcast_id:
-            print("Error: RedCircle credentials not found in environment variables")
-            return False
-        
-        # Set default title if none provided
-        if title is None:
-            # Format: "SA News for DD MON YYYY"
-            current_date = datetime.now()
-            title = f"SA News for {current_date.day} {current_date.strftime('%b')} {current_date.year}"
-        
-        # Set default description if none provided
-        if description is None:
-            description = "Your daily update on South African news, powered by AI."
-        
-        # Prepare the episode data
-        episode_data = {
-            "title": title,
-            "description": description,
-            "publishDate": datetime.now().isoformat(),
-            "isDraft": False
-        }
-        
-        # Upload the audio file
-        files = {
-            'audio': ('episode.mp3', open(audio_file, 'rb'), 'audio/mpeg')
-        }
-        
-        headers = {
-            'Authorization': f'Bearer {redcircle_api_key}',
-            'Content-Type': 'multipart/form-data'
-        }
-        
-        # Create the episode
-        create_url = f"https://api.redcircle.fm/api/v1/podcasts/{redcircle_podcast_id}/episodes"
-        create_response = requests.post(
-            create_url,
-            headers=headers,
-            data={'episode': json.dumps(episode_data)},
-            files=files
-        )
-        
-        if create_response.status_code == 201:
-            print(f"Successfully uploaded episode to RedCircle: {title}")
-            return True
-        else:
-            print(f"Failed to upload episode: {create_response.text}")
-            return False
-            
-    except Exception as e:
-        print(f"Error uploading to RedCircle: {e}")
-        return False
-
 def main():
     # Get the transcript file
-    transcript_file = "latest_podcast_summary.txt"
+    transcript_file = "outputs/latest_podcast_summary.txt"
     
     if not os.path.exists(transcript_file):
         print(f"Transcript file {transcript_file} not found.")
@@ -314,16 +253,17 @@ def main():
     
     print(f"Creating podcast from transcript: {transcript_file}")
     
-    # Use a consistent filename for the audio output
-    output_file = "latest_podcast_audio.mp3"  # Changed to .mp3
+    # Generate dated filename
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    output_file = f"public/{current_date}.mp3"
     
-    # Delete the previous audio file if it exists
+    # Check if today's episode already exists
     if os.path.exists(output_file):
-        try:
-            os.remove(output_file)
-            print(f"Deleted previous audio file: {output_file}")
-        except Exception as e:
-            print(f"Error deleting previous audio file: {e}")
+        print(f"Warning: Episode for {current_date} already exists at {output_file}")
+        user_input = input("Do you want to overwrite it? (y/n): ")
+        if user_input.lower() != 'y':
+            print("Aborting podcast creation.")
+            return
     
     # Force a file system sync to ensure we're reading the latest content
     os.sync()
@@ -331,10 +271,6 @@ def main():
     # Create the podcast
     if create_podcast_with_music(transcript_file, output_file):
         print("Podcast created successfully.")
-        
-        # Uncomment to enable RedCircle upload
-        # print("Uploading to RedCircle...")
-        # upload_to_redcircle(output_file)
     else:
         print("Failed to create podcast")
 

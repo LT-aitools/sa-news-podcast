@@ -1,0 +1,20 @@
+{
+  "name": "sa-news-podcast",
+  "version": "1.0.0",
+  "description": "South African Daily News Podcast Generator",
+  "main": "api/podcast-feed.js",
+  "scripts": {
+    "generate-feed": "node api/podcast-feed.js",
+    "cleanup": "node api/cleanup-old-episodes.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "moment": "^2.30.1",
+    "rss": "^1.2.2",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
+} 
