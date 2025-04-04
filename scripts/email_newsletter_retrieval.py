@@ -1,0 +1,158 @@
+import imaplib
+import email
+from email.header import decode_header
+from bs4 import BeautifulSoup
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+def fetch_newsletter_from_email():
+    """
+    Retrieve the last two Daily Maverick First Thing or Afternoon Thing newsletters from your email
+    
+    Requires:
+    - Email account credentials in .env file
+    - Daily Maverick newsletter subscription
+    """
+    # Email account credentials
+    EMAIL = os.getenv("EMAIL_ADDRESS")
+    PASSWORD = os.getenv("EMAIL_PASSWORD")
+    IMAP_SERVER = os.getenv("IMAP_SERVER", "imap.gmail.com")  # Default to Gmail
+    
+    try:
+        # Connect to the email server
+        mail = imaplib.IMAP4_SSL(IMAP_SERVER)
+        mail.login(EMAIL, PASSWORD)
+        mail.select("INBOX")
+        
+        # Search for emails from Daily Maverick
+        # Adjust the search criteria as needed
+        status, messages = mail.search(None, '(FROM "dailymaverick.co.za")')
+        
+        if status != "OK" or not messages[0]:
+            print("No Daily Maverick newsletters found")
+            return None
+        
+        # Get the last two email IDs
+        email_ids = messages[0].split()[-2:]  # Get the last two emails
+        
+        newsletters = []
+        for email_id in email_ids:
+            # Fetch the email
+            status, msg_data = mail.fetch(email_id, "(RFC822)")
+            
+            if status != "OK":
+                print(f"Failed to fetch email {email_id}")
+                continue
+            
+            # Parse the email
+            raw_email = msg_data[0][1]
+            msg = email.message_from_bytes(raw_email)
+            
+            # Get email subject
+            subject, encoding = decode_header(msg["Subject"])[0]
+            if isinstance(subject, bytes):
+                subject = subject.decode(encoding if encoding else "utf-8")
+            
+            print(f"Processing email: {subject}")
+            
+            # Extract the HTML content
+            newsletter_content = ""
+            if msg.is_multipart():
+                for part in msg.walk():
+                    content_type = part.get_content_type()
+                    if content_type == "text/html":
+                        try:
+                            body = part.get_payload(decode=True).decode('utf-8')
+                            newsletter_content = body
+                            break
+                        except:
+                            continue
+            else:
+                content_type = msg.get_content_type()
+                if content_type == "text/html":
+                    newsletter_content = msg.get_payload(decode=True).decode('utf-8')
+            
+            # Parse the HTML to extract just the newsletter content
+            if newsletter_content:
+                soup = BeautifulSoup(newsletter_content, "html.parser")
+                
+                # Extract main content (this will need adjusting based on the actual email structure)
+                # For Daily Maverick, you might need to target specific divs or tables
+                main_content = soup.find("div", {"class": "content"}) or soup.find("table", {"class": "main"})
+                
+                if main_content:
+                    # Clean up the content by removing images, styling, etc.
+                    for img in main_content.find_all("img"):
+                        img.decompose()
+                    
+                    # Get all text paragraphs
+                    paragraphs = [p.get_text().strip() for p in main_content.find_all("p")]
+                    
+                    # Join paragraphs with newlines
+                    cleaned_content = "\n\n".join(filter(None, paragraphs))
+                    
+                    newsletters.append({
+                        "subject": subject,
+                        "date": msg["Date"],
+                        "content": cleaned_content
+                    })
+                else:
+                    # If we couldn't find the main content container, return all text
+                    text_content = soup.get_text().strip()
+                    newsletters.append({
+                        "subject": subject,
+                        "date": msg["Date"],
+                        "content": text_content
+                    })
+        
+        return newsletters if newsletters else None
+        
+    except Exception as e:
+        print(f"Error retrieving newsletters: {e}")
+        return None
+    finally:
+        try:
+            mail.close()
+        except:
+            pass
+        try:
+            mail.logout()
+        except:
+            pass
+
+def get_latest_newsletter_content():
+    """
+    Retrieves the content of the latest two Daily Maverick newsletters.
+    """
+    try:
+        # Read the Daily Maverick newsletter content
+        with open('daily_maverick_first_thing.txt', 'r', encoding='utf-8') as f:
+            content = f.read()
+        return content
+    except Exception as e:
+        print(f"Error reading newsletter content: {e}")
+        return "Error: Could not retrieve newsletter content."
+
+if __name__ == "__main__":
+    newsletters = fetch_newsletter_from_email()
+    
+    if newsletters:
+        combined_content = ""
+        for newsletter in newsletters:
+            print(f"Retrieved: {newsletter['subject']} ({newsletter['date']})")
+            print("\nEXCERPT:")
+            print(newsletter['content'][:500] + "...")
+            
+            # Combine content with clear separation
+            combined_content += f"=== {newsletter['subject']} ({newsletter['date']}) ===\n\n"
+            combined_content += newsletter['content'] + "\n\n"
+        
+        # Save to file
+        with open("daily_maverick_first_thing.txt", "w", encoding="utf-8") as f:
+            f.write(combined_content)
+        
+        print(f"\nFull newsletters saved to daily_maverick_first_thing.txt")
+    else:
+        print("Failed to retrieve the newsletters")
