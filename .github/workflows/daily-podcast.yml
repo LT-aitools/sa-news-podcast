@@ -2,7 +2,7 @@ name: Daily Podcast Generation
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Runs at 4 AM UTC daily
+    - cron: '0 7 * * *'  # Runs at 7 AM UTC daily
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -32,6 +32,8 @@ jobs:
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          IMAP_SERVER: ${{ secrets.IMAP_SERVER }}
         run: |
           python summarize_transcript.py
           if [ $? -ne 0 ]; then
