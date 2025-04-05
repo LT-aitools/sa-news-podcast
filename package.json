@@ -2,6 +2,7 @@
   "name": "sa-news-podcast",
   "version": "1.0.0",
   "description": "South African Daily News Podcast Generator",
+  "type": "module",
   "main": "api/podcast-feed.js",
   "scripts": {
     "generate-feed": "node api/podcast-feed.js",
