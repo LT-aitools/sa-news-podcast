@@ -7,6 +7,8 @@ import moment from 'moment';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const baseUrl = 'https://mzansi-podcast.letstalkaitools.com';
+
 // Export the handler for API route usage
 export default async function handler(req, res) {
     try {
@@ -43,18 +45,16 @@ function generateEpisodeEntries() {
                 const title = `SA News for ${moment(date).format('D MMM YYYY')}`;
                 const stats = fs.statSync(path.join(publicDir, file));
                 
-                return `
-                    <item>
-                        <title>${title}</title>
-                        <description>Your daily update on South African news.</description>
-                        <pubDate>${pubDate}</pubDate>
-                        <enclosure url="https://sa-news-podcast.vercel.app/${file}" type="audio/mpeg" length="${stats.size}"/>
-                        <guid isPermaLink="false">${date}</guid>
-                        <itunes:duration>00:05:00</itunes:duration>
-                    </item>
-                `;
-            })
-            .join('\n');
+                return {
+                    title,
+                    description: 'Your daily update on South African news.',
+                    pubDate,
+                    filename: file,
+                    guid: date,
+                    duration: '00:05:00',
+                    length: stats.size
+                };
+            });
             
         if (!episodes) {
             console.error('No episodes found in directory:', publicDir);
@@ -68,37 +68,44 @@ function generateEpisodeEntries() {
         if (error.code === 'ENOENT') {
             console.error('Directory not found:', path.join(process.cwd(), 'public'));
         }
-        return '<!-- Error generating episode entries -->';
+        return [];
     }
 }
 
-function generatePodcastFeed() {
-    const episodes = generateEpisodeEntries();
-    console.log('Generated episodes:', episodes ? 'Yes' : 'No');
-    
-    return `<?xml version="1.0" encoding="UTF-8"?>
-    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-        <channel>
-            <title>Mzansi Lowdown: South African Daily News</title>
-            <link>https://sa-news-podcast.vercel.app</link>
-            <language>en-za</language>
-            <itunes:author>Let's Talk AI Tools</itunes:author>
-            <description>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects &amp; delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail &amp; Guardian.</description>
-            <itunes:image href="https://sa-news-podcast.vercel.app/daily_news_icon.jpg"/>
-            <itunes:category text="News"/>
-            <itunes:explicit>no</itunes:explicit>
-            
-            <!-- Episodes -->
-            ${episodes}
-            
-        </channel>
-    </rss>`;
+function generatePodcastFeed(episodes) {
+    const feed = `<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Mzansi Lowdown: South African Daily News</title>
+    <link>${baseUrl}</link>
+    <language>en-za</language>
+    <itunes:author>Let's Talk AI Tools</itunes:author>
+    <itunes:email>hello@letstalkaitools.com</itunes:email>
+    <description>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects &amp; delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail &amp; Guardian.</description>
+    <itunes:image href="${baseUrl}/daily_news_icon.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+    <!-- Episodes -->
+    ${episodes.map(episode => `
+    <item>
+      <title>${episode.title}</title>
+      <description>${episode.description}</description>
+      <pubDate>${episode.pubDate}</pubDate>
+      <enclosure url="${baseUrl}/${episode.filename}" type="audio/mpeg" length="${episode.length}"/>
+      <guid isPermaLink="false">${episode.guid}</guid>
+      <itunes:duration>${episode.duration}</itunes:duration>
+    </item>`).join('\n    ')}
+  </channel>
+</rss>`;
+
+  return feed;
 }
 
 // Run as script if called directly
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
     try {
-        const feed = generatePodcastFeed();
+        const episodes = generateEpisodeEntries();
+        const feed = generatePodcastFeed(episodes);
         const outputPath = path.join(process.cwd(), 'public', 'feed.xml');
         fs.writeFileSync(outputPath, feed);
         console.log(`Feed generated successfully at ${outputPath}`);
