@@ -160,6 +160,78 @@
             background-color: #e0a486;
         }
 
+        .episode-card {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .episode-card h3 {
+            color: #494747;
+            font-size: 1.5rem;
+            margin: 0 0 0.5rem 0;
+        }
+
+        .episode-card p {
+            color: #666;
+            margin: 0 0 1.5rem 0;
+            font-size: 1rem;
+        }
+
+        .episode-card .date {
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        .episode-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+        }
+
+        .episode-thumbnail {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .episode-thumbnail h3 {
+            color: #494747;
+            font-size: 1.25rem;
+            margin: 0 0 1.5rem 0;
+        }
+
+        .episode-thumbnail .date {
+            color: #888;
+            font-size: 0.9rem;
+            margin: 0;
+        }
+
+        .play-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background-color: #e64964;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 1rem;
+            transition: background-color 0.2s ease;
+        }
+
+        .play-button:hover {
+            background-color: #d43953;
+        }
+
         @media (max-width: 768px) {
             .content {
                 flex-direction: column;
@@ -187,6 +259,18 @@
 
             .episode-section h2 {
                 font-size: 1.75rem;
+            }
+        }
+
+        @media (max-width: 1024px) {
+            .episode-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 640px) {
+            .episode-grid {
+                grid-template-columns: 1fr;
             }
         }
     </style>
@@ -219,9 +303,73 @@
     </div>
     <section class="episode-section last-episode">
         <h2>Last episode</h2>
+        <div class="episode-card">
+            <div id="latest-episode">Loading...</div>
+        </div>
     </section>
     <section class="episode-section previous-episodes">
         <h2>Previous episodes</h2>
+        <div class="episode-grid" id="previous-episodes">
+            Loading...
+        </div>
     </section>
+
+    <script>
+        async function fetchEpisodes() {
+            try {
+                const response = await fetch('https://mzansi-podcast.letstalkaitools.com/api/podcast-feed');
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(text, "text/xml");
+                const items = xmlDoc.getElementsByTagName("item");
+
+                // Latest episode
+                if (items.length > 0) {
+                    const latest = items[0];
+                    const title = latest.getElementsByTagName("title")[0].textContent;
+                    const description = latest.getElementsByTagName("description")[0].textContent;
+                    const audioUrl = latest.getElementsByTagName("enclosure")[0].getAttribute("url");
+
+                    document.getElementById("latest-episode").innerHTML = `
+                        <h3>${title}</h3>
+                        <p>${description}</p>
+                        <a href="${audioUrl}" class="play-button" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="white" stroke="white">
+                                <polygon points="5 3 19 12 5 21"/>
+                            </svg>
+                            Play Episode
+                        </a>
+                    `;
+                }
+
+                // Previous episodes
+                let previousEpisodesHtml = '';
+                for (let i = 1; i < Math.min(items.length, 5); i++) {
+                    const item = items[i];
+                    const title = item.getElementsByTagName("title")[0].textContent;
+                    const audioUrl = item.getElementsByTagName("enclosure")[0].getAttribute("url");
+
+                    previousEpisodesHtml += `
+                        <div class="episode-thumbnail">
+                            <h3>${title}</h3>
+                            <a href="${audioUrl}" class="play-button" target="_blank">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="white" stroke="white">
+                                    <polygon points="5 3 19 12 5 21"/>
+                                </svg>
+                                Play
+                            </a>
+                        </div>
+                    `;
+                }
+                document.getElementById("previous-episodes").innerHTML = previousEpisodesHtml || 'No previous episodes found';
+            } catch (error) {
+                console.error('Error fetching episodes:', error);
+                document.getElementById("latest-episode").innerHTML = 'Error loading episodes';
+                document.getElementById("previous-episodes").innerHTML = 'Error loading episodes';
+            }
+        }
+
+        fetchEpisodes();
+    </script>
 </body>
 </html> 
