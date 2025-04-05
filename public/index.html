@@ -300,9 +300,58 @@
         html {
             scroll-behavior: smooth;
         }
+
+        .built-by {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: white;
+            text-decoration: none;
+            font-size: 0.9rem;
+            z-index: 10;
+        }
+
+        .built-by img {
+            height: 24px;
+            width: auto;
+        }
+
+        .footer {
+            background-color: #494747;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 1.1rem;
+        }
+
+        .footer a {
+            display: inline-flex;
+            text-decoration: none;
+        }
+
+        .footer img {
+            height: 32px;
+            width: auto;
+        }
+
+        @media (max-width: 768px) {
+            .built-by {
+                position: absolute;
+            }
+        }
     </style>
 </head>
 <body>
+    <a href="https://www.letstalkaitools.com" class="built-by" target="_blank">
+        Built by <img src="/LTAIT_logo.png" alt="Let's Talk AI Tools">
+    </a>
     <div class="container">
         <div class="content">
             <img src="daily_news_icon.jpg" alt="Mzansi Lowdown Podcast" class="podcast-image">
@@ -340,6 +389,13 @@
             Loading...
         </div>
     </section>
+
+    <footer class="footer">
+        Mzansi Lowdown - an AI podcast by 
+        <a href="https://www.letstalkaitools.com" target="_blank">
+            <img src="/LTAIT_logo.png" alt="Let's Talk AI Tools">
+        </a>
+    </footer>
 
     <script>
         async function fetchEpisodes() {
