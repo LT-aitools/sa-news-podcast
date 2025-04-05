@@ -4,12 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mzansi Lowdown: South African Daily News</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="/favicon_io/site.webmanifest">
     <style>
         body {
             margin: 0;
             padding: 0;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background-color: #1a1a1a;
+            background-color: #494747;
             color: #ffffff;
             line-height: 1.6;
         }
@@ -69,12 +73,12 @@
         }
 
         .button-primary {
-            background-color: #e85d3d;
+            background-color: #e64964;
             color: white;
         }
 
         .button-primary:hover {
-            background-color: #d54d2d;
+            background-color: #d43953;
         }
 
         .button-secondary {
@@ -84,6 +88,76 @@
 
         .button-secondary:hover {
             background-color: rgba(255, 255, 255, 0.15);
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #5a5858;
+            min-width: 200px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+            margin-top: 0.5rem;
+            z-index: 1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown-item {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.75rem 1rem;
+            color: white;
+            text-decoration: none;
+            transition: background-color 0.2s ease;
+        }
+
+        .dropdown-item:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .dropdown-item:first-child {
+            border-radius: 8px 8px 0 0;
+        }
+
+        .dropdown-item:last-child {
+            border-radius: 0 0 8px 8px;
+        }
+
+        .dropdown-item img {
+            width: 24px;
+            height: 24px;
+        }
+
+        .episode-section {
+            padding: 3rem 0;
+        }
+
+        .episode-section h2 {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            color: #494747;
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .last-episode {
+            background-color: #fff3ed;
+        }
+
+        .previous-episodes {
+            background-color: #e0a486;
         }
 
         @media (max-width: 768px) {
@@ -105,6 +179,15 @@
             .buttons {
                 justify-content: center;
             }
+
+            .dropdown-content {
+                left: 50%;
+                transform: translateX(-50%);
+            }
+
+            .episode-section h2 {
+                font-size: 1.75rem;
+            }
         }
     </style>
 </head>
@@ -116,11 +199,29 @@
                 <h1>Mzansi Lowdown:<br>South African Daily News</h1>
                 <p>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects & delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail & Guardian.</p>
                 <div class="buttons">
-                    <a href="#" class="button button-primary">Subscribe</a>
+                    <div class="dropdown">
+                        <a href="#" class="button button-primary">Subscribe</a>
+                        <div class="dropdown-content">
+                            <a href="https://podcasts.apple.com/us/podcast/mzansi-lowdown-south-african-daily-news/id1806808897" class="dropdown-item" target="_blank">
+                                <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0xMiA2djEyIi8+PHBhdGggZD0iTTYgMTJoMTIiLz48L3N2Zz4=" alt="Apple Podcasts">
+                                Apple Podcasts
+                            </a>
+                            <a href="https://play.pocketcasts.com/podcasts/ba2fe990-f433-013d-99a3-0affc63511bb" class="dropdown-item" target="_blank">
+                                <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjQiLz48L3N2Zz4=" alt="Pocketcasts">
+                                Pocketcasts
+                            </a>
+                        </div>
+                    </div>
                     <a href="#" class="button button-secondary">Listen now</a>
                 </div>
             </div>
         </div>
     </div>
+    <section class="episode-section last-episode">
+        <h2>Last episode</h2>
+    </section>
+    <section class="episode-section previous-episodes">
+        <h2>Previous episodes</h2>
+    </section>
 </body>
 </html> 
