@@ -98,17 +98,28 @@
         .dropdown-content {
             display: none;
             position: absolute;
-            top: 100%;
+            top: calc(100% + 0.5rem);
             left: 0;
             background-color: #5a5858;
             min-width: 200px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
             border-radius: 8px;
-            margin-top: 0.5rem;
             z-index: 1;
         }
 
-        .dropdown:hover .dropdown-content {
+        /* Create an invisible bridge between button and dropdown */
+        .dropdown::after {
+            content: '';
+            position: absolute;
+            bottom: -0.5rem;
+            left: 0;
+            right: 0;
+            height: 0.5rem;
+        }
+
+        /* Show dropdown on hover of either button or dropdown content */
+        .dropdown:hover .dropdown-content,
+        .dropdown-content:hover {
             display: block;
         }
 
@@ -214,6 +225,16 @@
             margin: 0;
         }
 
+        .audio-container {
+            margin-top: 1rem;
+        }
+
+        .audio-player {
+            width: 100%;
+            height: 40px;
+            border-radius: 6px;
+        }
+
         .play-button {
             display: inline-flex;
             align-items: center;
@@ -224,6 +245,8 @@
             border-radius: 6px;
             text-decoration: none;
             font-weight: 600;
+            border: none;
+            cursor: pointer;
             margin-top: 1rem;
             transition: background-color 0.2s ease;
         }
@@ -273,6 +296,10 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        html {
+            scroll-behavior: smooth;
+        }
     </style>
 </head>
 <body>
@@ -296,12 +323,12 @@
                             </a>
                         </div>
                     </div>
-                    <a href="#" class="button button-secondary">Listen now</a>
+                    <a href="#latest" class="button button-secondary">Listen now</a>
                 </div>
             </div>
         </div>
     </div>
-    <section class="episode-section last-episode">
+    <section id="latest" class="episode-section last-episode">
         <h2>Last episode</h2>
         <div class="episode-card">
             <div id="latest-episode">Loading...</div>
@@ -333,12 +360,12 @@
                     document.getElementById("latest-episode").innerHTML = `
                         <h3>${title}</h3>
                         <p>${description}</p>
-                        <a href="${audioUrl}" class="play-button" target="_blank">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="white" stroke="white">
-                                <polygon points="5 3 19 12 5 21"/>
-                            </svg>
-                            Play Episode
-                        </a>
+                        <div class="audio-container">
+                            <audio class="audio-player" controls>
+                                <source src="${audioUrl}" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </div>
                     `;
                 }
 
@@ -352,16 +379,28 @@
                     previousEpisodesHtml += `
                         <div class="episode-thumbnail">
                             <h3>${title}</h3>
-                            <a href="${audioUrl}" class="play-button" target="_blank">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="white" stroke="white">
-                                    <polygon points="5 3 19 12 5 21"/>
-                                </svg>
-                                Play
-                            </a>
+                            <div class="audio-container">
+                                <audio class="audio-player" controls>
+                                    <source src="${audioUrl}" type="audio/mpeg">
+                                    Your browser does not support the audio element.
+                                </audio>
+                            </div>
                         </div>
                     `;
                 }
                 document.getElementById("previous-episodes").innerHTML = previousEpisodesHtml || 'No previous episodes found';
+
+                // Add event listeners to pause other players when one starts playing
+                const audioPlayers = document.querySelectorAll('audio');
+                audioPlayers.forEach(player => {
+                    player.addEventListener('play', () => {
+                        audioPlayers.forEach(otherPlayer => {
+                            if (otherPlayer !== player && !otherPlayer.paused) {
+                                otherPlayer.pause();
+                            }
+                        });
+                    });
+                });
             } catch (error) {
                 console.error('Error fetching episodes:', error);
                 document.getElementById("latest-episode").innerHTML = 'Error loading episodes';
