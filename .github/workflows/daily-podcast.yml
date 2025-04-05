@@ -46,7 +46,7 @@ jobs:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
         run: |
-          python scripts/podcast_creator.py
+          python podcast_creator.py
           if [ $? -ne 0 ]; then
             echo "Podcast creation failed"
             exit 1

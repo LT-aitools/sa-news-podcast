@@ -5,4 +5,5 @@ requests==2.31.0
 google-generativeai==0.3.2
 feedparser==6.0.11  # For RSS feed parsing
 beautifulsoup4==4.12.3  # For HTML parsing
-python-dateutil==2.8.2  # For date handling 
+python-dateutil==2.8.2  # For date handling
+pytz==2024.1  # For timezone handling 

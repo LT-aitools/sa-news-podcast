@@ -32,7 +32,8 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     Exclude sports news.
     Keep it between 500-800 words.
     Make it engaging and conversational, as if someone is speaking to the audience.
-    Make the introduction "Sawubona South Africa, and welcome to Mzansi Lowdown, your weekly dose of the most important news coming out of the Republic. I'm your host, Leah."
+    Make the introduction "Sawubona South Africa, and welcome to Mzansi Lowdown, your daily dose of the most important news coming out of the Republic. I'm your host, Leah."
+    Mention today's date (in South African timezone) in the intro.
     Do not include any sound effects or music besides "intro music," "outtro music," and "transition music."
     """
 
@@ -75,8 +76,14 @@ def get_latest_newsletter_content():
 def main():
     print("Starting podcast summary generation...")
     
-    # Get content from all sources
+    # First, fetch new newsletters
     print("\nFetching newsletter content...")
+    from scripts.email_newsletter_retrieval import fetch_newsletter_from_email
+    newsletters = fetch_newsletter_from_email()
+    if not newsletters:
+        print("Warning: Could not fetch new newsletters, will use existing content if available")
+    
+    # Get content from all sources
     newsletter_content = get_latest_newsletter_content()
     
     print("\nFetching RSS feeds content...")

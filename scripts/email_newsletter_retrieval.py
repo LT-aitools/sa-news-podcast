@@ -4,8 +4,29 @@ from email.header import decode_header
 from bs4 import BeautifulSoup
 import os
 from dotenv import load_dotenv
+from datetime import datetime
+import pytz
+from email.utils import parsedate_to_datetime
 
 load_dotenv()
+
+def convert_to_sast(date_str):
+    """
+    Convert email date string to SAST timezone and format nicely
+    """
+    try:
+        # Parse the email date string to datetime
+        dt = parsedate_to_datetime(date_str)
+        
+        # Convert to SAST
+        sast = pytz.timezone('Africa/Johannesburg')
+        sast_time = dt.astimezone(sast)
+        
+        # Format in a readable way with SAST explicitly mentioned
+        return sast_time.strftime('%a, %d %b %Y %H:%M (SAST)')
+    except Exception as e:
+        print(f"Error converting date: {e}")
+        return date_str
 
 def fetch_newsletter_from_email():
     """
@@ -27,7 +48,6 @@ def fetch_newsletter_from_email():
         mail.select("INBOX")
         
         # Search for emails from Daily Maverick
-        # Adjust the search criteria as needed
         status, messages = mail.search(None, '(FROM "dailymaverick.co.za")')
         
         if status != "OK" or not messages[0]:
@@ -36,6 +56,8 @@ def fetch_newsletter_from_email():
         
         # Get the last two email IDs
         email_ids = messages[0].split()[-2:]  # Get the last two emails
+        # Reverse the order so newest is first
+        email_ids.reverse()
         
         newsletters = []
         for email_id in email_ids:
@@ -55,7 +77,9 @@ def fetch_newsletter_from_email():
             if isinstance(subject, bytes):
                 subject = subject.decode(encoding if encoding else "utf-8")
             
-            print(f"Processing email: {subject}")
+            # Convert date to SAST
+            date_sast = convert_to_sast(msg["Date"])
+            print(f"Processing email: {subject} (SAST: {date_sast})")
             
             # Extract the HTML content
             newsletter_content = ""
@@ -79,7 +103,6 @@ def fetch_newsletter_from_email():
                 soup = BeautifulSoup(newsletter_content, "html.parser")
                 
                 # Extract main content (this will need adjusting based on the actual email structure)
-                # For Daily Maverick, you might need to target specific divs or tables
                 main_content = soup.find("div", {"class": "content"}) or soup.find("table", {"class": "main"})
                 
                 if main_content:
@@ -95,7 +118,7 @@ def fetch_newsletter_from_email():
                     
                     newsletters.append({
                         "subject": subject,
-                        "date": msg["Date"],
+                        "date": date_sast,  # Use SAST date
                         "content": cleaned_content
                     })
                 else:
@@ -103,7 +126,7 @@ def fetch_newsletter_from_email():
                     text_content = soup.get_text().strip()
                     newsletters.append({
                         "subject": subject,
-                        "date": msg["Date"],
+                        "date": date_sast,  # Use SAST date
                         "content": text_content
                     })
         
@@ -128,7 +151,7 @@ def get_latest_newsletter_content():
     """
     try:
         # Read the Daily Maverick newsletter content
-        with open('daily_maverick_first_thing.txt', 'r', encoding='utf-8') as f:
+        with open('outputs/daily_maverick_first_thing.txt', 'r', encoding='utf-8') as f:
             content = f.read()
         return content
     except Exception as e:
@@ -145,14 +168,14 @@ if __name__ == "__main__":
             print("\nEXCERPT:")
             print(newsletter['content'][:500] + "...")
             
-            # Combine content with clear separation
-            combined_content += f"=== {newsletter['subject']} ({newsletter['date']}) ===\n\n"
+            # Combine content with clear separation and cleaner date format
+            combined_content += f"=== {newsletter['subject']} - {newsletter['date']} ===\n\n"
             combined_content += newsletter['content'] + "\n\n"
         
         # Save to file
-        with open("daily_maverick_first_thing.txt", "w", encoding="utf-8") as f:
+        with open("outputs/daily_maverick_first_thing.txt", "w", encoding="utf-8") as f:
             f.write(combined_content)
         
-        print(f"\nFull newsletters saved to daily_maverick_first_thing.txt")
+        print(f"\nFull newsletters saved to outputs/daily_maverick_first_thing.txt")
     else:
         print("Failed to retrieve the newsletters")
