@@ -34,7 +34,7 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     Make it engaging and conversational, as if someone is speaking to the audience.
     Make the introduction "Sawubona South Africa, and welcome to Mzansi Lowdown, your daily dose of the most important news coming out of the Republic. I'm your host, Leah."
     Mention today's date (in South African timezone) in the intro.
-    Do not include any sound effects or music besides "intro music," "outtro music," and "transition music."
+    Do not include any sound effects or music besides "intro music," "outtro music," and "transition music," which should be written as **intro music**, **transition music**, or **outro music** in the transcript.
     """
 
     for attempt in range(max_retries):

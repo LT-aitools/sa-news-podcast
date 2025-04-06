@@ -24,14 +24,8 @@ def filter_sound_effects(text):
     Returns:
         str: Text with sound effects and speaker markers removed but content preserved
     """
-    # Remove **Leah:** or **(Intro music)** style markers
-    text = re.sub(r'\*\*(?:Leah:|Host:|\(.*?music\))\*\*', '', text)
-    
-    # Remove any remaining asterisks
-    text = text.replace('*', '')
-    
-    # Remove standalone music references
-    text = re.sub(r'(?i)(transition|intro|outro)\s*music', '', text)
+    # Remove Leah: markers (with or without asterisks)
+    text = re.sub(r'\*\*Leah:\*\*\s*|\bLeah:\s*', '', text)
     
     # Clean up multiple newlines and spaces
     text = re.sub(r'\n{3,}', '\n\n', text)
@@ -49,31 +43,41 @@ def extract_sections(text):
     Returns:
         list: List of tuples containing (text, music_type)
     """
-    # First, let's identify music sections
     sections = []
     current_text = []
     
     for line in text.split('\n'):
-        # Check for music markers
-        music_match = re.search(r'\*\*\((.*?)music\)\*\*', line, re.IGNORECASE)
-        if music_match:
-            # If we have accumulated text, add it first
+        # Check for exact music marker matches
+        if '**Intro music**' in line:
             if current_text:
-                sections.append(('\n'.join(current_text).strip(), None))
+                # Filter the accumulated text before adding
+                clean_text = filter_sound_effects('\n'.join(current_text))
+                if clean_text:
+                    sections.append((clean_text, None))
                 current_text = []
-            
-            # Add the music marker
-            music_type = music_match.group(1).strip().lower()
-            if music_type in ['intro', 'outro', 'transition']:
-                sections.append((None, music_type))
+            sections.append((None, 'intro'))
+        elif '**Transition music**' in line:
+            if current_text:
+                clean_text = filter_sound_effects('\n'.join(current_text))
+                if clean_text:
+                    sections.append((clean_text, None))
+                current_text = []
+            sections.append((None, 'transition'))
+        elif '**Outro music**' in line:
+            if current_text:
+                clean_text = filter_sound_effects('\n'.join(current_text))
+                if clean_text:
+                    sections.append((clean_text, None))
+                current_text = []
+            sections.append((None, 'outro'))
         else:
-            # Accumulate non-music lines
-            if line.strip():
-                current_text.append(line)
+            current_text.append(line)
     
     # Don't forget any remaining text
     if current_text:
-        sections.append(('\n'.join(current_text).strip(), None))
+        clean_text = filter_sound_effects('\n'.join(current_text))
+        if clean_text:
+            sections.append((clean_text, None))
     
     return [(text, music) for text, music in sections if text or music]
 
