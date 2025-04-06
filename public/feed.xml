@@ -6,6 +6,11 @@
     <description>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects and delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail &amp; Guardian.</description>
     <language>en</language>
     <itunes:author>Let's Talk AI Tools</itunes:author>
+    <itunes:owner>
+      <itunes:name>Let's Talk AI Tools</itunes:name>
+      <itunes:email>hello@letstalkaitools.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>hello@letstalkaitools.com (Let's Talk AI Tools)</managingEditor>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="News" />
     <itunes:image href="https://mzansi-podcast.letstalkaitools.com/daily_news_icon.jpg" />
