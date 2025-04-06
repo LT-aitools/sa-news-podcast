@@ -29,10 +29,20 @@ def is_within_24_hours(date_str):
         # Get current time in UTC
         now = datetime.now(pytz.UTC)
         
-        # Check if the article is within the last 24 hours
-        return now - dt <= timedelta(hours=24)
+        # Calculate the time difference in hours
+        time_diff_hours = (now - dt).total_seconds() / 3600
+        
+        # Debug logging
+        print(f"Article timestamp: {dt}")
+        print(f"Current timestamp: {now}")
+        print(f"Hours old: {time_diff_hours:.1f}")
+        print(f"Within 24h? {time_diff_hours <= 24}")
+        
+        # Strict 24-hour check
+        return time_diff_hours <= 24
     except Exception as e:
         print(f"Error checking date: {e}")
+        print(f"Problematic date string: {date_str}")
         return False
 
 def write_rss_content_to_file(content, filename="outputs/rss_feeds_content.txt"):
@@ -45,6 +55,9 @@ def process_feed_items(items, source_name):
     """Process RSS feed items with date filtering and SAST conversion"""
     content = []
     recent_count = 0
+    skipped_count = 0
+    
+    print(f"\nProcessing {len(items)} items from {source_name}")
     
     for i, item in enumerate(items):
         title = item.find("title").text if item.find("title") is not None else "No title"
@@ -52,18 +65,29 @@ def process_feed_items(items, source_name):
         link = item.find("link").text if item.find("link") is not None else "No link"
         description = item.find("description").text if item.find("description") is not None else "No description"
         
+        print(f"\n{'='*50}")
+        print(f"Checking article: {title}")
+        print(f"Raw date from RSS: {pub_date}")
+        
         # Skip articles older than 24 hours
-        if not pub_date or not is_within_24_hours(pub_date):
+        if not pub_date:
+            print("❌ Skipping - No publication date")
+            skipped_count += 1
+            continue
+            
+        if not is_within_24_hours(pub_date):
+            print("❌ Skipping - Article older than 24 hours")
+            skipped_count += 1
             continue
         
+        print("✅ Article is within 24 hours - including in feed")
         # Convert publication date to SAST
         sast_date = convert_to_sast(pub_date)
         recent_count += 1
         
-        # Build article content based on source and available data
+        # Build article content
         article_content = f"\nARTICLE {recent_count} ({source_name})\nTitle: {title}\n"
         
-        # Add source-specific content
         if source_name == "Google News SA":
             source = item.find("source").text if item.find("source") is not None else "Unknown source"
             article_content += f"Source: {source}\n"
@@ -71,7 +95,6 @@ def process_feed_items(items, source_name):
         if description:
             article_content += f"Description: {description}\n"
             
-        # Add Mail & Guardian specific full content if available
         if source_name == "Mail & Guardian":
             content_elem = item.find(".//content:encoded", namespaces={"content": "http://purl.org/rss/1.0/modules/content/"})
             if content_elem is not None and content_elem.text:
@@ -79,6 +102,11 @@ def process_feed_items(items, source_name):
         
         article_content += f"Published: {sast_date}\nLink: {link}\n"
         content.append(article_content)
+    
+    print(f"\nSummary for {source_name}:")
+    print(f"Total items: {len(items)}")
+    print(f"Recent items (< 24h): {recent_count}")
+    print(f"Skipped items: {skipped_count}")
     
     return content, recent_count
 

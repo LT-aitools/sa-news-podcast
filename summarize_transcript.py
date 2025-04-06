@@ -89,18 +89,34 @@ def main():
     print("\nFetching RSS feeds content...")
     rss_content = get_all_rss_content()
     
-    print("\nGenerating podcast summary...")
-    try:
-        # Generate summary using Gemini with retry logic
-        summary = create_podcast_summary(newsletter_content, rss_content)
-        
-        # Save summary to file
-        with open("outputs/latest_podcast_summary.txt", "w", encoding="utf-8") as f:
-            f.write(summary)
-        
-        print("\nPodcast summary has been generated and saved to outputs/latest_podcast_summary.txt")
-    except Exception as e:
-        print(f"\nError: Failed to generate podcast summary: {e}")
+    # Check if we have any content to work with
+    no_newsletter_content = "NO_RECENT_CONTENT" in newsletter_content if newsletter_content else True
+    no_rss_content = not rss_content or rss_content.strip() == ""
+    
+    if no_newsletter_content and no_rss_content:
+        print("\nNo recent content available - generating placeholder transcript...")
+        # Generate a "no content today" transcript
+        summary = """(intro music)
+Sawubona South Africa, and welcome to Mzansi Lowdown, your daily dose of the most important news coming out of the Republic. I'm your host, Leah.
+
+Today, due to it being Sunday or a public holiday, we don't have any breaking news to report within the last 24 hours. We'll be back with your regular news updates in our next episode.
+
+Thank you for tuning in, and we'll catch you next time with all the latest developments.
+(outro music)"""
+    else:
+        print("\nGenerating podcast summary...")
+        try:
+            # Generate summary using Gemini with retry logic
+            summary = create_podcast_summary(newsletter_content, rss_content)
+        except Exception as e:
+            print(f"\nError: Failed to generate podcast summary: {e}")
+            return
+    
+    # Save summary to file
+    with open("outputs/latest_podcast_summary.txt", "w", encoding="utf-8") as f:
+        f.write(summary)
+    
+    print("\nPodcast summary has been generated and saved to outputs/latest_podcast_summary.txt")
 
 if __name__ == "__main__":
     main()

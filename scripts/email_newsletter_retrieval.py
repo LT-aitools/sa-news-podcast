@@ -28,6 +28,31 @@ def convert_to_sast(date_str):
         print(f"Error converting date: {e}")
         return date_str
 
+def is_within_24_hours(date_str):
+    """Check if the given date is within the last 24 hours"""
+    try:
+        # Parse the date string
+        dt = parsedate_to_datetime(date_str)
+        
+        # Get current time in UTC
+        now = datetime.now(pytz.UTC)
+        
+        # Calculate the time difference in hours
+        time_diff_hours = (now - dt).total_seconds() / 3600
+        
+        # Debug logging
+        print(f"Newsletter timestamp: {dt}")
+        print(f"Current timestamp: {now}")
+        print(f"Hours old: {time_diff_hours:.1f}")
+        print(f"Within 24h? {time_diff_hours <= 24}")
+        
+        # Strict 24-hour check
+        return time_diff_hours <= 24
+    except Exception as e:
+        print(f"Error checking date: {e}")
+        print(f"Problematic date string: {date_str}")
+        return False
+
 def fetch_newsletter_from_email():
     """
     Retrieve the last two Daily Maverick First Thing or Afternoon Thing newsletters from your email
@@ -77,9 +102,14 @@ def fetch_newsletter_from_email():
             if isinstance(subject, bytes):
                 subject = subject.decode(encoding if encoding else "utf-8")
             
+            # Check if the email is within 24 hours
+            if not is_within_24_hours(msg["Date"]):
+                print(f"Skipping newsletter - older than 24 hours: {subject}")
+                continue
+                
             # Convert date to SAST
             date_sast = convert_to_sast(msg["Date"])
-            print(f"Processing email: {subject} (SAST: {date_sast})")
+            print(f"Processing newsletter: {subject} (SAST: {date_sast})")
             
             # Extract the HTML content
             newsletter_content = ""
@@ -161,21 +191,23 @@ def get_latest_newsletter_content():
 if __name__ == "__main__":
     newsletters = fetch_newsletter_from_email()
     
-    if newsletters:
-        combined_content = ""
-        for newsletter in newsletters:
-            print(f"Retrieved: {newsletter['subject']} ({newsletter['date']})")
-            print("\nEXCERPT:")
-            print(newsletter['content'][:500] + "...")
+    # Always open the file in write mode to either update with new content or clear old content
+    with open("outputs/daily_maverick_first_thing.txt", "w", encoding="utf-8") as f:
+        if newsletters:
+            combined_content = ""
+            for newsletter in newsletters:
+                print(f"Retrieved: {newsletter['subject']} ({newsletter['date']})")
+                print("\nEXCERPT:")
+                print(newsletter['content'][:500] + "...")
+                
+                # Combine content with clear separation and cleaner date format
+                combined_content += f"=== {newsletter['subject']} - {newsletter['date']} ===\n\n"
+                combined_content += newsletter['content'] + "\n\n"
             
-            # Combine content with clear separation and cleaner date format
-            combined_content += f"=== {newsletter['subject']} - {newsletter['date']} ===\n\n"
-            combined_content += newsletter['content'] + "\n\n"
-        
-        # Save to file
-        with open("outputs/daily_maverick_first_thing.txt", "w", encoding="utf-8") as f:
             f.write(combined_content)
-        
-        print(f"\nFull newsletters saved to outputs/daily_maverick_first_thing.txt")
-    else:
-        print("Failed to retrieve the newsletters")
+            print(f"\nFull newsletters saved to outputs/daily_maverick_first_thing.txt")
+        else:
+            # Write a clear message when no recent newsletters are found
+            message = "NO_RECENT_CONTENT: No newsletters found within the last 24 hours."
+            f.write(message)
+            print("\nNo recent newsletters found - cleared old content from file")

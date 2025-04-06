@@ -1,36 +1,40 @@
-**(Intro music)**
+```
+intro music
 
-**Leah:** Sawubona South Africa, and welcome to Mzansi Lowdown, your daily dose of the most important news coming out of the Republic. I'm your host, Leah. It's Saturday, the 5th of April, 2025, and we've got a lot to unpack today.
+Leah: Sawubona South Africa, and welcome to Mzansi Lowdown, your daily dose of the most important news coming out of the Republic. I'm your host, Leah. And it's Sunday, April 6th, 2025, and here's what’s making headlines today.
 
-**(Transition Music)**
+transition music
 
-**Leah:** Let's dive right into the top stories making headlines.
+Leah: Our top story today focuses on the political landscape. The Democratic Alliance, or the DA, is warning of potential losses on the Johannesburg Stock Exchange, the JSE, if the party is excluded from the Government of National Unity, or GNU. Steenhuisen, the leader of the DA, is reaffirming their commitment to the GNU, while other sources suggest negotiations are underway to keep the coalition afloat. However, the exclusion of DA is not set in stone. We will keep you updated as the situation develops.
 
-**Leah:** First up, we're looking at the impact of those new US tariffs, and the fallout is hitting us hard. The US, under the Trump administration, has slapped tariffs on a wide range of goods, and our trade with them is taking a serious hit. Remember that picture from Karen Ewen of the fruit on the bird feeder? Well, that's what you'll be looking at if our economic woes continue.
+transition music
 
-**Leah:** A big chunk of our exports to the US are automotive-related, especially from the Eastern Cape. Now, those in the plants there are facing a double whammy: a VAT increase that affects everything they buy and a market that's suddenly not so viable for their products. Minister of Trade and Industry says SA plans to cast the net wider to protect our local industries. The MK Party is also calling out the tariffs, saying it will harm white SA farmers the most. Minister Godongwana says Treasury will discuss VAT replacement with all political parties. It's a tough situation, and the government is, thankfully, focusing on diplomacy over immediate retaliation.
+Leah: Moving on, there's some troubling news coming out of KwaZulu-Natal. A close ally of former President Zuma, Roy Moodley, is facing accusations of capturing top KZN prosecutors. The details are still emerging, but the allegations suggest a potential compromise of the justice system.
 
-**(Transition Music)**
+transition music
 
-**Leah:** Next, a very serious situation. Almost a year after the tragic George building collapse that claimed 34 lives, the details are still emerging. Minister of Human Settlements, Thembi Simelane, has revealed that regulatory lapses within the National Home Builders Registration Council played a key role in allowing the contractor to cut corners. It seems failures in the council's internal processes meant proper procedures weren't followed, leading to devastating consequences. This is a stark reminder of the importance of accountability and oversight in construction, to prevent future disasters.
+Leah: Turning our attention to another critical area, there's growing concern about the South African military. News24 reports that despite billions of Rands in spending over the past 19 years, the military still lacks essential combat vehicles. This raises serious questions about resource allocation and the state of our defense capabilities.
 
-**(Transition Music)**
+transition music
 
-**Leah:** Now, let's move onto a story with a legal twist. The Joshlin Smith case continues, and there's been a significant development. The court is debating whether to seal a statement made by one of the accused, Jacquen Appollis. The statement claims Appollis and another accused, Steveno van Rhyn, left Joshlin with someone else on the day she disappeared. Judge Nathan Erasmus must now weigh the public's right to information against protecting the integrity of the investigation. This will likely have ramifications for other cases of similar nature.
+Leah: Now, let's talk about a rather unusual legal case. A man who attempted to smuggle millions out of South Africa has been ordered to pay R200,000. This case highlights the ongoing challenges in combating financial crime and protecting the country's assets.
 
-**(Transition Music)**
+transition music
 
-**Leah:** Next, we have a story about our educational system. Our Minister of Basic Education, Siviwe Gwarube, has admitted that the deadline to eradicate pit toilets at schools has been missed. This isn't a small oversight; it's a significant failure of governance. This failure is a major problem, and our government needs to take immediate actions.
+Leah: And now for our final headline. The tragic situation unfolding in a small Eastern Cape town where rape is described as "a sentence served by women" is a heartbreaking story that needs highlighting. This has made international news as a 7-year-old girl in the town was also allegedly raped. IOL are reporting that the DNA results are due to come out.
 
-**(Transition Music)**
+transition music
 
-**Leah:** In some other news...
+Leah: Switching gears now, from the hard news to some positive economic news. The Mail & Guardian are reporting on the positive outlook in real estate. Several listed property funds, or REITs, are booming, reporting strong results for the interim period ending December. Many in South Africa are confident, and they are investing in real estate. Growthpoint Properties, the largest landlord in South Africa, delivered results that were better than expected.
 
-*   **Mpox on the rise**: a new strain is spreading and more cases are being reported.
-*   **Spotify**: Spotify has announced that they paid South African artists R400-million last year.
+transition music
 
-**(Transition Music)**
+Leah: And in other news...
 
-**Leah:** That's all the time we have for today. Thank you for tuning in to Mzansi Lowdown. Remember to stay informed, stay engaged, and stay safe, South Africa.
+*   The Sunday Times has an exclusive on the alleged kidnapping kingpin, Faizel Charloos, rearrested after fleeing from court this week.
+*   The Sunday Times also writes about the tragic death of a man caused by a pothole.
+*   UKZN scientists are making progress in treating HIV, with promising trial results.
 
-**(Outro Music)**
+Leah: That's all the news we have for today. Thank you for tuning in to Mzansi Lowdown. Remember to stay informed and stay safe.
+
+outtro music

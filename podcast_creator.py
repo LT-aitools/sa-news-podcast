@@ -16,34 +16,28 @@ load_dotenv()
 def filter_sound_effects(text):
     """
     Filter out sound effect references and speaker markers from the text
+    while preserving the actual content
     
     Args:
         text (str): The input text
         
     Returns:
-        str: Text with sound effects and speaker markers removed
+        str: Text with sound effects and speaker markers removed but content preserved
     """
-    # Pattern to match sound effect references in parentheses
-    music_pattern = r'\([^)]*music[^)]*\)'
-    
-    # Pattern to match **Host:** or **Leah:** markers (including the asterisks)
-    host_pattern = r'\*\*(Host|Leah):\*\*\s*'
-    
-    # Pattern to match any standalone music references
-    standalone_music_pattern = r'(?i)(transition|intro|outro)\s*music\s*'
-    
-    # Remove all sound effect references, host markers, and standalone music references
-    filtered_text = re.sub(music_pattern, '', text)
-    filtered_text = re.sub(host_pattern, '', filtered_text)
-    filtered_text = re.sub(standalone_music_pattern, '', filtered_text)
+    # Remove **Leah:** or **(Intro music)** style markers
+    text = re.sub(r'\*\*(?:Leah:|Host:|\(.*?music\))\*\*', '', text)
     
     # Remove any remaining asterisks
-    filtered_text = filtered_text.replace('*', '')
+    text = text.replace('*', '')
     
-    # Remove any double spaces that might have been created
-    filtered_text = re.sub(r'\s+', ' ', filtered_text)
+    # Remove standalone music references
+    text = re.sub(r'(?i)(transition|intro|outro)\s*music', '', text)
     
-    return filtered_text.strip()
+    # Clean up multiple newlines and spaces
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    text = re.sub(r' {2,}', ' ', text)
+    
+    return text.strip()
 
 def extract_sections(text):
     """
@@ -55,48 +49,33 @@ def extract_sections(text):
     Returns:
         list: List of tuples containing (text, music_type)
     """
-    # Pattern to match both parenthetical and standalone music references
-    music_patterns = [
-        r'\([^)]*music[^)]*\)',  # Parenthetical music references
-        r'(?i)(transition|intro|outro)\s*music'  # Standalone music references
-    ]
+    # First, let's identify music sections
+    sections = []
+    current_text = []
     
-    # Split the text while preserving the music markers
-    parts = []
-    last_end = 0
+    for line in text.split('\n'):
+        # Check for music markers
+        music_match = re.search(r'\*\*\((.*?)music\)\*\*', line, re.IGNORECASE)
+        if music_match:
+            # If we have accumulated text, add it first
+            if current_text:
+                sections.append(('\n'.join(current_text).strip(), None))
+                current_text = []
+            
+            # Add the music marker
+            music_type = music_match.group(1).strip().lower()
+            if music_type in ['intro', 'outro', 'transition']:
+                sections.append((None, music_type))
+        else:
+            # Accumulate non-music lines
+            if line.strip():
+                current_text.append(line)
     
-    # Combine matches from both patterns
-    matches = []
-    for pattern in music_patterns:
-        matches.extend([(m.start(), m.end(), m.group(0)) for m in re.finditer(pattern, text)])
+    # Don't forget any remaining text
+    if current_text:
+        sections.append(('\n'.join(current_text).strip(), None))
     
-    # Sort matches by start position
-    matches.sort(key=lambda x: x[0])
-    
-    for start, end, music_text in matches:
-        # Add the text before the music marker
-        if start > last_end:
-            parts.append((text[last_end:start].strip(), None))
-        
-        # Add the music marker
-        music_text = music_text.lower()
-        if "intro" in music_text:
-            parts.append((None, "intro"))
-        elif "outro" in music_text:
-            parts.append((None, "outro"))
-        elif "transition" in music_text:
-            parts.append((None, "transition"))
-        
-        last_end = end
-    
-    # Add any remaining text
-    if last_end < len(text):
-        parts.append((text[last_end:].strip(), None))
-    
-    # Clean up empty sections
-    parts = [(text, music) for text, music in parts if text or music]
-    
-    return parts
+    return [(text, music) for text, music in sections if text or music]
 
 def sanitize_text(text):
     """
