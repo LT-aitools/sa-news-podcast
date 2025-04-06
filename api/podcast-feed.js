@@ -74,27 +74,30 @@ function generateEpisodeEntries() {
 
 function generatePodcastFeed(episodes) {
     const feed = `<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Mzansi Lowdown: South African Daily News</title>
     <link>${baseUrl}</link>
-    <language>en-za</language>
-    <managingEditor>hello@letstalkaitools.com (Let's Talk AI Tools)</managingEditor>
+    <description>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects and delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail &amp; Guardian.</description>
+    <language>en</language>
     <itunes:author>Let's Talk AI Tools</itunes:author>
-    <itunes:email>hello@letstalkaitools.com</itunes:email>
-    <description>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects &amp; delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail &amp; Guardian.</description>
-    <itunes:image href="${baseUrl}/daily_news_icon.jpg"/>
-    <itunes:category text="News"/>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News" />
+    <itunes:image href="${baseUrl}/daily_news_icon.jpg" />
+    <itunes:explicit>false</itunes:explicit>
     <!-- Episodes -->
     ${episodes.map(episode => `
     <item>
       <title>${episode.title}</title>
       <description>${episode.description}</description>
       <pubDate>${episode.pubDate}</pubDate>
-      <enclosure url="${baseUrl}/${episode.filename}" type="audio/mpeg" length="${episode.length}"/>
       <guid isPermaLink="false">${episode.guid}</guid>
       <itunes:duration>${episode.duration}</itunes:duration>
+      <enclosure 
+        url="${baseUrl}/${episode.filename}"
+        type="audio/mpeg"
+        length="${episode.length}"
+      />
     </item>`).join('\n    ')}
   </channel>
 </rss>`;
