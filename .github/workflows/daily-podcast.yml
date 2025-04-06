@@ -2,9 +2,10 @@ name: Daily Podcast Generation
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # Runs at 7 AM UTC daily
+    - cron: '0 7 * * *'  # Runs at 7 AM UTC daily (9 AM SAST)
   workflow_dispatch:  # Allows manual triggering
 
+# Workflow to generate daily podcast episodes and update feed
 jobs:
   generate-podcast:
     runs-on: ubuntu-latest
