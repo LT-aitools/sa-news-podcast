@@ -36,7 +36,7 @@ The podcast gets created by:
 Add all the items in your .env file to Github > Actions > Secrets, one by one.
 
 ### 6. Let it fly! 
-The Github workflows will have this run daily at 7am UTC (9am SAST), to do the following:
+The Github workflows will have this run daily at 5:30am UTC (7:30am SAST), to do the following:
    1. Set up environment
    2. Generate transcript (summarize_transcript.py)
    3. Create podcast (podcast_creator.py)

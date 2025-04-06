@@ -79,6 +79,7 @@ function generatePodcastFeed(episodes) {
     <title>Mzansi Lowdown: South African Daily News</title>
     <link>${baseUrl}</link>
     <language>en-za</language>
+    <managingEditor>hello@letstalkaitools.com (Let's Talk AI Tools)</managingEditor>
     <itunes:author>Let's Talk AI Tools</itunes:author>
     <itunes:email>hello@letstalkaitools.com</itunes:email>
     <description>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects &amp; delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail &amp; Guardian.</description>

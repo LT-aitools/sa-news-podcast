@@ -4,6 +4,7 @@
     <title>Mzansi Lowdown: South African Daily News</title>
     <link>https://mzansi-podcast.letstalkaitools.com</link>
     <language>en-za</language>
+    <managingEditor>hello@letstalkaitools.com (Let's Talk AI Tools)</managingEditor>
     <itunes:author>Let's Talk AI Tools</itunes:author>
     <itunes:email>hello@letstalkaitools.com</itunes:email>
     <description>Stay informed on South Africa's most important stories with our concise daily news podcast. In just 3-5 minutes each day, our AI podcast service collects &amp; delivers headlines and key developments from trusted local news sources, including the Daily Maverick, Sunday Times, and Mail &amp; Guardian.</description>
@@ -15,8 +16,8 @@
     <item>
       <title>SA News for 6 Apr 2025</title>
       <description>Your daily update on South African news.</description>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://mzansi-podcast.letstalkaitools.com/2025-04-06.mp3" type="audio/mpeg" length="209859"/>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0200</pubDate>
+      <enclosure url="https://mzansi-podcast.letstalkaitools.com/2025-04-06.mp3" type="audio/mpeg" length="3550606"/>
       <guid isPermaLink="false">2025-04-06</guid>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
@@ -24,7 +25,7 @@
     <item>
       <title>SA News for 5 Apr 2025</title>
       <description>Your daily update on South African news.</description>
-      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0200</pubDate>
       <enclosure url="https://mzansi-podcast.letstalkaitools.com/2025-04-05.mp3" type="audio/mpeg" length="3235883"/>
       <guid isPermaLink="false">2025-04-05</guid>
       <itunes:duration>00:05:00</itunes:duration>
@@ -33,7 +34,7 @@
     <item>
       <title>SA News for 3 Apr 2025</title>
       <description>Your daily update on South African news.</description>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0200</pubDate>
       <enclosure url="https://mzansi-podcast.letstalkaitools.com/2025-04-03.mp3" type="audio/mpeg" length="3406410"/>
       <guid isPermaLink="false">2025-04-03</guid>
       <itunes:duration>00:05:00</itunes:duration>
