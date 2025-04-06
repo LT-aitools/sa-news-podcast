@@ -6,6 +6,9 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 # Workflow to generate daily podcast episodes and update feed
+permissions:
+  contents: write
+
 jobs:
   generate-podcast:
     runs-on: ubuntu-latest
@@ -84,4 +87,5 @@ jobs:
           git add public/
           git add api/podcast-feed.js
           git commit -m "Update podcast feed and episodes [skip ci]" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git push 
