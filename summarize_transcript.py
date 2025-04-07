@@ -36,6 +36,7 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     Mention today's date (in South African timezone) in the intro.
     Write out numbers (instead of "500,000" - write "five hundred thousand" and instead of "1.25 million", write "one point two five million")
     Do not include any sound effects or music besides "intro music," "outtro music," and "transition music," which should be written as **intro music**, **transition music**, or **outro music** in the transcript.
+    Keep the end/sign-off super short.
     """
 
     for attempt in range(max_retries):

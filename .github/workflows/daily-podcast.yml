@@ -28,12 +28,10 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg build-essential ca-certificates wget
+          # Install ffmpeg
+          sudo apt-get install -y --no-install-recommends ffmpeg
 
-          # Install basic audio dependencies
-          sudo apt-get install -y libasound2
-
-          # Download and extract Azure Speech SDK Linux dependencies
+          # Download and install Azure Speech SDK Linux dependencies
           wget -q https://aka.ms/csspeech/linuxbinary -O - | tar -xz
           sudo dpkg -i SpeechSDK-Linux*/speechsdk-deps.deb
 
@@ -42,6 +40,7 @@ jobs:
 
           # Set environment variables for Speech SDK
           echo "DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1" >> $GITHUB_ENV
+          # The deps package installs libraries to /usr/local/lib
           echo "LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH" >> $GITHUB_ENV
           
       - name: Install Python dependencies

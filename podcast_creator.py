@@ -47,8 +47,9 @@ def extract_sections(text):
     current_text = []
     
     for line in text.split('\n'):
-        # Check for exact music marker matches
-        if '**Intro music**' in line:
+        # Check for music marker matches (case-insensitive)
+        line_lower = line.lower()
+        if '**intro music**' in line_lower:
             if current_text:
                 # Filter the accumulated text before adding
                 clean_text = filter_sound_effects('\n'.join(current_text))
@@ -56,14 +57,14 @@ def extract_sections(text):
                     sections.append((clean_text, None))
                 current_text = []
             sections.append((None, 'intro'))
-        elif '**Transition music**' in line:
+        elif '**transition music**' in line_lower:
             if current_text:
                 clean_text = filter_sound_effects('\n'.join(current_text))
                 if clean_text:
                     sections.append((clean_text, None))
                 current_text = []
             sections.append((None, 'transition'))
-        elif '**Outro music**' in line:
+        elif '**outro music**' in line_lower:
             if current_text:
                 clean_text = filter_sound_effects('\n'.join(current_text))
                 if clean_text:
@@ -119,7 +120,7 @@ def text_to_speech(text, output_file=None):
     """
     # Get Azure credentials from environment variables
     subscription_key = os.getenv('AZURE_SPEECH_KEY')
-    region = os.getenv('AZURE_SPEECH_REGION', 'eastus')
+    region = os.getenv('AZURE_SPEECH_REGION')
     
     if not subscription_key:
         print("Error: AZURE_SPEECH_KEY not found in environment variables")
@@ -135,84 +136,89 @@ def text_to_speech(text, output_file=None):
     
     try:
         # Configure speech synthesis
-        print("Initializing Azure Speech SDK...")
-        speech_config = speechsdk.SpeechConfig(
-            subscription=subscription_key, 
-            region=region
-        )
-        print("Speech config created successfully")
+        speech_config = speechsdk.SpeechConfig(subscription=subscription_key, region=region)
         
-        # Set the voice (using a South African English voice if available)
-        print(f"Setting voice to en-ZA-LeahNeural...")
+        # Set the voice
         speech_config.speech_synthesis_voice_name = "en-ZA-LeahNeural"
-        print("Voice set successfully")
+        
+        # Create audio output config
+        audio_config = speechsdk.audio.AudioOutputConfig(filename=output_file)
+        
+        # Create the synthesizer
+        synthesizer = speechsdk.SpeechSynthesizer(speech_config=speech_config, audio_config=audio_config)
+        
+        # Set up event handlers for synthesis
+        done = False
+        error_message = None
+
+        def handle_synthesis_completed(evt):
+            nonlocal done
+            print(f'Speech synthesis completed for {len(text)} characters of text')
+            done = True
+            
+        def handle_synthesis_canceled(evt):
+            nonlocal done, error_message
+            cancellation_details = evt.result.cancellation_details
+            error_message = f"Speech synthesis canceled: {cancellation_details.reason}"
+            if cancellation_details.reason == speechsdk.CancellationReason.Error:
+                error_message += f"\nError details: {cancellation_details.error_details}"
+            done = True
+
+        # Connect the event handlers
+        synthesizer.synthesis_completed.connect(handle_synthesis_completed)
+        synthesizer.synthesis_canceled.connect(handle_synthesis_canceled)
         
         # Sanitize the text
         sanitized_text = sanitize_text(text)
-        
-        # Log the text being processed
-        print(f"\nProcessing text chunk (first 100 chars): {sanitized_text[:100]}...")
-        
         if not sanitized_text:
             print("Error: Text is empty after sanitization")
             return None
             
-        # Set speech rate and style using SSML
+        # Create SSML with 1.2x speed
         ssml = f"""
-        <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" 
-               xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-ZA">
+        <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-ZA">
             <voice name="en-ZA-LeahNeural">
-                <mstts:express-as style="newscast" styledegree="1.0">
-                    <prosody rate="1.2">
-                        {sanitized_text}
-                    </prosody>
-                </mstts:express-as>
+                <prosody rate="1.2">
+                    {sanitized_text}
+                </prosody>
             </voice>
         </speak>
         """
         
-        print("Creating audio output config...")
-        audio_config = speechsdk.audio.AudioOutputConfig(filename=output_file)
-        print("Audio config created successfully")
+        # Start the synthesis
+        synthesizer.speak_ssml_async(ssml)
         
-        print("Creating speech synthesizer...")
-        synthesizer = speechsdk.SpeechSynthesizer(
-            speech_config=speech_config, 
-            audio_config=audio_config
-        )
-        print("Speech synthesizer created successfully")
-        
-        print("Starting speech synthesis...")
-        result = synthesizer.speak_ssml_async(ssml).get()
-        print(f"Speech synthesis completed with reason: {result.reason}")
-        
-        # Check result
-        if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
-            # Verify the output file exists and is not empty
-            if os.path.exists(output_file) and os.path.getsize(output_file) > 44:  # WAV header is 44 bytes
-                print(f"Speech synthesis successful. Audio saved to {output_file}")
-                return output_file
-            else:
-                print(f"Error: Generated audio file is empty or invalid")
-                if os.path.exists(output_file):
-                    os.remove(output_file)
-                return None
-        elif result.reason == speechsdk.ResultReason.Canceled:
-            cancellation_details = result.cancellation_details
-            print(f"Speech synthesis canceled: {cancellation_details.reason}")
-            if cancellation_details.reason == speechsdk.CancellationReason.Error:
-                print(f"Error details: {cancellation_details.error_details}")
-                print(f"Problematic text chunk: {text}")
-                print(f"Sanitized text: {sanitized_text}")
+        # Wait for the synthesis to complete
+        while not done:
+            time.sleep(0.1)
+            
+        # Check if there was an error
+        if error_message:
+            print(error_message)
             if os.path.exists(output_file):
                 os.remove(output_file)
             return None
-    
+            
+        # Verify the output file
+        if os.path.exists(output_file) and os.path.getsize(output_file) > 44:  # WAV header is 44 bytes
+            print(f"Speech synthesis successful. Audio saved to {output_file}")
+            return output_file
+        else:
+            print(f"Error: Generated audio file is empty or invalid")
+            if os.path.exists(output_file):
+                os.remove(output_file)
+            return None
+            
     except Exception as e:
         print(f"Error during text-to-speech conversion: {e}")
         if os.path.exists(output_file):
             os.remove(output_file)
         return None
+    finally:
+        # Clean up
+        if 'synthesizer' in locals():
+            synthesizer.synthesis_completed.disconnect_all()
+            synthesizer.synthesis_canceled.disconnect_all()
 
 def create_podcast_with_music(transcript_file, output_file=None):
     """
@@ -275,45 +281,41 @@ def create_podcast_with_music(transcript_file, output_file=None):
                     intro_played = True
                 
                 print(f"Converting text section of length {len(section_text)}")
-                # Convert text to speech
-                # Split text into smaller chunks to avoid TTS limits
-                chunks = re.split(r'(?<=[.!?])\s+', filter_sound_effects(section_text))
-                print(f"Split into {len(chunks)} chunks")
-                current_chunk = ""
+                
+                # Simple splitting for TTS - Azure SDK handles longer text well, 
+                # but let's keep a basic split for very long sections.
+                # Max characters per request is generous (check current Azure docs if issues persist)
+                max_chunk_len = 4500  # Adjust if needed
+                chunks = []
+                current_pos = 0
+                while current_pos < len(section_text):
+                    end_pos = min(current_pos + max_chunk_len, len(section_text))
+                    # Try to find a sentence break near the end
+                    sentence_break = section_text.rfind('.', current_pos, end_pos)
+                    if sentence_break != -1 and end_pos < len(section_text):
+                        end_pos = sentence_break + 1
+                    
+                    chunks.append(section_text[current_pos:end_pos])
+                    current_pos = end_pos
+                    
+                print(f"Split into {len(chunks)} chunks for TTS")
                 
                 for j, chunk in enumerate(chunks):
-                    if len(current_chunk) + len(chunk) < 1000:
-                        current_chunk += " " + chunk
-                    else:
-                        if current_chunk:
-                            print(f"\nProcessing chunk {j}/{len(chunks)}")
-                            audio_file = text_to_speech(current_chunk)
-                            if audio_file:
-                                try:
-                                    audio_segment = AudioSegment.from_wav(audio_file)
-                                    if len(audio_segment) > 0:  # Check if audio segment is not empty
-                                        podcast += audio_segment
-                                    else:
-                                        print("Warning: Empty audio segment generated")
-                                except Exception as e:
-                                    print(f"Error processing audio file: {e}")
-                            else:
-                                print("Warning: Failed to generate audio for chunk")
-                        current_chunk = chunk
-                
-                # Don't forget the last chunk
-                if current_chunk:
-                    print(f"\nProcessing final chunk")
-                    audio_file = text_to_speech(current_chunk)
+                    if not chunk.strip(): # Skip empty chunks
+                        continue
+                    print(f"\nProcessing chunk {j+1}/{len(chunks)}")
+                    audio_file = text_to_speech(chunk)
                     if audio_file:
                         try:
                             audio_segment = AudioSegment.from_wav(audio_file)
-                            if len(audio_segment) > 0:
+                            if len(audio_segment) > 0:  # Check if audio segment is not empty
                                 podcast += audio_segment
                             else:
-                                print("Warning: Empty audio segment generated for final chunk")
+                                print("Warning: Empty audio segment generated")
                         except Exception as e:
-                            print(f"Error processing final audio file: {e}")
+                            print(f"Error processing audio file: {e}")
+                    else:
+                        print("Warning: Failed to generate audio for chunk")
         
         # Check if we have any audio content
         if len(podcast) == 0:
