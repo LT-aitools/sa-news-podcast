@@ -20,30 +20,17 @@ jobs:
       - name: Create outputs directory
         run: mkdir -p outputs
         
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            build-essential \
+            ca-certificates
+          
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          # We no longer need ffmpeg or libasound2 since we're using Azure and native Python libraries
-          sudo apt-get install -y --no-install-recommends \
-            build-essential \
-            ca-certificates
-
-          # Download and install Azure Speech SDK Linux dependencies
-          wget -q https://aka.ms/csspeech/linuxbinary -O - | tar -xz
-          sudo dpkg -i SpeechSDK-Linux*/speechsdk-deps.deb
-
-          # Clean up downloaded files
-          rm -rf SpeechSDK-Linux*
-
-          # Set environment variables for Speech SDK
-          echo "DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1" >> $GITHUB_ENV
-          # The deps package installs libraries to /usr/local/lib
-          echo "LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH" >> $GITHUB_ENV
           
       - name: Install Python dependencies
         run: |

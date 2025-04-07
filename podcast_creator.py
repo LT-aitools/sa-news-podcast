@@ -442,32 +442,16 @@ def create_podcast_with_music(transcript_file, output_file=None):
         sections = extract_sections(text)
         print(f"Extracted {len(sections)} sections")
         
-        # Prepare paths to music files
-        intro_music_path = "public/DvirSilver_intro.mp3"
-        transition_music_path = "public/IvanLuzan_transition.mp3"
-        outro_music_path = "public/DvirSilver_intro.mp3"  # Using intro music for outro too
+        # Prepare paths to music files (using WAV versions)
+        intro_music_path = "public/DvirSilver_intro.wav"
+        transition_music_path = "public/IvanLuzan_transition.wav"
+        outro_music_path = "public/DvirSilver_intro.wav"  # Using intro music for outro too
         
         # Verify music files exist
         for music_file in [intro_music_path, transition_music_path]:
             if not os.path.exists(music_file):
                 print(f"Error: Music file {music_file} not found")
                 return False
-        
-        # Convert music files to WAV format temporarily
-        intro_music_wav = tempfile.NamedTemporaryFile(suffix='.wav', delete=False).name
-        transition_music_wav = tempfile.NamedTemporaryFile(suffix='.wav', delete=False).name
-        outro_music_wav = tempfile.NamedTemporaryFile(suffix='.wav', delete=False).name
-        
-        # Convert MP3 music files to WAV format
-        print("Converting music files to WAV format...")
-        if not mp3_to_wav_using_azure(intro_music_path, intro_music_wav):
-            print("Warning: Failed to convert intro music, using silent placeholder")
-        
-        if not mp3_to_wav_using_azure(transition_music_path, transition_music_wav):
-            print("Warning: Failed to convert transition music, using silent placeholder")
-            
-        if not mp3_to_wav_using_azure(outro_music_path, outro_music_wav):
-            print("Warning: Failed to convert outro music, using silent placeholder")
         
         # Process each section and collect WAV files
         audio_files = []
@@ -481,20 +465,20 @@ def create_podcast_with_music(transcript_file, output_file=None):
                 # Add appropriate music
                 if music_type == "intro":
                     if not intro_played:
-                        audio_files.append(intro_music_wav)
+                        audio_files.append(intro_music_path)
                         intro_played = True
                     else:
                         print("Skipping duplicate intro music")
                 elif music_type == "transition":
-                    audio_files.append(transition_music_wav)
+                    audio_files.append(transition_music_path)
                 elif music_type == "outro":
-                    audio_files.append(outro_music_wav)
+                    audio_files.append(outro_music_path)
             
             elif section_text:
                 # If this is the first section and we haven't played intro yet, play it
                 if i == 0 and not intro_played:
                     print("Adding initial intro music")
-                    audio_files.append(intro_music_wav)
+                    audio_files.append(intro_music_path)
                     intro_played = True
                 
                 print(f"Converting text section of length {len(section_text)}")
@@ -548,7 +532,10 @@ def create_podcast_with_music(transcript_file, output_file=None):
         
         # Clean up temporary files
         try:
-            for file in audio_files + [temp_wav_file, intro_music_wav, transition_music_wav, outro_music_wav]:
+            # Only clean up the temporary files we created, not the original WAV music files
+            temp_files = [f for f in audio_files if f.startswith(tempfile.gettempdir())]
+            temp_files.append(temp_wav_file)
+            for file in temp_files:
                 if os.path.exists(file):
                     os.remove(file)
         except Exception as e:
