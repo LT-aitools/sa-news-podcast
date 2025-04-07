@@ -354,20 +354,32 @@ def main():
     if not os.path.exists(transcript_file):
         print(f"Transcript file {transcript_file} not found.")
         return
+        
+    # Check if transcript is from today
+    transcript_mtime = datetime.fromtimestamp(os.path.getmtime(transcript_file))
+    current_date = datetime.now()
+    if transcript_mtime.date() != current_date.date():
+        print(f"Warning: Transcript file is from {transcript_mtime.date()}, not today ({current_date.date()})")
+        print("Please ensure the transcript is up to date before creating the podcast.")
+        return
     
     print(f"Creating podcast from transcript: {transcript_file}")
     
     # Generate dated filename
-    current_date = datetime.now().strftime('%Y-%m-%d')
+    current_date = current_date.strftime('%Y-%m-%d')
     output_file = f"public/{current_date}.mp3"
     
     # Check if today's episode already exists
     if os.path.exists(output_file):
         print(f"Warning: Episode for {current_date} already exists at {output_file}")
-        user_input = input("Do you want to overwrite it? (y/n): ")
-        if user_input.lower() != 'y':
-            print("Aborting podcast creation.")
-            return
+        # In CI environment (GitHub Actions), always overwrite
+        if os.getenv('GITHUB_ACTIONS'):
+            print("Running in GitHub Actions - automatically overwriting existing file")
+        else:
+            user_input = input("Do you want to overwrite it? (y/n): ")
+            if user_input.lower() != 'y':
+                print("Aborting podcast creation.")
+                return
     
     # Force a file system sync to ensure we're reading the latest content
     os.sync()

@@ -42,11 +42,17 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
         try:
             # Generate the summary
             response = model.generate_content(prompt)
-            return response.text
+            if response and response.text:
+                return response.text
+            else:
+                print(f"Empty response from Gemini API on attempt {attempt + 1}")
+                if attempt < max_retries - 1:
+                    time.sleep(2)
+                    continue
         except Exception as e:
+            print(f"Error on attempt {attempt + 1}: {str(e)}")
             if "ResourceExhausted" in str(e) and attempt < max_retries - 1:
-                # Get retry delay from error message if available
-                retry_seconds = 2  # Shorter wait time since Flash-Lite has higher rate limits
+                retry_seconds = 2
                 if "retry_delay" in str(e):
                     try:
                         retry_seconds = int(str(e).split("seconds:")[1].split("}")[0].strip())
@@ -55,11 +61,13 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
                 print(f"Rate limit hit. Waiting {retry_seconds} seconds before retry...")
                 time.sleep(retry_seconds)
                 continue
-            else:
-                print(f"Error generating content after {attempt + 1} attempts: {e}")
-                raise
+            elif attempt < max_retries - 1:
+                time.sleep(2)
+                continue
     
-    return "Error: Failed to generate content after multiple attempts."
+    # If we get here, all attempts failed
+    print("All attempts to use Gemini API failed. No transcript will be generated.")
+    return None
 
 def get_latest_newsletter_content():
     """
@@ -81,7 +89,20 @@ def main():
     print("\nFetching newsletter content...")
     from scripts.email_newsletter_retrieval import fetch_newsletter_from_email
     newsletters = fetch_newsletter_from_email()
-    if not newsletters:
+    
+    # Write newsletters to file if we got any
+    if newsletters:
+        with open("outputs/daily_maverick_first_thing.txt", "w", encoding="utf-8") as f:
+            combined_content = ""
+            for newsletter in newsletters:
+                print(f"Retrieved: {newsletter['subject']} ({newsletter['date']})")
+                print("\nEXCERPT:")
+                print(newsletter['content'][:200] + "...\n")
+                combined_content += f"=== {newsletter['subject']} - {newsletter['date']} ===\n\n"
+                combined_content += newsletter['content'] + "\n\n"
+            f.write(combined_content)
+            print("\nFull newsletters saved to outputs/daily_maverick_first_thing.txt")
+    else:
         print("Warning: Could not fetch new newsletters, will use existing content if available")
     
     # Get content from all sources
@@ -95,15 +116,8 @@ def main():
     no_rss_content = not rss_content or rss_content.strip() == ""
     
     if no_newsletter_content and no_rss_content:
-        print("\nNo recent content available - generating placeholder transcript...")
-        # Generate a "no content today" transcript
-        summary = """(intro music)
-Sawubona South Africa, and welcome to Mzansi Lowdown, your daily dose of the most important news coming out of the Republic. I'm your host, Leah.
-
-Today, due to it being Sunday or a public holiday, we don't have any breaking news to report within the last 24 hours. We'll be back with your regular news updates in our next episode.
-
-Thank you for tuning in, and we'll catch you next time with all the latest developments.
-(outro music)"""
+        print("\nNo recent content available - no transcript will be generated.")
+        summary = None
     else:
         print("\nGenerating podcast summary...")
         try:
@@ -111,13 +125,19 @@ Thank you for tuning in, and we'll catch you next time with all the latest devel
             summary = create_podcast_summary(newsletter_content, rss_content)
         except Exception as e:
             print(f"\nError: Failed to generate podcast summary: {e}")
-            return
+            summary = None
     
     # Save summary to file
     with open("outputs/latest_podcast_summary.txt", "w", encoding="utf-8") as f:
-        f.write(summary)
+        if summary is None:
+            f.write("NO_TRANSCRIPT_GENERATED")
+        else:
+            f.write(summary)
     
-    print("\nPodcast summary has been generated and saved to outputs/latest_podcast_summary.txt")
+    if summary is None:
+        print("\nNo podcast summary was generated. The podcast creator will skip this episode.")
+    else:
+        print("\nPodcast summary has been generated and saved to outputs/latest_podcast_summary.txt")
 
 if __name__ == "__main__":
     main()

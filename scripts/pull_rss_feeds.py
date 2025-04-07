@@ -229,32 +229,29 @@ def test_mailguardian_rss():
         return None
 
 def get_all_rss_content():
-    """Get content from all RSS feeds and combine them"""
+    """Get content from all RSS feeds and write to file"""
     all_content = []
     
     # Get content from each feed
     google_content = test_google_news_sa()
     if google_content:
-        all_content.append("\nGOOGLE NEWS SA FEED\n" + "="*50 + "\n" + google_content)
+        all_content.append(google_content)
     
-    sundaytimes_content = test_sundaytimes_rss()
-    if sundaytimes_content:
-        all_content.append("\nSUNDAY TIMES FEED\n" + "="*50 + "\n" + sundaytimes_content)
+    sunday_times_content = test_sundaytimes_rss()
+    if sunday_times_content:
+        all_content.append(sunday_times_content)
     
     daily_maverick_content = test_daily_maverick_rss()
     if daily_maverick_content:
-        all_content.append("\nDAILY MAVERICK FEED\n" + "="*50 + "\n" + daily_maverick_content)
-    
-    mailguardian_content = test_mailguardian_rss()
-    if mailguardian_content:
-        all_content.append("\nMAIL & GUARDIAN FEED\n" + "="*50 + "\n" + mailguardian_content)
+        all_content.append(daily_maverick_content)
     
     # Combine all content
-    combined_content = "\n\n".join(all_content)
+    combined_content = "\n\n".join(all_content) if all_content else ""
     
     # Write to file
-    filename = write_rss_content_to_file(combined_content)
-    print(f"\nAll RSS feed content has been written to {filename}")
+    if combined_content:
+        write_rss_content_to_file(combined_content)
+        print("\nAll RSS feed content has been written to outputs/rss_feeds_content.txt")
     
     return combined_content
 
