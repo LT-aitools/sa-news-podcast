@@ -133,13 +133,17 @@ def text_to_speech(text, output_file=None):
     
     try:
         # Configure speech synthesis
+        print("Initializing Azure Speech SDK...")
         speech_config = speechsdk.SpeechConfig(
             subscription=subscription_key, 
             region=region
         )
+        print("Speech config created successfully")
         
         # Set the voice (using a South African English voice if available)
+        print(f"Setting voice to en-ZA-LeahNeural...")
         speech_config.speech_synthesis_voice_name = "en-ZA-LeahNeural"
+        print("Voice set successfully")
         
         # Sanitize the text
         sanitized_text = sanitize_text(text)
