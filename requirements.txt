@@ -1,4 +1,5 @@
-azure-cognitiveservices-speech==1.34.0
+# Azure TTS REST API is used instead of SDK
+# azure-cognitiveservices-speech==1.34.0  
 python-dotenv==1.0.1
 # pydub removed - no longer used
 requests==2.31.0

@@ -1,6 +1,5 @@
 import os
 import time
-import azure.cognitiveservices.speech as speechsdk
 from dotenv import load_dotenv
 import re
 import tempfile
@@ -118,9 +117,9 @@ def extract_sections(text):
     
     return [(text, music) for text, music in sections if text or music]
 
-def text_to_speech(text, output_file=None):
+def text_to_speech_rest(text, output_file=None):
     """
-    Convert text to speech using Microsoft Azure Text-to-Speech
+    Convert text to speech using Microsoft Azure Text-to-Speech REST API
     
     Args:
         text (str): The text to convert to speech
@@ -146,78 +145,46 @@ def text_to_speech(text, output_file=None):
         temp_file.close()
     
     try:
-        # Configure speech synthesis
-        speech_config = speechsdk.SpeechConfig(subscription=subscription_key, region=region)
+        # Get access token
+        token_url = f"https://{region}.api.cognitive.microsoft.com/sts/v1.0/issueToken"
+        headers = {
+            'Ocp-Apim-Subscription-Key': subscription_key
+        }
+        response = requests.post(token_url, headers=headers)
+        access_token = str(response.text)
         
-        # Set the voice
-        speech_config.speech_synthesis_voice_name = "en-ZA-LeahNeural"
+        # Prepare synthesis request
+        url = f"https://{region}.tts.speech.microsoft.com/cognitiveservices/v1"
+        headers = {
+            'Authorization': f'Bearer {access_token}',
+            'Content-Type': 'application/ssml+xml',
+            'X-Microsoft-OutputFormat': 'riff-24khz-16bit-mono-pcm',  # WAV format
+            'User-Agent': 'SA News Podcast'
+        }
         
-        # Create audio output config
-        audio_config = speechsdk.audio.AudioOutputConfig(filename=output_file)
-        
-        # Create the synthesizer
-        synthesizer = speechsdk.SpeechSynthesizer(speech_config=speech_config, audio_config=audio_config)
-        
-        # Set up event handlers for synthesis
-        done = False
-        error_message = None
-
-        def handle_synthesis_completed(evt):
-            nonlocal done
-            print(f'Speech synthesis completed for {len(text)} characters of text')
-            done = True
-            
-        def handle_synthesis_canceled(evt):
-            nonlocal done, error_message
-            cancellation_details = evt.result.cancellation_details
-            error_message = f"Speech synthesis canceled: {cancellation_details.reason}"
-            if cancellation_details.reason == speechsdk.CancellationReason.Error:
-                error_message += f"\nError details: {cancellation_details.error_details}"
-            done = True
-
-        # Connect the event handlers
-        synthesizer.synthesis_completed.connect(handle_synthesis_completed)
-        synthesizer.synthesis_canceled.connect(handle_synthesis_canceled)
-        
-        # Sanitize the text
-        sanitized_text = sanitize_text(text)
-        if not sanitized_text:
-            print("Error: Text is empty after sanitization")
-            return None
-            
         # Create SSML with 1.2x speed
         ssml = f"""
         <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-ZA">
             <voice name="en-ZA-LeahNeural">
                 <prosody rate="1.2">
-                    {sanitized_text}
+                    {text}
                 </prosody>
             </voice>
         </speak>
         """
         
-        # Start the synthesis
-        synthesizer.speak_ssml_async(ssml)
+        # Make synthesis request
+        response = requests.post(url, headers=headers, data=ssml.encode('utf-8'))
         
-        # Wait for the synthesis to complete
-        while not done:
-            time.sleep(0.1)
-            
-        # Check if there was an error
-        if error_message:
-            print(error_message)
-            if os.path.exists(output_file):
-                os.remove(output_file)
-            return None
-            
-        # Verify the output file
-        if os.path.exists(output_file) and os.path.getsize(output_file) > 44:  # WAV header is 44 bytes
+        if response.status_code == 200:
+            # Save the audio
+            with open(output_file, 'wb') as f:
+                f.write(response.content)
             print(f"Speech synthesis successful. Audio saved to {output_file}")
             return output_file
         else:
-            print(f"Error: Generated audio file is empty or invalid")
-            if os.path.exists(output_file):
-                os.remove(output_file)
+            print(f"Error: Speech synthesis failed with status code {response.status_code}")
+            print(f"Response: {response.text}")
             return None
             
     except Exception as e:
@@ -225,11 +192,44 @@ def text_to_speech(text, output_file=None):
         if os.path.exists(output_file):
             os.remove(output_file)
         return None
-    finally:
-        # Clean up
-        if 'synthesizer' in locals():
-            synthesizer.synthesis_completed.disconnect_all()
-            synthesizer.synthesis_canceled.disconnect_all()
+
+def convert_audio_ffmpeg(input_file, output_file, input_format='wav', output_format='mp3'):
+    """
+    Convert audio using ffmpeg
+    
+    Args:
+        input_file (str): Path to input audio file
+        output_file (str): Path to save the output audio file
+        input_format (str): Format of input file ('wav' or 'mp3')
+        output_format (str): Desired output format ('wav' or 'mp3')
+    
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    try:
+        print(f"Converting {input_file} to {output_format}")
+        
+        # Use ffmpeg to convert the file
+        # -y: Overwrite output file if it exists
+        # -i: Input file
+        # -acodec: Audio codec (libmp3lame for MP3)
+        # -ab: Audio bitrate (192k for good quality)
+        # -ar: Audio sample rate (44100 Hz is standard)
+        command = f'ffmpeg -y -i "{input_file}" -acodec libmp3lame -ab 192k -ar 44100 "{output_file}"'
+        
+        # Run the command
+        result = os.system(command)
+        
+        if result == 0:
+            print(f"Audio conversion successful. Saved to {output_file}")
+            return True
+        else:
+            print(f"Error: ffmpeg conversion failed with exit code {result}")
+            return False
+            
+    except Exception as e:
+        print(f"Error converting audio: {e}")
+        return False
 
 def download_audio_data(url):
     """Download audio file and return the data as bytes"""
@@ -239,6 +239,43 @@ def download_audio_data(url):
         return io.BytesIO(response.content)
     except Exception as e:
         print(f"Error downloading audio: {e}")
+        return None
+
+def normalize_wav_file(input_file, output_file=None):
+    """
+    Normalize WAV file to standard parameters (44.1kHz, stereo)
+    using ffmpeg
+    
+    Args:
+        input_file (str): Path to input WAV file
+        output_file (str): Path to save normalized WAV file. If None, creates temp file
+        
+    Returns:
+        str: Path to normalized WAV file, or None if failed
+    """
+    try:
+        if output_file is None:
+            temp = tempfile.NamedTemporaryFile(suffix='.wav', delete=False)
+            output_file = temp.name
+            temp.close()
+            
+        # Convert to standard format (44.1kHz stereo)
+        command = f'ffmpeg -y -i "{input_file}" -acodec pcm_s16le -ac 2 -ar 44100 "{output_file}"'
+        result = os.system(command)
+        
+        if result == 0:
+            print(f"Normalized audio file: {output_file}")
+            return output_file
+        else:
+            print(f"Error: Failed to normalize audio file")
+            if os.path.exists(output_file):
+                os.remove(output_file)
+            return None
+            
+    except Exception as e:
+        print(f"Error normalizing audio: {e}")
+        if output_file and os.path.exists(output_file):
+            os.remove(output_file)
         return None
 
 def concatenate_wav_files(file_list, output_file):
@@ -255,165 +292,53 @@ def concatenate_wav_files(file_list, output_file):
     try:
         print(f"Concatenating {len(file_list)} WAV files to {output_file}")
         
-        # Get parameters from first file
-        with wave.open(file_list[0], 'rb') as first_wav:
-            params = first_wav.getparams()
+        # Create a temporary directory for normalized files
+        temp_dir = tempfile.mkdtemp()
+        normalized_files = []
         
-        # Open output file
-        with wave.open(output_file, 'wb') as output:
-            output.setparams(params)
-            
-            # Write each file's data to the output
-            for wav_file in file_list:
-                with wave.open(wav_file, 'rb') as wav:
-                    # Verify parameters match
-                    if wav.getparams() != params:
-                        print(f"Warning: parameters for {wav_file} don't match first file")
-                    
-                    # Write all frames
-                    output.writeframes(wav.readframes(wav.getnframes()))
+        # Normalize each file to standard format
+        for i, wav_file in enumerate(file_list):
+            print(f"Normalizing file {i+1}/{len(file_list)}: {wav_file}")
+            normalized_file = os.path.join(temp_dir, f"normalized_{i}.wav")
+            result = normalize_wav_file(wav_file, normalized_file)
+            if result:
+                normalized_files.append(normalized_file)
+            else:
+                print(f"Error: Failed to normalize {wav_file}")
+                # Clean up
+                for f in normalized_files:
+                    if os.path.exists(f):
+                        os.remove(f)
+                os.rmdir(temp_dir)
+                return False
         
-        print(f"Successfully created concatenated WAV file: {output_file}")
-        return True
-    except Exception as e:
-        print(f"Error concatenating WAV files: {e}")
-        return False
-
-def convert_wav_to_mp3(wav_file, mp3_file):
-    """
-    Convert a WAV file to MP3 using Azure Speech SDK
-    
-    Args:
-        wav_file (str): Path to the WAV file
-        mp3_file (str): Path to save the MP3 file
-    
-    Returns:
-        bool: True if successful, False otherwise
-    """
-    try:
-        print(f"Converting {wav_file} to MP3 format: {mp3_file}")
+        # Create a file list for ffmpeg
+        list_file = os.path.join(temp_dir, "files.txt")
+        with open(list_file, 'w') as f:
+            for file in normalized_files:
+                f.write(f"file '{file}'\n")
         
-        # Get Azure credentials
-        subscription_key = os.getenv('AZURE_SPEECH_KEY')
-        region = os.getenv('AZURE_SPEECH_REGION')
+        # Use ffmpeg to concatenate all files
+        command = f'ffmpeg -y -f concat -safe 0 -i "{list_file}" -c copy "{output_file}"'
+        result = os.system(command)
         
-        if not subscription_key:
-            print("Error: AZURE_SPEECH_KEY not found in environment variables")
-            return False
+        # Clean up temporary files
+        for f in normalized_files:
+            if os.path.exists(f):
+                os.remove(f)
+        if os.path.exists(list_file):
+            os.remove(list_file)
+        os.rmdir(temp_dir)
         
-        # Configure speech synthesis for audio conversion
-        speech_config = speechsdk.SpeechConfig(subscription=subscription_key, region=region)
-        
-        # Create audio input config from WAV file
-        audio_input = speechsdk.audio.AudioConfig(filename=wav_file)
-        
-        # Create audio output config for MP3
-        audio_output_config = speechsdk.audio.AudioOutputConfig(filename=mp3_file)
-        
-        # Create the audio converter
-        synthesizer = speechsdk.SpeechSynthesizer(
-            speech_config=speech_config, 
-            audio_config=audio_output_config
-        )
-        
-        # Set up event handlers
-        done = False
-        error_message = None
-        
-        def handle_completed(evt):
-            nonlocal done
-            print("Audio conversion completed")
-            done = True
-        
-        def handle_canceled(evt):
-            nonlocal done, error_message
-            cancellation_details = evt.result.cancellation_details
-            error_message = f"Audio conversion canceled: {cancellation_details.reason}"
-            if cancellation_details.reason == speechsdk.CancellationReason.Error:
-                error_message += f"\nError details: {cancellation_details.error_details}"
-            done = True
-        
-        # Connect the event handlers
-        synthesizer.synthesis_completed.connect(handle_completed)
-        synthesizer.synthesis_canceled.connect(handle_canceled)
-        
-        # Convert WAV to MP3
-        # This uses a special audio format setting
-        synthesizer.start_speaking_text_async("").get()
-        
-        # Wait for conversion to complete
-        while not done:
-            time.sleep(0.1)
-        
-        # Check if there was an error
-        if error_message:
-            print(error_message)
-            return False
-        
-        # Verify the output file
-        if os.path.exists(mp3_file) and os.path.getsize(mp3_file) > 0:
-            print(f"Audio conversion successful. MP3 saved to {mp3_file}")
+        if result == 0:
+            print(f"Successfully created concatenated WAV file: {output_file}")
             return True
         else:
-            print(f"Error: Generated MP3 file is empty or invalid")
+            print(f"Error: Failed to concatenate WAV files")
             return False
-        
-    except Exception as e:
-        print(f"Error converting WAV to MP3: {e}")
-        return False
-
-def mp3_to_wav_using_azure(mp3_file, wav_file):
-    """
-    Convert an MP3 file to WAV format using Azure Cognitive Services
-    
-    Args:
-        mp3_file (str): Path to the MP3 file
-        wav_file (str): Path to save the WAV file
-    
-    Returns:
-        bool: True if successful, False otherwise
-    """
-    try:
-        print(f"Converting MP3 to WAV: {mp3_file} -> {wav_file}")
-        
-        # Get Azure credentials from environment variables
-        subscription_key = os.getenv('AZURE_SPEECH_KEY')
-        region = os.getenv('AZURE_SPEECH_REGION')
-        
-        if not subscription_key:
-            print("Error: AZURE_SPEECH_KEY not found in environment variables")
-            return False
-        
-        # Since Azure doesn't directly support MP3 to WAV conversion through its SDK,
-        # we'll use a workaround: create a custom Neural Voice endpoint with the MP3
-        # as the audio source, and let Azure handle the conversion.
-        
-        # This requires an Azure API call to create a custom endpoint 
-        # with the MP3 file as the source audio.
-        # For now, let's use a placeholder implementation that creates
-        # a silent WAV file with the right parameters
-        
-        # Create a short silence WAV file as a fallback
-        print(f"Creating placeholder WAV file for {mp3_file}")
-        
-        # Open the WAV file for writing
-        with wave.open(wav_file, 'wb') as wav:
-            # Set parameters for a standard WAV file (44.1kHz, 16-bit, stereo)
-            wav.setnchannels(2)        # Stereo
-            wav.setsampwidth(2)        # 16-bit
-            wav.setframerate(44100)    # 44.1kHz
             
-            # Create 3 seconds of silence (all zeros)
-            # 44100 frames/sec * 2 bytes/frame * 2 channels * 3 seconds
-            silence_duration = 3  # seconds
-            num_frames = int(44100 * silence_duration)
-            wav.writeframes(b'\x00' * (num_frames * 2 * 2))
-        
-        print(f"Created placeholder WAV file: {wav_file}")
-        return True
-        
     except Exception as e:
-        print(f"Error converting MP3 to WAV: {e}")
+        print(f"Error concatenating WAV files: {e}")
         return False
 
 def create_podcast_with_music(transcript_file, output_file=None):
@@ -483,9 +408,7 @@ def create_podcast_with_music(transcript_file, output_file=None):
                 
                 print(f"Converting text section of length {len(section_text)}")
                 
-                # Simple splitting for TTS - Azure SDK handles longer text well, 
-                # but let's keep a basic split for very long sections.
-                # Max characters per request is generous (check current Azure docs if issues persist)
+                # Simple splitting for TTS - keep chunks manageable
                 max_chunk_len = 4500  # Adjust if needed
                 chunks = []
                 current_pos = 0
@@ -505,7 +428,7 @@ def create_podcast_with_music(transcript_file, output_file=None):
                     if not chunk.strip(): # Skip empty chunks
                         continue
                     print(f"\nProcessing chunk {j+1}/{len(chunks)}")
-                    audio_file = text_to_speech(chunk)
+                    audio_file = text_to_speech_rest(sanitize_text(chunk))
                     if audio_file:
                         audio_files.append(audio_file)
                     else:
@@ -522,9 +445,9 @@ def create_podcast_with_music(transcript_file, output_file=None):
             print("Error: Failed to concatenate audio files")
             return False
         
-        # Convert the final WAV file to MP3
+        # Convert the final WAV file to MP3 using ffmpeg
         print(f"\nConverting final WAV file to MP3: {output_file}")
-        if not convert_wav_to_mp3(temp_wav_file, output_file):
+        if not convert_audio_ffmpeg(temp_wav_file, output_file, 'wav', 'mp3'):
             print("Error: Failed to convert to MP3")
             return False
         
