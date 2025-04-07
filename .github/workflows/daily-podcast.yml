@@ -28,18 +28,21 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg build-essential libssl-dev ca-certificates wget
-          sudo apt-get install -y libasound2-dev
-          
-          # Add Microsoft repository
-          curl -sL https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/microsoft.gpg > /dev/null
-          sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/microsoft-ubuntu-$(lsb_release -cs)-prod $(lsb_release -cs) main" > /etc/apt/sources.list.d/microsoft.list'
-          
-          # Update and install Azure Speech SDK dependencies
-          sudo apt-get update
-          sudo apt-get install -y libssl3 libgstreamer1.0-0 libgstreamer-plugins-base1.0-0 \
-              libgstreamer-plugins-bad1.0-0 gstreamer1.0-plugins-base gstreamer1.0-plugins-good \
-              gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+          sudo apt-get install -y ffmpeg build-essential ca-certificates wget
+
+          # Install basic audio dependencies
+          sudo apt-get install -y libasound2
+
+          # Download and extract Azure Speech SDK Linux dependencies
+          wget -q https://aka.ms/csspeech/linuxbinary -O - | tar -xz
+          sudo dpkg -i SpeechSDK-Linux*/speechsdk-deps.deb
+
+          # Clean up downloaded files
+          rm -rf SpeechSDK-Linux*
+
+          # Set environment variables for Speech SDK
+          echo "DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1" >> $GITHUB_ENV
+          echo "LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH" >> $GITHUB_ENV
           
       - name: Install Python dependencies
         run: |

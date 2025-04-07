@@ -363,6 +363,13 @@ def main():
         print("Please ensure the transcript is up to date before creating the podcast.")
         return
     
+    # Check if no transcript was generated
+    with open(transcript_file, 'r', encoding='utf-8') as f:
+        transcript_content = f.read()
+        if transcript_content.strip() == "NO_TRANSCRIPT_GENERATED":
+            print("No transcript was generated for today. Skipping podcast creation.")
+            return
+    
     print(f"Creating podcast from transcript: {transcript_file}")
     
     # Generate dated filename
