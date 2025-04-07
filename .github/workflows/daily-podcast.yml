@@ -28,8 +28,10 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          # Install ffmpeg
-          sudo apt-get install -y --no-install-recommends ffmpeg
+          # We no longer need ffmpeg or libasound2 since we're using Azure and native Python libraries
+          sudo apt-get install -y --no-install-recommends \
+            build-essential \
+            ca-certificates
 
           # Download and install Azure Speech SDK Linux dependencies
           wget -q https://aka.ms/csspeech/linuxbinary -O - | tar -xz
