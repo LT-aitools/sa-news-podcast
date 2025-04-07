@@ -125,6 +125,8 @@ def text_to_speech(text, output_file=None):
         print("Error: AZURE_SPEECH_KEY not found in environment variables")
         return None
     
+    print(f"Using Azure Speech region: {region}")
+    
     # If no output file specified, create a temporary one
     if output_file is None:
         temp_file = tempfile.NamedTemporaryFile(suffix='.wav', delete=False)
@@ -151,6 +153,10 @@ def text_to_speech(text, output_file=None):
         # Log the text being processed
         print(f"\nProcessing text chunk (first 100 chars): {sanitized_text[:100]}...")
         
+        if not sanitized_text:
+            print("Error: Text is empty after sanitization")
+            return None
+            
         # Set speech rate and style using SSML
         ssml = f"""
         <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" 
@@ -165,17 +171,20 @@ def text_to_speech(text, output_file=None):
         </speak>
         """
         
-        # Create audio output config
+        print("Creating audio output config...")
         audio_config = speechsdk.audio.AudioOutputConfig(filename=output_file)
+        print("Audio config created successfully")
         
-        # Create speech synthesizer
+        print("Creating speech synthesizer...")
         synthesizer = speechsdk.SpeechSynthesizer(
             speech_config=speech_config, 
             audio_config=audio_config
         )
+        print("Speech synthesizer created successfully")
         
-        # Synthesize speech using SSML
+        print("Starting speech synthesis...")
         result = synthesizer.speak_ssml_async(ssml).get()
+        print(f"Speech synthesis completed with reason: {result.reason}")
         
         # Check result
         if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:

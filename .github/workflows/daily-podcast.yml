@@ -17,6 +17,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         
+      - name: Create outputs directory
+        run: mkdir -p outputs
+        
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -25,7 +28,8 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg build-essential libssl-dev ca-certificates libasound2 wget
+          sudo apt-get install -y ffmpeg build-essential libssl-dev ca-certificates wget
+          sudo apt-get install -y libasound2-dev
           
           # Install Azure Speech SDK dependencies
           wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
@@ -91,7 +95,8 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           git add public/
+          git add outputs/
           git add api/podcast-feed.js
-          git commit -m "Update podcast feed and episodes [skip ci]" || echo "No changes to commit"
+          git commit -m "Update podcast feed, episodes, and transcripts [skip ci]" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git push 
