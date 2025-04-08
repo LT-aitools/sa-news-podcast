@@ -18,7 +18,7 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     model = genai.GenerativeModel('gemini-2.0-flash-lite')
     
     # Create the prompt
-    prompt = f"""Create a 3-5 minute (500-800 words) daily news podcast transcript summarizing the latest South African news for the day. 
+    prompt = f"""Create a 3-5 minute (500-1000 words) daily news podcast transcript summarizing the biggest South African news for the day. 
     Focus on 3-5 key stories, excluding sports. Use the following sources:
 
     EMAIL NEWSLETTER CONTENT:
@@ -28,13 +28,13 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     {rss_content}
 
     Format the output as a natural podcast transcript for an AI named Leah to read.
-    Focus on South African news only. Remove any international or US news.
+    Focus on South African news only. Don't include any purely international news unless they directly involve South Africa.
     Exclude sports news.
-    Keep it between 500-800 words.
-    Make it engaging and conversational, as if someone is speaking to the audience.
+    Keep it between 500-1000 words.
+    Make it straight to the point and news-focused, with minimal preamble to each story.
     Make the introduction "Sawubona South Africa, and welcome to Mzansi Lowdown, your daily dose of news coming out of the Republic. I'm your A.I. host, Leah."
     Mention today's date (in South African timezone) in the intro.
-    Write out numbers (instead of "500,000" - write "five hundred thousand" and instead of "1.25 million", write "one point two five million")
+    Write out numbers and value amounts (instead of "R500,000" - write "five hundred thousand rand" and instead of "1.25 million", write "one point two five million")
     Do not include any sound effects or music besides "intro music," "outtro music," and "transition music," which should be written as **intro music**, **transition music**, or **outro music** in the transcript.
     Keep the end/sign-off super short.
     """
