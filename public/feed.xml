@@ -18,6 +18,19 @@
     <!-- Episodes -->
     
     <item>
+      <title>SA News for 25 Apr 2025</title>
+      <description>Your daily update on South African news.</description>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2025-04-25</guid>
+      <itunes:duration>00:05:00</itunes:duration>
+      <enclosure 
+        url="https://mzansi-podcast.letstalkaitools.com/2025-04-25.mp3"
+        type="audio/mpeg"
+        length="3409337"
+      />
+    </item>
+    
+    <item>
       <title>SA News for 24 Apr 2025</title>
       <description>Your daily update on South African news.</description>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
