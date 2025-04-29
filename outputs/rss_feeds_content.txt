@@ -1,212 +1,465 @@
 
 ARTICLE 1 (Google News SA)
-Title: Court halts VAT hike, orders Godongwana to pay DA, EFF legal costs - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXQ0VUg3cllxbkdpM2Z2MGcxVTk2MjQteWhSeXpWWGlwUUZzTkFOTWFjc1p2WE8zbF9Uc2YwY3NfcjNhMzE4RzJpQzh3RzRYLTF2R2ZZdjdmYlcwckNRem9VMFhncTl5ZzhwOVhiYXB5RnZWVEo3cXI4clZIc21LSGctemxNM0RhVS1lUVdYUTJWeHRiX3hNWHRBaGRTQjdpWEFFN1cwZDRreDd3ZWVHbHNCSS1jdFJSNU1oMQ?oc=5" target="_blank">Court halts VAT hike, orders Godongwana to pay DA, EFF legal costs</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjdmRDVXXzNSaVJkeVpraGJveU45MUR5anpZTEtRbXJXbVJFTHRsSkJnUHBaUGs4akdwcVV3ekpRbjhfVDlJOWNBU0pLQUl6NkRiM2p0VzFhbFppcmZnWGdMUjctXzYtYnhWa0dtcnpnZ01kWVd4WVJCOG1QcVNJQU5ZUTZVbmdvNHIzeG5nOE9WZ3NsSF9Hb2pzMWFFX2xGRE5jS3lLbk5WM1J6ZDVNYQ?oc=5" target="_blank">Freedom Day 2025 – official freedom from pending VAT increase</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzV2aWJJdEh6RU1zdDlLSkRyQTRmN3dmanFEQ1dSTm5ZUjMxZXBBaHRKNzhxUE8yam1WcE9HbFRmc04tbC01bWtNQTFRMld4RnFfWnhkQnlyUWFFM0l4ZU93NUZSZ3RFbVBONE1STXRzb21OWmZ5dk1QZ1hQLTgtcFJYckt1X2pBWVNvczZlcXJlQ3hvQmfSAZsBQVVfeXFMTzhpSnQzRjNCYmxzV3QwRUZVQUhwcDhoQk9CN0lHTVBYMGtSbTBTZXJxZERHUk1lR3Yyel9raVlCY0IzQ2dVNE1RYzNnUlJuSlI1QkdGeTFheVdfcUtYSDF1clU1MlduY0tTYkwtMzZKaXlqTGJzZ1hYYTJNNjFxSjVxRDQ1ZDhmaUFjZE4xS0F4UXNoUF9nRkJRRDg?oc=5" target="_blank">VAT increase suspended by high court</a>&nbsp;&nbsp;<font color="#6f6f6f">BusinessLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3FrM3hfNTZkRWlkd3QyOVd0c0Qzdm9fX0tlLXRBUW05aUFxSHByeFlNb0d3ZzZod0pxRG5jejVCYTZWTUxXbmpjU01fVjZXSTIxeWdjOURYQXJsNW51MXNJbzllOHFJZ0dCb0ROS3dEaTVMRHFWSFRBZWFxN3lPc0VrSXY?oc=5" target="_blank">Maimane slams DA for continuing VAT hike legal challenge</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPMU1BLUpXcDdoeWEtUTdGc1RzZk5mTTRReEYxR3N1Y1JxQjhMOHBNaUdfRnV1TkxEY2c5NjJEUEFYbWNHU2haZE9RZHhSR1JUbkRSMnF0YV80SGx5TFczaV85Q3JmNXVzWUtuVExtLUhSLTNIbUhaSmFvOXQ2a2lCQ090aU1Ya09HZDA3RGF3N2hiTkVQTTVMb0o1UFMybElFSEk1dkRORGdiUndJd1pGWkFDWk14dGllcGFFeg?oc=5" target="_blank">Parliament files affidavit to WC High Court contending Godongwana's powers regarding VAT</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li></ol>
-Published: Mon, 28 Apr 2025 06:41 (SAST)
-Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXQ0VUg3cllxbkdpM2Z2MGcxVTk2MjQteWhSeXpWWGlwUUZzTkFOTWFjc1p2WE8zbF9Uc2YwY3NfcjNhMzE4RzJpQzh3RzRYLTF2R2ZZdjdmYlcwckNRem9VMFhncTl5ZzhwOVhiYXB5RnZWVEo3cXI4clZIc21LSGctemxNM0RhVS1lUVdYUTJWeHRiX3hNWHRBaGRTQjdpWEFFN1cwZDRreDd3ZWVHbHNCSS1jdFJSNU1oMQ?oc=5
+Title: ‘Absolutely dire’ — firefighters continue to battle blazes in the south of Cape Town - Daily Maverick
+Source: Daily Maverick
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcl9OVUFETkNOSkN6TTdJVHNITnFPcVRkMUtQR1VwMFBPall0NWFJYWJqLTA0aEJxVWhJczIxeHU1M29ocnhzUzM1UDMzVHVZNXZfdjloME1weDEyM2tsUmw4Q0s0UDQxYWVnd25RRGtsNXVkYXFTeXFGYjRlZDVNYUQ3T0Fzd2VLYWd2RjNReDQ1RE5aX1lEYkt4elp2dHNsQTBBeWdwbEQyck1MWXRXTXVqVVBNYUpRUjNqZHVNSDRhNkxtOGR1N2tucjVLYUFTb09Va0lZdTh2UQ?oc=5" target="_blank">‘Absolutely dire’ — firefighters continue to battle blazes in the south of Cape Town</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU45dHdzTTYxTElTZlA5TXVhNHZ0SG9ZUUIxS211SDd5X0tyQlBTSkltMUg5RTFPZUp2b3UzNi1sd1JNNnc5bTV5YkptRGthaTV2MkZOTWNTUFhnbUlwTGlwZ3FBUjlFLUhyV25KU0VDN1didk1nVzFDcVR5MkFSMg?oc=5" target="_blank">Table Mountain National Park still burning</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPZU80MFQ1OW5vZmtpLVBzRkhhX1BMQVhHWVFoeGJqc3ZxNU1vOFc2X2N2YjBibEc0dy16NUZNWkx4ZDFfektkZ2JVeVRzMEEwTUh0MlVyMC1yV2ljdVVnenFmM3ZGM3VoZFFHRlVGeTRGaGFXc1ZjMV96eG9yRzN6aVZMLWJvS2FiTkJZNnpxMXJiRHMxWUZ0RV96Rzd0QQ?oc=5" target="_blank">Table Mountain fire: More than 190 households have been evacuated</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUThUNlpCVnQ5cGdfWTNxam5QN2huQzRnczJnbF9STjlTQ2xrNXN2M1BjLU5Lbm13ZUV6ZFVqUzU0U2JhTHR3LVdNeFhvYm9GeFBNejVvMmFNT1FBSy1iQ2lJeEZKMkxWSE9GTWFlck1iTFl1Z1N4SExFaEtEc0ZyQ1I3ZEx6WExxQmN4X3JHTjlVT09uWktiTUk3UElwaF9IWU1LZHQwb05RNjd3d05xRTdJbFFoQzBzM25mYnFqZVMySWRwRkVRSWFxTmNSVlhXajlSeHlR?oc=5" target="_blank">Firefighters will work through the night to battle uncontained Table Mountain blaze</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5CWjdPZzllVUdKektWa011SEgzeGNCd3F6SkhtQ3B1VHE4YjhUZTNLT0RXUzU4VWg5NUczNXloc3M4TkQxUUdLWEFUQnY2NGR0VExXYmNrVXJ1WE55bHFhZ2V4MUFOXy1pNDNSMXRQdVBSTVlUSnRR?oc=5" target="_blank">SPCA Teams Stand Ready to Rescue Animals from the Silvermine Fire</a>&nbsp;&nbsp;<font color="#6f6f6f">Cape Town ETC</font></li></ol>
+Published: Mon, 28 Apr 2025 23:19 (SAST)
+Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcl9OVUFETkNOSkN6TTdJVHNITnFPcVRkMUtQR1VwMFBPall0NWFJYWJqLTA0aEJxVWhJczIxeHU1M29ocnhzUzM1UDMzVHVZNXZfdjloME1weDEyM2tsUmw4Q0s0UDQxYWVnd25RRGtsNXVkYXFTeXFGYjRlZDVNYUQ3T0Fzd2VLYWd2RjNReDQ1RE5aX1lEYkt4elp2dHNsQTBBeWdwbEQyck1MWXRXTXVqVVBNYUpRUjNqZHVNSDRhNkxtOGR1N2tucjVLYUFTb09Va0lZdTh2UQ?oc=5
 
 
 ARTICLE 2 (Google News SA)
-Title: Cramped conditions, harsh rules for domestic workers in wealthy Joburg suburbs, says study - News24
-Source: News24
-Description: <a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMnhJSTA2ZWRQcFhpRllqS2VkY3hSdnBFU2VDZmhnRkRSeFRfZm16NndNak9iMGFPd2F6V2dzX0QtSDN0dVJNVjJVVFBiaWhoS3lXRkRPR1Fxcl84bUNqNnNldWUyc19PNmViSzhZYW9fa3dBYklsaW1yQXJLcG96eXE0NkxfOVZmbGFZUFE1TXI1QWpram9MYlVtazZxdzZfb0pIa3B2T2tURmVULUtscl9qUFBjd25wSG1RZ2p4SjNFcWJ6U3BHSFBMNkxrY2hRaV9HaU5SQ3BHbTZH?oc=5" target="_blank">Cramped conditions, harsh rules for domestic workers in wealthy Joburg suburbs, says study</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
-Published: Mon, 28 Apr 2025 04:46 (SAST)
-Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMnhJSTA2ZWRQcFhpRllqS2VkY3hSdnBFU2VDZmhnRkRSeFRfZm16NndNak9iMGFPd2F6V2dzX0QtSDN0dVJNVjJVVFBiaWhoS3lXRkRPR1Fxcl84bUNqNnNldWUyc19PNmViSzhZYW9fa3dBYklsaW1yQXJLcG96eXE0NkxfOVZmbGFZUFE1TXI1QWpram9MYlVtazZxdzZfb0pIa3B2T2tURmVULUtscl9qUFBjd25wSG1RZ2p4SjNFcWJ6U3BHSFBMNkxrY2hRaV9HaU5SQ3BHbTZH?oc=5
+Title: Malema declares EFF official opposition after court ruling on VAT - EWN
+Source: EWN
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXlPVDNscWQtU2NCSGZrUzhTdTFITVNtUnRwUFNHTzg2ODQwMTZVbUxmQ1I2cVF3d1hlN09NSkJxWUExS2NDRFl4bjJ0TUlYNU9rLVZEc2hJR0Vzd1JHNTRlSUo5ZHdYYmc1aXpmeWNjaGFLeUNvaUlPVXlpblpBNWtWZzBSTGlnaWphZktzN3RhZDJhaVNVaVU2cEc0YVU?oc=5" target="_blank">Malema declares EFF official opposition after court ruling on VAT</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxObkQwb2R6ekh4cEJ5X04xdWM2MkpXRnVESXRod3ltSE9PZ1JOXzc0Y0hrUlpTYjVIQjlCMGJlWVoydDd4dVNlSHhpYldJcFdSTXRlRzFTRUUwMHZVZnlCa2RiU1ZpbWtGR1hqLURtQllCM1JjSjNPeGdSMkcyZG5zcEF4X1pHSlBUVjN4VlJlLUZrQzMyeGxOLTlwTGJscFJoa2d4c3BZNE9wMGRYY1EzTzIzV0RrdTdHd25jX2VhWkQtTlhuXzAwaHJWVmo?oc=5" target="_blank">Julius Malema attacks National Treasury, calls for finance minister’s resignation</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1ieWVSWE80VW9aLXhFU2hlcFZtUUpPZUF2UXV1SThrTm9lZWdZWEZRZWlub3gxWHA4aEtDYTl4X3BNMy00bEpfbkFMTkd3TmJsaDBwaHJOM3d4Y0xpYVJaY0FPcGlManVaRV9kSA?oc=5" target="_blank">EFF wants Godongwana to resign</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHl1QVFfMzQwWXNqNHg4d1JNZUNPWVdrR3hoZEN0ajV5Q1FuQ2VVQ2Frblptci0tMFNJSVZjTE5xbzhzdmJrVVRmZ0pYa2E2QVNFeG1LQW9KMkdjRVB6TEtGRWx4Q1RBQzV5WWJsdVBRSGJjTGYzbFpBdUVZMkpvSUNoVE9DLXlPS05wc3pScThQUWk2NTliLXlLLXBtVkhmM25jNUxxSmvSAa4BQVVfeXFMTzRDTXlaNXNjZU9sdC1Od1poT0tNQVNvc3ZIcy1VX3l3aE81a2M5RWtnYjZqSUx2YllicXU1NERaaWpSTEdFcDVTRDdRSUt5ZDVFUThHbHE1RTU0bmRrMFhBdkhJUXpweUljM0phbEQyb1pDZFUzM3EtVW9uTmlvWFpnWHpTYWJ3MVhvZGx2TklueE9nai1Lc3RQSFRXSVl4RUoxX2g5bVFqckxYUWNn?oc=5" target="_blank">Failed VAT hike could tilt budget 3.0 in DA’s favour</a>&nbsp;&nbsp;<font color="#6f6f6f">BusinessLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXQ0VUg3cllxbkdpM2Z2MGcxVTk2MjQteWhSeXpWWGlwUUZzTkFOTWFjc1p2WE8zbF9Uc2YwY3NfcjNhMzE4RzJpQzh3RzRYLTF2R2ZZdjdmYlcwckNRem9VMFhncTl5ZzhwOVhiYXB5RnZWVEo3cXI4clZIc21LSGctemxNM0RhVS1lUVdYUTJWeHRiX3hNWHRBaGRTQjdpWEFFN1cwZDRreDd3ZWVHbHNCSS1jdFJSNU1oMQ?oc=5" target="_blank">Court halts VAT hike, orders Godongwana to pay DA, EFF legal costs</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li></ol>
+Published: Mon, 28 Apr 2025 15:38 (SAST)
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXlPVDNscWQtU2NCSGZrUzhTdTFITVNtUnRwUFNHTzg2ODQwMTZVbUxmQ1I2cVF3d1hlN09NSkJxWUExS2NDRFl4bjJ0TUlYNU9rLVZEc2hJR0Vzd1JHNTRlSUo5ZHdYYmc1aXpmeWNjaGFLeUNvaUlPVXlpblpBNWtWZzBSTGlnaWphZktzN3RhZDJhaVNVaVU2cEc0YVU?oc=5
 
 
 ARTICLE 3 (Google News SA)
-Title: Acting President Mantashe to deliver Freedom Day Keynote address - eNCA
-Source: eNCA
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzVFQmh5S1dkbXZiRDB5MC1sN0JVeVVCMDUzMl9NcHZtTHQ0dmNPTFlhdVU3eDJzTV90b3hzNi05d1lsZTAzWUw0MHJCS0YzOUR5M2lkSG91cFJoQVBHa2Q0MlRBNHBVUElTVVZrNGNkVXIxUXZKX19MV0RfVGpzNlFCaS04Q08yeHBkaFBHM09lQW9OZm5MUkZB?oc=5" target="_blank">Acting President Mantashe to deliver Freedom Day Keynote address</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0loUUpfUW9uN0RQcUQxdXJMUmtlZXJ5OXlnaVhIMVpaQWw3b29IRHl2ZjI2eFhORDhab180cmQyT0lVcWlmU3dxM3NsSWJpU1YtaVdmTklMQ20xLXNZUHFiWC1MRjFNRHp0VDF0T1ZPOTFUY3R2YUJNSXBSby10RVM1eklmRThGRlc4?oc=5" target="_blank">Gwede Mantashe to deliver Freedom Day keynote address</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkdtWFYwbmZEMm4wTWd1a3ppUmVNR0NIMklUNHNpWWFuT19oa1lHWHFZaTVKRzJlWGJDaUxYcVByNm12TnZBQ19xMnNTYzBpOXVNUTB2S05MVm9PWVNQSkpZRVMzOTN3QjFUVUhiQWZsY0R4ZEdnOEQtT0hucGhoUEVadE9oUTAySlpqdHM4LVpENktja0FrS24wZm5LNGc3a0Z3LWlNSThmYkxnYThEc0EySUQ1anJPTnp3Uw?oc=5" target="_blank">ANC says it worked hard to reverse the damaging legacy of apartheid through legislation</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxObGVISW5FTnFZNlRnWUhmVTR3VllNbjRsZjlkT2ZTS2RCWnVGRFNSNFJJdTRGWE1JOEp0cmhWZnI1cWxLbDBjaURRVnBTUG94TUladmxDUklFRDkyX0t6Rnd6ZUdxcmx3LXJZcUZxdFJTN1RnQ1BlbmliNnhCZ3A1aWt1eTFWTXBZMDNuQTVB?oc=5" target="_blank">Minister Gwede Mantashe: Freedom Day 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">gov.za</font></li><li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQndKbjRDYks4Z1VvMGFpRHdBNVYyT1N3YmM2SjYwTjlvLURmR2hfZjRobHJkSEpZOEhuRzRJVC1SdUV3dDBfdklISUFwd2xVb2NSVFZqZUZkSWk5dE9YVmNkZnhOUEFETy1KWlRiclpQcTZ2d2dKMWNadWhHOFp3akY4RVJRYnliSWljM0tMclJfdkRKNGRKY1l2Mk1iX2RTMV8xYWtQWTVlbUlzUmFDOXZiajdYRjFOZjJHT0pWaHh0ZzcwaXlPZVk4WFdROFlK?oc=5" target="_blank">SA's post-apartheid choice for peace elevates its global peacekeeping role, says Mantashe</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li></ol>
-Published: Sun, 27 Apr 2025 10:21 (SAST)
-Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzVFQmh5S1dkbXZiRDB5MC1sN0JVeVVCMDUzMl9NcHZtTHQ0dmNPTFlhdVU3eDJzTV90b3hzNi05d1lsZTAzWUw0MHJCS0YzOUR5M2lkSG91cFJoQVBHa2Q0MlRBNHBVUElTVVZrNGNkVXIxUXZKX19MV0RfVGpzNlFCaS04Q08yeHBkaFBHM09lQW9OZm5MUkZB?oc=5
+Title: 'X-Boer' Unmasked: How we traced Twatterbaas from Coligny to Gordon's Bay - News24
+Source: News24
+Description: <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXAydklKV1NSdm9FSWFNZENCeEVFSGFJX1NSQXF5MkREcjlJSm1CQkNBWGVXcnV6cUFKTnJyXzlSV0Z4dTNxeC02ZFA1WmE3R2ZGREhGSy1SRnVCcEdmZjhMcmk5bmFabW9DdDRDa1pFeEJkLTZ5TVJfeGtrU2phdWNiSWRCZUJRY3BtaWd1VTdLekw1VkxtZWhoaHhSb2l0WVgxR2R4QzFYWk9aU3ZYUGFTcnMzWnR0cXhQUms3SjM?oc=5" target="_blank">'X-Boer' Unmasked: How we traced Twatterbaas from Coligny to Gordon's Bay</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
+Published: Tue, 29 Apr 2025 05:16 (SAST)
+Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXAydklKV1NSdm9FSWFNZENCeEVFSGFJX1NSQXF5MkREcjlJSm1CQkNBWGVXcnV6cUFKTnJyXzlSV0Z4dTNxeC02ZFA1WmE3R2ZGREhGSy1SRnVCcEdmZjhMcmk5bmFabW9DdDRDa1pFeEJkLTZ5TVJfeGtrU2phdWNiSWRCZUJRY3BtaWd1VTdLekw1VkxtZWhoaHhSb2l0WVgxR2R4QzFYWk9aU3ZYUGFTcnMzWnR0cXhQUms3SjM?oc=5
 
 
 ARTICLE 4 (Google News SA)
-Title: Table Mountain fire: More than 190 households have been evacuated - EWN
-Source: EWN
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPZU80MFQ1OW5vZmtpLVBzRkhhX1BMQVhHWVFoeGJqc3ZxNU1vOFc2X2N2YjBibEc0dy16NUZNWkx4ZDFfektkZ2JVeVRzMEEwTUh0MlVyMC1yV2ljdVVnenFmM3ZGM3VoZFFHRlVGeTRGaGFXc1ZjMV96eG9yRzN6aVZMLWJvS2FiTkJZNnpxMXJiRHMxWUZ0RV96Rzd0QQ?oc=5" target="_blank">Table Mountain fire: More than 190 households have been evacuated</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9mcW9yeFRrUmZLOHA1WV9WUDBqQnUwYzAxbTZ6Q2xBd3VsWkFzcEdYZkJTZWlCZ3ZkaUhSQ2RSRno0TXEzNVhXMldkenhzTkZnelpQc2k1d1NPQ0Y2aVZTNVlEcjRKTHppTDhJWUd0LUJVdUp1?oc=5" target="_blank">Tokai fires force evacuation</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHpQMUVVQXZfLVlxd0wya3VuVmZuY21fU25nTzVPMGRXd0Y2TGpZUTYxWGlya1hNZUQyQVVvcTZpdVNNUC10d2E2YWItME4zRDNNTnNlS3M5QkpSb2NvejJ5M2hqUm1BRkdORl9SNTFFTlhxcXVlWi15cWJWamtmckdTRE1PaTRHWUtWUF9BTWhiUEpqN2NNcEdVUGo5QTFoQXVwa0RXdS1QM1d6SkxjSEhDdlZrT09nMFM0dDQ5eVE2MzJ1OUtmeVFPTm5qY1A4OEg1UA?oc=5" target="_blank">WATCH | Retirement village evacuated as raging Silvermine fire spreads down mountain</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHNBTEtwV3pXY1B5TE82TnhoRzhWWnNqM0h0TS1WemEyMXhUMThWSFBoSnFOMzNUZVlpT3FtTEhBamE5SjVOX25TM3VXcGh1OGN3dmp6QjljcDB1M21NLVVLakJwZmgyV0tuem5aSld0TDY0dzFLMkpET2Y2ZXJPRUVoV1QwSmNBaXhKem9wTW5EY1g5VTh5ZVkwcjV4RnU4?oc=5" target="_blank">Residents urged to evacuate as veld fire rages on Table Mountain</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFVBT0h4VzdaUExrYWdTX0tiQk95b3VVaWdIQjVoWFctbEF1dXRiSnctdHdBUFNFY0Eza3F6bXY2Zi1UVmhUUlp2cE1seWxIemMyS0JGU0hEbE1JcEdldkJDSllCVEo2cC0tQ25tN19rVVpNeUtENFN6bl9BaEg0V1VZbjJVS0FWMzJ4U1A1b1JfTE42TU8zYTQzemVrY0pIaGZOdTBnLTJQTDlrYWdtRlUwN3EtU2UzLThrcVh6Mnl6a1VNLTVEQ2dhOEZCYTF1elJhUnVST3dJdw?oc=5" target="_blank">Table Mountain Fire: Blazes rage in upper Tokai and Silvermine as firefighting efforts intensify</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li></ol>
-Published: Sun, 27 Apr 2025 20:13 (SAST)
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPZU80MFQ1OW5vZmtpLVBzRkhhX1BMQVhHWVFoeGJqc3ZxNU1vOFc2X2N2YjBibEc0dy16NUZNWkx4ZDFfektkZ2JVeVRzMEEwTUh0MlVyMC1yV2ljdVVnenFmM3ZGM3VoZFFHRlVGeTRGaGFXc1ZjMV96eG9yRzN6aVZMLWJvS2FiTkJZNnpxMXJiRHMxWUZ0RV96Rzd0QQ?oc=5
+Title: AI drones, body cameras help BMA stop 63% more illegal crossings at SA borders over Easter - News24
+Source: News24
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVJHTHludE9UaElVTGI4QlVpNmh4cXlvMFFOU3M4dnZkMnRpT0s5VDBPbzFvLUZoODVwVjBQUTA1Nm1XcTBReGwxcUJXRXpVNDhteGN1VVRqOGNGRmtzbWxNN1ZFZW4zb0NtemxKTER1UlVmbFkxTWptVk5LVUwxOXk0SDV2dmVTdDZldThrQWIyRXpDWDdpZlhPQjdwVkdndTUwdEV0U19wT2JoOUE0aUh6UnZESmVhcTlzbFNZQkxOS0EtS0VsNDB6dGMwdDVreFhRX0tGMHg5RlZQ?oc=5" target="_blank">AI drones, body cameras help BMA stop 63% more illegal crossings at SA borders over Easter</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEVmY2FWSjZQdHZwNWVZYldaRUdZa3hDMEZSZjFWTTIwUGxyZjdzTkdFZ3ZZa1ZtMDU4UmJJOEViUzN3TWVIRHlmdmdHb0tZRExhRTJpZEdjLTFzZ3lXd1pnWEtrb01Fb25RWUFKdWpfY05YT1BrVGQyVHJRX3FCNWhEOTlNYWZjRWJCVktaY19ucVlrUHFMQnp0Yw?oc=5" target="_blank">Border Management Authority hails new drones as ‘game-changer’ at SA ports of entry</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZGdJLW1JczVxVU1pNU5JVTgyd2JNSFR6RmdnZ3pzcU5EdHdWZF9oSXkxeWc4S2RUQ2FsTE42Z1J0b2JiM0tfNHpTVlNoX2Rwb3JtVU53NmhFSEh2NUFvSkZNWmZpbllKakJwSg?oc=5" target="_blank">SA porous borders | BMA goes hi-tech</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmZqbkY2WWsxU0ZKWWNqWTVXVzIwenZiQkNvTDdHT2dDbHpUQ2M1Ti1iM2NfbnhON3lTOEtneWFMeFVRLThUM3ZGLWdWQ1ZwbUpOWEVqZTBPYkppZ1JEMmVycDBucHVaSkFDWHIxa1Q2NlQyUFdYT2g1SE1iRmFlRHRZdE9nbjhQQ1RTNw?oc=5" target="_blank">BMA to provide report of Easter security operations</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcVdsOVVOaXphX1o0ZE5Rb0dpUzJCRkxCTVBySHFDR2pVM2J5QXFMSy1Wb2lDSFZjejR4dWY0N0oyakJxXzZEbS1qb1hQZXVsaC1aTC1uY0dtWk1YeHRGWXVJekFxd3JxQlhOV1NhZFVEdDFRTkNWUnFvVWdxbC1MZkczRlh5YlV2Z1hFLVFnSFVOT25uRHkxTm8tV2xfQVBuQmFpYkFzT1h1NDV4VFBoNU8zcWtZalNrLWlMSXY4OW5rZFdteC1oeGVjZHRZcDhFbXJvMjhMQUVvZw?oc=5" target="_blank">Border Management Authority suspends immigration officials amid corruption allegations</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li></ol>
+Published: Mon, 28 Apr 2025 22:27 (SAST)
+Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVJHTHludE9UaElVTGI4QlVpNmh4cXlvMFFOU3M4dnZkMnRpT0s5VDBPbzFvLUZoODVwVjBQUTA1Nm1XcTBReGwxcUJXRXpVNDhteGN1VVRqOGNGRmtzbWxNN1ZFZW4zb0NtemxKTER1UlVmbFkxTWptVk5LVUwxOXk0SDV2dmVTdDZldThrQWIyRXpDWDdpZlhPQjdwVkdndTUwdEV0U19wT2JoOUE0aUh6UnZESmVhcTlzbFNZQkxOS0EtS0VsNDB6dGMwdDVreFhRX0tGMHg5RlZQ?oc=5
 
 
 ARTICLE 5 (Google News SA)
-Title: Just In: SAPS offers R350,000 reward for information on missing three constables - IOL
+Title: Father and son killed, mother wounded after armed gang pounces on family left stranded on KZN highway - IOL
 Source: IOL
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3JjX3dQT3FKOXN0UVViMm5ORmwxQl9IWWMxd1d6cVZOcDc3dUtnaUV2ajVRczQ3emtJSjNKNlJjZmpVcmQ4ZUlDSVBZV3hwbFFkQ3hUSFF6UWlQOENyYy1wYnZ1bzdvc0Q0UURIcmM0MzZwNkdmQ1hrU19wbkludkpCTl8xUGFoUUoxMDZEOWpzdXZxSXZTb2IwRkh5TllyeHhtamdnQ290N0lPWVo4aGhRUG84ZFlXbFJqUm5ycmVkMVVqeGRvY19B?oc=5" target="_blank">Just In: SAPS offers R350,000 reward for information on missing three constables</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1JQUW1JRjcyMnFXN2d3SWFLcjhXbzJ2djZncU5jZkIwVHQwbE1WY3pka0x4WUlXOTB6Rnh5S29WbWV1UDdvTHN4YUdJY0dmS05UZW43TlNqUmFjQzhlVG5GTXZUc2tMOEJyVHF3amFLTTJtU3d2dzZzb1M4OVgzbXE1eTZTTUF2ODc2dUxjOENwRWZlcW5XM1o5YUw5WDdrYTZZOGk5WXhvb2NQZG1YZnJjanBzbHhTWDN1eTlEU3pxXzFWWk1mUEQ2U0g?oc=5" target="_blank">Search intensifies for three missing constables as police offer R350k reward</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlg2NmstNUNjWXlwdkhZWExwZmlJdEF3Tk0wczFzQWs2elNuZ3FQVUM2bWoyOWFFSmUwYTFTOE0tRlp3SW9STDM5YW1JRDhhcDhvTjM1VjhnSE5GcmZiS21qY1prOUl4eEJqSGpDODdIcGNfWlNFUWprbmJFd2N2elZjLTV5T29zYmxhdTZhRk1FQQ?oc=5" target="_blank">SAPS offers R350,000 reward for information on missing officers</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzZhZnRxWnNUU3dTeWZ2bVg3bzZkREx0OVJ2VDd4Tm1mUGJrclY2QUlxSjduQUwzNjFoUFVRcThWdDVkdmtGNEx4OVdLZ3FFTG9LS3NFaF9kNmt4dk05TWotNUh5cTlacFZndG1SaUpmRl9oUkJZZF9rTXo5eVdvSTFZSTRncWhBNTZReG9LQ1dZemdzZVpwSHVFVQ?oc=5" target="_blank">SAPS probing kidnapping case after 3 of their colleagues went missing in JHB</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlFIUUxIYkh3akduc29oejJtbXVPWGU0eFRYRXQyS3g1UTZ5SWw0UUhJXzZJV3V6YjJLQjNBVTlFV3JURm1rdWNSNXRET2hSS0Y0Vkp0WGFnSzJtZDg1UjBnbHY3LUd1Z19pZTRNYnRiLV80X1pxczNkMFppQ3JMVW4wVG9IR3B5TVRBdEMxRHVDbFlyMmw4ZVJ5dndJZ0hi?oc=5" target="_blank">R350 000 reward for info on missing police Constables: Masemola</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li></ol>
-Published: Sun, 27 Apr 2025 17:10 (SAST)
-Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3JjX3dQT3FKOXN0UVViMm5ORmwxQl9IWWMxd1d6cVZOcDc3dUtnaUV2ajVRczQ3emtJSjNKNlJjZmpVcmQ4ZUlDSVBZV3hwbFFkQ3hUSFF6UWlQOENyYy1wYnZ1bzdvc0Q0UURIcmM0MzZwNkdmQ1hrU19wbkludkpCTl8xUGFoUUoxMDZEOWpzdXZxSXZTb2IwRkh5TllyeHhtamdnQ290N0lPWVo4aGhRUG84ZFlXbFJqUm5ycmVkMVVqeGRvY19B?oc=5
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHVLa3pJVGxZa0NpeFdPRnQ1M0RJSm1kWjkyMk9wRUVTbVdKV29fVlVDUnNXb0g2UmVPaXlKblF0Q29WRmpTbWRhbWNaUmhPVmpHV09FWmZfd2JRanZjX3lZQTNFRkNKUUFlUDBtMG1wUFlFVTRrRU5jbnJKdFRmVWNWd3ByZzg1QURWV1VsTDZLMWFhdEkxS2s4b2R6dDRHMEVxbnVTV3RmSEc4WTJ6MVRUUUtFajhpSC0zX2xSOU1ybjNBNXh6R0pvRGhRQXVjY0tQcHV4MC1UU21GQzU3RkJ3?oc=5" target="_blank">Father and son killed, mother wounded after armed gang pounces on family left stranded on KZN highway</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGSVNPSlZseEUwVjBxY0I5MldSZjNjVHVlWlBvWGNmdHNYd2V6QmNGamhxSTYtd3FTck5QUkJRWVNaakFqN2JLVHdRbEpWa19GWmxJeHRlQQ?oc=5" target="_blank">Shooting in Umbumbulu leaves 2 family members dead, one injured</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGNTekhENUJZLW82eVZmNVJIX2xVeW42YXRwT0JSZlZLNlZVbjh5cXdxLU82U3U0ODBwTkpiM1lKVThCdlVfcUJzN1c5VDkwUVF6cVBjc1JWMUoyVEFzU0J2cGtULV9nSXAyLUo0SXRjM28tNVBIZWIxa0g4X3kwendva2lUU1NBbXhKN01fNVU1MVMzcUUwVVhfZ1pZOUJCdjdsdVVRc0dSZ9IBrwFBVV95cUxNeVQ2R040U0pQUTUyZU15TXNEYk5FenUxTUZGOW11WU91cjBkdFdIZ2pOdWVkMEQyZFpfbFc1X3FOUFpXRlVyY0hjWHlPTXlqNGNmOTJrNWtrNG5Dc2JPSUZnRWJHWVFuVXNBdVV2T29GV1pPcE9vRVFlV3c4SWdub3hsQ3NMN0pPUGY3UHFjWlVUckE4cWNuY1NmNkFLc1FXYzU4NzA3Sk9TbjdDUWRR?oc=5" target="_blank">Father and son dead, mom injured in KZN shoot-out</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPTE8xbnZNSExPNUYwN05JYVRjT3BPMkNHbjJSOGNraDVKSlhmcnJwMURGOFdEMHZpY0VKSS1IbFBwN2pTYUUtLXBRZWc4SHdJWXJsekxpc3ZrbmdIOVhDeVZMVEd2eUdXX2dNdXVWSzhnUGl5OElLSXRtTGhqM0kzODlfelM4SkpEZWRHMVVBc3RrUlh4WTdkU3JKM211VFJuSWZQR2pxTDFmSlViNHZLX01paXlyTVHSAbsBQVVfeXFMTS1rdmpPTlpheGdvWHBDZHZZRXhicnI4czhhR1FnUm12NUhrQzZQQ1AtY3VpeDFRdFZHZTBUMHdQdmFxc2N1N0xldUEyQUpvaUlEYnRVdkNLV1hDaE1OdHJsbWZ3RU4ySzdGTDZzb3B2MngxaTNpT1h6LWpWUmVQSEliYW41YVNkQmlsTEhOLWtyNTlhSDZUaDd6eGVOeVU5cWM1U1ZvNms4LVpDNDRhWEtVY3IxSjI2YTU3TQ?oc=5" target="_blank">[Video] Family of three shot near Illovo Township</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBsRXhxeGpFbzB0M0Z6TzJ5cWYwUUczTjBrNzdiUkg1V2hhcTQ5cnJJYm1aSk9SYTFuLVRCb2pmX2ZwYkZUa2ZxRFJnNW90c25KalhpejlJd1lBc2QwdnZYYVhMNzRGTVNSUjVYYTVpLWRGUGxra1NkOG9TVno0dw?oc=5" target="_blank">South coast attack leaves father and son dead,mother wounded</a>&nbsp;&nbsp;<font color="#6f6f6f">ECR</font></li></ol>
+Published: Tue, 29 Apr 2025 05:50 (SAST)
+Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHVLa3pJVGxZa0NpeFdPRnQ1M0RJSm1kWjkyMk9wRUVTbVdKV29fVlVDUnNXb0g2UmVPaXlKblF0Q29WRmpTbWRhbWNaUmhPVmpHV09FWmZfd2JRanZjX3lZQTNFRkNKUUFlUDBtMG1wUFlFVTRrRU5jbnJKdFRmVWNWd3ByZzg1QURWV1VsTDZLMWFhdEkxS2s4b2R6dDRHMEVxbnVTV3RmSEc4WTJ6MVRUUUtFajhpSC0zX2xSOU1ybjNBNXh6R0pvRGhRQXVjY0tQcHV4MC1UU21GQzU3RkJ3?oc=5
 
 
 ARTICLE 6 (Google News SA)
-Title: Rescue teams on high alert for Vaal floods as water levels continue to rise - TimesLIVE
-Source: TimesLIVE
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0FCWThRcHN0R2h0MTdLQnhBd1NVUmpkU0JyUWRPa3lPQzJjd1hxUG9ESlFaRGNLUkh4b19PM0FfQlhlUldzRDNrVlpVWV9IZURxN21pTXJJLVpMNjBLNUlTa2RuTHVxai1YVTBKcm93SjFtb05QX2VBYUp6UlhEZlFvZFAtNUtOQ0VHWmoxbHBOTmRRQ3MwdGwyRjhld2F0ZEJsTjB4akYtMHZWWk5STVVFV2N6OTQ2R0xKN1RyaEdmNlpBTDhEakJoRHZxUdIB0wFBVV95cUxQcVQxd2ROTzd1ZkZLWS1UV2J2clF0ZW5STW4wcW1pU2VfRlVSblJvODV3dWtFbFU5TzRlMGVqMnBKUDg2MDBxOFNBdFNsekhUa0dGS1FHckVfbnRjaU9JZ09pNzBLZm1LOHNXOG1TSzM2cVlfTnlLTF9DUXRnMWV3SlVhRDFwbWV2RUJveTFOVHZFZWJXQ2o0a3hJcHEtMDh0ZERVRndFR3k1bjFWQ0thVHl0WDFiVkVVT1hfamo3aDdHYW9GMVBPdGhiWHRxZ095OU40?oc=5" target="_blank">Rescue teams on high alert for Vaal floods as water levels continue to rise</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmN0TndSVmxBWFZHclQ1M1NuczZERlNBajlvT2ptdV9JUjJMb21TUzN6WWMyclZRb1JfbXItMmhNbEtKVWVPcWNLeUsyMzNlOWNuUFc3bXNUOFZzRzJfaWlOUW9oMEdXWmpDVkpweTZBb29OOXJYclR3Smo2ZUVYSUVLeUpPN1MxY2gyVjJUQ3VrMHpTWWptelF2R1dvVTVjN1laZFhmb1JhYmxwUDRR?oc=5" target="_blank">NSRI aware some Vaal River residents are resisting evacuation orders</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnZpRTRWUXZ6aUowV2JsVDE5dnA1eDFlaHV6eThqWmJWeTZqVWRrSUx5TElJY28yRnF5Yk5tZXNPNDM0SzVMWnRYVUFrSlhndHpLRXpPTjZwSENCM0hDc1N3N2QwQk9KMC1yVmF3bmlEWHFZV3lSQXhMaUFHVm1nVnREWkp1UEFTZGVMZ2dMUWw0U25GNXZDZUpXSElyM0xDRzZTcUwxaFdwMmxwZzdyRdIBtgFBVV95cUxPMmhhdVpNREw3aWRhVkQwOFFoZXRCcGE5a29oUmNCY0IxVVY5M1NRbDJGRFAxa2pMeFJwOU4zUm8wRS1CSU8wSmhGV1J5SlFnWWJtcm5nTHZ3LVd0MF9qLWN2d2pIdi01dVgwb3Y0RGo5bTlIQXY4QVlTZGk1R3JaQ2gzdGw1VzhYWHpjYXpWQ09ZdlVFVl9Jc0lQdnRVbDZPUzlUWHl4OWVfbVpuTEhNYlJmYXBfdw?oc=5" target="_blank">Dam levels exceed capacity, flooding possible in downstream areas</a>&nbsp;&nbsp;<font color="#6f6f6f">SowetanLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjUtR0lUcVJtSDRJaTRMYjdqUHJNeVlmc1VuTkJyMFpmcklOczJ6UEY2cXM5U0NlN1lNY1IzZkNpT1VMQ1VBN2FSUWNMMllyRmtMVEFPLUNoa3E0OERITFZNQm9HRkYwS2ZvLWgtTWZJejFBX0JqWWFUOTQ3elNKRkxHM3ZsOFZHdUtCa3ZrRlRHSElpOGszbkNjTzk3emsxQ2lFUHJQeXdZa3FLREJIa3RBck1iR0M5VUxIaGpnaXg0cmFtdlNTYXBZbWI?oc=5" target="_blank">Vaal and Bloemhof Dams Hit Critical Levels: More Sluice Gates Opened to Prevent Flooding</a>&nbsp;&nbsp;<font color="#6f6f6f">infrastructurenews.co.za</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzE5ZVNrZ2xhUlo2ZDQ2UDNKUmNaT3BMbnRBWkEyRkxNYTFYbHAzbUI4YVVvcTE4SkxPOFcxXzV0NWpNYWk0Z2lKSmluRWhTRktqd2xqZC1QRThVbks0NVAydlZHa0FKZXFZNm1SNUxsSFJ3bmZjZUd4T0NTT01qWU1ORG9ocU54eW9V?oc=5" target="_blank">Four additional sluice gates opened at Vaal Dam</a>&nbsp;&nbsp;<font color="#6f6f6f">South African Government News Agency</font></li></ol>
-Published: Sun, 27 Apr 2025 16:41 (SAST)
-Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0FCWThRcHN0R2h0MTdLQnhBd1NVUmpkU0JyUWRPa3lPQzJjd1hxUG9ESlFaRGNLUkh4b19PM0FfQlhlUldzRDNrVlpVWV9IZURxN21pTXJJLVpMNjBLNUlTa2RuTHVxai1YVTBKcm93SjFtb05QX2VBYUp6UlhEZlFvZFAtNUtOQ0VHWmoxbHBOTmRRQ3MwdGwyRjhld2F0ZEJsTjB4akYtMHZWWk5STVVFV2N6OTQ2R0xKN1RyaEdmNlpBTDhEakJoRHZxUdIB0wFBVV95cUxQcVQxd2ROTzd1ZkZLWS1UV2J2clF0ZW5STW4wcW1pU2VfRlVSblJvODV3dWtFbFU5TzRlMGVqMnBKUDg2MDBxOFNBdFNsekhUa0dGS1FHckVfbnRjaU9JZ09pNzBLZm1LOHNXOG1TSzM2cVlfTnlLTF9DUXRnMWV3SlVhRDFwbWV2RUJveTFOVHZFZWJXQ2o0a3hJcHEtMDh0ZERVRndFR3k1bjFWQ0thVHl0WDFiVkVVT1hfamo3aDdHYW9GMVBPdGhiWHRxZ095OU40?oc=5
+Title: Sandton Drive renaming: SA won't compromise sovereignty to appease Trump, says Lamola - News24
+Source: News24
+Description: <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnVzYmFnWHFKS2Ffa2RXcnBwa1FUczFHODZMSE1EdWowMm5hLTJwckNTajRoNTJZX0hyRUFQeHVhaWxIMFExOEJXVEw1d2drakswWGR5dUhrdm91SV9KQmdfbVZEOUxOUWV2RTdaSFIyajl5VjhBdTlEUlBJS19lV3VFQkZ6dWZFT1M5aFZGamNjNS1rWGt1VXVsTGlBZnZtbVp6b0JaZnBRdEZrSmlVbWEzQko3QldJQUR0TUpEWFhtR0ZEUExoVVN3?oc=5" target="_blank">Sandton Drive renaming: SA won't compromise sovereignty to appease Trump, says Lamola</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
+Published: Tue, 29 Apr 2025 05:16 (SAST)
+Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnVzYmFnWHFKS2Ffa2RXcnBwa1FUczFHODZMSE1EdWowMm5hLTJwckNTajRoNTJZX0hyRUFQeHVhaWxIMFExOEJXVEw1d2drakswWGR5dUhrdm91SV9KQmdfbVZEOUxOUWV2RTdaSFIyajl5VjhBdTlEUlBJS19lV3VFQkZ6dWZFT1M5aFZGamNjNS1rWGt1VXVsTGlBZnZtbVp6b0JaZnBRdEZrSmlVbWEzQko3QldJQUR0TUpEWFhtR0ZEUExoVVN3?oc=5
 
 
 ARTICLE 7 (Google News SA)
-Title: South Africa’s grey vehicle problem - Business Tech
-Source: Business Tech
-Description: <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPZy11MnNBRXJMd1hzNXR5QlRqLU5zV1lhWHJTOHQzclNNekF3Nkl1Rnl3SnRGSGctSU9vdGtaNlRhVXJaRVhMRFB2TG9nT2pEX2VvcUtHdGhjbDY2OU93c2d2dS0tUjVZZllmeE1ZakdXTkNGbUxuRm0wckVGNm81eFRJWFhPMWFwMDIzTDNB?oc=5" target="_blank">South Africa’s grey vehicle problem</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Tech</font>
-Published: Sun, 27 Apr 2025 09:35 (SAST)
-Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPZy11MnNBRXJMd1hzNXR5QlRqLU5zV1lhWHJTOHQzclNNekF3Nkl1Rnl3SnRGSGctSU9vdGtaNlRhVXJaRVhMRFB2TG9nT2pEX2VvcUtHdGhjbDY2OU93c2d2dS0tUjVZZllmeE1ZakdXTkNGbUxuRm0wckVGNm81eFRJWFhPMWFwMDIzTDNB?oc=5
+Title: Massive blackout hits Spain and Portugal - News24
+Source: News24
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1RTQXVJdnhzYWxjd2ZrMjFSYmpXSnd0Z3lqam5iWVlacE05X2VfdDF3S2dNNUozWm0tWkVnTG9yTGpjNk9tWm9TbFJybGs2bFcxTWwxV3FoNTh3U21GVW9Lb2ZPYVdGZkhoOUhaY3RxdXJEQUxvVVVMQ3A0RDJrSkhkZnQ0cWR2Sm9pcFgyTTNvMnNM?oc=5" target="_blank">Massive blackout hits Spain and Portugal</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWdJdFlNb0I2UE5QQVdSSTVaSzBOZ2M0TTdHQ3NCQUNUY2sxNEx4YldJV0FvcWJpQVhHSEJYUXRaX055ek9KWVNEZWtVbzFJY3hmRHJaSlZXOWdRRW44bElMdllJRG0yMmNYalRNQTJ5RDljWHJlcEJvdm1BVHhXSDZrTmRZclZDNmJ3YzE4Vnd1NHhzbGZkQ3dueElBNURhV05vWHU5Z01CRmpQ?oc=5" target="_blank">Spain, Portugal and parts of France hit by massive power outage</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFFQNmxLLWZMbE00QUIwdFoxV3V2ZDIyX1dVNkxHOFNwSzNiQXNRUlNpNDNidWdKMDRnVGRuZFJRdU8zS1BYc05sZGIyWHN0OGplSllTZ1JOeDM3Rm9fQUFVeFh1TUhJNHVTR1hfeTZIS2h5SmE5eUItQ2ZVbzZ0OV8tV3hkV3ZOaGc?oc=5" target="_blank">Power returns to most of Spain, Portugal after massive blackout</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2NuTE50enpjVl94Tlkxd19ock9vZzR2T2NENnc3T25yX2VlQjdnS2tlbHFpN3E5NDdiSnMyWDZJMnZHQkhzdW1VTXc5MGVtTnVVMDN5bXVSdG5VV0NLcjBwblF3Mk1tX3FMLVd2ZXNiZDRKV016Z1k5dWF4NXpzQmNOWGJmdndKZTRJVEU4c1BsS19sQlZtVXdsOWFjM1BZSWZUM2RqVGdpbzZTU0E?oc=5" target="_blank">In Madrid, electricity outages can’t hold a candle to people power</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFA0ak9PcGt0b0ZPRlBpdnR2dHB4dHpLUzN2TGx5dl91Uk5CY0F4eXk0b1pFam52RkY1QlE0VHU2TGN6RjdCMHBNNWQ3SWZ2ZS12S2hBRFdYTklYdjJXV3NnSVJHV1lpa1lKSFhNaQ?oc=5" target="_blank">Play cancelled for the day in Madrid due to power outage</a>&nbsp;&nbsp;<font color="#6f6f6f">ATP Tour</font></li></ol>
+Published: Mon, 28 Apr 2025 16:29 (SAST)
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1RTQXVJdnhzYWxjd2ZrMjFSYmpXSnd0Z3lqam5iWVlacE05X2VfdDF3S2dNNUozWm0tWkVnTG9yTGpjNk9tWm9TbFJybGs2bFcxTWwxV3FoNTh3U21GVW9Lb2ZPYVdGZkhoOUhaY3RxdXJEQUxvVVVMQ3A0RDJrSkhkZnQ0cWR2Sm9pcFgyTTNvMnNM?oc=5
 
 
 ARTICLE 8 (Google News SA)
-Title: Several killed as driver plows into Vancouver festival crowd - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPWS1lRlc1MFExMFZQaG83UWowSURjeVBaZXd1LThabzdWQjNXbkc4ai1MQmZpc0Y3WFR6S1lXZTRxY3docVhRSkxKdU5ydlVCdnREZzd3eGFTTllaempjaGtoemFIV1RiVWhoaWZfZGZGY2FMalk2REd5SG9jYllWMWJ6QzIzY3M5Zk5SaHF5SUVBVFVhUmlnRUJMSWNDOEs2Rk9qSTVKaWZ3M1hVSmF3?oc=5" target="_blank">Several killed as driver plows into Vancouver festival crowd</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWFkUHIzNXpVNlExMi04SjhyNXduQ2ZxTnd6eXBKTVZkQ0VLZTNtbkgteEhvOF96U2l5SUg5U2pSdnh6S2xxamZmbEhyRnBQMktBWlFtckhHNEV4SjhNVHBEay1oYU1zYzV3Y3R0VGo5YWhvd1FGWHdMT0RiMWQ3VzZoS2RSNm1pT3pTRFVpLVJtNkdVcnkxY2xEYWZ5ajA1M3J6Y1JHLUVBZ0hYUTVRQlpmREJMLXhVZElscg?oc=5" target="_blank">Suspect in Vancouver ramming attack charged with eight counts of murder</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKbHY1WkhCV2s4QjhmTlZESC1oN2dqa1BVYlRwR0ZWekxwNUVqT2x5ZFZVTkdpM0xkaUo0U2piYWlUZ2hYeHAzZWd5WmdGSTJtYWlMcEVOTi1IQQ?oc=5" target="_blank">Sorrow and fury among Vancouver's Filipinos after attack on festival</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOTW15RWZFQ2ZRQ2ttSHd4ZlNCRnhQSGhyNGFSTXBsU21Ibnh1Ym5PT1pJNGM1U0dNY1ppekZ5Mm41NDlzdEJuNkdsc0g2d3d2dk9QQzhlb0pwdWQwOXNCVHRXcl82UnU3cThacnFhTHVLMlJMci1SOW1vX196bVluamt2RFlOSnY1dFZWWGZMTWcyTVRaQWJpYWRIOFZwaTQ2V2tzRGV30gGrAUFVX3lxTFA0LXB5bXhBSFd4MUJidVByeFIzd2RSMHhfd1RlYmRmVzdKc3FQRmU4Z05ITGNvYXhnMV93Unk4Ykx2c1pRcTFTeDRwSGkySUU5dFFGQi1Qa3hlM1l5ZFhZdk1iQTBxWFp2dDB2LWRNRVdMTU9NU3FkTWxJQ2MycTA1ejc5RlZJM2FHNVUtc2VmelhTaWlyMjZ6UVZoel9yQkVvQTlhdUZTSFpUQQ?oc=5" target="_blank">Man charged with murder after 11 killed in Vancouver vehicle attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Sky News</font></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmw4OFBSVWFJR2tIWFp3cllYWmJRLVNqdlhPWEYxYUNzYUoxUDNxWEVRVUlLbElqY0RVSmNsVGg0QVNUTlM0MmU2VzJUZDNKZTZtZ0UzLTR3bXpILTFhSzFLMmtocjNoR0VqSmJJanc4S3ZMU212VFktWkxtRVhzTmt4WFlETVFPSVFlcWYtanZ6Z25FZmllSjJwNkRtT3dyRHfSAZMBQVVfeXFMTkpYcFlET194MW8zYXdwSF9PM0NUcjUtVElETm5rUGFwam5FMDl5aHJwOHdHcG9CYTlrQk5wMTVmdWVHZUlSWGRwOUFYSFpOYzFRZm93RllyYnNsUkJIVXZFRXJaeWpjSlEtZ2xyYi02LUZkS1Z2b0RTY01YNnY3Q0QyOUl2RTRWTnhla2FaMkFIRFBr?oc=5" target="_blank">At least 11 people killed after car plows into crowd at Vancouver Filipino festival</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li></ol>
-Published: Sun, 27 Apr 2025 11:54 (SAST)
-Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPWS1lRlc1MFExMFZQaG83UWowSURjeVBaZXd1LThabzdWQjNXbkc4ai1MQmZpc0Y3WFR6S1lXZTRxY3docVhRSkxKdU5ydlVCdnREZzd3eGFTTllaempjaGtoemFIV1RiVWhoaWZfZGZGY2FMalk2REd5SG9jYllWMWJ6QzIzY3M5Zk5SaHF5SUVBVFVhUmlnRUJMSWNDOEs2Rk9qSTVKaWZ3M1hVSmF3?oc=5
+Title: Conclave to elect new pope starts 7 May - EWN
+Source: EWN
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE94Z1NWdlVNZXFDNDZOZm9JSlV3TVVETnN0eWo2UWtENF9TbkhhV1RvRnlQcDZ4eUNBaVZNWVEtRzVVdExWOXBDRnBXUjR4SHcyU0wwVnBtUW5fYnM3elJNT3ZrTjR5NE55b2JMUWdwczg0dHBvZTFQYS1faFc?oc=5" target="_blank">Conclave to elect new pope starts 7 May</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XOVJ3ZWE3aWVpREFubzVOa3E0NHZOX1BybzNQeVlkMWs3RUNkNDhCeWFCSzNxQXhhTElRV3hHNWxUdzJkLU56TjdaYmpYN3lYYk5hb0t4WXFiZw?oc=5" target="_blank">Images of Pope Francis' tomb in Santa Maria Maggiore church released</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1IblRGZ2lmMFhzSkhJajNKTlRuSkxKRnhpMU5lM09rVFFxOV9uZFdJMXpGemVFeXhpRzNzR055bGcwTWFfTGdScEptcERpYUxlTUUzNnB1WUlPbnFTTGN0SE5hSEM1cmlUa29JM0JvTWFYblYwanRKd1ktS2R6dw?oc=5" target="_blank">Cardinals set to pick conclave date to elect new pope</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOUlsUHdxSlp5UWUzeWp5YWR4eUFRWVdtRmxjWlNEbTJoZ2dLbFJUR2FHVlpzR3JhcU1ZcFpLandraDZPYU1lQllTTUxKUTc1a3BKNlJ3SlJfbHpQOUphVEhTZXJjSW4za1ctcFBkT1RVNVNXSVZPSmx4azd0bUhkaWgyX252ZmxTUGZVX3pVZE0tUlVSVTJub1YxdHhQNkZ0eXl4QWNZRlFNb2dnd1NGSndfUk1xc3JJNUdkZ2pBSzJfSmVZWEMtbjMxQndwNUNBMEdoQ2VGMGtpQdIB3wFBVV95cUxNMjlYMUZPYV9rOHQxWFFScFRpUE5tc2JtRFlOT2ZpTkNESFFBOWU2R2RpbFJVbFNQajFWcXZGT3ZtZnhtNHhWU25BVFdIc0h4cFhBUEE3c3Z2RXJkSUFkenZuTHNkeDc5bGdZZWVEWk5SVVdOSXhicks2UDE3NXdkUFI2T2J6U2tjdnR0R210MWJfSGt5S05mcUtjZEVTcXYtd1ZhWDY3bVBXTXlmYWF1ZW9oSzhxU3pRS3NadkEtTXdrNnExU3VMTm0yN0hUUXg0WlB3MEZLUGthbF96bnFB?oc=5" target="_blank">World news in brief: Catholic cardinals select May 7 for secret conclave to select new pope</a>&nbsp;&nbsp;<font color="#6f6f6f">BusinessLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2hmVnVuUHllYXExdHBYU2xxMDFCclhPNHJmV2J1X184dVN3bEpNRGRXeWowRUdnMG9rVllYTUhkUHI3R0NzMnI3d1lUdHNTRVF4MUhsWEJVc29SVlpHemVFYTJyczNfZHBRTjFZT3UyVGVCZXh2R3JTbkxjTldMZDcwSkdZV0RxRDhKUF92d1FNZ1RremhkWnlEbnlNUGk4YXdXcnZRdU5sS2QwaWtqRTAya0VDS2Z1NUE?oc=5" target="_blank">Conclave to elect new Pope to begin on May 7th</a>&nbsp;&nbsp;<font color="#6f6f6f">Vatican News</font></li></ol>
+Published: Mon, 28 Apr 2025 13:53 (SAST)
+Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE94Z1NWdlVNZXFDNDZOZm9JSlV3TVVETnN0eWo2UWtENF9TbkhhV1RvRnlQcDZ4eUNBaVZNWVEtRzVVdExWOXBDRnBXUjR4SHcyU0wwVnBtUW5fYnM3elJNT3ZrTjR5NE55b2JMUWdwczg0dHBvZTFQYS1faFc?oc=5
 
 
 ARTICLE 9 (Google News SA)
-Title: ‘Beautiful’: Rachel Kolisi emotional over Siya’s sister’s matric dance - The South African
-Source: The South African
-Description: <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUtnX0w0YVUya0d2VDJBVFd2S1UtWXpVSkhNRG1XNHh3cFcwNEJBZFBJLXoyYlp3SkdzYnc0S1hWRHoyZTZwOF82UU9ISldJbFBQemFoWm9Ca2s0U2dxNEg5ZXZwRFJ3NW5KdS1Ja0t5bHhfdGxTS3Z0bkJpa0ladmRYeXBBaUdkWmZZVWVseTAySlNxZkd1dTRaT1dwWXFDQXVtRnZBanRRQl9meWstRy1tUVpaYnZCaFh0Sk1lNVA?oc=5" target="_blank">‘Beautiful’: Rachel Kolisi emotional over Siya’s sister’s matric dance</a>&nbsp;&nbsp;<font color="#6f6f6f">The South African</font>
-Published: Sun, 27 Apr 2025 17:54 (SAST)
-Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUtnX0w0YVUya0d2VDJBVFd2S1UtWXpVSkhNRG1XNHh3cFcwNEJBZFBJLXoyYlp3SkdzYnc0S1hWRHoyZTZwOF82UU9ISldJbFBQemFoWm9Ca2s0U2dxNEg5ZXZwRFJ3NW5KdS1Ja0t5bHhfdGxTS3Z0bkJpa0ladmRYeXBBaUdkWmZZVWVseTAySlNxZkd1dTRaT1dwWXFDQXVtRnZBanRRQl9meWstRy1tUVpaYnZCaFh0Sk1lNVA?oc=5
+Title: Standard Bank is upgrading its ATM network in SA - News24
+Source: News24
+Description: <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFZUTjNqYzRBREtnZWZrbmd2bEplX0hmeEtqQlVuQU5DX0xsSzY5WHZUR2k0Ti1TT3FBSVhvUHhqQy1aOVZnd2JHSzl4dWlWb0dONmxId3M2WVUyTUIwb1h5V3JNcFJpR2RJa2VZOXl1YmVIZGUzUENoZ1IzbXFmWGw5cWpxTFpUR1pWMXloZG1SRkhJdHRaOXlvMmc?oc=5" target="_blank">Standard Bank is upgrading its ATM network in SA</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
+Published: Mon, 28 Apr 2025 15:18 (SAST)
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFZUTjNqYzRBREtnZWZrbmd2bEplX0hmeEtqQlVuQU5DX0xsSzY5WHZUR2k0Ti1TT3FBSVhvUHhqQy1aOVZnd2JHSzl4dWlWb0dONmxId3M2WVUyTUIwb1h5V3JNcFJpR2RJa2VZOXl1YmVIZGUzUENoZ1IzbXFmWGw5cWpxTFpUR1pWMXloZG1SRkhJdHRaOXlvMmc?oc=5
 
 
 ARTICLE 10 (Google News SA)
-Title: Steaks are high: The sudden squeeze in SA beef prices - News24
-Source: News24
-Description: <a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPN213VXpaSWxEMU93TkxiS2tiLUV2U0V1MENhOWN2al90dEx3bnlvbXFQeWgwbmYxWFZHYkdqa2xNYm83dkZZRGd1ZDZWamdWSG5MNEdvN0tpTUtFXzdkWkVfWG52VFdnZnJoUy1RTzZGenV4elZob3VKNDV3dlN2Nk1wQzg3VmZ2RXYxMzRnQVhGMDh0ZVFhNTBkOWcyRzg?oc=5" target="_blank">Steaks are high: The sudden squeeze in SA beef prices</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
-Published: Mon, 28 Apr 2025 05:32 (SAST)
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPN213VXpaSWxEMU93TkxiS2tiLUV2U0V1MENhOWN2al90dEx3bnlvbXFQeWgwbmYxWFZHYkdqa2xNYm83dkZZRGd1ZDZWamdWSG5MNEdvN0tpTUtFXzdkWkVfWG52VFdnZnJoUy1RTzZGenV4elZob3VKNDV3dlN2Nk1wQzg3VmZ2RXYxMzRnQVhGMDh0ZVFhNTBkOWcyRzg?oc=5
+Title: Former banking regulator Errol Kruger dies - BusinessLIVE
+Source: BusinessLIVE
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNMk40RTBEbDg2YllrTXBxcGIyNV92WWlLbHZYajdZY1ZudkVhSVRTTVpZZzBPTTRfT0ozamFLTUpDb1l1bGN1M2lnX3VLMHRYQUFKUEtNNF80dUg4cGIzcnpMdkxVV2lROWI3b2dQWlVReld4ZGpxeUZ2M2dDSkJucUp6RmtfRGhuZGdyblNEdW1CQkYzUlQxWUFJZnVKZ9IBowFBVV95cUxQTTlNaVowVE14RWNreTFXUUxWT2dqWVZ6V1NpX05YTUN1dlpNRmhwTnltQjI5RFFsSVVvd2ZfLWFLdFlZZk1pSHNGdmo0eUNLNEducjFtN05BZGFkZVdvVFU3VVB3OTdib2VXUXVpaHFjaEV5eW14aWZHTWhnOVYyUFJoZWh2c1FSSW5wRWlqdmhFbS1iQzNZUHBGMXF0aWU4aHdz?oc=5" target="_blank">Former banking regulator Errol Kruger dies</a>&nbsp;&nbsp;<font color="#6f6f6f">BusinessLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHJ6MDF5dFdKUWRHbUNLZDR1MUdOWmdVY2pISzdnc3NxdW5aMlpoMGUwNGlYZ2tvZXJ4MElkNTZXX3VlTE5TekxIR3BEMDRZRFJBb09HLTA3NzMzRWFadnVYRmt2UXZUZ0ZfeFBtMTc2M0daUWw5QTU5VnBlcFFnVHEtWVFyaTF1UUZQazlvcmdyMkRnTlB0eDhfZjJpeGU1QTVGUkQ3aFFoLV9VRC12M0F3T2k?oc=5" target="_blank">Former Registrar of Banks, Nedbank director, Errol Kruger dies at 67</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOcU5reW5xUWprVzlodHlaVWJhRjZrY20xaldHc0d2QW1OeXQ4aHpVQzdhMTRiTjE4c0dZTzdaQnliTHdzSzg1Wjl4Mzhha2FPNW1aZ1dUN3VwWEFhelpfQXRDQjh4MWRhT1kxZ01QemY0RFN5bEEycnRLOWZvbHpURWN4MEs0ZV9Oek5hci1oV3dyRG5vLWJINm00d3A0RTg?oc=5" target="_blank">Nedbank mourns the loss of board member Errol Kruger</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li></ol>
+Published: Mon, 28 Apr 2025 18:47 (SAST)
+Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNMk40RTBEbDg2YllrTXBxcGIyNV92WWlLbHZYajdZY1ZudkVhSVRTTVpZZzBPTTRfT0ozamFLTUpDb1l1bGN1M2lnX3VLMHRYQUFKUEtNNF80dUg4cGIzcnpMdkxVV2lROWI3b2dQWlVReld4ZGpxeUZ2M2dDSkJucUp6RmtfRGhuZGdyblNEdW1CQkYzUlQxWUFJZnVKZ9IBowFBVV95cUxQTTlNaVowVE14RWNreTFXUUxWT2dqWVZ6V1NpX05YTUN1dlpNRmhwTnltQjI5RFFsSVVvd2ZfLWFLdFlZZk1pSHNGdmo0eUNLNEducjFtN05BZGFkZVdvVFU3VVB3OTdib2VXUXVpaHFjaEV5eW14aWZHTWhnOVYyUFJoZWh2c1FSSW5wRWlqdmhFbS1iQzNZUHBGMXF0aWU4aHdz?oc=5
 
 
 ARTICLE 11 (Google News SA)
-Title: PHOTOS | Chery's double-cab Himla bakkie headed for South Africa - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzIyUkxFeEdUZjM4OUUxazlCRnFNTnZ0b0FhV1UybWNOYXJWV2Z6d1d5V3Q4STBHaUp1bVViYkh5UTR3QlRDdGoxbER3RXpsMlV0SVRhTE55MXlJTlhfN3h5YlpzZVUzaVoyOGR4a1dNNEREOEk2dUt5UW9acjNTZE5yUXljS3oyamt2WjJhYXhuaG9neUs0WlZHVWJXT1NKTkFDeUJqUks4X1l0LTc0VFUxemNDQ05DYVRLeg?oc=5" target="_blank">PHOTOS | Chery's double-cab Himla bakkie headed for South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPNk1mS1Fzd3FDclJQUHdWUFE5UzRHOVFfVFRVWEFqbUJGMDhxQVNxRy1pOUc3SmxoYmdHMG5oSWRyb3RQYjFsT2FaYWdSX0RtX01zXzJ4cHc5STA0dF9zXzN5U2FiejFEd3lGRWt3UEM4ZXRfS0VpZmJINGVmTHpkSFdOYXRTdGZtUUZtVFlMVU9MS2p2ek9nUWhjUFTSAaIBQVVfeXFMTWdiakFDRy1DMm0xakdhanc5MzZCZExUaUZPWVoxbGRNWFdCSFJxY1V3enVISXc4WGRvSzl6ejM3NU5BWmpkYk5UNmxkZWdOSHc2V0tQeGRSSUhlUzk5NDVnaGkteGx1dXpOLVZGdWVFOGVZS3VPUVpkVG9ocU1saHFQRGs0UUpRODgzX2R2Q0hvTHp2a3h6YlNhak0yV0pJVzBR?oc=5" target="_blank">Chery launches Himla bakkie brand in Shanghai</a>&nbsp;&nbsp;<font color="#6f6f6f">SowetanLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNYl9JY1UwZExNN1Qwc2ktTXMtU2tKZEZkZ3RzVFBSNjBWc0t1OHpJaEdJRDkzYmJUeFczX1A3Q2lUU2txclFyaklQRTVWU0toYTRSWHhza1ZfT3BzWGltSUFvWXhJU25PYVBhUlVicTlUUlNoTlU1dThFY1pVaHE4NlE2eU1QcFVEUE1WNGRIbXUtSmZfQ2c?oc=5" target="_blank">Chery Confirms Hilux Rivaling Himla Bakkie for SA</a>&nbsp;&nbsp;<font color="#6f6f6f">carmag.co.za</font></li><li><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRTNBeVBhMUlqeDVoU25CQjNFSFc4Wnd0VFVwQWpjLUxOMGlMZ1RMMzQ3YUpPVDJaY3NDVmpPYUhvV3RTb215TXJpdk5oTGVEMFBpVGd1MUs4SmZtMmfSAWZBVV95cUxPSFZJSmYtaE9US1ZZT3h3dm1hN0ExSHppU0VjbTRrTlhoaEFzQldFbDhRT2xyeHBhcGR1MUxva2hmVG9XdDJjZWZjSFFDdkM0bnExcGN4YXRJNUg3SndwakhjWGQxcFE?oc=5" target="_blank">Chery to launch major hybrid offensive in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVFtYkpWWlpxT08zUFVKOHFKMVBxLTRYQW5IazU2NmZhbEdpSDY3Z2F3eUM1TUxMRWt4aGlOZ0JqQ3hNMXZvT0VJYjBsSE5ORGt4T1hXeVlTWTQ1eG5mSnRtLUxJazhsTFFtSUV1cUxHbnF5emRsVlVHTzNFb0VDZHEwVHNhallwSHc2VXR4OUVFa2loYWdIVHhHZkxXUl9KbzU0?oc=5" target="_blank">Chery Launches New Pickup Brand To Rival Toyota Hilux On Global Stage</a>&nbsp;&nbsp;<font color="#6f6f6f">Carscoops</font></li></ol>
-Published: Sun, 27 Apr 2025 20:11 (SAST)
-Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzIyUkxFeEdUZjM4OUUxazlCRnFNTnZ0b0FhV1UybWNOYXJWV2Z6d1d5V3Q4STBHaUp1bVViYkh5UTR3QlRDdGoxbER3RXpsMlV0SVRhTE55MXlJTlhfN3h5YlpzZVUzaVoyOGR4a1dNNEREOEk2dUt5UW9acjNTZE5yUXljS3oyamt2WjJhYXhuaG9neUs0WlZHVWJXT1NKTkFDeUJqUks4X1l0LTc0VFUxemNDQ05DYVRLeg?oc=5
+Title: We saved over R1,100 in a month by switching from petrol to electric - MyBroadband
+Source: MyBroadband
+Description: <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREotQWNYN2FndXBzRmUzV0xiMmRoS3BiVVlVQ0FjQXFfTG5DVnZhd0xuOFdTTFlYTEZoX1prT2gyZklYeEZkMmNKOF81RVByaW5jTmJUakJIQnN3M0k0azVuQU9tQzdqV01rZFpmaWpkdTRSR3prM283U2M0anVJck5wZWhLVXFySGpLc1dYaGE4czBMcWl1Vm1KSzFHeEFTeVRrME8xTFI2YnVXMWt1THhiNlQ0VzNmWVJj?oc=5" target="_blank">We saved over R1,100 in a month by switching from petrol to electric</a>&nbsp;&nbsp;<font color="#6f6f6f">MyBroadband</font>
+Published: Mon, 28 Apr 2025 18:00 (SAST)
+Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREotQWNYN2FndXBzRmUzV0xiMmRoS3BiVVlVQ0FjQXFfTG5DVnZhd0xuOFdTTFlYTEZoX1prT2gyZklYeEZkMmNKOF81RVByaW5jTmJUakJIQnN3M0k0azVuQU9tQzdqV01rZFpmaWpkdTRSR3prM283U2M0anVJck5wZWhLVXFySGpLc1dYaGE4czBMcWl1Vm1KSzFHeEFTeVRrME8xTFI2YnVXMWt1THhiNlQ0VzNmWVJj?oc=5
 
 
 ARTICLE 12 (Google News SA)
-Title: The South African town where you can pay for almost everything with Bitcoin - MyBroadband
-Source: MyBroadband
-Description: <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNS01lNUdFaF90TFBRa2xTaERLMUl5c1BabmtnSXNDejloQWEyWXlBVmdpalpDaWYwcDhJbzNiYW9yb0ZzaC1mMXFQemhrZjFZckVIc0Q2QmhsREtTOEt2WVNfbVd5X05feF9aZWhPVlpRZFo3bTVnRzZLQkZReUs4UHYxOWtHNHgzcDNEVnB3V1dTSjZSbkRQWE5TRlhidFA0MnJyMUM2NWhrQkdVeXE3M1ZrSWx4bnBsOWZ3cmpMQzQyQmpFcmFZZk93bV83Zw?oc=5" target="_blank">The South African town where you can pay for almost everything with Bitcoin</a>&nbsp;&nbsp;<font color="#6f6f6f">MyBroadband</font>
-Published: Sun, 27 Apr 2025 16:15 (SAST)
-Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNS01lNUdFaF90TFBRa2xTaERLMUl5c1BabmtnSXNDejloQWEyWXlBVmdpalpDaWYwcDhJbzNiYW9yb0ZzaC1mMXFQemhrZjFZckVIc0Q2QmhsREtTOEt2WVNfbVd5X05feF9aZWhPVlpRZFo3bTVnRzZLQkZReUs4UHYxOWtHNHgzcDNEVnB3V1dTSjZSbkRQWE5TRlhidFA0MnJyMUM2NWhrQkdVeXE3M1ZrSWx4bnBsOWZ3cmpMQzQyQmpFcmFZZk93bV83Zw?oc=5
+Title: Trek 1000 SL - Shimano Ultegra - Carbon Fork - Bike Hub
+Source: Bike Hub
+Description: <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQUUdhc0xEUWE4RUdXWFRIaFRydjA4SUZST0RpZlBGYkpKR3ZzQy1ZbjB5clZ6eWpzbHc5RGlwaXNBdm1KSmV2cF9qWmQxcnEwZ2IxQ1ZDbG5FSlpuZ2ROVnFFeFBUT0g0OXphckRzaldKLTNtanRJbm16TXFvNUM2cmFaSGE5cU4waVV6dGN6am11aEpZd0R4aUdwcWt3UQ?oc=5" target="_blank">Trek 1000 SL - Shimano Ultegra - Carbon Fork</a>&nbsp;&nbsp;<font color="#6f6f6f">Bike Hub</font>
+Published: Mon, 28 Apr 2025 13:29 (SAST)
+Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQUUdhc0xEUWE4RUdXWFRIaFRydjA4SUZST0RpZlBGYkpKR3ZzQy1ZbjB5clZ6eWpzbHc5RGlwaXNBdm1KSmV2cF9qWmQxcnEwZ2IxQ1ZDbG5FSlpuZ2ROVnFFeFBUT0g0OXphckRzaldKLTNtanRJbm16TXFvNUM2cmFaSGE5cU4waVV6dGN6am11aEpZd0R4aUdwcWt3UQ?oc=5
 
 
 ARTICLE 13 (Google News SA)
-Title: First two wind farms of Bid Window 5 finally feeding power to the grid - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVZQeGVFY2U0aXhhSWtOUmhJSGR3aFpYS0RTd3V4aWF5cThsdjh5VEI5VG9oRXlmM2xPYVhjbVZUNUh2SFREQ3doTGxEZTV6WDU3aW5OS2x6RVhzX19sSE43cW5kMVBkVzdCTm5VRkt3U3Byamt0Mktsc3hFQWpsYkUyZmdGSjJmSmRKSXZwc3Y0SDB2MGpXRXBPV3Vib3lFMGJuYnd5OGJHcjl0UFVZdHN1UXFrZEJZdXB4NEhJdE1PNmtIY3owMHp3?oc=5" target="_blank">First two wind farms of Bid Window 5 finally feeding power to the grid</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOS01yLTlrQjl0NEpSTWIzdmpRRGhRSFJKdkItOXZVclhOenZuaWhmQmphVUd4cGhKRHRjNDZueHV3bVdHdHFQdzBFbGhjb09PYkhpVDI4endUUnJDQ2h2NFI4Z2FBOGF0aWxMaEFVYzczRDhzd1E4Z3o2Zi1rMDJrZXNoeWl6Z0J1d00yZDVnUVdoaUhjQWNMRXM4QXhYUXJtTDFIM1I3dVZ2aHZfUTZFWGdR?oc=5" target="_blank">Red Rocket starts operations at 144 MW Rietkloof Wind Farm</a>&nbsp;&nbsp;<font color="#6f6f6f">Engineering News</font></li></ol>
-Published: Sun, 27 Apr 2025 14:41 (SAST)
-Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVZQeGVFY2U0aXhhSWtOUmhJSGR3aFpYS0RTd3V4aWF5cThsdjh5VEI5VG9oRXlmM2xPYVhjbVZUNUh2SFREQ3doTGxEZTV6WDU3aW5OS2x6RVhzX19sSE43cW5kMVBkVzdCTm5VRkt3U3Byamt0Mktsc3hFQWpsYkUyZmdGSjJmSmRKSXZwc3Y0SDB2MGpXRXBPV3Vib3lFMGJuYnd5OGJHcjl0UFVZdHN1UXFrZEJZdXB4NEhJdE1PNmtIY3owMHp3?oc=5
+Title: The WPRFU 'circus' is in town - Rugby365
+Source: Rugby365
+Description: <a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1fSi1jNlR6SW1PbG5NYTFzOG8wZnVnZlNoUHVYcGNyTERFZC1kekg0Q0ZocUUzZFJjU29qa1phYkxmYVpIOEY3YURtemE1WDlVRThDcnRMdGRPTnFxUkR1Z3Q0OWZhRzZfSlhPMEdmWUJ0NlE5Tm1kSVJveFA?oc=5" target="_blank">The WPRFU 'circus' is in town</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugby365</font>
+Published: Mon, 28 Apr 2025 17:05 (SAST)
+Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1fSi1jNlR6SW1PbG5NYTFzOG8wZnVnZlNoUHVYcGNyTERFZC1kekg0Q0ZocUUzZFJjU29qa1phYkxmYVpIOEY3YURtemE1WDlVRThDcnRMdGRPTnFxUkR1Z3Q0OWZhRzZfSlhPMEdmWUJ0NlE5Tm1kSVJveFA?oc=5
 
 
 ARTICLE 14 (Google News SA)
-Title: The Return of the Rankings – after six years - Rugby365
+Title: The Return of the @rugby365 schools rankings - Rugby365
 Source: Rugby365
-Description: <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOQkJWNVRJMjhnWjRkQkxYRVJSWHF5TENYQ3o3Q1JHRlNBcEEtRGpDX3p2SkdOM3I0eDdOZ2doT1pjWkpVZ0kxM0lnT2lCQjFwanB5Zy1jTVZhbXlfcXlybVl4OEhWOU55emJQdzdMeFNxSVdPb1ZsRlRxUWI1cDlZdjREN1dJdHc0OUZHbm83bk9jQ284MlE?oc=5" target="_blank">The Return of the Rankings – after six years</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugby365</font>
-Published: Sun, 27 Apr 2025 09:36 (SAST)
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOQkJWNVRJMjhnWjRkQkxYRVJSWHF5TENYQ3o3Q1JHRlNBcEEtRGpDX3p2SkdOM3I0eDdOZ2doT1pjWkpVZ0kxM0lnT2lCQjFwanB5Zy1jTVZhbXlfcXlybVl4OEhWOU55emJQdzdMeFNxSVdPb1ZsRlRxUWI1cDlZdjREN1dJdHc0OUZHbm83bk9jQ284MlE?oc=5
+Description: <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPcklQNUhQR0dPX1diLXZNU3lBRklfNUpHWEcxd3Q4RmJIOFVabjdvTmZwaEJOYkdwY2ZqeVlONkN2UkY2RzdVWE43d1VsUWFQdVNfcXVrVkxybnZ5TDZmREkwSklzd3NvLXlXcHRlRExMRHF5Y19IWkpGSGxnVFRRbzgxOXpoRlplRmNFZlZqMm55Nk0?oc=5" target="_blank">The Return of the @rugby365 schools rankings</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugby365</font>
+Published: Mon, 28 Apr 2025 09:05 (SAST)
+Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPcklQNUhQR0dPX1diLXZNU3lBRklfNUpHWEcxd3Q4RmJIOFVabjdvTmZwaEJOYkdwY2ZqeVlONkN2UkY2RzdVWE43d1VsUWFQdVNfcXVrVkxybnZ5TDZmREkwSklzd3NvLXlXcHRlRExMRHF5Y19IWkpGSGxnVFRRbzgxOXpoRlplRmNFZlZqMm55Nk0?oc=5
 
 
 ARTICLE 15 (Google News SA)
-Title: SA suspicious after Fifi Cooper goes on tech shopping trip weeks after Naledi Aphiwe's theft iPhone accusations - MSN
-Source: MSN
-Description: <a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxPRGo5ejU0R2FKbVZzNGEtemotYjl0Q1dCbGlXeUZmSVBHTmZJOF9icU9rSDcySE03ZXdqYllkOTRPQ0hBVVdWa2NPZldGeWNkRFBOc3dDWFVUcnhqOE8tNWpIUnFFN0xUNC1HR2lSTjBnN2RhcVd4b09pMDBRMXFQbFhEWG1KT0N1TlVzMk5adENVbkpFSnZHMm1NZldzY3EwT0FPSlk5TFhpMWNUNTAwM3BmN1Y3azFtVXlhUzVhWlVJM25UM2k1d0dWMXZGT2hWbG92dUNtYlBObUROU2xqajJfdE5oWUFwQ1RxQWJ0VU5PTlk2NlJTSEVxaVh3bXp2eWYzWGgtWW1ReEl5aW0wb3laYW4?oc=5" target="_blank">SA suspicious after Fifi Cooper goes on tech shopping trip weeks after Naledi Aphiwe's theft iPhone accusations</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font>
-Published: Sun, 27 Apr 2025 15:48 (SAST)
-Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxPRGo5ejU0R2FKbVZzNGEtemotYjl0Q1dCbGlXeUZmSVBHTmZJOF9icU9rSDcySE03ZXdqYllkOTRPQ0hBVVdWa2NPZldGeWNkRFBOc3dDWFVUcnhqOE8tNWpIUnFFN0xUNC1HR2lSTjBnN2RhcVd4b09pMDBRMXFQbFhEWG1KT0N1TlVzMk5adENVbkpFSnZHMm1NZldzY3EwT0FPSlk5TFhpMWNUNTAwM3BmN1Y3azFtVXlhUzVhWlVJM25UM2k1d0dWMXZGT2hWbG92dUNtYlBObUROU2xqajJfdE5oWUFwQ1RxQWJ0VU5PTlk2NlJTSEVxaVh3bXp2eWYzWGgtWW1ReEl5aW0wb3laYW4?oc=5
+Title: Call for MacG’s podcast to be shut down after he insulted Minnie Dlamini - sundayworld.co.za
+Source: sundayworld.co.za
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnprclIyX2NmZk5ZRE5qaGNhdGttYWdlUFFiYUVtOFBfQVB5VHd6dkZrNVdYTW8ySWFqby1uZ0JrZHk1cFhOZVQyc001QW80cHJLS3VnYUYyWTRxTE9jVGVSSi1yRUdMQU1BVnBTdXAyTUlqWENXUll4Y1NiV0piUTFLSHU2WHJYa2t6LXdQSkFrX3o5RmRTYkFLMXVjRGZfXzZtNVE5SVRNYzdWamRLUFZ6dw?oc=5" target="_blank">Call for MacG’s podcast to be shut down after he insulted Minnie Dlamini</a>&nbsp;&nbsp;<font color="#6f6f6f">sundayworld.co.za</font></li><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHhtTWMydlZSZWg4MXVOTm5JV2ZYbmpqTDNYNUtyWFBuMm5KUmhvc2ZlYWhqa3U0dWZNTXpJQzg4aUZaSUhhS2E1dlBmc0dhR3VFZExNa25jd29Jb3RvcVd5RWxTVDd5Zm1HVmozY3RIVVMzbDNIMlBJb2RjV2NEdDRBMmFuMS11RzlDWTgtVWxiLUwyeEVCa0Q4VlV4QjJJZVkyYXAtd09ZdTVBQUIwWUdyUjdZX1lIQmpwNQ?oc=5" target="_blank">MacG under fire for misogynistic remarks about Minnie Dlamini</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1VwUFpHSk9mRjhwRlkzdzFCaUNzcnhkWV95MllqcnFPTnRqMXBudVlhTm9RZmFNRjJvb3FkbldZU1RDc2toWjFZTDhvcjhVMzlocFZMd1UxdU01RUYyMWhpVkxSZ3AzRnItZ1JRNTI4TFVUNmlyLTJQVDRBSjNJbHhHWlRPZER4UTJMSkFsUFZiODBrRmdMWWVTX050OTJvRjA5bVRmRDFLaWJJNVhrWkhNRlhGTVVtdklqLWJlTlc2dnRUQjhFX18zTzRZQQ?oc=5" target="_blank">MacG under fire for insulting Minnie Dlamini after her breakup with Dr Brian Monaisa</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOVzVyY0lSb2dOY245aEpmSXljUmdzbEpHUU1Mdmh0N2pYWWwwb1Vad3o1QjROeWtSamtmUDI1LThsTkFvanZhTEtaUUFCV3RHaXR3c0FPRnpEUVJhMkpva0tqdTFMMTdNM0RVZHhGRGdURU1wTk1hdkh1cV8xNkgydjV1ZFIxM0ZXTVJoTHktU1p5cXNLby1XdGNxUEtROUZOLS1PUWpIbWEwN3VnVjk5MXhkdktBSG5xNDNVYVBndkVod0E2M2hnTDF30gHPAUFVX3lxTFB0X0VyRk9ETHBwNzVzdnNSY2xnUHY1a25yNS1YZkdMbVlZbThwQXJHVzhFck5kTFQzWWhMcUJ1Y2ExOE1BeFFISFlYT0VkQV9ua2xsdFNybTJkTEVFUmljcnVWcDh0RUxPSWhTdUQxT3JILWF4aXk2WENUd001RXBqU3dXNEpIekJuZHZGemJaRTRVSjg0NTJXYnp5QlhfdENBRU5NOHZUM05XZXZrNERHMGxEMUtIenlxRGlNcGpCQ0hsWDVIUHAwdGFtM1BEdw?oc=5" target="_blank">WATCH | 'WTF': Minnie Dlamini slams derogatory comments after break-up</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font></li></ol>
+Published: Mon, 28 Apr 2025 12:26 (SAST)
+Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnprclIyX2NmZk5ZRE5qaGNhdGttYWdlUFFiYUVtOFBfQVB5VHd6dkZrNVdYTW8ySWFqby1uZ0JrZHk1cFhOZVQyc001QW80cHJLS3VnYUYyWTRxTE9jVGVSSi1yRUdMQU1BVnBTdXAyTUlqWENXUll4Y1NiV0piUTFLSHU2WHJYa2t6LXdQSkFrX3o5RmRTYkFLMXVjRGZfXzZtNVE5SVRNYzdWamRLUFZ6dw?oc=5
 
 
 ARTICLE 16 (Google News SA)
-Title: Cape Town's CBD set to host the vibrant 2025 CTIJF Free Concert - IOL
-Source: IOL
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOVi1BOUZjdnBZRkI3YVphSmRHVWxpbFI5V0g1Wkl4NFR4cnU4UDg0Y1hqbEctdk1Ra1hXRDBTZmduWkhGYkhTMUduYnVaeWUtQ3BjZ2FmM1Axb3B1dXotVFVkMlgtaXh0UHJqUzdnOWdjV1UyRl9nR3hvbkVoZnFxMnpIc2l5U2U1OG9mZ2kwOVc2cVBjanZ2THQ1QTNnakRrYmNJa1d4cWd2RVNoNlBhdzliaEJsbWQyMlczX2RmVWY0bW11S0o2SzBB?oc=5" target="_blank">Cape Town's CBD set to host the vibrant 2025 CTIJF Free Concert</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQT1JqS0RyQ2dXN1p6S19lQ0VwaUJrcWRFSDNhRjhWWlNrcjhURjhSb29kbWRKQ3JGdWNRSnlyZzlXd0tkekl4OHBCeWR2Q1BTSVMwVFkzOEpmYUpCSUNlQi1PUExCNThNUVN0TDdha2ZrbmdRR195YURXZFhES3VCc1dpWjNZLXVTSmFMNmN3OG5EMU0wLXJ1cUJJWXBEUW9KRHVRamotMFNnd3psbkNSNjdpVnNGNjZzdDFrQkF4alpMMHJfT1B0UG5NenNTNmM?oc=5" target="_blank">WATCH | Cape Town Jazz Fest: Where local flair meets world-class performances</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlV0WHBQTmRNWGlJSG4tLW1abGpSWlVxSVVFb2lncjd2aVZuZ0V6SDNKMy1oc2oyTjJXT29TSzV0ellQcU9uYUY1RnlwOEZ0REsyWlpua1pWdUo3bTRRUUlaX0kyUWFPOTZCMkpZSUJKTjBIbUFuQzd4YWZhdTZ1aDJoQUd5LTAwZ1lyTnJTX0NySHp0QUFtc3ZYWHRnN05Qd1o4?oc=5" target="_blank">Cape Town International Jazz Festival has officially come to a close</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVBRT3hvLU5tQXVjaFNSeEZPLWFXN0lITUtneGZoWVdycUlrcF8tWnExNmVHcXUyUlZiUHFWTjliOEh2YUlZVTBQQ0UwYUcxaFNzZEw1dXlob202WGRscGxjLWtzNlk3UjZPRmJnSk0tODZUbGZOeTRFSnBxc1lyTjJaRnp2ZlhRakM0NlJFZVFrSE5xZlJHamdJQTFCVFVMb0l2ODM5bWN5NmFmaFR4WEJR?oc=5" target="_blank">It's a wrap: CTIJF 2025 remains Africa's Grandest Gathering</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGtkbjRuVnBlMUppdlNvNHpEcVNENmJYODg0dEh3UUw4SjlGdFJGTE4zZldGX1VjdjZJMGpnRGMxVWgweEdmcTRVN2VUNExJNWZGeUhORXota2JlVjZVMFhDQjctVWZwdk5udzdDc1ppVnExTF9DZ01CTnRzUUpkc2JXUFF5UUk3aERkWF82MlZBWlJsVG9OeWdVQm5EdVVhc1VrQ1JmY19lQk5FUUtUcGJRQ1JMTmFFSkw2YlRXSmwyeU9iemtDamxjU1VUdw?oc=5" target="_blank">Jazzy affair: Renowned Russian saxophonist, Igor Butman, wows jazz lovers at CTIJF 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font></li></ol>
-Published: Mon, 28 Apr 2025 04:19 (SAST)
-Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOVi1BOUZjdnBZRkI3YVphSmRHVWxpbFI5V0g1Wkl4NFR4cnU4UDg0Y1hqbEctdk1Ra1hXRDBTZmduWkhGYkhTMUduYnVaeWUtQ3BjZ2FmM1Axb3B1dXotVFVkMlgtaXh0UHJqUzdnOWdjV1UyRl9nR3hvbkVoZnFxMnpIc2l5U2U1OG9mZ2kwOVc2cVBjanZ2THQ1QTNnakRrYmNJa1d4cWd2RVNoNlBhdzliaEJsbWQyMlczX2RmVWY0bW11S0o2SzBB?oc=5
+Title: Beloved maskandi singer passes away - Daily Sun
+Source: Daily Sun
+Description: <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWlE3SzEtMkRtUzJGeTQ3UFExNjIteVcxbDg4OUJ2NW00V0s5UUpwUFo5cTEtSFJCM1kxRVVHQ1dSUXZrY1JhYmYwc1NGbm44bkw4aHJBOVNxVXZhcVM4azJiNHI2cHgzWlI4NTUzQXhRSy1JNzR2T045TXpITEVSU25kV0FEZVBTd0UxX09HdXhUNXVYQnNKUWtUbzViTktveGlrZGwzLXctMkkxMnBLSWdncFpLd0tnRTNkdmJiTk8?oc=5" target="_blank">Beloved maskandi singer passes away</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Sun</font>
+Published: Mon, 28 Apr 2025 10:05 (SAST)
+Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWlE3SzEtMkRtUzJGeTQ3UFExNjIteVcxbDg4OUJ2NW00V0s5UUpwUFo5cTEtSFJCM1kxRVVHQ1dSUXZrY1JhYmYwc1NGbm44bkw4aHJBOVNxVXZhcVM4azJiNHI2cHgzWlI4NTUzQXhRSy1JNzR2T045TXpITEVSU25kV0FEZVBTd0UxX09HdXhUNXVYQnNKUWtUbzViTktveGlrZGwzLXctMkkxMnBLSWdncFpLd0tnRTNkdmJiTk8?oc=5
 
 
 ARTICLE 17 (Google News SA)
-Title: South Africans must say goodbye to last Afrikaans show on SABC 2 - MyBroadband
-Source: MyBroadband
-Description: <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQbERzZC1CeGdQRmc5dkFhMDFXYmlSUnozZE5RNVZCWHl1UnNhbWQ2b0RmaHpTTlItT2RDRGRZdmlYc241ZlNCOUJRa2UxYmM5Y2d1ek5tWThyTFNHZzAybHBGTzQ0NzZlYzFSYkpKbEdpOVVkUXg2QWJBZHBQQURDRXFjUHhSZnQ3aWdaSDVxR29xWWJocGx1aVpMWWhrODBqV191VDhGNDBMa0ZVUWhKRmd1QWw3RzVSMGJiNA?oc=5" target="_blank">South Africans must say goodbye to last Afrikaans show on SABC 2</a>&nbsp;&nbsp;<font color="#6f6f6f">MyBroadband</font>
-Published: Sun, 27 Apr 2025 12:59 (SAST)
-Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQbERzZC1CeGdQRmc5dkFhMDFXYmlSUnozZE5RNVZCWHl1UnNhbWQ2b0RmaHpTTlItT2RDRGRZdmlYc241ZlNCOUJRa2UxYmM5Y2d1ek5tWThyTFNHZzAybHBGTzQ0NzZlYzFSYkpKbEdpOVVkUXg2QWJBZHBQQURDRXFjUHhSZnQ3aWdaSDVxR29xWWJocGx1aVpMWWhrODBqV191VDhGNDBMa0ZVUWhKRmd1QWw3RzVSMGJiNA?oc=5
+Title: Here's why US singer Chloe Bailey spent two months in South Africa - TimesLIVE
+Source: TimesLIVE
+Description: <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMHVybmc1Um1lcnhTZW55ZVozVUJVRmFTSHY3RE5sMHd5ZXMxUFAwUUdGV3IzbzI5ai1nWWJrS0V5azhyNU13Z2F1WGVoUTY2dWRuQmNpTlJWTURvOHFEaHJLcGotdUdKbm5MUUtIemRhaVJVMV9iV3FmSTVQZ1NabVJXTTc5WjNJTWRtX3pQeHo0MG1zS2hxbVFqU05TeGpMZHg3MFpUTzJyTmdOcGZrWmlzMmxYcHZaQ205bXJkaG9KQmptQlROUdIBzgFBVV95cUxOLWtTVXltbThKNzQ0OXpHYTM3blVZT0MwaTQ4V3o0LVNzSjVSRzI3WHMwajd0Y29LNllpamhWalJySEdEY29JdXVCNGFVMlNCdGZpOEpiY3hYeHRwdmZ0RGZxbDB0YWh4Skt0OEhITzk3ajE3VHZXbUdJdkNSR0Jqb0s3V2xkYUEwTFp6YlY3S2g3UGN1VmtHTURQT01mRzhHNnhPeHhCSTZ6d1NpbU5sZ1AxZDhYNU9mZXR1NUl1N1pKVUt4UE9DLUtXdC1tZw?oc=5" target="_blank">Here's why US singer Chloe Bailey spent two months in South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font>
+Published: Mon, 28 Apr 2025 14:09 (SAST)
+Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMHVybmc1Um1lcnhTZW55ZVozVUJVRmFTSHY3RE5sMHd5ZXMxUFAwUUdGV3IzbzI5ai1nWWJrS0V5azhyNU13Z2F1WGVoUTY2dWRuQmNpTlJWTURvOHFEaHJLcGotdUdKbm5MUUtIemRhaVJVMV9iV3FmSTVQZ1NabVJXTTc5WjNJTWRtX3pQeHo0MG1zS2hxbVFqU05TeGpMZHg3MFpUTzJyTmdOcGZrWmlzMmxYcHZaQ205bXJkaG9KQmptQlROUdIBzgFBVV95cUxOLWtTVXltbThKNzQ0OXpHYTM3blVZT0MwaTQ4V3o0LVNzSjVSRzI3WHMwajd0Y29LNllpamhWalJySEdEY29JdXVCNGFVMlNCdGZpOEpiY3hYeHRwdmZ0RGZxbDB0YWh4Skt0OEhITzk3ajE3VHZXbUdJdkNSR0Jqb0s3V2xkYUEwTFp6YlY3S2g3UGN1VmtHTURQT01mRzhHNnhPeHhCSTZ6d1NpbU5sZ1AxZDhYNU9mZXR1NUl1N1pKVUt4UE9DLUtXdC1tZw?oc=5
 
 
 ARTICLE 18 (Google News SA)
-Title: Stellenbosch battle but fall short as South Africa's Fadlu Davids leads Simba to CAF final - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRE5zd2ZIcFI3Rjd6dEt0bjFFT1B1YkZxYU8tLVJTT3B5QnFMWEc3ZHB6bDZYR0lwckk1MzJqdTJHdTdESm1rU25RdHlEQm1YaTJrMFVuZXNfNk5RRklnUTJsN2o1WEIyR01tYlhpdmszam5mLUEybDR0Rl8td1Z5d0lnV2h3RURPc1E1NmE4VEYyMDFFOS03QWxyUWdNaFotNkRnTy1WSld6cFd4TW9zWWpsakxxbkVLbnI5VEdTdUNjTWJHVy13dVVCa2J6NmZnbGt6Rg?oc=5" target="_blank">Stellenbosch battle but fall short as South Africa's Fadlu Davids leads Simba to CAF final</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFFJNzU5U1RlWEFtN19PZ19uV212WXNiN05pTGNHREJFVl9Venp3WjdOLXpXOGVNc09uYndDaGo1VDJLMXI2dmxKcmF2SVhpbVYtcTNWY2hMcEJGSkFpZzIxa1BaTEp3Yy1ZV0FFMnVCaUF4LUFtZkJsenBOZnExTjNWQ2d5UGtNYzFsMkpDUEczQTlucXg5TFhrNWpXS041MFZTU0xhN3dJMUtHejVia2dvWUJfd29nUVdXT0ptLVVlRDc3UVRHN2p3Rkx5QQ?oc=5" target="_blank">Son of the Cape, Fadlu Davids, stands in the way of Stellenbosch and a dream CAF final</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0hNQUpCOGlTV3pUZ1ROeGZIei10UGc2MnlBbkpGZDJ2YkJRbFZMeDVyUXJBTEhyU3hZNG9BSzQ5UzVQemdOYVR2c0hobmNNbFdzZnV4UG9mWVBweXJqOHg2UFUwN3JUSGR3b0M5QTNvY3VYSWhxYlJIdEstV01lMkdWNEVrSUZaZ3BUdEpOZEtFUEtGbURr?oc=5" target="_blank">Fadlu Davids gleans wisdom from Pirates and Sundowns CAF games</a>&nbsp;&nbsp;<font color="#6f6f6f">farpost.co.za</font></li><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVXRLbVFmUVU0dlRyRF9jcTdDNnY2YXBrZGdLaWNrcWVteGJOeEZPRFcya1MzLVBkUjIwZ3JBMXV3dFFSNndTZW83UVlBMUU?oc=5" target="_blank">Stellenbosch eye CAF final as they host Tanzania’s Simba in Durban</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2xKSWIxSFhySEZYaEh6YUVSNEd4TDZLYi1MZlZLWW1CSjBycjRZNl9odlFQYkVPSEt1MjluMUlIR2pWNWVLRFRHdGU0SVlXSTZabGJVMGdfajBhVmpxX1lzVC1YNUFZem5WMVFtaV9XdjZHeE5vZ1NXdV8yaW96R0sySm85VndFVmFfeEJxWnBIMEl4TWlTczNZY19adW1fQjZTUGF0Zy1McmZCWmJLTjBmQTFCbUYwTFNZd1ZSLW1tWUxLclRSOQ?oc=5" target="_blank">Fadlu's Simba advance to Confed Cup final</a>&nbsp;&nbsp;<font color="#6f6f6f">kickoff.com</font></li></ol>
-Published: Sun, 27 Apr 2025 17:41 (SAST)
-Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRE5zd2ZIcFI3Rjd6dEt0bjFFT1B1YkZxYU8tLVJTT3B5QnFMWEc3ZHB6bDZYR0lwckk1MzJqdTJHdTdESm1rU25RdHlEQm1YaTJrMFVuZXNfNk5RRklnUTJsN2o1WEIyR01tYlhpdmszam5mLUEybDR0Rl8td1Z5d0lnV2h3RURPc1E1NmE4VEYyMDFFOS03QWxyUWdNaFotNkRnTy1WSld6cFd4TW9zWWpsakxxbkVLbnI5VEdTdUNjTWJHVy13dVVCa2J6NmZnbGt6Rg?oc=5
+Title: Jurgen Klopp sends touching message to Liverpool after Reds win Premier League title under Arne Slot following legendary manager's exit - Goal.com
+Source: Goal.com
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1hpX1cxdGZZYmpXdVlHTTRIdFBES0V0NXhXN19zb1RRdnA3QnNCTWM1SnNrTU5sTVIxdFBhZ0s0QV9sdnlGQVZxdkhNNGZQWmNIRHhhUmlib093N1M2TlM0NkxFMGJxTnY5aDIyYzJaaUhmem5nUzBFc0pvNFpmcmVoSDBtOG02N0ctbWJjVmEwVUZyYmhoY0VJLThoN3pjUXp5SkVsanFxZE5sNHJMaXE2ZzJqeV9BUXR4dGNBYmoxZXpF?oc=5" target="_blank">Jurgen Klopp sends touching message to Liverpool after Reds win Premier League title under Arne Slot following legendary manager's exit</a>&nbsp;&nbsp;<font color="#6f6f6f">Goal.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmRVdqYlBoOEoySFNyaTZoNnJxRUhHNTk0YXlOY1ExQWVadFRGMkp0SGdxZGFFWFB2SFJCWjk1VHBWWlZuT1M0dURtRVJoeXdEZWlhemg4Ri1Rd3F6elY2OXdR?oc=5" target="_blank">'100% better than last time' - Reaction as Liverpool crowned Premier League champions</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZW95bldXYWpEc0QzTm5kUGdkY1FKWTNzYlBaRHNlR3FHUWJIbUlQejdCbkNQRndDYVpCd2YtcXV5WkIwRVhLRFRLdWc0XzcwV3hCcE5HamFrWUZ4b0VSRDlyUERpTWJzdy00dVhSTENIZFJQY1VkT3hmU0VDanFxSGJGajEzSngxM0lSUkZ0VjRuNjJnMzhtbjBWOEFkNFhoMjFhajV6WmdMTVBsOFRJVm5ib2FYY2FzUUp5M1o3X3p5RHRpMjJMb1BCYzRBdVZHTkF3SlE3TEh4Y3RkR25F?oc=5" target="_blank">End of an era or start of a glorious run? Arne Slot's biggest job begins now as Liverpool look to build on Premier League title procession</a>&nbsp;&nbsp;<font color="#6f6f6f">Goal.com</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmswNDVqazVsQk9mWXRZZTB0OVpxQXRuWExGZnRqaXZVQWQzUW9OOXZGV1ZKVUUtaFhVVF8tbU9qckNyS21vcW1WNTVIamtscTJ5Z2xUWS1SeWRzRXJIN1gwcjhLX0thWFlyUHJ5WWN2aDM3ejVyVWttbUtMNG5meW5Fa21JTWJua0dRU3BOd1lvMVRk0gGcAUFVX3lxTFBQcWlCU0V5TE52QTNxSzY0WEtKRDhmR2hPUm5FLUN5ODNHMjMxYlBCRHNSM3RNTWJUbDJBR0pwRFM1TVlWVWpUMy16OUVZVGEtc2oxd1pMZmZLQmtGT19ZYU1tSjVJYVhBSVVMV2JJazBzNnh4dUFKdnByOF9MbkdwaW13Nmd5bk1YdFBLRGNWMklQSm96UE9FeWlQUA?oc=5" target="_blank">Liverpool's Premier League victory parade confirmed for May 26</a>&nbsp;&nbsp;<font color="#6f6f6f">Liverpool FC</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPdjg1YnNTczVuR0tLSVZOM2RhUzdvX2U3bXBZVjhVU1ZCVUNqVWhvd2t2UnlQbVNqNzhtZmNOVk1RbGJuSXJwdFRkODFvZTdoc1Vzbk54SFVWWUdnVDBlV00xLTNucGdvdFdHc1hwSWZmTGdQVWJlMnJiTVZOZjhHQU11d2RBMjJzTUxlVHZLXzBBd3hIMG1LWVZBbGx6Z9IBowFBVV95cUxOQkJqaXJXT09FVzJkMFFjc2FHdERtVWZVbktqcWZ6Q2tsZUY4OU16T2RwNVR1Mnc2LVdETEpnelNKZU55Rk53dERWckR3VWZhMHAzS1ZKYXlBc1FUY01CWGFmVkRFbGRaR1I4M0lTS0xTcm1QcnBsLXRVR2I2QWY2N09ZakRTZUtYemwzeXNVNl9XOEtnUC1xMGtVNFM4M1U2U2dN?oc=5" target="_blank">Sir Alex Ferguson's reaction to Man Utd knocking Liverpool 'off its perch' as title record shared</a>&nbsp;&nbsp;<font color="#6f6f6f">Liverpool.com</font></li></ol>
+Published: Mon, 28 Apr 2025 18:09 (SAST)
+Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1hpX1cxdGZZYmpXdVlHTTRIdFBES0V0NXhXN19zb1RRdnA3QnNCTWM1SnNrTU5sTVIxdFBhZ0s0QV9sdnlGQVZxdkhNNGZQWmNIRHhhUmlib093N1M2TlM0NkxFMGJxTnY5aDIyYzJaaUhmem5nUzBFc0pvNFpmcmVoSDBtOG02N0ctbWJjVmEwVUZyYmhoY0VJLThoN3pjUXp5SkVsanFxZE5sNHJMaXE2ZzJqeV9BUXR4dGNBYmoxZXpF?oc=5
 
 
 ARTICLE 19 (Google News SA)
-Title: Arne Slot pays tribute to Jurgen Klopp! Liverpool manager sings legendary predecessor's name to Anfield crowd as Reds celebrate Premier League title win in Dutchman's debut season - Goal.com
-Source: Goal.com
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMipAJBVV95cUxQYjE3dHZWX3hWX1F5LTdhbW00X1Y2azMyRGFuUWNwTTZZMjd5WGtHT2hCbmpJckpQdDY5b0xKSmEtUnhvUUZGNHM4YzIzZC1VbUlxb3d6TWhWc0xGWklrQnBrc2F3Wm1BOE0xNmNfbV83T1Q1enBIamV0M3poejdQMXN2QXNDbXF2cWl0bjA2UHlhS2dVTHNNb1E4clRhWVVPZU8xZnhzbTRocXZCYV9QLU9uY2NHNXM4UkU4LUo4VGlGbHNBdzZJbkl5SGNIODV4NzNrYUNCcGVqSUFxM01VeFpDWlFTQmQxY1lScmJET1VraHRTelQyUHdIVEhDQkQzd2t4QzJBcFlXU21DOUhFNFBoYmRLSmg4QmNxQ21zbTE2VWF6?oc=5" target="_blank">Arne Slot pays tribute to Jurgen Klopp! Liverpool manager sings legendary predecessor's name to Anfield crowd as Reds celebrate Premier League title win in Dutchman's debut season</a>&nbsp;&nbsp;<font color="#6f6f6f">Goal.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hbnRzN2pVTTBZcTZtR1FfNzc3UjRJUTVIQlZtb1Q2VVROWFlTZUJXSmQ1bEVBZ2tDS3lkOFQteWhlYVBMVWZPTmR6Z3ZOdWtqWHVfZg?oc=5" target="_blank">Slot pays tribute to Klopp after Liverpool's title win</a>&nbsp;&nbsp;<font color="#6f6f6f">Premier League</font></li><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3dRT3FFZWhQaFNiSjd1OXdrMlp0aWk5QzNISEpTQTVEaVMxMjFNX3RUQ3RCU3FUWmtoUXNnVU5COTJIaFFQNzFhd09POFRMMEFUcm9rX2J3SHdMRWV4Y20zaERCMmJZODFOTEVnOTFNdmJaRS14SGhXRzlxYW5WYXl3b0RNVjlfakROMC1HaWdMMHp0eVNPRDFrQU5JZ01XT3lzakR4R2xhSmd6NW5iNU1Celd1NFlQSVRIOGNtemF4SVVtVEVoTU9TaWxjTnRpRzNqT1JJQzRGeFFsazhxcmExazNvYmVU0gHuAUFVX3lxTE5QUjN1bEFjNXZEekJ2REx1eGk5bzVfMFBYZDhYUDNjVDBuRFdQQ2ZtV2RNR2dTWEEzdkJlZDdSOUlpYkEtOGZuaTFaLTQ0anZnajdGY29FbjZNWnpNOFJpNmY4M2tRdUQ3blRWaWZ4UTQzcmtzMHo5X1RvZHdlcmxOSGxRTGVnZW9xQnpFVlJSeUhJMEZseVFqNHhBb1NLMGtLWlowQjF4RmtaaWY0akhlZkg0WGYwX2lyTHg5TTB2VGtCczBkaXJpVEpSWnJZVkR4U1JFQkFCZm9ya1JlWWlIS05LTG9vdEpNOWlUOGc?oc=5" target="_blank">Liverpool win Premier League: Arne Slot's side equal Man Utd's record of 20 top-flight English titles</a>&nbsp;&nbsp;<font color="#6f6f6f">Sky Sports</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEV2dG1PWnZpRUNrZURUZWx0TjlzMEZRcVVPV01SS29CWW1hcFBLN0ZWalR5VE11azVhbHQyNVctRHJqNDZDNURWS2RxbWVQdTJWNWZ1dHo1djVWeEY5TjNJbWNtcEYwc1VYUFJoZF85Q0pvaTBWa2h4cjRNS3pKVjE5cHAtdkJlcHdLUXNwZ0dNMTZvekhMNkZkZW9JZHRHV2xsVlpJMFkxaVgzTEQ4WtIBtgFBVV95cUxQWWNPbHJENzBtYzhzRkVua19iaGxxQkhYRHRySlI5RG5rM3pDRWZDb3JlcTRvZUUyLWxYNmREWXVnc1dPVXhYcVQ1T0N0UVNzeDJkMTFUQ0UwMlpqRjZCaWJOVXB2ZUx2cndKTUh2c1VMaXZCdkVqTlRjMTZHaVFCWUpzM213eENWOTIxYWxzSHVqNVNkdWZ3ZU9FeVRidVNqOHJRbERVeDctVXh3UVdwZ1ozdkdmQQ?oc=5" target="_blank">Liverpool ‘truly deserve’ to be Premier League champions, van Dijk says</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzVrS1J5OGdBaVdXZ0dRanFhTWR1NEdWcXRMSXdjUWFhcGNSejV0R0p6X0VISGt1bVdpY0JMSGJfZk1VZVpJZHcwVzl3VmlPUGRWRElLUXVDNkltMXdkQ2FrUWxXWE9GWThUQTVqb2xXeEJtbl9GbmF1MHZ0Y3pqQzFEZHg0Yl9rTVdqaU1BNXcwNjAxaWRpZTFwNWM2QXJOR3k0WTdR?oc=5" target="_blank">Liverpool completing side-quests with Premier League title long since inevitable</a>&nbsp;&nbsp;<font color="#6f6f6f">Football365</font></li></ol>
-Published: Sun, 27 Apr 2025 21:03 (SAST)
-Link: https://news.google.com/rss/articles/CBMipAJBVV95cUxQYjE3dHZWX3hWX1F5LTdhbW00X1Y2azMyRGFuUWNwTTZZMjd5WGtHT2hCbmpJckpQdDY5b0xKSmEtUnhvUUZGNHM4YzIzZC1VbUlxb3d6TWhWc0xGWklrQnBrc2F3Wm1BOE0xNmNfbV83T1Q1enBIamV0M3poejdQMXN2QXNDbXF2cWl0bjA2UHlhS2dVTHNNb1E4clRhWVVPZU8xZnhzbTRocXZCYV9QLU9uY2NHNXM4UkU4LUo4VGlGbHNBdzZJbkl5SGNIODV4NzNrYUNCcGVqSUFxM01VeFpDWlFTQmQxY1lScmJET1VraHRTelQyUHdIVEhDQkQzd2t4QzJBcFlXU21DOUhFNFBoYmRLSmg4QmNxQ21zbTE2VWF6?oc=5
+Title: A message from an Orlando Pirates official revives painful memories for Fadlu Davids - News24
+Source: News24
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1lNdm5ONkFFX2hUeksybjVPYksyS0VLZkFvWEFockJkeThmNzhjbVdtd0hkQ0lLRXRVOXByQ2tiYk5rRmtUU2hGM2pBVGhDaUVsREtCblNfcDBJQjNpOV94T1hWLUVFNEpIeXViX0pvYWplMVZ4Q0ttczVzR1ZSMC1mT1NNWFEya2xlZ1RZRDQtMnMwQU1rY01TNnpMRzNzR05TOVZNSG1xTE50eDJtdC1BOHZrZVpmdVZjQzFqeFM0YTRFZWVPamt6SFRtUQ?oc=5" target="_blank">A message from an Orlando Pirates official revives painful memories for Fadlu Davids</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQTE5Tb0VIMWdldWJ5MVgwcGVYaVNtOXphR29tNDZ0cXc3Rl8yYk9VYi14bUxmUFBadHBUODdCUHoyeE5SRGd2LVpKemxleTZuTTNQTTQ3MVJwTnBGRHF6WGV3MmVsWWR1MG8wNFFJTXdIN0JIS2NjRG1BQ1ZnOXpXQkE5SzdXRGEzTnc?oc=5" target="_blank">David Reveals Pirates Message</a>&nbsp;&nbsp;<font color="#6f6f6f">iDiski Times</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0xoMnM1aG1TemlFa0JjUEZVdFRKMEdQSTBsNjAtMi1hY0Q3R3JRM3h0WmJpTFBVVEpCT29tWThHc09CLWl1ekR1MGNodkJvS0otWU5MYlRvQ1JCc0ROeG5WbFZKcVdQT0tCV25YRHZfLXd2Um11M1RSOGpwNUN4RkpOOWpDN0FBLTlvUi0wdWdsVUlYamYwZkFKR0E2VmJXQi1EZWllSGtUNlU2ZkJsbGdDUVBkTUJJQ3I5S0R5MDc4Z2hCc0p6eGNBcWcxdw?oc=5" target="_blank">NEWS: Stellenbosch’s continental fairytale ends as Simba progress to Caf Confederation Cup final</a>&nbsp;&nbsp;<font color="#6f6f6f">Hollywoodbets Sports Blog</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXl0bndJem5haFp2b0hZNW5NSXNnQVl2bWZLYXJ6U0txdmVLZkh1VE50U3FvWGMtZFZ6YmIyeS1mMVNYOWxtZ2dDVnpmNExyVzJ4SWZPSHN4TkctcG0yNzhjQ19reW52VDNRY0dfQ0dsNkx6T3hZY1dfVFFBMXlYOHBOeHZ4bFN1dktnUTJtV1VRa2Rudk5zSG81WFN5bjB2Y0d5S2F4VVpJNHJsOE80?oc=5" target="_blank">Ex-Pirates coach makes history with Simba</a>&nbsp;&nbsp;<font color="#6f6f6f">kickoff.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMzBVbGFrWTBQVnM3dmdodUgydXpleTE5NzIwSTVVZ0VxYkZLZ0M4NEpiQ0RvckUyTzRqQjBRdzhiTjVMTVVLdERLYjhBUVgtZl85RkRaOFVUdWdWVXVoTUFONnNVNkxzbHdYZ0pxQVh2UkpWd3lMOThzYWNhb3AxTGhReldrZkp5VTh1cFJZbTZwdVRyWjEzcGx2UklMSW5FTHA3U08xUTBYMWNKaUt2aGg3QzlOWUU1MHZpYmhwQ3Zndw?oc=5" target="_blank">Stellenbosch FC vs Simba SC Preview: Kick-off time, TV channel & squad news</a>&nbsp;&nbsp;<font color="#6f6f6f">Goal.com</font></li></ol>
+Published: Mon, 28 Apr 2025 14:05 (SAST)
+Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1lNdm5ONkFFX2hUeksybjVPYksyS0VLZkFvWEFockJkeThmNzhjbVdtd0hkQ0lLRXRVOXByQ2tiYk5rRmtUU2hGM2pBVGhDaUVsREtCblNfcDBJQjNpOV94T1hWLUVFNEpIeXViX0pvYWplMVZ4Q0ttczVzR1ZSMC1mT1NNWFEya2xlZ1RZRDQtMnMwQU1rY01TNnpMRzNzR05TOVZNSG1xTE50eDJtdC1BOHZrZVpmdVZjQzFqeFM0YTRFZWVPamt6SFRtUQ?oc=5
 
 
 ARTICLE 20 (Google News SA)
-Title: Sparkling performances at SA champs highlight depth of athletics talent - TimesLIVE
-Source: TimesLIVE
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVdseEtJRUM5WHBibXliSTZXa1RSWWFrclRLdDFFT1dyNTR3WXZpRGxGeUZxV0dmVnhtNWgxUGI0dkxONjdKLXcyWENha0Y1T0hrMXdkUnB5TElZX1pHOHgyRjdKUktrU0ZDVlhWOGotbXF0MFlnMW5qMW5MUTZLNFl6Tm9SNnNBdGcwUWxpc3FwMUdLUUloRzV3azVTVTF1RHh6aE5yYzNpbmJudjR3dTF3WmtycGlBcnfSAb8BQVVfeXFMUGZZXzdaX1hZSUl0X3ZrNTVPN3RYWkExNm5NdU5hMkJtNl9GTzlHX0xoOUgycTJGdml3RU5USEwySjJrcWQ3THRBOWZsMEg4Z0lFcER4U0hRYnBSdUJJTnFVTEtpR0hhZ1prVGxUVjBDSUtCNEZDbUxNUmZLaElvZjFlZy14X0FmNkZZZXNFeWtBaVVPeU0zOEhUSG9rSmt1UW81eVRQdmg1azB6azdaSGRicU44bnFYUUM0b0d3N28?oc=5" target="_blank">Sparkling performances at SA champs highlight depth of athletics talent</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBOYjVZaEFGczA1a3ZiRy1MVF9wMng5YkFnQjY5RlJrVFNKMXJtR0diU0tGTFdCUnFDZkN1MnFvekNPSGJGbmhXSS1wa2d3ZjAtV2F6OTByV3pWQS1OanRIdkxwQzRucE8yajhaUHl5UTJLMFVfb0xleA?oc=5" target="_blank">SA Track & Field Champs: Day 2 in pictures</a>&nbsp;&nbsp;<font color="#6f6f6f">teamsa.co.za</font></li><li><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNkRKT2lLQ1h0V2Q2b1dmTjJDVUxWdkRmUGl1TmpPOUhvTXJwTU1RSjIxdzZNdjlVN21Pcy1YaXBrZk9vVF9xVjlrMlBHX0hJU0YtRzJQc29tbXdicVpVXzNIYk5pYnZOWXBUOFBJNlFuUGpqakZvcDVjM2JzUEE1dV8tZ2doLXpiTUxaZlpGTjlodGZ5TUlENzRmZ0xmb3FSb0laUE9QVzB6QWp4U1V6VmxkSzY1dTBPSHNVSnpiM2FIYjJMd0J4c25KVklFcWNhVk54U0pLZ0YzWDY2dDA2SWFqYTI?oc=5" target="_blank">WRAP: Dhlamini, Geldenhuys dominate 400m hurdles races at ASA Seniors</a>&nbsp;&nbsp;<font color="#6f6f6f">supersport.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGRtMWdQZzV5b1k3X00ySGJLRm9YTjNxQlp6SGlLV1F6UjlVNGNOQXktVVpIQjQ5Yk1jaFlCcW85N3lDcEM5dTB5ZnRDTV9rNFpSZEc3QUQyb3ZmUnhUa1lKVU13cjRUS1VxcElNbUR3TXQzaW5qQU1seEFobnhhX29jUmFDRVIyTzRQaGJleFJEQ1B2TkpmTDd6TXJkdmRVajV2alZUUEJ6UQ?oc=5" target="_blank">South African Athletics Championships 2025: Full schedule and how to watch</a>&nbsp;&nbsp;<font color="#6f6f6f">Olympics.com</font></li><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHhpSjFRQXUtc09SRWpmTzM3YjMwS0ZsWkNteXA2VjhOZU5mWVhuckRiNVpDM0JzUjFqd2VwVTU0Ulp6UlJoamFSR1IyUjZhRWxGcDZUTW5ZcUt6eFFkZ1FldldCTU84V3Z4WFhRUXh3cEF6M2JidWM3ZlZxX3lLTXdJT0ZwNUtCMm1JYnBFOXJpTnN3QVJOcDBwWDYxUlRuMDhHWmxYbkk3dUFNbXdIVG5vekZ6anQzaDN4Ym9LRllCaV9KcnBsdjVyRF9fNzdDV2hsa2VqSmd1dmJm?oc=5" target="_blank">SA Champs: Dambile gives late uncle fitting send-off, Nene stuns with jaw-dropping time</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li></ol>
-Published: Sun, 27 Apr 2025 10:38 (SAST)
-Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVdseEtJRUM5WHBibXliSTZXa1RSWWFrclRLdDFFT1dyNTR3WXZpRGxGeUZxV0dmVnhtNWgxUGI0dkxONjdKLXcyWENha0Y1T0hrMXdkUnB5TElZX1pHOHgyRjdKUktrU0ZDVlhWOGotbXF0MFlnMW5qMW5MUTZLNFl6Tm9SNnNBdGcwUWxpc3FwMUdLUUloRzV3azVTVTF1RHh6aE5yYzNpbmJudjR3dTF3WmtycGlBcnfSAb8BQVVfeXFMUGZZXzdaX1hZSUl0X3ZrNTVPN3RYWkExNm5NdU5hMkJtNl9GTzlHX0xoOUgycTJGdml3RU5USEwySjJrcWQ3THRBOWZsMEg4Z0lFcER4U0hRYnBSdUJJTnFVTEtpR0hhZ1prVGxUVjBDSUtCNEZDbUxNUmZLaElvZjFlZy14X0FmNkZZZXNFeWtBaVVPeU0zOEhUSG9rSmt1UW81eVRQdmg1azB6azdaSGRicU44bnFYUUM0b0d3N28?oc=5
+Title: Pirates legend blames Riveiro for Champions League exit - The Citizen
+Source: The Citizen
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmc4czg1ejlNS19HUEhYSWszNVBHTnVYMkNwQ0pTUEZGclFhbkptaU1CYS1USUE2aTFTREE4bHdLWmctT2YtZU9aRVdHcUtLMGNxZnJ3VDlTT0lxWUpLVEN0c3BSdFMxUTVqWEN3VmdORF9WZzVtRTZvWUwzWkl0c01zLUhNa2xIYzhLSjBqdURYZDlhYlNLNHNYaERxb3d2b2gzbjFnNEpSY0dI0gGyAUFVX3lxTFBiUzZuWHZPcW9FY1VwVkJZY2ZXWXQxU1E3QkJKYW10YnBEelZHSWc1cU1DLUtQbGVYbllOTUg2bFZQMDBVMzNEeGVsV0oxQmVoaWJzM2E3YU1mU1A3OGhyZFBqWFIyUnZnZEV1WEpOTWFxYkJpNDdsRk9NWXJRanM0NEZRVVdyN1ZIWXRpZ0FZdFhyMWQ2dzYzTmx3Y0dZNGZIbTJKVGFyM3Q3d2V2UlVZSHc?oc=5" target="_blank">Pirates legend blames Riveiro for Champions League exit</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZG9PcVREOGJ5TnNJMTA0a1NSN0FuU0JHcGYwVENmVVljemZkemVLZElCalhzbGZtN01jb0VpcFJoMW5jN0VSZE04VWFYeGYxSGh4UlR6QWdLblRsMmduVklZWVRDWVlNY0duR0hkOVkwQkw5RUM0TmVjalJhLXc?oc=5" target="_blank">Pirates Bow Out of Champions League</a>&nbsp;&nbsp;<font color="#6f6f6f">Orlando Pirates FC</font></li><li><a href="https://news.google.com/rss/articles/CBMitAJBVV95cUxOdDlib2FZS3VmSllNZ08tVHNPX3NzTnpOQ2FtbkpnZko3OUpIcmFXem5IQlhIeFBWalBXbTRLSzE2UW5HN19BUklTRHVYam51RGhwaElyUXlzXzdiNlFCTjY5YVVmbDcxak5BY3BKUnhfYXhpVlpVSFEzQU52QV9MYklYNVF3YktWb0FrUGNWMTNwY2lkTkJtN191cTh4aXk4eFBZQk54eWJ0WXY2STdaZnU4c1QxajFITmtVVEh3eURHelBfUWVZMGJybkZEZm1ZOWNweWtqSzNiaXFEMGJ3SFVLcEhyRDdTTGVnYUhoSDBwc0VBYTRfRDRIWmRZT0ltTk4yd2xTTGJDT0ZablZ0VC1iZzhodWxxZUVGcVoyZFJ4OFJkQldaSzJ3R0Q2VXBYLXh0cw?oc=5" target="_blank">Orlando Pirates' Caf Champions League exit blamed on Jose Riveiro - 'God gives you an opportunity once, twice and the third time it’s just never going to work out'</a>&nbsp;&nbsp;<font color="#6f6f6f">Goal.com</font></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHJtT2JVbzRCRk9sdjZDRmxLX0lwVGZpVHlvMUIybFltcFZucy1JRDBQRk5sZHJQVjVUQ2RiVm9WRTdHOWV0ZlJ0SS16cEFhSWxtZzE0Yjd5RlZrR1pxNTFVazhIdnVZQVlVWWhtMTRGTjZTTUNGYUo3d1pDcG5SdllramJBSDZYVEFIZjlGUFIwVTRNc1hlTHVnVVA0eFo2NFl1ak01U2oySTlTWnFR?oc=5" target="_blank">Mayele reveals big ambition ahead of Bucs clash</a>&nbsp;&nbsp;<font color="#6f6f6f">kickoff.com</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPSC0zRVVkbnNsUHNaQm51VUhMSUdPWjRkS1dzQWI2Yng3eG5FYUhIa2JyZ3NIVHh1QVJIbTdxbVEwQ0dnSGNoemh0cTUzYVY3RDhZVExkaE8tRS1jMzRtX24wUDJnRU40YXdXNTFJWm9WYzhxRF9XUHhmR0F0b3VnZktBWWI1VnFBcUVzcDQ5T0RQZmJHVmdvanBOTi1IM0swLTJCYzE0T1dPUG5aT3luVXhjSU1uaW5ZY2hyb3ZKY05VQ09p?oc=5" target="_blank">Pyramids Make Decision On Coach After Bucs Win</a>&nbsp;&nbsp;<font color="#6f6f6f">soccerladuma.co.za</font></li></ol>
+Published: Mon, 28 Apr 2025 15:30 (SAST)
+Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmc4czg1ejlNS19HUEhYSWszNVBHTnVYMkNwQ0pTUEZGclFhbkptaU1CYS1USUE2aTFTREE4bHdLWmctT2YtZU9aRVdHcUtLMGNxZnJ3VDlTT0lxWUpLVEN0c3BSdFMxUTVqWEN3VmdORF9WZzVtRTZvWUwzWkl0c01zLUhNa2xIYzhLSjBqdURYZDlhYlNLNHNYaERxb3d2b2gzbjFnNEpSY0dI0gGyAUFVX3lxTFBiUzZuWHZPcW9FY1VwVkJZY2ZXWXQxU1E3QkJKYW10YnBEelZHSWc1cU1DLUtQbGVYbllOTUg2bFZQMDBVMzNEeGVsV0oxQmVoaWJzM2E3YU1mU1A3OGhyZFBqWFIyUnZnZEV1WEpOTWFxYkJpNDdsRk9NWXJRanM0NEZRVVdyN1ZIWXRpZ0FZdFhyMWQ2dzYzTmx3Y0dZNGZIbTJKVGFyM3Q3d2V2UlVZSHc?oc=5
 
 
 ARTICLE 21 (Google News SA)
-Title: Mysterious Objects From Other Stars Are Passing Through Our Solar System. Scientists Are Planning Missions - Stuff South Africa
-Source: Stuff South Africa
-Description: <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQbTJsQmVSOEJ2S1IzVkh1TmdXcDZ6ekdJN2w1U2pCLVEzUUNvLVF4WE80VXhhRmZJamVqbVNNTDQwMWFBY1ZqX1VwTHZtZUpnbkVDekVncVhfOFZLbEZDM3RHTlRUXzl1aW9mMGRQVHlScS1ZWm1SaWRTTU1OOElzaNIBiAFBVV95cUxNNnpqYjVkMHVDdjlVVUdzZDFVM29pNXhOMWZKX0l4Z3g3TzZwanJLYnd6MV92YzZGQzIxam50YzNuWU5YbVE4SVRmRW51a1ZmbzZSTnVuSjhnWDlTT1hrZXd4MzU4YjdhWk5FLVZKRjhvVkgwVGRQZGxFUTFRLU1IWENndWVMZlZm?oc=5" target="_blank">Mysterious Objects From Other Stars Are Passing Through Our Solar System. Scientists Are Planning Missions</a>&nbsp;&nbsp;<font color="#6f6f6f">Stuff South Africa</font>
-Published: Sun, 27 Apr 2025 10:00 (SAST)
-Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxQbTJsQmVSOEJ2S1IzVkh1TmdXcDZ6ekdJN2w1U2pCLVEzUUNvLVF4WE80VXhhRmZJamVqbVNNTDQwMWFBY1ZqX1VwTHZtZUpnbkVDekVncVhfOFZLbEZDM3RHTlRUXzl1aW9mMGRQVHlScS1ZWm1SaWRTTU1OOElzaNIBiAFBVV95cUxNNnpqYjVkMHVDdjlVVUdzZDFVM29pNXhOMWZKX0l4Z3g3TzZwanJLYnd6MV92YzZGQzIxam50YzNuWU5YbVE4SVRmRW51a1ZmbzZSTnVuSjhnWDlTT1hrZXd4MzU4YjdhWk5FLVZKRjhvVkgwVGRQZGxFUTFRLU1IWENndWVMZlZm?oc=5
+Title: Super Earths Found Abundant in Distant Orbits Across the Galaxy - Space Daily
+Source: Space Daily
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczhoTW10YUpoSzNWS1lMVHR3RUhXZ0lMaEJjcU5lSWZpekFIX0E1Q19kcW5kRjZIbzhwU2NZaEVWX213b21TaVNLVldjdG1VR1pXNHpKR3h3ck10dDF0SnV4elBXRzlTLWg3UWw2SUVRbXltUWZ0VDN5U2VwUndsd3VEdHA5LXYxNXJVREdXR21KWlMyNnY2VHJlUmVSN1oxeFdHUjVoLWk0aDQ?oc=5" target="_blank">Super Earths Found Abundant in Distant Orbits Across the Galaxy</a>&nbsp;&nbsp;<font color="#6f6f6f">Space Daily</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBweVFGS29LZUZ1SFBvWHFHY09wUDZ3YkZQYUNKQWw2UGdoX1Q0Q3lzN1FUMGFrSHZkeHBaX1JrYWNROVQ4Y1l2VXVOSXJCYmc0dkJuMjJRdHZmRF9WTGI1eXE1MjBLX3hMbHl6R9IBa0FVX3lxTFBaZC14WE1iWjlSbWZ2ajhfS0JEX056Z0o3WFROcmxRQTRxSUpuNjlrN3hMOEp0Vjc1WHNFUXBveEwzQlRGWUhsYnNtaGluZkhteXllUUVXUDlkOUV2QW90RFJtdTQ3NE5Ua0JF?oc=5" target="_blank">Super-Earths are common outside the solar system, new study shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Phys.org</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWVGTU0zQkxnUzhoX3dyQVNQOXZtcGw1MmN3M0tITFRYd2p6UFZjNFNQcDRYNjVDZlZUZ1dLaG93T1F2NlIzQzFHR0tFNmhUNXNBcGdQTkpoX1BaaWotcFdaOFA4WUJtZFdTekJBdWhrNlAtdmZpUVR0VkxLeWdNYW5XdnQzdmpMSEFRMExDQjMxMDhNSGZJSjZNeEtjQVhwcjd5eHRsdmxRX1pUbGdHQjRSY2NRQQ?oc=5" target="_blank">New study reveals super-earths are more common than previously thought</a>&nbsp;&nbsp;<font color="#6f6f6f">Open Access Government</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeWtiQzdjWUdZbzVzNlo5SkxfQ2p0RVVJV0l0UHpZNGkwZE5lYnZMSFYwaDM2SjUxdDZteF9oaHpTdTRULVBsUXpzWjJyTks4SFJqbGtiX0xPUlRvX0MwUHpsa3JraklKSzdUbFVOWVV0SVJPVWFiUGhOUGJhbzVQTW9zempyczNzQXFuaGVWc2Vud2hlc0xjYml0VDFRTEZlTFZHY2JOZm43RDJPRktuWmNXSDlSTk1XS1Fvalk0akpJQlJFOXVuemhXUU9UY05QaUE?oc=5" target="_blank">Scientists discover super-Earth exoplanets are more common in the universe than we thought</a>&nbsp;&nbsp;<font color="#6f6f6f">Space</font></li></ol>
+Published: Mon, 28 Apr 2025 08:52 (SAST)
+Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczhoTW10YUpoSzNWS1lMVHR3RUhXZ0lMaEJjcU5lSWZpekFIX0E1Q19kcW5kRjZIbzhwU2NZaEVWX213b21TaVNLVldjdG1VR1pXNHpKR3h3ck10dDF0SnV4elBXRzlTLWg3UWw2SUVRbXltUWZ0VDN5U2VwUndsd3VEdHA5LXYxNXJVREdXR21KWlMyNnY2VHJlUmVSN1oxeFdHUjVoLWk0aDQ?oc=5
 
 
 ARTICLE 22 (Google News SA)
-Title: Super-Earth exoplanets more common across universe than thought: Study - Interesting Engineering
-Source: Interesting Engineering
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQenNoVVZxaS1uN3pWR0NBdUh0NFdkVDVCQ0hSTzR2c19ETG5YZExWUjhuc0tOQmFRVHpvNGVndlE2UjcwOGMzX2dvdWNJNjVqVU5pcWFsTDBpbHpWOHBSUlJBMm5WeUJKVkVWaFRHeVB2QXpoTEdQVDB2c3doNzFpZlZtYjY4b0s5QVRz?oc=5" target="_blank">Super-Earth exoplanets more common across universe than thought: Study</a>&nbsp;&nbsp;<font color="#6f6f6f">Interesting Engineering</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBweVFGS29LZUZ1SFBvWHFHY09wUDZ3YkZQYUNKQWw2UGdoX1Q0Q3lzN1FUMGFrSHZkeHBaX1JrYWNROVQ4Y1l2VXVOSXJCYmc0dkJuMjJRdHZmRF9WTGI1eXE1MjBLX3hMbHl6R9IBa0FVX3lxTFBaZC14WE1iWjlSbWZ2ajhfS0JEX056Z0o3WFROcmxRQTRxSUpuNjlrN3hMOEp0Vjc1WHNFUXBveEwzQlRGWUhsYnNtaGluZkhteXllUUVXUDlkOUV2QW90RFJtdTQ3NE5Ua0JF?oc=5" target="_blank">Super-Earths are common outside the solar system, new study shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Phys.org</font></li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmFiWE50dFNFcF9zNzBJQXl5bk5ES2dfZng5ZWl0S3ZsQVU4dl9xV2MybjdIVjhCOE9yWVR2WHF4WThFbjI3NGE2LTZpcWtIWXgxdVUxZjhiMW1ZWUxjRzF3bXJCczZfNnZsMVlsMldXN3ZiaW0ycWFYSHI2UVBody1xYkhFU0RKRE1Lb3FLVXpGeXFNa2FwRDNnVGg1cnVqVjVoTWc4cFE?oc=5" target="_blank">Scientists find Earth-like exoplanets to be common in the universe</a>&nbsp;&nbsp;<font color="#6f6f6f">The Brighter Side of News</font></li><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeWtiQzdjWUdZbzVzNlo5SkxfQ2p0RVVJV0l0UHpZNGkwZE5lYnZMSFYwaDM2SjUxdDZteF9oaHpTdTRULVBsUXpzWjJyTks4SFJqbGtiX0xPUlRvX0MwUHpsa3JraklKSzdUbFVOWVV0SVJPVWFiUGhOUGJhbzVQTW9zempyczNzQXFuaGVWc2Vud2hlc0xjYml0VDFRTEZlTFZHY2JOZm43RDJPRktuWmNXSDlSTk1XS1Fvalk0akpJQlJFOXVuemhXUU9UY05QaUE?oc=5" target="_blank">Scientists discover super-Earth exoplanets are more common in the universe than we thought</a>&nbsp;&nbsp;<font color="#6f6f6f">Space</font></li></ol>
-Published: Sun, 27 Apr 2025 22:58 (SAST)
-Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQenNoVVZxaS1uN3pWR0NBdUh0NFdkVDVCQ0hSTzR2c19ETG5YZExWUjhuc0tOQmFRVHpvNGVndlE2UjcwOGMzX2dvdWNJNjVqVU5pcWFsTDBpbHpWOHBSUlJBMm5WeUJKVkVWaFRHeVB2QXpoTEdQVDB2c3doNzFpZlZtYjY4b0s5QVRz?oc=5
+Title: China says it is on track to put boots on Moon by 2030 as Nasa’s Artemis struggles with delay - Yahoo News UK
+Source: Yahoo News UK
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWGZ5cnFPN1NNdDVsRlRadHJrNjRaenFVNzYyRG03WVg5THQ2MVZsTTBJY1hUSVBQaXBpeDVEY1ZJOU83dTVxQ1JqU0J6MWk4T0hiVEtNZHFJREFpOTRkOG1iQ0NiU3Vibktvb3FpZHl5VDZZaHc?oc=5" target="_blank">China says it is on track to put boots on Moon by 2030 as Nasa’s Artemis struggles with delay</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News UK</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMlRCVFJRaHRBaW9mZjRJb1RKZHZ4em9ucmxUc0lnNmRMYkVwY2k3bExLN3VwXzNoS1VRVEFyM1dMSWZ1c3M3eTFqRmQtaC14c2ZvR29mRUQ4Sm1GSWhZZ3ZzMFpRZzdETG5DT0Z0WUFYWk1FNUpETS00M2l1WkNSMUxNWGRqSGc2WmJvaXF3ZS1zSi04TlE1WmM4TmNTLWJ0cUV6NU85TzBYalBSVmQwVXRKbHUtUUViQldXRy1jclRoTTQ?oc=5" target="_blank">China's Chang'e-6 Mission Landed On The Far Side Of The Moon</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font></li><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hDaGprLXNLWHd4RVBiNGNhYTk3SU9GVWFyM2VMaXphYmtDblhOZVpPZDFDYTVkdWFIbDlmQUlsYmRiRlRsOHJYVGE3cFNwUWw5TnRCVWlUWmNoajFnaU9TM3N3bGNreHc2MXpHZV9KYnd4cXlIT2tmb2pGR3ZWU0ZnRU96WS0wT1UtZEZkbHJIeEVPRWlpOW5BT2ZLbEstQTVHal9CUE9XMXo3bVVlTDRSQy0yNnpRMDFic1FoU0FsZFNHYWIyZQ?oc=5" target="_blank">Watch How China Launches And Lands Crew On The Moon In Animation</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font></li></ol>
+Published: Mon, 28 Apr 2025 13:19 (SAST)
+Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWGZ5cnFPN1NNdDVsRlRadHJrNjRaenFVNzYyRG03WVg5THQ2MVZsTTBJY1hUSVBQaXBpeDVEY1ZJOU83dTVxQ1JqU0J6MWk4T0hiVEtNZHFJREFpOTRkOG1iQ0NiU3Vibktvb3FpZHl5VDZZaHc?oc=5
 
 
 ARTICLE 23 (Google News SA)
-Title: World Immunization Week 2025: Theme, Significance, Workplace Vaccination Benefits And Why It Matters? - Netmeds
-Source: Netmeds
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDZ2dVhKaGlZWU1XeGRJNmlDdW1kQnlpdHhHd2c0U3NpR0V1OUtyQVNBWGJOZWRYdThHMzdaVk9Ic25QQlJBQU5fM05uMGxGczdNMmZBVko3OWVuaW1VZkgwMjlPcVVVZjhpbWVQaUVSWHZEb3NGaDMtazhXeDZta0J6cDhvNWJucEh3V204TEVscWd5U3owUnZBeVRHX3lhbFFTdklvZmFCaDBSamItTkNJd01PT1NKdnM4dmU5UUVHRlVmT1l2T0FSM2tJSzctazB5M2ItbnA?oc=5" target="_blank">World Immunization Week 2025: Theme, Significance, Workplace Vaccination Benefits And Why It Matters?</a>&nbsp;&nbsp;<font color="#6f6f6f">Netmeds</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWlnNzRFdFdpT2J1VE9YWml3NFBWSHUwaXppLUh5N040Nm5BcGdmMU5XN19iS0VVWktJeHZoWklwY1ptLU1RMUlCT2JvbWVRREk5V0Jfb0V1TVN1OGd5czYtWEtDOHJlMWZURS1uc2tYRFhXZ21oWlNjU0RfMVhDWkk3U1puV3UyNUdTLWV2LTJza2ZnMVNESmNkb0Y3b3FCd2ZpbWMyN0FSWjE4N01lOGluamFqYl9DVnc?oc=5" target="_blank">Increases in vaccine-preventable disease outbreaks threaten years of progress, warn WHO, UNICEF, Gavi</a>&nbsp;&nbsp;<font color="#6f6f6f">Unicef</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxONHVaN1o3eENmOFNLbXR1UV85SUY1eW1rbktKZy05eGZkWmpGbUFzS0JXWkNyZVpQLURhRXNBZzRHS25sMk1Bd2dhb3BBNU1ybjdIa3Y4Tnl1cU9xZVZCSVNQQlczWlpfSTg2Q0tUTnJRSEtRZHNweDJJVWg5ZVNXMVVIUE9fNzJGdDJOdTZ1c3d1STI3MTBuemR0ZE92d1dsZjNF?oc=5" target="_blank">Some experts using World Immunisation Week to encourage vaccinations</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1NOOEw4QlVlQ1V1YXNxMy1lYnZKaHd3U3RmRXE1eU9jQmdJSHV6Y2xqT19oRGpmQUR5RThCT3lMVGlYNkUwWjNXQ1U2UEsxSDdfSlBHTGJRY2VHcm1OWjlnbndJb1NmWC0tNk9WZjZWY1VPMV9PYTFtelp6eW9aVkliZEpPNEZKYm1R?oc=5" target="_blank">North West Health launches immunisation campaign</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTUwaG5HSXg4TzNFNmFoRlZSNWZ6dTJ6dEdndk5tRkVNNGhXOUFlUlVnZ0hvQzg5dFczZGxfSXBhNmR2bC1oTUw1eUxMeWZwN3dwQWs5VWRVdEM5WnI4cWxOS21zS0tOa3BOclJJXzN5akVaU1NwbUhxampQY2RSWUhMWksxSEJERTQ2ak90RzN0RW5lUVJHb3h0S3lvX19qRm0tNS1meWhWTkZq0gGwAUFVX3lxTE0xUmRTTlByT29GQV9iSFJZNExocnhyRXo0SkJ3UTBDUVhLY2JncWZpOHRna1R0bmEyMGZMVFJONlhoem1XTHRPZTJZSk9PQWNlcEt2aXZBRGI4MGFvZ0IyTHBuWmFkajZpU2cwaEM3bGRMMVhaRnpmS1F1bDJ3Q3hTVldHYkxFX21IN0xhbU1tNExpWUY2NzJRSGlzRmtvY3B0dDVPSE9RQkIzMlJLS0F6?oc=5" target="_blank">City of Ekurhuleni encourages immunisation of children</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li></ol>
-Published: Sun, 27 Apr 2025 20:30 (SAST)
-Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDZ2dVhKaGlZWU1XeGRJNmlDdW1kQnlpdHhHd2c0U3NpR0V1OUtyQVNBWGJOZWRYdThHMzdaVk9Ic25QQlJBQU5fM05uMGxGczdNMmZBVko3OWVuaW1VZkgwMjlPcVVVZjhpbWVQaUVSWHZEb3NGaDMtazhXeDZta0J6cDhvNWJucEh3V204TEVscWd5U3owUnZBeVRHX3lhbFFTdklvZmFCaDBSamItTkNJd01PT1NKdnM4dmU5UUVHRlVmT1l2T0FSM2tJSzctazB5M2ItbnA?oc=5
+Title: 5 stargazing spots to add to your travel list - NewsBytes
+Source: NewsBytes
+Description: <a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOYU1naDAzTGtwVVhkR3hCTnhsQW1EZUt1UGFnWmoxSVdzNzA1RUxnMllnbnVUSktqOFV4OXRLYXB5aUZyZXAyLVA4bGFFZDhxQW80V1FrODFpQlJiT0VaSHpjQnlrZWdiME5ienZaSGlKR0lsTjR6Z3U3bjBraFV1ZC1XY01SMW8yOXdlT0tWOVhuZ1hP?oc=5" target="_blank">5 stargazing spots to add to your travel list</a>&nbsp;&nbsp;<font color="#6f6f6f">NewsBytes</font>
+Published: Tue, 29 Apr 2025 07:06 (SAST)
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOYU1naDAzTGtwVVhkR3hCTnhsQW1EZUt1UGFnWmoxSVdzNzA1RUxnMllnbnVUSktqOFV4OXRLYXB5aUZyZXAyLVA4bGFFZDhxQW80V1FrODFpQlJiT0VaSHpjQnlrZWdiME5ienZaSGlKR0lsTjR6Z3U3bjBraFV1ZC1XY01SMW8yOXdlT0tWOVhuZ1hP?oc=5
 
 
 ARTICLE 24 (Google News SA)
-Title: Uganda declares end to Ebola Sudan Virus outbreak after 42-day countdown - Daijiworld
-Source: Daijiworld
-Description: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KbmY2eXJlcW1hbDVxc2NkVFgweUo3S3ZDTDlranN3WEJGemRPTjV2THUza0dHellwa1AzekN1VlB2Nkc2SUtTMW1qcFQ2UW15dDh2ZEppUFMxbklWbHM0NEllSU0?oc=5" target="_blank">Uganda declares end to Ebola Sudan Virus outbreak after 42-day countdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Daijiworld</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lMNnByWERSRlBkd05GUGV3TWp5Z0FQAQ?hl=en-ZA&gl=ZA&ceid=ZA:en&oc=5" target="_blank">View Full coverage on Google News</a></strong>
-Published: Sun, 27 Apr 2025 12:26 (SAST)
-Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KbmY2eXJlcW1hbDVxc2NkVFgweUo3S3ZDTDlranN3WEJGemRPTjV2THUza0dHellwa1AzekN1VlB2Nkc2SUtTMW1qcFQ2UW15dDh2ZEppUFMxbklWbHM0NEllSU0?oc=5
+Title: HIV deaths in South Africa may be massively undercounted, study shows - BusinessLIVE
+Source: BusinessLIVE
+Description: <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHV4OXNkTC1qb241cmJHUHJ4UzRGWFQ5S3hqWEFkOFllMnpocDhYMXNpdnFwUEY1X21CR0pIaTdGeXRObFoySzdydEVtdjdUVmtIczMwQTNGVUZHREZLSnNaUWl2anZvRmp3YjY1U0Y1dDY3aTRBczEtOGZZUTBLTUtVWDB4VG9aZllGZk82cWM0aWtsV21WTnR0RFR2UFRXV250bElqb01GNUd1QWVNckt2ZTVrZEVlOEd4NXFB0gHDAUFVX3lxTE1PeFhZSDdUaXl6OFhzZi1nOFpWcFBONDhiS1MxUU1XXzJabDB2bDZ5bGllbFlDVl96VllJNXYxUnI4dHdmNHNJaFRFWkJaenhJakZYNGZEMnpIR1hUZl9Sbm8zdkhlSDZ3X20zbEVJQ2FPT1hzb0Z1NHdJWWRrMTdpd21ZTURGVFd2UW9PUktmaFJRb3FNVFd5ekZ2cWh2b1dDdXNuUU9ITGJKdDdtbFhER0NwYk9ORVN2MGJjNlplNjFBZw?oc=5" target="_blank">HIV deaths in South Africa may be massively undercounted, study shows</a>&nbsp;&nbsp;<font color="#6f6f6f">BusinessLIVE</font>
+Published: Mon, 28 Apr 2025 08:00 (SAST)
+Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHV4OXNkTC1qb241cmJHUHJ4UzRGWFQ5S3hqWEFkOFllMnpocDhYMXNpdnFwUEY1X21CR0pIaTdGeXRObFoySzdydEVtdjdUVmtIczMwQTNGVUZHREZLSnNaUWl2anZvRmp3YjY1U0Y1dDY3aTRBczEtOGZZUTBLTUtVWDB4VG9aZllGZk82cWM0aWtsV21WTnR0RFR2UFRXV250bElqb01GNUd1QWVNckt2ZTVrZEVlOEd4NXFB0gHDAUFVX3lxTE1PeFhZSDdUaXl6OFhzZi1nOFpWcFBONDhiS1MxUU1XXzJabDB2bDZ5bGllbFlDVl96VllJNXYxUnI4dHdmNHNJaFRFWkJaenhJakZYNGZEMnpIR1hUZl9Sbm8zdkhlSDZ3X20zbEVJQ2FPT1hzb0Z1NHdJWWRrMTdpd21ZTURGVFd2UW9PUktmaFJRb3FNVFd5ekZ2cWh2b1dDdXNuUU9ITGJKdDdtbFhER0NwYk9ORVN2MGJjNlplNjFBZw?oc=5
+
+
+ARTICLE 25 (Google News SA)
+Title: (Special for CAFS) Sierra Leone on alert over mpox cases surge - africannewsagency.com
+Source: africannewsagency.com
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHhtREh1VGV0Q010cXVCUUtrRHhmdFptdVU2VzdDLVFUN0JIUllMVzFoVUVwZWFIdFFTdGNleW9SRXpnTDJMMUNaTG9GTE9jRFpEZ1Q4ZXRiVUVMTXdKTXZ5bzQ3NUFWODhqRDBPQk9qNF9QelVwV3Y2MHlLSU1LWTVjTWNIYVM5NjNJYlpsNllOeXh1WUE?oc=5" target="_blank">(Special for CAFS) Sierra Leone on alert over mpox cases surge</a>&nbsp;&nbsp;<font color="#6f6f6f">africannewsagency.com</font></li><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxORmpUb2JiQ1lXeEozVHJRZFFYbm9TWVVYU1ZjMkE1cWZCNy1OYTE2TkxjWVliYWxkY0J4NjVQbzVnX2JGNFIwZUtjcE1YLXJ5bExMaTJFOWdWc1ZGZUJQRlBqZkxEU3dPQ0lReXZTTDljSEpkVTdxNG1VY0VtY2FyNVJ5anVuZno1bTJPQjM3RQ?oc=5" target="_blank">Health Workers in Sierra Leone Face Rising Mpox Infections</a>&nbsp;&nbsp;<font color="#6f6f6f">News Central TV</font></li></ol>
+Published: Mon, 28 Apr 2025 18:54 (SAST)
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHhtREh1VGV0Q010cXVCUUtrRHhmdFptdVU2VzdDLVFUN0JIUllMVzFoVUVwZWFIdFFTdGNleW9SRXpnTDJMMUNaTG9GTE9jRFpEZ1Q4ZXRiVUVMTXdKTXZ5bzQ3NUFWODhqRDBPQk9qNF9QelVwV3Y2MHlLSU1LWTVjTWNIYVM5NjNJYlpsNllOeXh1WUE?oc=5
+
+
+ARTICLE 26 (Google News SA)
+Title: 5 Tips for being a responsible drinker - The Citizen
+Source: The Citizen
+Description: <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOYUI2N3JnYzFlTWE3OGlUaDlJQ0prUWc3NVlDZF95TnUybXlFc3dKaWR1eEd2MWprZ2Nrem5YUlI3QjJJWnA1UjNVZi12MUZ2aEtQeVFGNzBteDJXOWdSRFRITExOcGxGR1liNFFlR1p2QXJKRERHQkhFb0xyeURvRGk4ekNwRERCT0N4TDZKNVI4aXZnQzhvSlotOVoxVUtPTjhUaTZ5UVJlT1E2cExyNXBIcE00Q2xhVnlKbdIBwAFBVV95cUxNUWcxLWFwUnZ5UC1BQi1KdGF0ZElscU9QNWNjdWNkeVM0ejdDb1ZMZ0p5bEtQR25jZkRMWmVkRnlnaWZZTkIyUHJaNXNuYUdlcWhzMllhMUg2NGhMekdVQUFzdS04bVVjTS13Z1JhTFF2V0tUNTlPUk9lN1I2ZXZzU2dlSTBvdGFpcGxIU0lyWVNyNWwyM005QW9iNF9jZkZ4RURhc0p0NmpqdUpUVXRZRldUR1FZRURLblB6T1JvREY?oc=5" target="_blank">5 Tips for being a responsible drinker</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font>
+Published: Mon, 28 Apr 2025 16:56 (SAST)
+Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOYUI2N3JnYzFlTWE3OGlUaDlJQ0prUWc3NVlDZF95TnUybXlFc3dKaWR1eEd2MWprZ2Nrem5YUlI3QjJJWnA1UjNVZi12MUZ2aEtQeVFGNzBteDJXOWdSRFRITExOcGxGR1liNFFlR1p2QXJKRERHQkhFb0xyeURvRGk4ekNwRERCT0N4TDZKNVI4aXZnQzhvSlotOVoxVUtPTjhUaTZ5UVJlT1E2cExyNXBIcE00Q2xhVnlKbdIBwAFBVV95cUxNUWcxLWFwUnZ5UC1BQi1KdGF0ZElscU9QNWNjdWNkeVM0ejdDb1ZMZ0p5bEtQR25jZkRMWmVkRnlnaWZZTkIyUHJaNXNuYUdlcWhzMllhMUg2NGhMekdVQUFzdS04bVVjTS13Z1JhTFF2V0tUNTlPUk9lN1I2ZXZzU2dlSTBvdGFpcGxIU0lyWVNyNWwyM005QW9iNF9jZkZ4RURhc0p0NmpqdUpUVXRZRldUR1FZRURLblB6T1JvREY?oc=5
+
+
+
+ARTICLE 1 (Sunday Times)
+Title: SA filmmaker Zoe Ramushu scores second Cannes nomination
+Description: South Africa-based filmmaker Zoe Ramushu is soaring on the international stage, with her latest short film 'Damsel, Not in Distress' premiering next month at the New York African Film Festival.
+Published: Mon, 28 Apr 2025 16:30 (SAST)
+Link: https://www.timeslive.co.za/sunday-times/news/2025-04-28-sa-filmmaker-zoe-ramushu-scores-second-cannes-nomination/
 
 
 
 ARTICLE 1 (Daily Maverick)
-Title: THEATRE REVIEW: A Doll’s House: Not a sequel, a play with questions about gender equality that affect us all
-Description: At the end of Henrik Ibsen’s A Doll’s House, Nora went off to find her freedom, slamming the door behind her. In A Doll’s House, Part 2, she returns to the same door, and must knock to be admitted. Lucas Hnath’s play is not a sequel, however, but a slick, sharp, intellectually breezy reminder that the struggle for hard-won freedoms is never over.
-Published: Mon, 28 Apr 2025 07:00 (SAST)
-Link: https://www.dailymaverick.co.za/article/2025-04-28-a-dolls-house-not-a-sequel-a-play-with-questions-about-gender-equality-that-affect-us-all/
+Title: BOOK EXCERPT: Memory and guilt — Artist explores the intersections between private and public histories in Namibia
+Description: Featuring photographs and video stills made over more than a decade, The Distance Within reflects on Nicola Brandt’s German and Namibian inheritance and deconstructs certain established ways of seeing Namibia.
+Published: Tue, 29 Apr 2025 07:00 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-29-exploring-intersections-between-private-public-histories-in-namibia/
 
 
 ARTICLE 2 (Daily Maverick)
-Title: COURT RULING : Freedom Day 2025 – official freedom from pending VAT increase
-Description: 31 years after the first Freedom Day, this year’s public holiday saw the nation win freedom from a looming VAT increase.
-Published: Sun, 27 Apr 2025 21:32 (SAST)
-Link: https://www.dailymaverick.co.za/article/2025-04-27-freedom-day-2025-official-freedom-from-pending-vat-increase/
+Title: MARKETS WRAP: Stocks drift, dollar slips on US-China standoff
+Description: As the US prepares to ease auto tariffs and the SandP 500 futures inch up, the dollar is on a slippery slope towards its biggest monthly plunge in years.
+Published: Tue, 29 Apr 2025 06:48 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-29-stocks-drift-dollar-slips-on-us-china-standoff/
 
 
 ARTICLE 3 (Daily Maverick)
-Title: Rollbacks
-Published: Sun, 27 Apr 2025 08:45 (SAST)
-Link: https://www.dailymaverick.co.za/cartoon/rollbacks/
+Title: MINI CROSSWORD: Daily Crossword Quickie – Tues, 29 April
+Description: Welcome to Daily Maverick's free mini crossword quickie. Follow the clues and fill in the squares to solve these minis.
+Published: Tue, 29 Apr 2025 05:00 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-29-mini-crossword-29-april-2025/
+
+
+ARTICLE 4 (Daily Maverick)
+Title: Newsdeck: First batch of Hong Kong democrats freed after 4 years’ jail for subversion
+Description: HONG KONG, April 29 (Reuters) - The first batch of individuals jailed in the landmark Hong Kong national security trial of "47 democrats" accused of conspiracy to commit subversion was freed on Tuesday after being behind bars for more than four years.
+Published: Tue, 29 Apr 2025 04:44 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-29-first-batch-of-hong-kong-democrats-freed-after-4-years-jail-for-subversion/
+
+
+ARTICLE 5 (Daily Maverick)
+Title: Newsdeck: Liberals win Canada’s election but unclear if they will have majority, CTV and CBC say
+Description: OTTAWA, April 28 (Reuters) - Canada's ruling Liberals retained power in the country's election on Monday, but it is too soon to say whether they will form a majority government, CTV News and CBC predicted.
+Published: Tue, 29 Apr 2025 04:37 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-29-liberals-win-canadas-election-but-unclear-if-they-will-have-majority-ctv-and-cbc-say/
+
+
+ARTICLE 6 (Daily Maverick)
+Title: FIRE ON THE MOUNTAIN: Arson suspect arrested as firefighters continue to battle blazes in the south of Cape Town
+Description: By Monday evening, the fires in Cape Town’s southern suburbs had not yet been contained. A man was arrested on suspicion of arson and a firefighter was hospitalised. 
+Published: Mon, 28 Apr 2025 23:16 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-arson-suspect-arrested-as-firefighters-continue-to-battle-blazes-in-the-south-of-cape-town/
+
+
+ARTICLE 7 (Daily Maverick)
+Title: Freedom Day
+Published: Mon, 28 Apr 2025 22:55 (SAST)
+Link: https://www.dailymaverick.co.za/cartoon/freedom-day-2/
+
+
+ARTICLE 8 (Daily Maverick)
+Title: AGE OF ACCOUNTABILITY: Mpofu tried to ‘humiliate me’ — ex-SARS chief Van Loggerenberg ahead of lawyer’s disciplinary
+Description: Former South African Revenue Service commissioner Johann van Loggerenberg has confirmed that he has agreed to appear as a witness against advocate Dali Mpofu after Mpofu questioned his mental health during a 2022 hearing into former Public Protector Busisiwe Mkhwebane’s fitness to hold office.
+Published: Mon, 28 Apr 2025 22:48 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-mpofu-was-trying-to-humiliate-me-ex-sars-boss-van-loggerenberg/
+
+
+ARTICLE 9 (Daily Maverick)
+Title: DEATHS IN DETENTION: Murder of ‘stabbed, bitten’ Cape Town inmate probed, Mangaung jail killing ‘cover-up’ exposed
+Description: A Cape Town prison detainee died in February 2025. His lawyer says the wounds on his body suggest he was bitten and stabbed, and Western Cape police are now investigating a murder. This while four prison warders were arrested in another province in connection with another inmate’s killing.
+Published: Mon, 28 Apr 2025 22:28 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-murder-of-stabbed-bitten-cape-town-inmate-probed-mangaung-jail-killing-cover-up-exposed/
+
+
+ARTICLE 10 (Daily Maverick)
+Title: SETBACK: Controversial pastor’s ‘New Dawn’ march stumbles as Buffalo City says he is not welcome
+Description: A crusade planned by controversial pastor Timothy Omotoso, acquitted on sexual assault and human trafficking charges earlier this month, has hit a snag. The mayor of Buffalo City, East London, has banned him from using any of the metro’s properties for his services. Despite several attempts to obtain answers, the Department of Home Affairs still has not clarified on what basis Omotoso remains in South Africa.
+
+Published: Mon, 28 Apr 2025 22:04 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-controversial-pastors-new-dawn-march-stumbles-as-buffalo-city-says-he-is-not-welcome/
+
+
+ARTICLE 11 (Daily Maverick)
+Title: JOB CREATION: By young people, for young people — how a Bloemfontein centre empowers the next generation
+Description: The 56 Tambo community centre in Bloemfontein, run entirely by young people, arms young people with opportunities and resources at a time when youth unemployment in South Africa is at an all-time high. 
+
+Published: Mon, 28 Apr 2025 21:46 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-by-young-people-for-young-people-how-a-bloemfontein-centre-empowers-the-next-generation/
+
+
+ARTICLE 12 (Daily Maverick)
+Title: Newsdeck: Pakistan defence minister says military incursion by India is imminent
+Description: ISLAMABAD, April 28 (Reuters) - Pakistan's defence minister said on Monday a military incursion by neighbouring India was imminent in the aftermath of a deadly militant attack on tourists in Kashmir last week, as tensions rise between the two nuclear-armed nations.
+Published: Mon, 28 Apr 2025 21:37 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-pakistan-defence-minister-says-military-incursion-by-india-is-imminent/
+
+
+ARTICLE 13 (Daily Maverick)
+Title: TRIBUTE: Another world is possible — Bob Nameng, the Soul Rebel of Kliptown
+Description: Unlike many activists, Bob Nameng had never left his community, despite the ample opportunities that come to someone with his charisma and spirit. He realised that escaping poverty often meant escaping the poor, leaving people to the elements of poverty. For him, people’s power was not a slogan, but a mission that could be practised every day. 
+
+Published: Mon, 28 Apr 2025 21:36 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-another-world-is-possible-bob-nameng-the-soul-rebel-of-kliptown/
+
+
+ARTICLE 14 (Daily Maverick)
+Title: Newsdeck: Huge power outage brings parts of Spain and Portugal to standstill
+Description: MADRID/LISBON, April 28 (Reuters) - A huge power outage brought parts of Spain and Portugal to a standstill on Monday, grounding planes, halting public transport, causing panic buying and leaving the two countries scrambling to restore power to millions of homes and businesses.
+Published: Mon, 28 Apr 2025 21:22 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-huge-power-outage-brings-parts-of-spain-and-portugal-to-standstill/
+
+
+ARTICLE 15 (Daily Maverick)
+Title: SECOND TERM: Trump after 100 days — America First president is overturning the world order
+Description: Beijing has cast itself as a solution for nations that feel bullied by Donald Trump’s trade approach, and is also trying to fill the vacuum left by his cuts in humanitarian aid.
+Published: Mon, 28 Apr 2025 21:15 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-trump-after-100-days-america-first-president-is-overturning-the-world-order/
+
+
+ARTICLE 16 (Daily Maverick)
+Title: PHANTOM SHARES: Three nuggets from the mining sector
+Description: If you look beyond gold, you won’t find much great news in the mining sector. Still, there are a few interesting things to learn from recent production updates.
+Published: Mon, 28 Apr 2025 21:09 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-three-nuggets-from-the-mining-sector/
+
+
+ARTICLE 17 (Daily Maverick)
+Title: POWER PLAY: Eskom bets big on renewables with new ‘green’ subsidiary
+Description: Eskom, with its generation capacity historically dominated by coal technology, is making clear its intentions to enter and compete in the renewable energy sector with a planned new entity.  
+Published: Mon, 28 Apr 2025 20:46 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-eskom-bets-big-on-renewables-with-new-green-subsidiary/
+
+
+ARTICLE 18 (Daily Maverick)
+Title: BUDGET 2025: 3:0: Malema comes out guns blazing against Treasury, calls for Godongwana’s resignation
+Description: One day after the courts officially suspended the VAT hike, EFF leader Julius Malema has said that if Finance Minister Enoch Godongwana had any decency he would resign. At the same time, the party would not support a motion of no confidence in the minister, as it was the president’s prerogative to hire and fire ministers. 
+Published: Mon, 28 Apr 2025 20:41 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-malema-comes-out-guns-blazing-against-treasury-calls-for-godongwanas-resignation/
+
+
+ARTICLE 19 (Daily Maverick)
+Title: OPINIONISTA: No beating about the Ukrainian bush will solve Tshwane’s Washington problem
+Description: If South Africa wants to restore its relations with Washington, it needs to address the substance at the root of the bilateral US-SA problem.
+
+Published: Mon, 28 Apr 2025 19:11 (SAST)
+Link: https://www.dailymaverick.co.za/opinionista/2025-04-28-no-beating-about-the-ukrainian-bush-will-solve-tshwanes-washington-problem/
+
+
+ARTICLE 20 (Daily Maverick)
+Title: FLORAL CELEBRATION: From exotic to indigenous – a groundbreaking guide to South Africa’s rich plant diversity
+Description: Three of the country’s top indigenous plant fundis have been collaborating for more than 10 years to produce the most ambitious guidebook to date on South African indigenous garden plants.
+Published: Mon, 28 Apr 2025 18:38 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-from-exotic-to-indigenous-a-groundbreaking-guide-to-south-africas-rich-plant-diversity/
+
+
+ARTICLE 21 (Daily Maverick)
+Title: GUEST ESSAY: Crossed Wires — Musk, Tesla and the first whiff of ruin
+Description: If it does not become competitive in price, range, charging time, design and features, then Tesla may well become an also-ran, to be sold, asset-stripped or, yes, sent to the same resting place to cuddle with the DMC DeLorean 
+Published: Mon, 28 Apr 2025 18:17 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-crossed-wires-tesla-musk-and-first-whiff-of-ruin/
+
+
+ARTICLE 22 (Daily Maverick)
+Title: BLACKOUT CHAOS: Spain and Portugal face unprecedented power outage: transport networks grounded amid uncertainty
+Description: The outage caused chaos in parts of Portugal and Spain as traffic lights stopped working, causing gridlock. Transport networks were halted, hospitals were left without power and people were trapped in the metro and in elevators.
+
+Published: Mon, 28 Apr 2025 18:11 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-spain-and-portugal-face-unprecedented-power-outage-transport-networks-grounded-amid-uncertainty/
+
+
+ARTICLE 23 (Daily Maverick)
+Title: SURFING : Legend Kelly Slater —still closely connected to SA – crests new waves as activist and businessperson
+Description: Slater was recognised with a Laureus Lifetime Achievement Award, but his busy life these days has a decidedly environmental focus.
+Published: Mon, 28 Apr 2025 17:57 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-surfing-legend-kelly-slater-crests-new-waves-as-activist-and-businessperson/
+
+
+ARTICLE 24 (Daily Maverick)
+Title: ISS TODAY OP-ED: Diplomatic crisis between Algeria and Alliance of Sahel States calls for swift African Union mediation
+Description: The latest tensions are a wake-up call for the African Union, which has lost influence in the Sahel-Saharan region.
+Published: Mon, 28 Apr 2025 17:51 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-diplomatic-crisis-between-algeria-and-alliance-of-sahel-states-calls-for-swift-african-union-mediation/
+
+
+ARTICLE 25 (Daily Maverick)
+Title: ILLEGAL CROSSINGS: Border Management Authority hails new drones as ‘game-changer’ at SA ports of entry
+Description: Over the Easter period about 6,000 people were apprehended or intercepted trying to come into South Africa or exit via ports of entry. This is almost double the previous year’s 3,841. The difference this year? The implementation of drones.
+Published: Mon, 28 Apr 2025 17:48 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-drones-hailed-as-game-changer-at-sa-borders/
+
+
+ARTICLE 26 (Daily Maverick)
+Title: OPINIONISTA: True freedom remains elusive until every South African can access it
+Description: As South Africa marks another Freedom Day, we must confront an uncomfortable truth: liberation remains incomplete for millions of South African citizens, especially our young people. While we celebrate the dismantling of apartheid and our democratic journey, we have yet to fully extend freedom's promise to those living with disabilities.
+Published: Mon, 28 Apr 2025 15:56 (SAST)
+Link: https://www.dailymaverick.co.za/opinionista/2025-04-28-true-freedom-remains-elusive-until-every-south-african-can-access-it/
+
+
+ARTICLE 27 (Daily Maverick)
+Title: OPINIONISTA: This Freedom Day, we need to have a hard talk about the past and stop avoiding difficult conversations
+Description: The psychological warfare unleashed by colonialism and the apartheid system invariably continues to sow dissonance, mistrust and resentment, fuelled by an incomplete project towards justice and reparations, all feverishly contested terrain.
+Published: Mon, 28 Apr 2025 15:52 (SAST)
+Link: https://www.dailymaverick.co.za/opinionista/2025-04-28-this-freedom-day-we-need-to-have-a-hard-talk-about-the-past/
+
+
+ARTICLE 28 (Daily Maverick)
+Title: MISSING CHILD: Joshlin kidnap trial — the State’s case against Kelly Smith, Jacquen Appollis and Steveno van Rhyn
+Description: The State wants Judge Nathan Erasmus to convict  Racquel Smith, also known as Kelly, the mother of missing Joshlin, Jacquen Appollis and Steveno van Rhyn, on counts of kidnapping and human trafficking originating from Joshlin’s disappearance-this is their argument, but do they have enough evidence?
+Published: Mon, 28 Apr 2025 15:15 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-joshlin-kidnap-trial-state-prepares-to-unspool-golden-thread-of-truth/
+
+
+ARTICLE 29 (Daily Maverick)
+Title: The Conversation: Scientists found a potential sign of life on a distant planet – an astronomer explains why many are still skeptical
+Description: The exoplanet K2-18b could harbor a massive ocean, but scientists will need to study the planet more to see if it’s really likely to host life.
+Published: Mon, 28 Apr 2025 15:00 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-scientists-found-a-potential-sign-of-life-on-a-distant-planet-an-astronomer-explains-why-many-are-still-skeptical/
+
+
+ARTICLE 30 (Daily Maverick)
+Title: SPOOK SHENANIGANS: Exposed from the JFK files — the CIA chief, the Russian agent and the South African connection
+Description: Declassified documents show that James Angleton, who headed counterintelligence for the CIA decades ago, was in contact with Israeli spies. He also exposed a secret Russian agent in South Africa.
+Published: Mon, 28 Apr 2025 12:30 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-jfk-files-the-cia-chief-the-russian-agent-and-the-sa-connection/
+
+
+ARTICLE 31 (Daily Maverick)
+Title: RED-HOT: Liverpool savour sweet and record-equalling English top-flight victory
+Description: Liverpool thrashed Tottenham Hotspur on Sunday to clinch their 20th English top-flight title, but just their second in the Premier League era.
+Published: Mon, 28 Apr 2025 12:04 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-liverpool-savour-sweet-record-equalling-english-top-flight-win/
+
+
+ARTICLE 32 (Daily Maverick)
+Title: TOKAI FIRE: People warned to steer clear of Cape Town blaze, crews focus on protecting homes
+Description: So far, one firefighter has been injured in the Tokai fire which started on Friday night. Fire crews are still monitoring the blaze, and the public are asked to stay away from the scene.
+Published: Mon, 28 Apr 2025 11:49 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-people-warned-to-steer-clear-of-tokai-blaze-after-all-night-battle/
+
+
+ARTICLE 33 (Daily Maverick)
+Title: MIDDLE EAST CRISIS: All eyes on Gaza, but West Bank bloodshed and violence spike amid deadly settler attacks
+Description: With Donald Trump continuing his support for Israel, the deaths and destruction in Gaza continue unabated. But Israeli military and settlers are doing much the same to Palestinians elsewhere too.
+Published: Mon, 28 Apr 2025 11:49 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-west-bank-bloodshed-violence-spike-amid-deadly-settler-attacks/
+
+
+ARTICLE 34 (Daily Maverick)
+Title: THE CONVERSATION: Beyond the stats and alarming headlines — understanding the risk of brain injury in sport
+Description: Concerns about brain trauma in contact sports such as soccer and rugby are all too real, but sensational headlines can be misleading.
+Published: Mon, 28 Apr 2025 10:11 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-beyond-the-stats-understanding-risk-of-brain-injury-in-sport/
+
+
+ARTICLE 35 (Daily Maverick)
+Title: HISTORIC FEET: Marissa Groenewald to tackle Comrades — and human trafficking — with a skipping rope
+Description: The ‘rope runner’ has made history by completing the Two Oceans marathon and has set her sights on the ultimate human race next.
+Published: Mon, 28 Apr 2025 10:09 (SAST)
+Link: https://www.dailymaverick.co.za/article/2025-04-28-runner-marissa-groenewald-to-tackle-comrades-with-skipping-rope/
