@@ -22,3 +22,11 @@ jobs:
         env:
           CLEANUP_SECRET_KEY: ${{ secrets.CLEANUP_SECRET_KEY }}
         run: node api/cleanup-old-episodes.js 
+
+      - name: Commit and push deletions
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add -u public/
+          git commit -m "chore: delete old podcast episodes [skip ci]" || echo "No changes to commit"
+          git push 
