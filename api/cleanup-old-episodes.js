@@ -2,6 +2,8 @@
 import fs from 'fs';
 import path from 'path';
 
+console.log('Starting cleanup-old-episodes.js script...');
+
 export default async function handler(req, res) {
   // Secure this endpoint with a secret key
   if (req.query.key !== process.env.CLEANUP_SECRET_KEY) {
@@ -10,6 +12,11 @@ export default async function handler(req, res) {
 
   const episodesDir = path.join(process.cwd(), 'public/episodes');
   const metadataPath = path.join(process.cwd(), 'data/episodes-metadata.json');
+  
+  console.log('Resolved episodesDir:', episodesDir);
+  console.log('Resolved metadataPath:', metadataPath);
+  console.log('episodesDir exists:', fs.existsSync(episodesDir));
+  console.log('metadataPath exists:', fs.existsSync(metadataPath));
   
   // Read metadata
   const metadata = JSON.parse(fs.readFileSync(metadataPath, 'utf8'));
