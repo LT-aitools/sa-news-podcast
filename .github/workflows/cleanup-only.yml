@@ -23,6 +23,10 @@ jobs:
           CLEANUP_SECRET_KEY: ${{ secrets.CLEANUP_SECRET_KEY }}
         run: node api/cleanup-old-episodes.js 
 
+      - name: Set up authentication for pushing
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
       - name: Commit and push deletions
         run: |
           git config --global user.name 'GitHub Actions Bot'
