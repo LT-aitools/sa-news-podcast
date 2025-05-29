@@ -32,6 +32,9 @@ def sanitize_text(text):
     text = text.replace('—', '-').replace('–', '-')
     text = text.replace('…', '...')
     
+    # Remove apostrophes to make contractions read as continuous words
+    text = text.replace("'", "")
+    
     # Replace emojis and other special characters
     text = re.sub(r'[^\x00-\x7F]+', ' ', text)
     
