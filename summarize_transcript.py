@@ -104,7 +104,9 @@ def main():
             f.write(combined_content)
             print("\nFull newsletters saved to outputs/daily_maverick_first_thing.txt")
     else:
-        print("Warning: Could not fetch new newsletters, will use existing content if available")
+        print("No recent newsletters found - clearing old content")
+        with open("outputs/daily_maverick_first_thing.txt", "w", encoding="utf-8") as f:
+            f.write("NO_RECENT_CONTENT: No newsletters found within the last 24 hours.")
     
     # Get content from all sources
     newsletter_content = get_latest_newsletter_content()

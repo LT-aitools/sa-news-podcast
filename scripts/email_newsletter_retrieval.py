@@ -7,8 +7,17 @@ from dotenv import load_dotenv
 from datetime import datetime
 import pytz
 from email.utils import parsedate_to_datetime
+import sys
 
 load_dotenv()
+
+# Check required environment variables
+required_env_vars = ["EMAIL_ADDRESS", "EMAIL_PASSWORD", "IMAP_SERVER"]
+missing_vars = [var for var in required_env_vars if not os.getenv(var)]
+if missing_vars:
+    print(f"ERROR: Missing required environment variables: {', '.join(missing_vars)}")
+    print("Please ensure these are set in your .env file")
+    sys.exit(1)
 
 def convert_to_sast(date_str):
     """
@@ -32,25 +41,28 @@ def is_within_24_hours(date_str):
     """Check if the given date is within the last 24 hours"""
     try:
         # Parse the date string
+        print(f"\nDEBUG: Raw date string: {date_str}")
         dt = parsedate_to_datetime(date_str)
+        print(f"DEBUG: Parsed datetime: {dt}")
         
         # Get current time in UTC
         now = datetime.now(pytz.UTC)
+        print(f"DEBUG: Current UTC time: {now}")
         
         # Calculate the time difference in hours
         time_diff_hours = (now - dt).total_seconds() / 3600
         
         # Debug logging
-        print(f"Newsletter timestamp: {dt}")
-        print(f"Current timestamp: {now}")
-        print(f"Hours old: {time_diff_hours:.1f}")
-        print(f"Within 24h? {time_diff_hours <= 24}")
+        print(f"DEBUG: Newsletter timestamp: {dt}")
+        print(f"DEBUG: Current timestamp: {now}")
+        print(f"DEBUG: Hours old: {time_diff_hours:.1f}")
+        print(f"DEBUG: Within 24h? {time_diff_hours <= 24}")
         
         # Strict 24-hour check
         return time_diff_hours <= 24
     except Exception as e:
-        print(f"Error checking date: {e}")
-        print(f"Problematic date string: {date_str}")
+        print(f"ERROR: Error checking date: {e}")
+        print(f"ERROR: Problematic date string: {date_str}")
         return False
 
 def fetch_newsletter_from_email():
@@ -66,16 +78,25 @@ def fetch_newsletter_from_email():
     PASSWORD = os.getenv("EMAIL_PASSWORD")
     IMAP_SERVER = os.getenv("IMAP_SERVER", "imap.gmail.com")  # Default to Gmail
     
+    mail = None
     try:
+        print(f"Connecting to {IMAP_SERVER}...")
         # Connect to the email server
         mail = imaplib.IMAP4_SSL(IMAP_SERVER)
+        print("Logging in...")
         mail.login(EMAIL, PASSWORD)
+        print("Selecting inbox...")
         mail.select("INBOX")
         
         # Search for emails from Daily Maverick
+        print("Searching for Daily Maverick newsletters...")
         status, messages = mail.search(None, '(FROM "dailymaverick.co.za")')
         
-        if status != "OK" or not messages[0]:
+        if status != "OK":
+            print(f"Error searching emails: {status}")
+            return None
+            
+        if not messages[0]:
             print("No Daily Maverick newsletters found")
             return None
         
@@ -87,6 +108,7 @@ def fetch_newsletter_from_email():
         newsletters = []
         for email_id in email_ids:
             # Fetch the email
+            print(f"Fetching email {email_id.decode()}...")
             status, msg_data = mail.fetch(email_id, "(RFC822)")
             
             if status != "OK":
@@ -101,6 +123,9 @@ def fetch_newsletter_from_email():
             subject, encoding = decode_header(msg["Subject"])[0]
             if isinstance(subject, bytes):
                 subject = subject.decode(encoding if encoding else "utf-8")
+            
+            print(f"\nProcessing newsletter: {subject}")
+            print(f"Date: {msg['Date']}")
             
             # Check if the email is within 24 hours
             if not is_within_24_hours(msg["Date"]):
