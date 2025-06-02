@@ -32,8 +32,9 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     Exclude sports news.
     Keep it between 500-1000 words.
     Make it straight to the point and news-focused, with minimal preamble to each story. Don't use bullet points.
-    Make the introduction "Howzit South Africa, and welcome to Mzansi Lowdown, your daily dose of news coming out of the Republic. I'm your A.I. host, Leah."
+    Make the introduction "Howzit South Africa, and welcome to Mzansi Lowdown, your daily dose of news coming out of the Republic. I am your A.I. host, Leah."
     Mention today's date (in South African timezone) in the intro.
+    Use the expanded form of words, not contractions (for example: "cannot" instead of "can't" and "they are" instead of "they're").
     Write out numbers and value amounts (instead of "R500,000" - write "five hundred thousand rand" and instead of "1.25 million", write "one point two five million")
     Do not include any sound effects or music besides "intro music," "outtro music," and "transition music," which should be written as **intro music**, **transition music**, or **outro music** in the transcript.
     Keep the end/sign-off super short.
