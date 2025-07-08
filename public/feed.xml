@@ -18,6 +18,19 @@
     <!-- Episodes -->
     
     <item>
+      <title>SA News for 8 Jul 2025</title>
+      <description>Your daily update on South African news.</description>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2025-07-08</guid>
+      <itunes:duration>00:05:00</itunes:duration>
+      <enclosure 
+        url="https://mzansi-podcast.letstalkaitools.com/2025-07-08.mp3"
+        type="audio/mpeg"
+        length="4420589"
+      />
+    </item>
+    
+    <item>
       <title>SA News for 7 Jul 2025</title>
       <description>Your daily update on South African news.</description>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
@@ -404,19 +417,6 @@
         url="https://mzansi-podcast.letstalkaitools.com/2025-06-08.mp3"
         type="audio/mpeg"
         length="4533438"
-      />
-    </item>
-    
-    <item>
-      <title>SA News for 7 Jun 2025</title>
-      <description>Your daily update on South African news.</description>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2025-06-07</guid>
-      <itunes:duration>00:05:00</itunes:duration>
-      <enclosure 
-        url="https://mzansi-podcast.letstalkaitools.com/2025-06-07.mp3"
-        type="audio/mpeg"
-        length="4023110"
       />
     </item>
   </channel>
