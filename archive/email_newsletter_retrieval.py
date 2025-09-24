@@ -1,22 +1,23 @@
+# ABOUTME: Email newsletter retrieval for SA News Podcast
+# ABOUTME: Fetches daily news content from email newsletters
+
 import imaplib
 import email
 from email.header import decode_header
 from bs4 import BeautifulSoup
 import os
-from dotenv import load_dotenv
 from datetime import datetime
 import pytz
 from email.utils import parsedate_to_datetime
 import sys
+from secure_secrets import get_secrets
 
-load_dotenv()
-
-# Check required environment variables
-required_env_vars = ["EMAIL_ADDRESS", "EMAIL_PASSWORD", "IMAP_SERVER"]
-missing_vars = [var for var in required_env_vars if not os.getenv(var)]
-if missing_vars:
-    print(f"ERROR: Missing required environment variables: {', '.join(missing_vars)}")
-    print("Please ensure these are set in your .env file")
+# Load email credentials from secure secrets
+try:
+    secrets = get_secrets()
+    email_creds = secrets.get_email_credentials()
+except Exception as e:
+    print(f"ERROR: Failed to load email credentials: {e}")
     sys.exit(1)
 
 def convert_to_sast(date_str):
@@ -74,9 +75,9 @@ def fetch_newsletter_from_email():
     - Daily Maverick newsletter subscription
     """
     # Email account credentials
-    EMAIL = os.getenv("EMAIL_ADDRESS")
-    PASSWORD = os.getenv("EMAIL_PASSWORD")
-    IMAP_SERVER = os.getenv("IMAP_SERVER", "imap.gmail.com")  # Default to Gmail
+    EMAIL = email_creds["address"]
+    PASSWORD = email_creds["password"]
+    IMAP_SERVER = email_creds["imap_server"]
     
     mail = None
     try:

@@ -1,9 +1,28 @@
-// pages/api/cleanup-old-episodes.js
+// ABOUTME: Cleanup old podcast episodes API endpoint
+// ABOUTME: Removes podcast episodes older than 30 days to manage storage
+
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 console.log('Starting cleanup-old-episodes.js script...');
+
+// Load secrets from secure location
+function loadSecrets() {
+  try {
+    const homeDir = process.env.HOME || process.env.USERPROFILE;
+    const secretsPath = join(homeDir, '.config', 'sa-podcast', 'secrets.json');
+    const secrets = JSON.parse(readFileSync(secretsPath, 'utf8'));
+    return secrets;
+  } catch (error) {
+    console.error('Failed to load secrets:', error.message);
+    process.exit(1);
+  }
+}
+
+const secrets = loadSecrets();
 
 function isOldEpisode(filename, cutoffDate) {
   // Match files like 2025-04-12.mp3
@@ -49,7 +68,7 @@ async function cleanupOldEpisodes() {
 
 // API endpoint handler
 export default async function handler(req, res) {
-  if (req.query.key !== process.env.CLEANUP_SECRET_KEY) {
+  if (req.query.key !== secrets.cleanup.secret_key) {
     return res.status(401).json({ error: 'Unauthorized' });
   }
   await cleanupOldEpisodes();

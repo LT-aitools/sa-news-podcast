@@ -1,10 +1,26 @@
+# ABOUTME: Python dependencies for SA News Podcast project
+# ABOUTME: Includes AI APIs, TTS, and web scraping libraries
+
 # Azure TTS REST API is used instead of SDK
 # azure-cognitiveservices-speech==1.34.0  
-python-dotenv==1.0.1
-# pydub removed - no longer used
+
+# Core dependencies
 requests==2.32.3
+aiohttp==3.9.5  # For async HTTP requests
 google-generativeai==0.3.2
 feedparser==6.0.11  # For RSS feed parsing
 beautifulsoup4==4.12.3  # For HTML parsing
 python-dateutil==2.8.2  # For date handling
-pytz==2024.1  # For timezone handling 
+pytz==2024.1  # For timezone handling
+
+# AI API dependencies for new workflow
+anthropic==0.34.2  # For Claude API
+openai==1.35.0  # For ChatGPT API
+perplexity-api==0.1.0  # For Perplexity API (if available, otherwise use requests)
+
+# Security and configuration
+cryptography==42.0.5  # For secure secret handling
+
+# Testing dependencies
+pytest==8.0.0  # For unit testing
+pytest-asyncio==0.23.5  # For async test support 

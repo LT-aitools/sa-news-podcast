@@ -1,56 +1,177 @@
-# sa-news-podcast
-Creating a short (3-5 min) daily weekday podcast, focused solely on South African news and all AI-generated.
+# SA News Podcast - Workflow Usage Guide
 
-## overview 
+## Cverview
+This project uses AI to create a short (4-5 min) daily mews podcast, focused solely on South African news. It gets automatically created and published every morning SAST. 
+
+## Main steps 
 The podcast gets created by: 
-1. Assembling news headlines/info from RSS feeds and email newsletters
-2. Running that info through Gemini API, to create a 3-5 min transcript
-3. Assembling music & text-to-speech (using Azure), into a podcast 
-4. Publishing that podcast in our RSS feed
-5. Cleaning up old (>30 day) episodes, to prevent bloated hosting costs
+1. Get news headlines/digest via LLM-assisted web searches (3 models: Perplexity, OpenAI, Claude). As a fallback, scrape local SA RSS feeds (from Google News, Daily Maverick, and Sunday Times)
+2. Feed that info tp Claude, to create a 4-5 min podcast transcript
+3. Assemble music & text-to-speech (using Microsoft Azure Text-to-Speech), into a podcast 
+4. Publish that podcast in our RSS feed
+5. Clean up old (>30 day) episodes, to prevent bloated hosting costs
 
-## setup
+### Previous versions
 
-### 1. Install the required Python packages:
-`python3 -m pip install requests python-dotenv google-generativeai beautifulsoup4 lxml azure-cognitiveservices-speech pydub requests`
+The original version of this workflow only used RSS scraping. So now the repo includes two versions: 
+1. **AI-Powered Workflow** (New) - Uses AI to fetch news and generate transcripts
+2. **RSS Workflow** (Legacy) - Uses existing RSS feeds and Gemini API --> Many of these scripts are in the `/archive` folder.
 
-### 2. Set up all the external emails and APIs, and add to an .env file, for local testing:
-- Get a Gemini API token
-- Sign up for a new gmail address (for receiving newsletters), and create a new "app password"
-- Sign up for the email newsletter to that email address.
-- Sign up for an Azure account, create a service for "Text to Speech," and then grab the API key (note: there's a big free tier, so this will likely be free!)
+### Why 3 Models 
+In manual testing, we found that the different models (fed the same exact prompt) seemed to preference different types of news, so their digests had almost no overlap in coverage. Assembling a podcast based on the 3 summaries therefore led to the most comprehensive daily news summaries. 
 
-### 3. Edit the following to fit your country's parameters (if you don't want to use South Africa)
-- `pull_rss_feeds.py` to include the RSS feeds of your country's main news providers
-- `summarize_transcript.py` prompt to specifically include your country's info 
-- `email_newsletter_retrieval.py` to include info related to your newsletters (e.g. sender, subject line, etc)
+## AI-Powered Workflow (Recommended)
 
-### 4. Run tests (in this order)
-- Run `pull_rss_feeds.py` and see if creates a new file (`rss_feeds_content.txt`) with correct data from the RSS feed. 
-- Run `email_newsletter_retrieval.py` and see if it creates a new file (`daily_maverick_first_thing.txt`) with scraped info from the newsletter
-- Run `summarize_transcript.py` to check that the summary it creates for your country's news works okay. 
-- Run `podcast_creator.py` to check that it assembles the music and text-to-speech correctly, using your Azure keys. 
+### Quick Start
+```bash
+# Generate podcast using AI workflow
+python podcast_creator.py --ai
 
-### 5. Set up for fully automation 🤖
-(A) Now set up for your Github actions / workflows to trigger correctly. 
-Add all the items in your .env file to Github > Actions > Secrets, one by one.
+# Force regenerate even if episode exists
+python podcast_creator.py --ai --force
+```
 
-### 6. Let it fly! 
-The Github workflows will have this run daily at 5:30am UTC (7:30am SAST), to do the following:
-   1. Set up environment
-   2. Generate transcript (summarize_transcript.py)
-   3. Create podcast (podcast_creator.py)
-   4. Update podcast feed (podcast-feed.js)
-   5. Clean up old episodes (cleanup-old-episodes.js)
-   6. Commit and push changes
+### What It Does
+1. **Fetches News** (`scripts/ai_news_fetcher.py`) from 3 AI sources:
+   - Perplexity (Sonar)
+   - Claude (Sonnet 3.7 with web search)
+   - ChatGPT (GPT-5 with web search)
+
+2. **Generates Transcript** (`scripts/transcript_generator.py`) using Claude with:
+   - South African timezone dates
+   - TTS-optimized formatting
+   - Music markers for audio assembly
+   - Proper intro/outro structure
+
+3. **Creates Audio** (`podcast_creator.py`) with:
+   - Enhanced text sanitization
+   - Microsoft TTS with Leah voice
+   - Music transitions and assembly
+   - MP3 output
+
+### Command Line Options
+- `--ai` or `-a`: Use AI-powered workflow
+- `--force` or `-f`: Force regenerate even if episode exists
+- No flags: Use existing transcript file (RSS workflow)
 
 
-## Attribution
+## File Structure
 
-This repo is made with love & vibe coding by <a href= "https://letstalkaitools.com">Let's Talk AI Tools</a> -- a personal, not-for-profit project: just two product gals (and their chatbots) exploring the world of generative AI.
-- Tools used: Claude & Cursor (for vibe coding), Gemini API & Azure TTS (for transcript & speech), Vercel (for hosting)
+```
+sa-news-podcast/
+├── podcast_creator.py          # Main podcast creation script
+├── scripts/                    # Active workflow components
+│   ├── ai_news_fetcher.py      # AI news fetching system
+│   ├── transcript_generator.py # Claude transcript generation
+│   ├── secure_secrets.py       # Secure API key management
+│   ├── pull_rss_feeds.py       # RSS feeds (backup only)
+│   └── README.md               # Scripts documentation
+├── archive/                    # Deprecated scripts
+│   ├── email_newsletter_retrieval.py # Old email fetching
+│   ├── speechsynthesis.py      # Old TTS script
+│   ├── generate_podcast_content.py # Old content generation
+│   ├── summarize_transcript.py # Old transcript summarization
+│   └── README.md               # Archive documentation
+├── tests/                      # All test files
+│   ├── test_ai_news_fetcher.py
+│   ├── test_transcript_generator.py
+│   ├── test_text_sanitization.py
+│   ├── test_apostrophe_fix.py
+│   └── test_workflow_integration.py
+├── outputs/                    # Generated content
+│   ├── ai_news_digests.txt     # AI news summaries
+│   ├── rss_feeds_content.txt   # RSS feeds (backup)
+│   └── latest_podcast_summary.txt # Generated transcript
+├── public/                     # Final podcast episodes
+│   └── YYYY-MM-DD.mp3         # Daily episodes
+├── api/                        # API endpoints
+│   ├── cleanup-old-episodes.js # Cleanup old episodes
+│   └── podcast-feed.js         # RSS feed generation
+└── .github/workflows/          # GitHub Actions
+    └── daily-podcast.yml       # Automated daily generation
+```
 
-Intro/outtro music by <a href="https://pixabay.com/users/sonican-38947841/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=263720">Dvir Silver</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=263720">Pixabay</a>
+## API Keys Required
 
-Transition music by <a href="https://pixabay.com/users/ivan_luzan-34614814/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=154189">Ivan Luzan</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=154189">Pixabay</a>
+Set up your API keys in `~/.config/sa-podcast/secrets.json`:
 
+```json
+{
+  "azure_speech": {
+    "subscription_key": "your_azure_speech_key",
+    "region": "your_azure_region"
+  },
+  "claude": {
+    "api_key": "your_claude_api_key"
+  },
+  "openai": {
+    "api_key": "your_openai_api_key"
+  },
+  "perplexity": {
+    "api_key": "your_perplexity_api_key"
+  }
+}
+```
+
+## Testing
+
+Run all tests:
+```bash
+# Run specific test files
+python -m pytest tests/test_ai_news_fetcher.py -v
+python -m pytest tests/test_transcript_generator.py -v
+python -m pytest tests/test_text_sanitization.py -v
+python -m pytest tests/test_workflow_integration.py -v
+
+# Run all tests
+python -m pytest tests/ -v
+```
+
+## Troubleshooting
+
+### Common Issues
+
+1. **"Missing AI modules" error**
+   - Ensure all dependencies are installed: `pip install -r requirements.txt`
+
+2. **"Failed to load API keys" error**
+   - Check that `~/.config/sa-podcast/secrets.json` exists and has correct API keys
+
+3. **"No transcript was generated" error**
+   - Use `--ai` flag to generate new content
+   - Check API key validity
+
+4. **Apostrophe pronunciation issues**
+   - Fixed automatically with enhanced text sanitization
+   - No action needed
+
+### Debug Mode
+
+For detailed logging, check the console output which shows:
+- ✅ Successful operations
+- ❌ Failed operations  
+- ⚠️ Warnings
+- 📊 Statistics and validation results
+
+## Code Organization
+
+### Active Scripts (`/scripts/`)
+- `ai_news_fetcher.py` - AI news fetching from 3 sources
+- `transcript_generator.py` - Claude-based transcript generation
+- `secure_secrets.py` - API key management
+- `pull_rss_feeds.py` - RSS feeds (backup only)
+
+### Archived Scripts (`/archive/`)
+- `email_newsletter_retrieval.py` - Old email newsletter fetching
+- `speechsynthesis.py` - Old TTS script
+- `generate_podcast_content.py` - Old content generation
+- `summarize_transcript.py` - Old transcript summarization
+
+### GitHub Actions (`.github/workflows/`)
+- `daily-podcast.yml` - Automated daily generation at 6:00 AM UTC
+
+## Performance
+
+- **AI Workflow**: ~30-60 seconds (depends on API response times)
+- **RSS Workflow**: ~10-20 seconds (faster but less current content)
+- **Audio Generation**: ~2-5 minutes (depends on transcript length)

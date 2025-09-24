@@ -1,16 +1,21 @@
+# ABOUTME: Transcript summarization using Google Gemini API
+# ABOUTME: Converts RSS feed content into podcast-ready transcripts
+
 import os
 import time
 import google.generativeai as genai
-from dotenv import load_dotenv
 from datetime import datetime
 from scripts.pull_rss_feeds import get_all_rss_content
 from scripts.email_newsletter_retrieval import get_latest_newsletter_content
-
-# Load environment variables
-load_dotenv()
+from secure_secrets import get_secrets
 
 # Configure Gemini API
-genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
+try:
+    secrets = get_secrets()
+    genai.configure(api_key=secrets.get_google_api_key())
+except Exception as e:
+    print(f"Error: Failed to load Google API key: {e}")
+    exit(1)
 
 def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     """Create a podcast summary using Gemini API with retry logic"""
