@@ -1,6 +1,8 @@
+# ABOUTME: Main podcast creation script for SA News Podcast
+# ABOUTME: Handles text-to-speech conversion and audio assembly with music
+
 import os
 import time
-from dotenv import load_dotenv
 import re
 import tempfile
 import requests
@@ -9,20 +11,21 @@ import json
 import html
 import io
 import wave
-
-# Load environment variables
-load_dotenv()
+import asyncio
+import sys
+from scripts.secure_secrets import get_secrets
 
 def sanitize_text(text):
     """
     Sanitize text for speech synthesis by removing special characters
-    that might cause issues with the text-to-speech API
+    that might cause issues with the text-to-speech API, especially apostrophes
+    that cause Microsoft TTS to mispronounce words.
     
     Args:
         text (str): The input text
         
     Returns:
-        str: Sanitized text
+        str: Sanitized text optimized for Microsoft TTS
     """
     # Sanitize text for speech synthesis
     
@@ -32,10 +35,55 @@ def sanitize_text(text):
     text = text.replace('—', '-').replace('–', '-')
     text = text.replace('…', '...')
     
-    # Remove apostrophes to make contractions read as continuous words
-    text = text.replace("'", "")
+    # Comprehensive apostrophe removal to fix Microsoft TTS pronunciation issues
+    # This prevents "South Africa's" from being read as "South Africa ess"
+    text = text.replace("'", "")  # Standard apostrophe
+    text = text.replace("'", "")  # Curly apostrophe
+    text = text.replace("'", "")  # Another curly apostrophe variant
+    text = text.replace("`", "")  # Grave accent (sometimes used as apostrophe)
     
-    # Replace emojis and other special characters
+    # Handle specific contractions that might still cause issues
+    # These are common contractions that TTS might mispronounce
+    contractions_map = {
+        "cant": "cannot",
+        "wont": "will not", 
+        "dont": "do not",
+        "isnt": "is not",
+        "arent": "are not",
+        "wasnt": "was not",
+        "werent": "were not",  # Must come before "were" to avoid partial matches
+        "hasnt": "has not",
+        "havent": "have not",
+        "hadnt": "had not",
+        "wouldnt": "would not",
+        "couldnt": "could not",
+        "shouldnt": "should not",
+        "theyre": "they are",
+        "youre": "you are",
+        "thats": "that is",
+        "theres": "there is",
+        "heres": "here is"
+    }
+    
+    # Apply contraction expansions (case-insensitive but preserve capitalization)
+    # Sort by length (longest first) to avoid partial matches
+    sorted_contractions = sorted(contractions_map.items(), key=lambda x: len(x[0]), reverse=True)
+    
+    for contraction, expansion in sorted_contractions:
+        # Use word boundaries to avoid partial matches
+        pattern = r'\b' + re.escape(contraction) + r'\b'
+        
+        def replace_contraction(match):
+            matched_text = match.group(0)
+            # Preserve the capitalization of the original contraction
+            if matched_text[0].isupper():
+                return expansion[0].upper() + expansion[1:]
+            else:
+                return expansion
+        
+        text = re.sub(pattern, replace_contraction, text, flags=re.IGNORECASE)
+    
+    # Replace emojis and other special characters with spaces
     text = re.sub(r'[^\x00-\x7F]+', ' ', text)
     
     # Replace newlines with spaces to prevent pauses
@@ -87,7 +135,7 @@ def extract_sections(text):
     for line in text.split('\n'):
         # Check for music marker matches (case-insensitive)
         line_lower = line.lower()
-        if '**intro music**' in line_lower:
+        if 'intro music' in line_lower:
             if current_text:
                 # Filter the accumulated text before adding
                 clean_text = filter_sound_effects('\n'.join(current_text))
@@ -95,14 +143,14 @@ def extract_sections(text):
                     sections.append((clean_text, None))
                 current_text = []
             sections.append((None, 'intro'))
-        elif '**transition music**' in line_lower:
+        elif 'transition music' in line_lower:
             if current_text:
                 clean_text = filter_sound_effects('\n'.join(current_text))
                 if clean_text:
                     sections.append((clean_text, None))
                 current_text = []
             sections.append((None, 'transition'))
-        elif '**outro music**' in line_lower:
+        elif 'outro music' in line_lower:
             if current_text:
                 clean_text = filter_sound_effects('\n'.join(current_text))
                 if clean_text:
@@ -131,12 +179,13 @@ def text_to_speech_rest(text, output_file=None):
     Returns:
         str: Path to the generated audio file
     """
-    # Get Azure credentials from environment variables
-    subscription_key = os.getenv('AZURE_SPEECH_KEY')
-    region = os.getenv('AZURE_SPEECH_REGION')
-    
-    if not subscription_key:
-        print("Error: AZURE_SPEECH_KEY not found in environment variables")
+    # Get Azure credentials from secure secrets
+    try:
+        secrets = get_secrets()
+        subscription_key = secrets.get_azure_speech_key()
+        region = secrets.get_azure_speech_region()
+    except Exception as e:
+        print(f"Error: Failed to load Azure Speech credentials: {e}")
         return None
     
     print(f"Using Azure Speech region: {region}")
@@ -165,11 +214,11 @@ def text_to_speech_rest(text, output_file=None):
             'User-Agent': 'SA News Podcast'
         }
         
-        # Create SSML with 1.2x speed
+        # Create SSML with 1.1x speed
         ssml = f"""
         <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-ZA">
             <voice name="en-ZA-LeahNeural">
-                <prosody rate="1.2">
+                <prosody rate="1.1">
                     {text}
                 </prosody>
             </voice>
@@ -473,55 +522,189 @@ def create_podcast_with_music(transcript_file, output_file=None):
         print(f"Error creating podcast: {e}")
         return False
 
-def main():
-    # Get the transcript file
-    transcript_file = "outputs/latest_podcast_summary.txt"
+async def generate_ai_podcast_content():
+    """
+    Generate podcast content using the new AI-powered workflow.
     
-    if not os.path.exists(transcript_file):
-        print(f"Transcript file {transcript_file} not found.")
-        return
+    Returns:
+        tuple: (success: bool, transcript_file: str, error_message: str)
+    """
+    try:
+        print("🤖 Starting AI-powered podcast content generation...")
         
-    # Check if transcript is from today
-    transcript_mtime = datetime.fromtimestamp(os.path.getmtime(transcript_file))
-    current_date = datetime.now()
-    if transcript_mtime.date() != current_date.date():
-        print(f"Warning: Transcript file is from {transcript_mtime.date()}, not today ({current_date.date()})")
-        print("Please ensure the transcript is up to date before creating the podcast.")
-        return
+        # Import AI modules
+        from scripts.ai_news_fetcher import AINewsFetcher
+        from scripts.transcript_generator import TranscriptGenerator
+        
+        # Step 1: Fetch AI news
+        print("\n📰 Fetching news from AI sources...")
+        fetcher = AINewsFetcher()
+        news_summaries, digests_file = await fetcher.fetch_and_save_news()
+        
+        # Check how many AI sources failed by counting error messages in the file
+        if digests_file and os.path.exists(digests_file):
+            with open(digests_file, 'r', encoding='utf-8') as f:
+                file_content = f.read()
+            
+            # Count the number of "❌ Failed to fetch news from this source" in the file
+            failure_count = file_content.count("❌ Failed to fetch news from this source")
+            ai_sources_succeeded = 3 - failure_count
+            
+            print(f"📊 AI sources succeeded: {ai_sources_succeeded}/3")
+            print(f"📊 AI sources failed: {failure_count}/3")
+        else:
+            # If no digests file, assume all failed
+            failure_count = 3
+            ai_sources_succeeded = 0
+            print("📊 No AI digests file found - assuming all sources failed")
+        
+        # Only use RSS feeds if 2+ AI sources failed
+        use_rss_feeds = failure_count >= 2
+        
+        if use_rss_feeds:
+            print("⚠️  Too many AI sources failed - will fetch RSS feeds as backup")
+            # Step 1.5: Fetch RSS feeds as backup
+            print("\n📡 Fetching RSS feeds as backup...")
+            from scripts.pull_rss_feeds import get_all_rss_content
+            rss_content = get_all_rss_content()
+            
+            # Save RSS feeds to separate file
+            rss_file = "outputs/rss_feeds_summary.txt"
+            with open(rss_file, 'w', encoding='utf-8') as f:
+                f.write(f"RSS FEEDS SUMMARY FOR SOUTH AFRICAN PODCAST\n")
+                f.write("=" * 50 + "\n")
+                f.write(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+                f.write(rss_content)
+            
+            print(f"✅ RSS feeds saved to: {rss_file}")
+        else:
+            print("✅ Sufficient AI sources available - skipping RSS feeds")
+            rss_file = None
+        
+        # Step 2: Generate transcript from available sources
+        print("\n📝 Generating podcast transcript...")
+        generator = TranscriptGenerator()
+        
+        if use_rss_feeds:
+            # Use both AI news and RSS feeds (when AI sources are insufficient)
+            print("Using AI news + RSS feeds for transcript generation")
+            transcript_results = await generator.generate_transcript_from_multiple_sources(digests_file, rss_file)
+        else:
+            # Use only AI news (when we have sufficient AI sources)
+            print("Using AI news only for transcript generation")
+            transcript_results = await generator.generate_transcript_from_file(digests_file)
+        
+        if not transcript_results["success"]:
+            return False, "", f"Failed to generate transcript: {transcript_results['error']}"
+        
+        # Validate transcript
+        validation = transcript_results["validation"]
+        if not validation["is_valid"]:
+            print(f"⚠️  Warning: Transcript validation failed: {validation['errors']}")
+        
+        print(f"✅ AI content generation complete!")
+        print(f"📊 News sources: {sum(1 for content in news_summaries.values() if content is not None)}/3 successful")
+        print(f"📝 Transcript: {validation['word_count']} words")
+        
+        return True, transcript_results["saved_file"], ""
+        
+    except ImportError as e:
+        return False, "", f"Missing AI modules: {e}"
+    except Exception as e:
+        return False, "", f"AI content generation failed: {e}"
+
+def main():
+    """
+    Main function for podcast creation with support for both AI and RSS workflows.
+    """
+    print("🎙️  SA News Podcast Creator")
+    print("=" * 50)
     
-    # Check if no transcript was generated
-    with open(transcript_file, 'r', encoding='utf-8') as f:
-        transcript_content = f.read()
-        if transcript_content.strip() == "NO_TRANSCRIPT_GENERATED":
-            print("No transcript was generated for today. Skipping podcast creation.")
+    # Check command line arguments for workflow selection
+    use_ai_workflow = "--ai" in sys.argv or "-a" in sys.argv
+    force_regenerate = "--force" in sys.argv or "-f" in sys.argv
+    
+    if use_ai_workflow:
+        print("🤖 Using AI-powered workflow")
+        transcript_file = run_ai_workflow()
+        if not transcript_file:
+            print("❌ AI workflow failed. Exiting.")
             return
+    else:
+        print("📰 Using existing transcript file")
+        transcript_file = "outputs/latest_podcast_summary.txt"
+        
+        if not os.path.exists(transcript_file):
+            print(f"❌ Transcript file {transcript_file} not found.")
+            print("💡 Tip: Use --ai flag to generate content with AI workflow")
+            return
+            
+        # Check if transcript is from today (unless force regenerate)
+        if not force_regenerate:
+            transcript_mtime = datetime.fromtimestamp(os.path.getmtime(transcript_file))
+            current_date = datetime.now()
+            if transcript_mtime.date() != current_date.date():
+                print(f"⚠️  Transcript file is from {transcript_mtime.date()}, not today ({current_date.date()})")
+                print("💡 Tip: Use --force flag to use existing transcript, or --ai to generate new content")
+                return
+        
+        # Check if no transcript was generated
+        with open(transcript_file, 'r', encoding='utf-8') as f:
+            transcript_content = f.read()
+            if transcript_content.strip() == "NO_TRANSCRIPT_GENERATED":
+                print("❌ No transcript was generated for today.")
+                print("💡 Tip: Use --ai flag to generate content with AI workflow")
+                return
     
-    print(f"Creating podcast from transcript: {transcript_file}")
+    print(f"\n🎵 Creating podcast from transcript: {transcript_file}")
     
     # Generate dated filename
-    current_date = current_date.strftime('%Y-%m-%d')
+    current_date = datetime.now().strftime('%Y-%m-%d')
     output_file = f"public/{current_date}.mp3"
     
     # Check if today's episode already exists
-    if os.path.exists(output_file):
-        print(f"Warning: Episode for {current_date} already exists at {output_file}")
+    if os.path.exists(output_file) and not force_regenerate:
+        print(f"⚠️  Episode for {current_date} already exists at {output_file}")
         # In CI environment (GitHub Actions), always overwrite
         if os.getenv('GITHUB_ACTIONS'):
-            print("Running in GitHub Actions - automatically overwriting existing file")
+            print("🔄 Running in GitHub Actions - automatically overwriting existing file")
         else:
             user_input = input("Do you want to overwrite it? (y/n): ")
             if user_input.lower() != 'y':
-                print("Aborting podcast creation.")
+                print("❌ Aborting podcast creation.")
                 return
     
     # Force a file system sync to ensure we're reading the latest content
     os.sync()
     
     # Create the podcast
+    print(f"\n🎬 Starting podcast creation...")
     if create_podcast_with_music(transcript_file, output_file):
-        print("Podcast created successfully.")
+        print(f"\n🎉 Podcast created successfully: {output_file}")
+        print(f"📁 File size: {os.path.getsize(output_file) / (1024*1024):.1f} MB")
     else:
-        print("Failed to create podcast")
+        print("❌ Failed to create podcast")
+
+def run_ai_workflow():
+    """
+    Run the AI-powered workflow and return the transcript file path.
+    
+    Returns:
+        str: Path to generated transcript file, or None if failed
+    """
+    try:
+        # Run the async AI workflow
+        success, transcript_file, error = asyncio.run(generate_ai_podcast_content())
+        
+        if success:
+            return transcript_file
+        else:
+            print(f"❌ AI workflow failed: {error}")
+            return None
+            
+    except Exception as e:
+        print(f"❌ Error running AI workflow: {e}")
+        return None
 
 if __name__ == "__main__":
     main() 

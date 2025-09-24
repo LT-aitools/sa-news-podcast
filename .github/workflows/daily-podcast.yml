@@ -1,95 +1,71 @@
-name: Daily Podcast Generation
+name: Daily SA News Podcast
 
 on:
   schedule:
-    - cron: '30 5 * * *'  # Runs at 5:30 AM UTC daily (7:30 AM SAST)
-  workflow_dispatch:  # Allows manual triggering
-
-# Workflow to generate daily podcast episodes and update feed
-permissions:
-  contents: write
+    # Run every day at 6:00 AM UTC (8:00 AM SAST)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
   generate-podcast:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
         
-      - name: Create outputs directory
-        run: mkdir -p outputs
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
         
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends ffmpeg
-          
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-          
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          
-      - name: Generate transcript
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-          IMAP_SERVER: ${{ secrets.IMAP_SERVER }}
-        run: |
-          python summarize_transcript.py
-          if [ $? -ne 0 ]; then
-            echo "Transcript generation failed"
-            exit 1
-          fi
-          
-      - name: Create podcast
-        env:
-          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
-          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
-        run: |
-          python podcast_creator.py
-          if [ $? -ne 0 ]; then
-            echo "Podcast creation failed"
-            exit 1
-          fi
-          
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-          
-      - name: Install Node dependencies
-        run: npm install
+    - name: Set up secrets
+      run: |
+        # Create the secrets directory
+        mkdir -p ~/.config/sa-podcast
         
-      - name: Update podcast feed
-        run: |
-          node api/podcast-feed.js
-          if [ $? -ne 0 ]; then
-            echo "Feed update failed"
-            exit 1
-          fi
-          
-      - name: Cleanup old episodes
-        run: |
-          node api/cleanup-old-episodes.js
-          if [ $? -ne 0 ]; then
-            echo "Cleanup failed"
-            exit 1
-          fi
-          
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add public/
-          git add outputs/
-          git add api/podcast-feed.js
-          git commit -m "Update podcast feed, episodes, and transcripts [skip ci]" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          git push 
+        # Create secrets.json file with GitHub Secrets
+        cat > ~/.config/sa-podcast/secrets.json << EOF
+        {
+          "perplexity_api_key": "${{ secrets.PERPLEXITY_API_KEY }}",
+          "claude_api_key": "${{ secrets.CLAUDE_API_KEY }}",
+          "openai_api_key": "${{ secrets.OPENAI_API_KEY }}",
+          "azure_speech_key": "${{ secrets.AZURE_SPEECH_KEY }}",
+          "azure_speech_region": "${{ secrets.AZURE_SPEECH_REGION }}",
+          "cleanup": {
+            "secret_key": "${{ secrets.CLEANUP_SECRET_KEY }}"
+          }
+        }
+        EOF
+        
+    - name: Generate AI-powered podcast
+      run: |
+        python podcast_creator.py --ai
+        
+    - name: Upload generated files
+      uses: actions/upload-artifact@v3
+      with:
+        name: podcast-files-${{ github.run_number }}
+        path: |
+          outputs/
+          public/*.mp3
+        retention-days: 7
+        
+    - name: Deploy to GitHub Pages (if configured)
+      if: success()
+      run: |
+        # This would deploy the podcast files to GitHub Pages
+        # You'll need to configure GitHub Pages in your repository settings
+        echo "Podcast generation completed successfully"
+        echo "Files are ready for deployment"
+        
+    - name: Notify on failure
+      if: failure()
+      run: |
+        echo "❌ Podcast generation failed"
+        echo "Check the logs above for details"

@@ -1,8 +1,18 @@
-import os
-import azure.cognitiveservices.speech as speechsdk
+# ABOUTME: Azure Speech SDK test script for SA News Podcast
+# ABOUTME: Simple text-to-speech testing using Azure Cognitive Services
 
-# This example requires environment variables named "SPEECH_KEY" and "SPEECH_REGION"
-speech_config = speechsdk.SpeechConfig(subscription=os.environ.get('SPEECH_KEY'), region=os.environ.get('SPEECH_REGION'))
+import azure.cognitiveservices.speech as speechsdk
+from secure_secrets import get_secrets
+
+# Load Azure Speech credentials from secure secrets
+try:
+    secrets = get_secrets()
+    speech_key = secrets.get_azure_speech_key()
+    speech_region = secrets.get_azure_speech_region()
+    speech_config = speechsdk.SpeechConfig(subscription=speech_key, region=speech_region)
+except Exception as e:
+    print(f"Error: Failed to load Azure Speech credentials: {e}")
+    exit(1)
 audio_config = speechsdk.audio.AudioOutputConfig(use_default_speaker=True)
 
 # The neural multilingual voice can speak different languages based on the input text.

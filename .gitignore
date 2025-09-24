@@ -1,2 +1,7 @@
 # .gitignore
 .env
+*.env
+secrets.json
+token.json
+*.key
+*.pem
