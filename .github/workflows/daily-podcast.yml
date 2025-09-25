@@ -48,7 +48,7 @@ jobs:
         python podcast_creator.py --ai
         
     - name: Upload generated files
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: podcast-files-${{ github.run_number }}
         path: |
