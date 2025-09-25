@@ -16,7 +16,7 @@ pytz==2024.1  # For timezone handling
 # AI API dependencies for new workflow
 anthropic==0.34.2  # For Claude API
 openai==1.35.0  # For ChatGPT API
-perplexity-api==0.1.0  # For Perplexity API (if available, otherwise use requests)
+perplexity-api==1.0.5  # For Perplexity API
 
 # Security and configuration
 cryptography==42.0.5  # For secure secret handling
