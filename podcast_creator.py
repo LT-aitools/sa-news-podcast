@@ -30,20 +30,22 @@ def sanitize_text(text):
     text = text.replace('…', '...')
     
     # Handle different types of apostrophes for TTS
-    # Replace smart quotes and other apostrophe variants with regular apostrophe
-    text = text.replace(''', "'").replace(''', "'")
-    text = text.replace('`', "'")  # Grave accent to apostrophe
-    text = text.replace('´', "'")  # Acute accent to apostrophe
-    
-    # Remove apostrophes that cause TTS issues (but keep music markers with asterisks)
-    # Only remove apostrophes that are not part of music markers
-    import re
     # First, protect music markers
+    import re
     text = re.sub(r'\*\*([^*]+)\*\*', r'__MUSIC_MARKER_\1__', text)
-    # Then remove apostrophes
-    text = text.replace("'", "")
+    
+    # Remove all types of apostrophes completely (no replacement)
+    text = text.replace("'", "")  # Regular apostrophe
+    text = text.replace("'", "")  # Smart quote left
+    text = text.replace("'", "")  # Smart quote right
+    text = text.replace("`", "")  # Grave accent
+    text = text.replace("´", "")  # Acute accent
+    
     # Restore music markers
     text = re.sub(r'__MUSIC_MARKER_([^_]+)__', r'**\1**', text)
+    
+    # Append stray 's' characters to the preceding word
+    text = re.sub(r'(\w+)\s+s\b', r'\1s', text)  # word space-s -> words
     
     # Replace emojis and other special characters
     text = re.sub(r'[^\x00-\x7F]+', ' ', text)
