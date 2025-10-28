@@ -16,6 +16,9 @@ def load_secrets():
     # First, try to load from environment variables (GitHub Actions mode)
     if os.getenv('OPENAI_API_KEY'):
         print("Using environment variables for secrets (GitHub Actions mode)")
+        print(f"OPENAI_API_KEY present: {bool(os.getenv('OPENAI_API_KEY'))}")
+        print(f"AZURE_SPEECH_KEY present: {bool(os.getenv('AZURE_SPEECH_KEY'))}")
+        print(f"AZURE_SPEECH_REGION present: {bool(os.getenv('AZURE_SPEECH_REGION'))}")
         return {
             'openai_api_key': os.getenv('OPENAI_API_KEY'),
             'claude_api_key': os.getenv('CLAUDE_API_KEY'),

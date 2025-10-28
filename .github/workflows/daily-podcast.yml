@@ -57,8 +57,14 @@ jobs:
           
       - name: Create podcast
         env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          IMAP_SERVER: ${{ secrets.IMAP_SERVER }}
+          CLEANUP_SECRET_KEY: ${{ secrets.CLEANUP_SECRET_KEY }}
         run: |
           python podcast_creator.py
           if [ $? -ne 0 ]; then
