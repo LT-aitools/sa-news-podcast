@@ -175,11 +175,11 @@ def text_to_speech_rest(text, output_file=None):
             'User-Agent': 'SA News Podcast'
         }
         
-        # Create SSML with 1.2x speed
+        # Create SSML with normal speed (1.0x)
         ssml = f"""
         <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-ZA">
             <voice name="en-ZA-LeahNeural">
-                <prosody rate="1.2">
+                <prosody rate="1.0">
                     {text}
                 </prosody>
             </voice>
