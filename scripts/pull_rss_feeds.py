@@ -101,7 +101,7 @@ def process_feed_items(items, source_name):
             if content_elem is not None and content_elem.text:
                 article_content += f"Full Content: {content_elem.text}\n"
         
-        article_content += f"Published: {sast_date}\nLink: {link}\n"
+        article_content += f"Published: {sast_date}\n"
         content.append(article_content)
     
     print(f"\nSummary for {source_name}:")
@@ -206,7 +206,6 @@ Title: {entry.title}
 Source: TimesLive
 Description: {entry.description if hasattr(entry, 'description') else 'No description available'}
 Published: {convert_to_sast(entry.published)}
-Link: {entry.link}
 
 """
                 recent_articles.append(article_content)
@@ -260,7 +259,6 @@ Title: {entry.title}
 Source: Mail & Guardian
 Description: {entry.description if hasattr(entry, 'description') else 'No description available'}
 Published: {convert_to_sast(entry.published)}
-Link: {entry.link}
 
 """
                 recent_articles.append(article_content)

@@ -111,18 +111,12 @@ def fact_check_transcript(transcript, newsletter_content, rss_content, max_retri
     
     Please provide your evaluation in this format:
     
-    ACCURACY ASSESSMENT: [Rate 1-10 and explain any inaccuracies found]
-    CONTEXT EVALUATION: [Rate 1-10 and note any missing or incorrect context]
-    OPINION ATTRIBUTION: [Rate 1-10 and identify any unlabeled opinions]
-    NEUTRALITY CHECK: [Rate 1-10 and note any editorialization]
-    
     SPECIFIC ISSUES FOUND:
-    - [List any specific factual errors]
-    - [List any missing context that should be included]
-    - [List any opinions that should be attributed]
-    - [List any editorial bias or slant]
+    - ACCURACY:[List any specific factual errors]
+    - CONTEXT:[List any missing context that should be included]
+    - OPINION ATTRIBUTION:[List any opinions that should be attributed]
+    - NEUTRALITY:[List any editorial bias or slant]
     
-    OVERALL CONFIDENCE SCORE: [1-10]
     RECOMMENDATIONS: [Specific corrections needed]
     """
     
@@ -302,15 +296,10 @@ def main():
                 final_transcript = final_edit_transcript(summary, fact_check_results)
                 
                 if final_transcript:
-                    # Save the final edited transcript
-                    with open("outputs/claude_final_transcript.txt", "w", encoding="utf-8") as f:
-                        f.write(final_transcript)
-                    print("✅ Claude final transcript saved to: outputs/claude_final_transcript.txt")
-                    
-                    # Also save to the main output file for the podcast creator
+                    # Save the final edited transcript (this is what gets passed to Azure TTS)
                     with open("outputs/latest_podcast_transcript.txt", "w", encoding="utf-8") as f:
                         f.write(final_transcript)
-                    print("✅ Final transcript also saved to: outputs/latest_podcast_transcript.txt")
+                    print("✅ Final transcript saved to: outputs/latest_podcast_transcript.txt")
             else:
                 final_transcript = None
                 
@@ -318,13 +307,7 @@ def main():
             print(f"\nError: Failed to generate podcast summary: {e}")
             final_transcript = None
     
-    # Save final transcript to file
-    with open("outputs/latest_podcast_transcript.txt", "w", encoding="utf-8") as f:
-        if final_transcript is None:
-            f.write("NO_TRANSCRIPT_GENERATED")
-        else:
-            f.write(final_transcript)
-    
+    # Final transcript is already saved above if successful
     if final_transcript is None:
         print("\nNo podcast transcript was generated. The podcast creator will skip this episode.")
     else:
