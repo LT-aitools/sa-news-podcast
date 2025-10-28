@@ -37,7 +37,7 @@ def create_podcast_summary(newsletter_content, rss_content, max_retries=3):
     Include succint transitions or introductions to each story, e.g. "First up" or "In economic news..." - Write the transcript for audio (to be listened to), not to be read. 
     Use the expanded form of words, not contractions (for example: "cannot" instead of "can't" and "they are" instead of "they're").
     Write out numbers and value amounts (instead of "R500,000" - write "five hundred thousand rand" and instead of "1.25 million", write "one point two five million")
-    Keep the end/sign-off super short, like "That's all for today. Keep safe and informed," followed by the **outro music**
+    Keep the end/sign-off super short, like "That's all for today," followed by the **outro music** - Do not include long calls to action nor repeat the date / announcer's name. 
     Do not include any sound effects or music besides "intro music," "outtro music," and "transition music," which should be written as **intro music**, **transition music**, or **outro music** in the transcript. Include the transition music BETWEEN each story.
 
 
@@ -176,6 +176,8 @@ def final_edit_transcript(transcript, fact_check_results, max_retries=3):
     - Ensure proper spacing and punctuation
     - Fix any factual errors identified in the fact-check
     - Maintain the same structure and length (700-1000 words)
+    - Write out numbers and value amounts (instead of "R500,000" - write "five hundred thousand rand" and instead of "1.25 million", write "one point two five million")
+
 
 
     Return the cleaned and corrected transcript ready for text-to-speech conversion.
