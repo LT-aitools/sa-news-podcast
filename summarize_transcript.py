@@ -146,7 +146,7 @@ def fact_check_transcript(transcript, newsletter_content, rss_content, max_retri
     return "FACT_CHECK_FAILED: Unable to fact-check transcript."
 
 def final_edit_transcript(transcript, fact_check_results, max_retries=3):
-    """Final edit of transcript using Claude to address fact-check findings and clean for TTS"""
+    """Final edit of transcript using OpenAI to address fact-check findings and clean for TTS"""
     
     edit_prompt = f"""You are a final editor for a South African news podcast transcript. Your task is to:
 
@@ -179,18 +179,18 @@ def final_edit_transcript(transcript, fact_check_results, max_retries=3):
     
     for attempt in range(max_retries):
         try:
-            response = claude_client.messages.create(
-                model="claude-sonnet-4-5-20250929",  # Latest Claude Sonnet 4.5
-                max_tokens=2000,
-                temperature=0.3,  # Slightly higher for creative editing
-                messages=[
-                    {"role": "user", "content": edit_prompt}
-                ]
+            response = client.responses.create(
+                model="gpt-5-mini",  # Use GPT-5-mini for editing
+                input=edit_prompt,
+                reasoning={"effort": "low"},  # GPT-5 specific parameter
+                text={"verbosity": "medium"},  # GPT-5 specific parameter
+                max_output_tokens=2000
+                # No 'tools' parameter = explicitly no web search or external tools
             )
             
-            if response and response.content[0].text:
+            if response and response.output_text:
                 # Clean the response to remove any markdown headers
-                cleaned_text = response.content[0].text
+                cleaned_text = response.output_text
                 
                 # Remove common markdown headers that might be added
                 lines = cleaned_text.split('\n')
@@ -207,7 +207,7 @@ def final_edit_transcript(transcript, fact_check_results, max_retries=3):
                 
                 return '\n'.join(cleaned_lines)
             else:
-                print(f"Empty response from Claude final editor on attempt {attempt + 1}")
+                print(f"Empty response from OpenAI final editor on attempt {attempt + 1}")
                 
         except Exception as e:
             print(f"Error in final editing attempt {attempt + 1}: {str(e)}")
@@ -291,8 +291,8 @@ def main():
                         f.write(fact_check_results)
                     print("✅ Fact-checker report saved to: outputs/fact_checker_report.txt")
                 
-                print("\nFinal editing transcript...")
-                # Step 3: Final edit to address fact-check findings and clean for TTS
+                print("\nFinal editing transcript with OpenAI...")
+                # Step 3: Final edit with OpenAI to address fact-check findings and clean for TTS
                 final_transcript = final_edit_transcript(summary, fact_check_results)
                 
                 if final_transcript:
