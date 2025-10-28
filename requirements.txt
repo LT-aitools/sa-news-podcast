@@ -4,7 +4,8 @@ python-dotenv==1.0.1
 # pydub removed - no longer used
 requests==2.32.3
 openai>=1.50.0  # Latest stable OpenAI Python library
-anthropic==0.34.0  # For Claude API
+anthropic>=0.40.0  # Latest stable Anthropic Python library
+httpx>=0.27.0,<0.28.0  # Compatible httpx version for both libraries
 feedparser==6.0.11  # For RSS feed parsing
 beautifulsoup4==4.12.3  # For HTML parsing
 python-dateutil==2.8.2  # For date handling
