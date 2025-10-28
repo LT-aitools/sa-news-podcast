@@ -3,8 +3,7 @@
 python-dotenv==1.0.1
 # pydub removed - no longer used
 requests==2.32.3
-openai==1.35.0  # For OpenAI API (stable version)
-httpx==0.27.0  # Pin httpx version to avoid conflicts
+openai>=1.50.0  # Latest stable OpenAI Python library
 anthropic==0.34.0  # For Claude API
 feedparser==6.0.11  # For RSS feed parsing
 beautifulsoup4==4.12.3  # For HTML parsing
