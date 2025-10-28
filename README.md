@@ -7,7 +7,7 @@ The podcast gets created by:
 2. AI summary / processing:
    - OpenAI GPT-5-mini generates initial 700-1000 word summary (transcript)
    - Claude fact-checks for accuracy, context, and neutrality
-   - Claude final editor optimizes for text-to-speech
+   - OpenAI GPT-5-mini final editor optimizes for text-to-speech
 3. Assembling music & text-to-speech (using Azure), into a podcast 
 4. Publishing that podcast in our RSS feed
 5. Cleaning up old (>30 day) episodes, to prevent bloated hosting costs
@@ -20,7 +20,7 @@ The podcast gets created by:
 ### 2. Set up all the external emails and APIs, and add to a JSON file for local testing:
 - Get OpenAI and Anthropic API tokens
 - Sign up for a new gmail address (for receiving newsletters), and create a new "app password"
-- Place API tokens and gmail app password info into a JSON file (placed outside this project repo) - Copy `secrets.json.template` as a template.
+- Place API tokens and gmail app password info into a JSON file (placed outside this project repo) - Copy `secrets.json.template` as a template, and see `SECURE_SETUP.md` for full details.
 - Sign up for email newsletters using that email address.
 - Sign up for an Azure account, create a service for "Text to Speech," and then grab the API key (note: there's a big free tier, so this will likely be free!)
 
@@ -53,6 +53,7 @@ The Github workflows will have this run daily at 5:30am UTC (7:30am SAST), to do
    4. Update podcast feed (podcast-feed.js)
    5. Clean up old episodes (cleanup-old-episodes.js)
    6. Commit and push changes
+   See `GITHUB_ACTIONS_WORKFLOW.md` for full details.
 
 
 ## Hallucination 
@@ -82,7 +83,7 @@ This project uses these South African news sources, for the podcast:
 ## Attribution
 
 This repo is made with love & vibe coding by <a href= "https://letstalkaitools.com">Let's Talk AI Tools</a> -- a personal, not-for-profit project: just two product gals (and their chatbots) exploring the world of generative AI.
-- Tools used: Claude & Cursor (for development), OpenAI GPT-5-mini & Claude Sonnet 4.5 (for AI processing), Azure TTS (for speech), Vercel (for hosting)
+- Tools used: Claude & Cursor (for development), OpenAI GPT-5-mini (for writing & editing), Claude Sonnet 4.5 (for fact-checking), Azure TTS (for speech), Vercel (for hosting)
 
 Intro/outtro music by <a href="https://pixabay.com/users/sonican-38947841/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=263720">Dvir Silver</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=263720">Pixabay</a>
 

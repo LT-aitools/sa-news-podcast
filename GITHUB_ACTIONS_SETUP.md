@@ -68,7 +68,7 @@ You can also trigger it manually via:
 1. **Fetches News**: Pulls from RSS feeds and email newsletters
 2. **Generates Transcript**: Uses OpenAI GPT-5-mini to create summary
 3. **Fact-Checks**: Uses Claude to verify accuracy and context
-4. **Final Edits**: Uses Claude to clean for TTS and fix issues
+4. **Final Edits**: Uses OpenAI GPT-5-mini to clean for TTS and fix issues
 5. **Creates Audio**: Uses Azure Speech Service for text-to-speech
 6. **Updates Feed**: Updates the podcast RSS feed
 7. **Cleans Up**: Removes old episodes
