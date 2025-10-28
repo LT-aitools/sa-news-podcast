@@ -1,0 +1,127 @@
+# FACT-CHECK EVALUATION: Mzansi Lowdown Podcast Transcript (28 October 2025)
+
+## ACCURACY ASSESSMENT: 7/10
+
+### Verified Claims:
+1. **Madlanga Commission/AK-47 linkage**: ACCURATE. Article 1 (Google News/TimesLIVE) confirms the AK-47 confiscated in Armand Swart's murder was used in DJ Sumbody, DJ Vintos, and Don Tindleni shootings. The commission is at Brigitte Mabandla Justice College in Pretoria.
+
+2. **Mamelodi double murder**: ACCURATE. Article 2 (Google News/IOL) confirms a 38-year-old man was arrested for the double murder of two young women found shot execution-style, with a third victim left for dead.
+
+3. **Fadiel Adams perjury charges**: ACCURATE. Article 3 (Google News/News24) confirms MP Fadiel Adams laid perjury charges against KZN Police Commissioner Makhwanazi.
+
+4. **Milnerton High School**: ACCURATE. Article 4 (Google News/EWN) confirms WCED stated Milnerton High followed due process, and the school announced safety reforms.
+
+5. **HIV injection approval**: ACCURATE. Article 25 (Google News/Moneyweb) confirms SA approved a long-acting anti-HIV injection, described as twice-yearly, making SA the first African country to register it. The article states it will arrive in November.
+
+6. **TB Caucus relaunch**: ACCURATE. Daily Maverick Article 13 and TimesLIVE Article 6 confirm Minister Motsoaledi relaunched the SA TB Caucus with an End TB Campaign aiming to test five million people.
+
+7. **Old Mutual/TenX deal**: ACCURATE. Article 11 (Google News/Moneyweb) confirms Old Mutual acquired a majority stake in 10X (not "TenX") for R2.2 billion.
+
+### Inaccuracies:
+1. **Date error**: The transcript states "Twenty eighth of October, Two thousand and twenty five" - this is a FUTURE DATE. The sources are dated 2025, but this appears to be a fictional scenario or the year is incorrect.
+
+2. **Company name**: The transcript says "TenX" but sources consistently refer to "10X Investments."
+
+3. **Hurricane Melissa**: The transcript mentions Hurricane Melissa as if it's a real event from source materials (Daily Maverick Newsdeck articles 11, 18), but this appears in "WHILE YOU WERE WORKING" international news, not as a South African story requiring detailed coverage.
+
+## CONTEXT EVALUATION: 6/10
+
+### Adequate Context:
+- Madlanga Commission purpose and ongoing nature mentioned
+- Gender-based violence discussion context provided for Mamelodi case
+- HIV injection significance (first in Africa) noted
+
+### Missing Context:
+1. **Madlanga Commission**: No mention that this relates to broader allegations of corruption in the criminal justice system and police handling of evidence.
+
+2. **Makhwanazi charges**: No context about what the perjury allegations specifically concern or the broader parliamentary scrutiny mentioned in sources.
+
+3. **Milnerton High**: The transcript mentions "bullying" but doesn't clarify the severity or that Parliament's oversight committee examined the school's culture.
+
+4. **HIV injection**: The transcript doesn't name the product (lenacapavir, as mentioned in Article 25 sources) or explain what "twice-a-year" means compared to existing prevention methods.
+
+5. **TB Campaign**: The transcript mentions "five million people" but doesn't specify this is for the "current year" (2025/26 as per sources).
+
+6. **Old Mutual deal**: No context about what 10X does (investment management) or the significance of this consolidation.
+
+## OPINION ATTRIBUTION: 8/10
+
+### Properly Handled:
+- Most statements are factual reports
+- Phrases like "observers say" used for the Old Mutual deal
+- "Health authorities and campaigners have framed" properly attributes viewpoint on HIV injection
+
+### Issues:
+1. **Editorialization**: "serious criminal investigation" (Mamelodi case) - while accurate, this adds subjective weight
+2. **Characterization**: "national discussion about gender-based violence" - not directly sourced, though implied
+3. **Framing**: "major step in HIV prevention" - while sources support this, it's presented as fact rather than attributed assessment
+
+## NEUTRALITY CHECK: 7/10
+
+### Neutral Elements:
+- Generally factual tone
+- Avoids sensationalism in most stories
+- Balanced presentation of events
+
+### Concerns:
+1. **Selective emphasis**: The Mamelodi case includes editorial framing about "national discussion" and "gender-based violence" that, while contextually appropriate, adds interpretive weight not directly from sources.
+
+2. **Omissions**: The transcript doesn't mention that the Madlanga Commission involves testimony about police misconduct and broader systemic issues, which is central to understanding the story.
+
+3. **Characterization**: "Authorities and school leaders say they are working to contain the issue" (Milnerton) - "contain" suggests damage control rather than addressing root causes.
+
+## SPECIFIC ISSUES FOUND:
+
+### Factual Errors:
+- **Company name**: "TenX" should be "10X Investments"
+- **Date anomaly**: 2025 date requires clarification
+
+### Missing Context:
+- Madlanga Commission's full mandate (corruption in criminal justice system)
+- Specific nature of perjury allegations against Makhwanazi
+- Identity of HIV injection product (lenacapavir)
+- What 10X Investments does
+- Severity of Milnerton High incidents
+
+### Attribution Issues:
+- "Major step in HIV prevention" needs attribution
+- "National discussion about gender-based violence" needs sourcing
+- "Serious criminal investigation" is editorializing
+
+### Neutrality Concerns:
+- Selective framing of Mamelodi case emphasizes GBV narrative without full context
+- Milnerton High "contain the issue" language suggests PR management
+
+## OVERALL CONFIDENCE SCORE: 7/10
+
+The transcript is largely accurate on basic facts but suffers from:
+1. Missing crucial context that would make stories fully informative
+2. Minor factual errors (company name)
+3. Some editorial framing presented as fact
+4. Selective emphasis that shapes narrative
+
+## RECOMMENDATIONS:
+
+### Immediate Corrections:
+1. Change "TenX" to "10X Investments"
+2. Clarify the 2025 date context
+3. Name the HIV injection product (lenacapavir)
+4. Specify Madlanga Commission investigates "corruption in the criminal justice system"
+
+### Context Additions:
+1. Explain what perjury charges against Makhwanazi specifically allege
+2. Clarify what 10X Investments does (investment management/financial services)
+3. Add that Milnerton High incidents were examined by Parliament's oversight committee
+4. Specify TB testing target is for 2025/26 financial year
+
+### Attribution Improvements:
+1. Attribute "major step" characterization of HIV injection to "health authorities" or "regulators"
+2. Source "national discussion" claim about GBV or remove
+3. Remove "serious" from "criminal investigation" or attribute to police/authorities
+
+### Neutrality Enhancements:
+1. Present Milnerton High response more neutrally (e.g., "implementing measures" rather than "working to contain")
+2. Include that Madlanga Commission involves testimony about police conduct, not just ballistic evidence
+3. Balance GBV framing in Mamelodi case with factual police investigation details
+
+The podcast demonstrates good foundational accuracy but needs tighter adherence to source material, fuller context, and clearer attribution to meet highest journalistic standards.

@@ -3,7 +3,8 @@
 python-dotenv==1.0.1
 # pydub removed - no longer used
 requests==2.32.3
-google-generativeai==0.3.2
+openai==1.51.0  # For OpenAI API
+anthropic==0.34.0  # For Claude API
 feedparser==6.0.11  # For RSS feed parsing
 beautifulsoup4==4.12.3  # For HTML parsing
 python-dateutil==2.8.2  # For date handling

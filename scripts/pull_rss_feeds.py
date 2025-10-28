@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import pytz
 from email.utils import parsedate_to_datetime
+import feedparser
 
 def convert_to_sast(date_str):
     """Convert date string to SAST timezone and format nicely"""
@@ -143,7 +144,7 @@ def test_google_news_sa():
 
 def test_sundaytimes_rss():
     """Test fetching RSS from Sunday Times"""
-    feed_url = "https://www.timeslive.co.za/rss/?publication=sunday-times&section=news"
+    feed_url = "https://www.sundaytimes.timeslive.co.za/arc/outboundfeeds/rss/"
     
     try:
         print("\nFetching Sunday Times RSS feed...")
@@ -166,6 +167,114 @@ def test_sundaytimes_rss():
         
         return "\n".join(content) if content else None
     
+    except Exception as e:
+        print(f"Error fetching or parsing RSS feed: {e}")
+        return None
+
+def test_timeslive_rss():
+    """Test fetching RSS from TimesLive"""
+    feed_url = "https://www.timeslive.co.za/arc/outboundfeeds/rss/"
+    
+    try:
+        print("\nFetching TimesLive RSS feed...")
+        response = requests.get(feed_url)
+        
+        if response.status_code != 200:
+            print(f"Error: Received status code {response.status_code}")
+            return None
+        
+        feed = feedparser.parse(response.content)
+        
+        if not feed.entries:
+            print("No entries found in TimesLive RSS feed")
+            return None
+        
+        print(f"\nProcessing {len(feed.entries)} items from TimesLive")
+        
+        recent_articles = []
+        for i, entry in enumerate(feed.entries):
+            print(f"\n==================================================")
+            print(f"Checking article: {entry.title}")
+            
+            # Check if article is within 24 hours
+            if is_within_24_hours(entry.published):
+                print("✅ Article is within 24 hours - including in feed")
+                
+                # Format the article content
+                article_content = f"""ARTICLE {len(recent_articles) + 1} (TimesLive)
+Title: {entry.title}
+Source: TimesLive
+Description: {entry.description if hasattr(entry, 'description') else 'No description available'}
+Published: {convert_to_sast(entry.published)}
+Link: {entry.link}
+
+"""
+                recent_articles.append(article_content)
+            else:
+                print("❌ Skipping - Article older than 24 hours")
+        
+        print(f"\nSummary for TimesLive:")
+        print(f"Total items: {len(feed.entries)}")
+        print(f"Recent items (< 24h): {len(recent_articles)}")
+        print(f"Skipped items: {len(feed.entries) - len(recent_articles)}")
+        print(f"Found {len(recent_articles)} recent news items (last 24 hours).\n")
+        
+        return "\n".join(recent_articles) if recent_articles else None
+        
+    except Exception as e:
+        print(f"Error fetching or parsing RSS feed: {e}")
+        return None
+
+def test_mail_guardian_rss():
+    """Test fetching RSS from Mail & Guardian"""
+    feed_url = "https://mg.co.za/feed/"
+    
+    try:
+        print("\nFetching Mail & Guardian RSS feed...")
+        response = requests.get(feed_url)
+        
+        if response.status_code != 200:
+            print(f"Error: Received status code {response.status_code}")
+            return None
+        
+        feed = feedparser.parse(response.content)
+        
+        if not feed.entries:
+            print("No entries found in Mail & Guardian RSS feed")
+            return None
+        
+        print(f"\nProcessing {len(feed.entries)} items from Mail & Guardian")
+        
+        recent_articles = []
+        for i, entry in enumerate(feed.entries):
+            print(f"\n==================================================")
+            print(f"Checking article: {entry.title}")
+            
+            # Check if article is within 24 hours
+            if is_within_24_hours(entry.published):
+                print("✅ Article is within 24 hours - including in feed")
+                
+                # Format the article content
+                article_content = f"""ARTICLE {len(recent_articles) + 1} (Mail & Guardian)
+Title: {entry.title}
+Source: Mail & Guardian
+Description: {entry.description if hasattr(entry, 'description') else 'No description available'}
+Published: {convert_to_sast(entry.published)}
+Link: {entry.link}
+
+"""
+                recent_articles.append(article_content)
+            else:
+                print("❌ Skipping - Article older than 24 hours")
+        
+        print(f"\nSummary for Mail & Guardian:")
+        print(f"Total items: {len(feed.entries)}")
+        print(f"Recent items (< 24h): {len(recent_articles)}")
+        print(f"Skipped items: {len(feed.entries) - len(recent_articles)}")
+        print(f"Found {len(recent_articles)} recent news items (last 24 hours).\n")
+        
+        return "\n".join(recent_articles) if recent_articles else None
+        
     except Exception as e:
         print(f"Error fetching or parsing RSS feed: {e}")
         return None
@@ -241,9 +350,17 @@ def get_all_rss_content():
     if sunday_times_content:
         all_content.append(sunday_times_content)
     
+    timeslive_content = test_timeslive_rss()
+    if timeslive_content:
+        all_content.append(timeslive_content)
+    
     daily_maverick_content = test_daily_maverick_rss()
     if daily_maverick_content:
         all_content.append(daily_maverick_content)
+    
+    mail_guardian_content = test_mail_guardian_rss()
+    if mail_guardian_content:
+        all_content.append(mail_guardian_content)
     
     # Combine all content
     combined_content = "\n\n".join(all_content) if all_content else ""

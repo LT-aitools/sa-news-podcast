@@ -1,10 +1,13 @@
 # sa-news-podcast
-Creating a short (3-5 min) daily weekday podcast, focused solely on South African news and all AI-generated.
+Creating a short (4-5 min) daily weekday podcast, focused solely on South African news and all AI-generated.
 
 ## overview 
 The podcast gets created by: 
-1. Assembling news headlines/info from RSS feeds and email newsletters
-2. Running that info through Gemini API, to create a 3-5 min transcript
+1. Scraping news headlines/info from RSS feeds and email newsletters
+2. AI summary / processing:
+   - OpenAI GPT-5-mini generates initial 700-1000 word summary (transcript)
+   - Claude fact-checks for accuracy, context, and neutrality
+   - Claude final editor optimizes for text-to-speech
 3. Assembling music & text-to-speech (using Azure), into a podcast 
 4. Publishing that podcast in our RSS feed
 5. Cleaning up old (>30 day) episodes, to prevent bloated hosting costs
@@ -12,12 +15,13 @@ The podcast gets created by:
 ## setup
 
 ### 1. Install the required Python packages:
-`python3 -m pip install requests python-dotenv google-generativeai beautifulsoup4 lxml azure-cognitiveservices-speech pydub requests`
+`pip install -r requirements.txt`
 
-### 2. Set up all the external emails and APIs, and add to an .env file, for local testing:
-- Get a Gemini API token
+### 2. Set up all the external emails and APIs, and add to a JSON file for local testing:
+- Get OpenAI and Anthropic API tokens
 - Sign up for a new gmail address (for receiving newsletters), and create a new "app password"
-- Sign up for the email newsletter to that email address.
+- Place API tokens and gmail app password info into a JSON file (placed outside this project repo) - Copy `secrets.json.template` as a template.
+- Sign up for email newsletters using that email address.
 - Sign up for an Azure account, create a service for "Text to Speech," and then grab the API key (note: there's a big free tier, so this will likely be free!)
 
 ### 3. Edit the following to fit your country's parameters (if you don't want to use South Africa)
@@ -27,13 +31,19 @@ The podcast gets created by:
 
 ### 4. Run tests (in this order)
 - Run `pull_rss_feeds.py` and see if creates a new file (`rss_feeds_content.txt`) with correct data from the RSS feed. 
-- Run `email_newsletter_retrieval.py` and see if it creates a new file (`daily_maverick_first_thing.txt`) with scraped info from the newsletter
+- Run `email_newsletter_retrieval.py` and see if it creates a new file (`newsletter_content.txt`) with scraped info from the newsletter
 - Run `summarize_transcript.py` to check that the summary it creates for your country's news works okay. 
 - Run `podcast_creator.py` to check that it assembles the music and text-to-speech correctly, using your Azure keys. 
 
 ### 5. Set up for fully automation 🤖
-(A) Now set up for your Github actions / workflows to trigger correctly. 
-Add all the items in your .env file to Github > Actions > Secrets, one by one.
+Add these secrets to GitHub > Settings > Secrets and variables > Actions:
+- `OPENAI_API_KEY` - Your OpenAI API key
+- `CLAUDE_API_KEY` - Your Claude API key  
+- `AZURE_SPEECH_KEY` - Your Azure Speech key
+- `AZURE_SPEECH_REGION` - Your Azure region
+- `EMAIL_ADDRESS` - Your Gmail address
+- `EMAIL_PASSWORD` - Your Gmail App Password
+- `CLEANUP_SECRET_KEY` - Any random string
 
 ### 6. Let it fly! 
 The Github workflows will have this run daily at 5:30am UTC (7:30am SAST), to do the following:
@@ -45,10 +55,34 @@ The Github workflows will have this run daily at 5:30am UTC (7:30am SAST), to do
    6. Commit and push changes
 
 
+## Hallucination 
+
+Spot-checking suggested news summaries done this way are generally correct. We did however try using LLMs' web search capability to look up SA news from the last 24 hours and summarize it. This was a mess: 
+- ChatGPT, Claude, and Perplexity basically never agreed on the main stories. (And running them multiple times in a row led to really different results.)
+- The stories they chose were often not that important. 
+- There were significant hallucinations, incorrect causal relationships (attempts to "tell a story" by linking unrelated news), etc.  
+- It was pretty expensive, particularly if using ChatGPT (which also perfomred the best). Each podcast episode, if using multiple web earches + a summary transcript + an editor / fact-checker would cost a little over $1 per episode. 
+
+We therefore decided NOT to go this route, and stick to the RSS feed + email newsletter information as the source material (with LLMs' web search capabilities turned off).
+
+## SA News Sources ##
+This project uses these South African news sources, for the podcast:
+
+### RSS feeds from: 
+- Daily Maverick
+- Sunday Times / TimesLive 
+- Mail & Guardian
+- Google News (South Africa)
+
+### Email newsletters from: 
+- Daily Maverick (e.g. First Thing, Afternoon Thing)
+- News24 
+- The Herald
+
 ## Attribution
 
 This repo is made with love & vibe coding by <a href= "https://letstalkaitools.com">Let's Talk AI Tools</a> -- a personal, not-for-profit project: just two product gals (and their chatbots) exploring the world of generative AI.
-- Tools used: Claude & Cursor (for vibe coding), Gemini API & Azure TTS (for transcript & speech), Vercel (for hosting)
+- Tools used: Claude & Cursor (for development), OpenAI GPT-5-mini & Claude Sonnet 4.5 (for AI processing), Azure TTS (for speech), Vercel (for hosting)
 
 Intro/outtro music by <a href="https://pixabay.com/users/sonican-38947841/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=263720">Dvir Silver</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=263720">Pixabay</a>
 

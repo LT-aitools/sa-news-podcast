@@ -1,6 +1,5 @@
 import os
 import time
-from dotenv import load_dotenv
 import re
 import tempfile
 import requests
@@ -9,9 +8,7 @@ import json
 import html
 import io
 import wave
-
-# Load environment variables
-load_dotenv()
+from scripts.secure_secrets import get_azure_speech_key, get_azure_speech_region
 
 def sanitize_text(text):
     """
@@ -32,8 +29,21 @@ def sanitize_text(text):
     text = text.replace('—', '-').replace('–', '-')
     text = text.replace('…', '...')
     
-    # Remove apostrophes to make contractions read as continuous words
+    # Handle different types of apostrophes for TTS
+    # Replace smart quotes and other apostrophe variants with regular apostrophe
+    text = text.replace(''', "'").replace(''', "'")
+    text = text.replace('`', "'")  # Grave accent to apostrophe
+    text = text.replace('´', "'")  # Acute accent to apostrophe
+    
+    # Remove apostrophes that cause TTS issues (but keep music markers with asterisks)
+    # Only remove apostrophes that are not part of music markers
+    import re
+    # First, protect music markers
+    text = re.sub(r'\*\*([^*]+)\*\*', r'__MUSIC_MARKER_\1__', text)
+    # Then remove apostrophes
     text = text.replace("'", "")
+    # Restore music markers
+    text = re.sub(r'__MUSIC_MARKER_([^_]+)__', r'**\1**', text)
     
     # Replace emojis and other special characters
     text = re.sub(r'[^\x00-\x7F]+', ' ', text)
@@ -132,11 +142,11 @@ def text_to_speech_rest(text, output_file=None):
         str: Path to the generated audio file
     """
     # Get Azure credentials from environment variables
-    subscription_key = os.getenv('AZURE_SPEECH_KEY')
-    region = os.getenv('AZURE_SPEECH_REGION')
+    subscription_key = get_azure_speech_key()
+    region = get_azure_speech_region()
     
     if not subscription_key:
-        print("Error: AZURE_SPEECH_KEY not found in environment variables")
+        print("Error: Azure Speech key not found in secrets file")
         return None
     
     print(f"Using Azure Speech region: {region}")
@@ -475,7 +485,7 @@ def create_podcast_with_music(transcript_file, output_file=None):
 
 def main():
     # Get the transcript file
-    transcript_file = "outputs/latest_podcast_summary.txt"
+    transcript_file = "outputs/latest_podcast_transcript.txt"
     
     if not os.path.exists(transcript_file):
         print(f"Transcript file {transcript_file} not found.")
