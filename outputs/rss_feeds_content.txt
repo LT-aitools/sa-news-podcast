@@ -1,1071 +1,659 @@
 
 ARTICLE 1 (Google News SA)
-Title: ‘It’s not a plan, it’s a vision’: Mbeki takes aim at intelligentsia over NDP gaps - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQTTNwUUh6TW1aU2syRlNZN1dFd0dmbmxJeXFoVFlhRURqM1Y3X0V6dWtrYXZmWm9XT2FSeEM2OGh5ejcwSnlZOFBuZV9ueEU1dU5WbWFPaGxOczg3QXY1Z1ZycFpwOTFSbFhhRUNCOE05TUxac3JySVBPczBRYWh1RDkwbEdYbTFTNFlqd3BiRk1uRllabDZlVnJqQmFBRjFEZjN4aVp4N09TZ2hTcDNoNlBSMkxoelpBV0k2d0tR?oc=5" target="_blank">‘It’s not a plan, it’s a vision’: Mbeki takes aim at intelligentsia over NDP gaps</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWt0R1A1UXQ3Q0UzeXl0M0k0WVQySXc2NXhqTzd5MXZyMUJQejZqTUlMMUZXOERCMVp4NnNOMFpudkRMRlQtcFl5b2NVMlctX1dQWGo4TkdxUWlRSHRnSVVJZ1docGhpbldlelVEYmlwOGU3QzltN1lrS2lrTjBER2EzOTdydmRNSmJKdXUtdU5peEptYVdMMDk5M3lNOE0?oc=5" target="_blank">‘Urgent intervention’ required to save SA from crises: Thabo Mbeki</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nWnZLSWtXRzF6MUJIMlJiLVNPWHI5bzVRaFFQcjNsT042Y2VIeU15VnBtYjNtaGpjQTRIdUFhVVI1ODdDbFFwMHk2ZHQwcGhhTHNwdjJMUUJYVGtUMEc2VW9RdmF2bEU?oc=5" target="_blank">Mbeki to address EC Higher Education Sector National Dialogue launch</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE11amF4b3AtVTR1a25CMUpJVkR3b2lmZVVTZTNLY0lWQ3FUM0ZVNGU2YnhwbUlLSEhGM1pZdjAzaEo2bG53MUhKZE8wTkMtSDhGTjZGZERWSQ?oc=5" target="_blank">Mbeki sounds alarm on SA’s deepening economic crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXZmpxejlzaGdhTDlGa1RZeUViRXg4eVBDNE1VNVY3cHgydU9ibGJ5aFhpd0hJNElQT09CLWlWZmNyM2JiQms1cU56NG1vVUlKcVRhMA?oc=5" target="_blank">LIVE | Mbeki delivers keynote address at EC Higher Education Sector National Dialogue launch</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li></ol>
-Published: Sat, 01 Nov 2025 18:10 (SAST)
+Title: Reiger Park shooting | Masemola deploys specialised team to hunt down killers - IOL
+Source: IOL
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUDRyTExjckVZNjFkdkFVYm5nUmM2X0hPcHdMUk9nWnF2UllTbVRnT0xUVzZmaHhtMkE3VjdaUGdGRW11TXN2dWtiN2pYcjI1eWRaaVJxa2ZPeW5WcHR5azQ2RkVfc0JRcGIwaTBwb1liVTBHYWtQM2N6UVo3UDBDWTV6MUF5TEdLdTNYNlpvUDVHZ2dvRXpVWGpYWVppN203Tzl5Rk1KbFVfWTBXVDRlekdESEJ0SDZIQXF6UFMxbms?oc=5" target="_blank">Reiger Park shooting | Masemola deploys specialised team to hunt down killers</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGJwQ19GUG01ZW84OUI1YmNhQnA2SzFPZU9zWXkwVkVYNi1SeFlJVVBhTlFmclJWZkpyZFRDdnhVQkZnSk41NXRuXzgyUUllNE5aMnlBR3BFOE9vaExLei1yckNtamo3MVJrd1hSallpanlDdkRvZkRsTXVIVzE3RDF2VE1uaDlweWVQdjBLaGFTd0xGdzVvMA?oc=5" target="_blank">Paramedic describes horrific scene at Reiger Park shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV1MwbzBCVTc5UURkZHBLWFp0dUxBTWw5bHQ0T0M3REpvMmN1eTVZQk11THd1MTZ2UUxVcWhvb3lud3JIZThPd2g5SGZyQlpvNnZHT2FiU0lodkZGVlQwWFl6R3phYTJuU0Q4RFVISjBVaXFVYjBoYjB5WlFTYmxqYTVNdTRscTdzVlRCdk9IQW0xQWdMRmlHOHFuSUs1V21icjkyanM0cUFrR1dwd3V6dlQ3RnFRODVFMjd1b2tNVXFOZXJMR0F3bjB4dWtheWNNWDhxUGJBQUM?oc=5" target="_blank">Police close in on suspect after Boksburg drive-by shooting leaves six dead</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUHBDU29fdndLVy1HSzZaNmNGa21feTRKM0pZdlRqVjlwaTQzLTB6d3dHYXdGZWlIM2JXc09TTEJEeTIyd3BJSVRtM2ZiTnZZbGg5Ry1LRjNiNFpNem92NEFSbEZoRkE1Ry1naFVTaUtkSzlpTklmVml1dEFkVjhWWk5QM01pMWZ0TzdwUWRNQlY1aENTS095V0FXLThrYTZiZXNfMlBvVDVWNkV2a3k4TDJaRC1qV3lxcXRoRkpQVjRGZ2Q0cW1CSlpoaHF0MFIwSUo5bzE2MVg?oc=5" target="_blank">Police launch manhunt for killers of six people in drive-by shooting in Reiger Park</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUNpWDh5ZG1SbjlWLWxfVjVfYWZVMjdGWE9GMHpaV2hDZnU4NjN1enZLWi1HcTNhNlBQYVU5TWMtYUhhZnhvN0dVLU90WC1icTZrSHdRTTBQVUtEbUJBWmxYekRGRHRfQ3ZTcXgtV2ktWnY4MWZZWlVya3hNdGhZN1RnNTRjenE0cVkxNGhQYTIwLWRhY0FSRy1EYncwU1FtOEZYNQ?oc=5" target="_blank">Masemola vows bolster policing in Reiger Park following mass shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li></ol>
+Published: Sun, 02 Nov 2025 18:22 (SAST)
 
 
 ARTICLE 2 (Google News SA)
-Title: Feinberg-Mngomezulu spearheads clinical and brutal Boks to record win over Japan - Daily Maverick
+Title: Mbeki calls for change in South Africa’s presidential election process - Daily Maverick
 Source: Daily Maverick
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQaFJSc3lwN3Npc0Rpdk1QekZGZkZ4d0JzYXJ5QmZsM2xJZFVfM0F3cURDaGlLY0RFdF9rUEMyallpN3RGaEFNQkJoQXVsMmZiVnIyc3ozZnl6R3RWSEFFTlRSdjhSdjVxbHIwQkdQTFlEUEl2ay14a3JWRDZibVRjOEN3Q0JrdUN3Nnl6bzRQSTJsbGl6NGhpT21HdHJrSGxrWlF5OHU1YmRPazBGcWJmMzd2Q0FXclJaN2YweWFQbFZuMGxRN3lWalNocUY?oc=5" target="_blank">Feinberg-Mngomezulu spearheads clinical and brutal Boks to record win over Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFhTZGxlTlVHaWZicWFJTXlibTJqbDR4ME9na2ZPemRTeW5Hd3QwM2g4YnVkUW13RmFsaHduZnRhUXJfTE5XUGkwZVNvLUJKTTZDTmJmU0Z5bkVCNVpXNnVHUERZX3NEWnVZS0ktRUlFNHVOTk1SN2pVTThwMmtJbDZZbGR3RkZ6aHBiVkY1OEJPbW9IcEVvT09VWE14ZGZhWkhyTWNZTUtYb2UwWTg1bWVR?oc=5" target="_blank">South Africa Springboks Vs. Japan Rugby Score, Live Updates, Live Stream</a>&nbsp;&nbsp;<font color="#6f6f6f">FloRugby</font></li><li><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQajdQS0YzcXRNUTdCb19mWnFWYU5RekgzMm9ILVNvZkZlRUtyMU5iTW1JLWdITEMteHRmR040bk54Z0Fmczk3MkVTQ2FEVURLWVVwM0Uxa3lxdEJ6ZzVzZUVBM1V3eDlNbm1RaGJJM0dzRlloRFlicndLSFlBSF9uNFBtWGVndDRnYVg0dXRIOTNhT3hNa2ZPblMtQ283b0FnczJlSmdBdzYtczhjZncyUkhmWVZpdUQwM2xERGFaaWZxY3FQN01CRXd5UlVhb1lGN2l1a2V4QjJ1cHRZc1E?oc=5" target="_blank">Springboks player ratings: Bomb Squad's 'demolition job'</a>&nbsp;&nbsp;<font color="#6f6f6f">Planet Rugby</font></li><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFB0R1ZnczJhWDh1emQzcHEtaDVLT2otTzZ2RkppTVE0ZWxQN2drMHpmeGd5Mm1JRDBfeXlaSzBOc2ljNHFoczlvRkdrVXgwUkFEeGE2NDFZOTlDdWc4aWRNVXBpVzYtQVFjYjVBNkVKek5CRUVSN00tcXI0LTdWUQ?oc=5" target="_blank">Rassie lauds ‘magic’ Sacha in Bok demolition job</a>&nbsp;&nbsp;<font color="#6f6f6f">SA Rugby magazine</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPbW5xVHJtdEVwTHJqN2xCQVNxNGlGLVlmX01BbFFjZk0xRURsdmNfbUFwRW1iUmRCNWE5M1JsbDFNZVVaYWJ5QmFOUWtDdkxSSUVZdkkzMWl3a3ViX2plSXF2Q3c5all3UUVjLWV5eG1Fc2p4ZHVRbEZVVVA2LTlyQVo3a1gwd25VRWx0X09HUzBQRWdMZi03cVZ6YkFpdmt2YmVORFhGNXA3YnU0aG1ETzBWZkZSQQ?oc=5" target="_blank">Boks expect Japan to show big heart at Wembley Stadium</a>&nbsp;&nbsp;<font color="#6f6f6f">SA Rugby</font></li></ol>
-Published: Sat, 01 Nov 2025 21:45 (SAST)
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2dhYmgyR0Rhb2s1RVRBaC1fOVJMRVprRUdJejYzSGk4R2ZWXzRFdEg2RkpJQko5VEh3VUd6LWdVZnUwWmF2SnlwVXdTSm9mVTdlZk4tSERTaWE0ZWVsN1d5al9nS2NUblZKbWIyMFpkeGUxMjBBcGgwbGNGMVJfaUxhT3BNSGc4ZDdlNF8wNzRjRkNqSnpKZnIxWjRsaTI4OU9UUFpMZHg1VUM5dWJCUA?oc=5" target="_blank">Mbeki calls for change in South Africa’s presidential election process</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXZmpxejlzaGdhTDlGa1RZeUViRXg4eVBDNE1VNVY3cHgydU9ibGJ5aFhpd0hJNElQT09CLWlWZmNyM2JiQms1cU56NG1vVUlKcVRhMA?oc=5" target="_blank">LIVE | Mbeki delivers keynote address at EC Higher Education Sector National Dialogue launch</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWt0R1A1UXQ3Q0UzeXl0M0k0WVQySXc2NXhqTzd5MXZyMUJQejZqTUlMMUZXOERCMVp4NnNOMFpudkRMRlQtcFl5b2NVMlctX1dQWGo4TkdxUWlRSHRnSVVJZ1docGhpbldlelVEYmlwOGU3QzltN1lrS2lrTjBER2EzOTdydmRNSmJKdXUtdU5peEptYVdMMDk5M3lNOE0?oc=5" target="_blank">‘Urgent intervention’ required to save SA from crises: Thabo Mbeki</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE11amF4b3AtVTR1a25CMUpJVkR3b2lmZVVTZTNLY0lWQ3FUM0ZVNGU2YnhwbUlLSEhGM1pZdjAzaEo2bG53MUhKZE8wTkMtSDhGTjZGZERWSQ?oc=5" target="_blank">Mbeki sounds alarm on SA’s deepening economic crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li></ol>
+Published: Sun, 02 Nov 2025 20:00 (SAST)
 
 
 ARTICLE 3 (Google News SA)
-Title: UPDATE | Six dead, three injured in ‘hectic’ Boksburg shooting - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjlxYUlNUVk0ZHFDbTYxdExFWVZIeUgtWGtITGRTNzRzQi1fel9xbnJYMFhzYTdEY2VFQjllQkptNlFoTm52NWdLbHFNNkVWSFhRa295emtETjBpTnhwbVp1bUZkRl8xbURyRFJUQUlqTF9lZXEwYjBqOWFEWHdBdGZmVFRFTzdRM0pOTHFhRDRGbGhra2ZjR0pKb01BaWRaTU52c0dpQ1JUTmdw?oc=5" target="_blank">UPDATE | Six dead, three injured in ‘hectic’ Boksburg shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0R1WHVXRGppelZTbGZDVU1EeC0xajhzSUFZc3c2Zkh1TEhJT2lpZTUtWGZZbFpUcmtSZVRsWE5Uc3Z0QVdVb1drdVd5dHNYTENtZVZfUFNfc3k5em1QMlVVX3J6WnRmbzdVTVNtYXoyTFRucG1fVnlsdlpMbjF0V3E3R2Vjc0FL?oc=5" target="_blank">Six dead, three injured in Reiger Park shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEUwY3FOR3NyTXhjcWlvYllUbEV6WVdHODZyNlBsTjJpZ21iQm4tZDZ1T0l6R2dyUnZpcWpjaWF4QTZNdlNPd1ZJV3BlZFBlU3VRQTQ0aFlucWJ0M25Rd001cW9oblJmTWxTYzRJeVNXeDJ5NTJXa011UUZKejdOUTAzU25LdnU0NU96UndrUWNKeHFNZGFyWTJHaE5zQVdwUmYxNVgwWmxxdnRo?oc=5" target="_blank">JUST IN: Six dead, three injured in mass shooting in Reiger Park, Boksburg</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li></ol>
-Published: Sat, 01 Nov 2025 22:07 (SAST)
+Title: ‘We cannot keep quiet and turn a blind eye’ — GBV activist calls out ‘shocking scenes’ in ‘Nandi and The Rev’ - TimesLIVE
+Source: TimesLIVE
+Description: <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMVdYbmdTeGxLMVFKRG1fdXVSdUtDOE9JMEQ4NHE1TVVyZGZkMDhsUkhaaGZKbVl4RzRtT1dsVHdERUFMVHg3VC1lMDlheW9uZzdQWV9jc0EwT3NRSkRPTElRM0NQb29wSndTbnNzZzZydzdCSEhDcjhqUDNnN3RxSjBxWElRVFluNEU0blItWjJJV2o2dC1ueEtXREtVRFlpMlVtN3BsRThIRk4xXzVJYlBiNEpaQjM4b1drd0p2YW5nMk0yX1VZQjVmRlAxam5RRUV4N1liY1Q4NXV0LWVCU0txZDJLZ2JVQXFMalAzOHA?oc=5" target="_blank">‘We cannot keep quiet and turn a blind eye’ — GBV activist calls out ‘shocking scenes’ in ‘Nandi and The Rev’</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font>
+Published: Sun, 02 Nov 2025 15:27 (SAST)
 
 
 ARTICLE 4 (Google News SA)
-Title: WATCH: R300K wedding gifts, cash in the trash, Mchunu' s doomed ANC bid | Madlanga Commission - IOL
-Source: IOL
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzgzZ3JJeG04LVozQloweTQ5aTFvWFBvNVh0TmhkemQzTDM4VGpTNURmSUZUdVJ5YURJY3RTa1ZoZVl5UHBaZnR2cDQ5V0ZleVVKN1ZQWGxOTmpjdjRsSTNMSDV0N3gtem05RGhEZWlReGlVdm9QN1FUcE8tYVluNzNUV0JKYjFWWHVnamFIQmZCbml5V0xRa2ZEN3VZT1pyV3dnaXlmY0hZc0ZUeGJsLTd6UEdSUmVyZ3dmSEVXemZheGxYYjdKeDExWWg?oc=5" target="_blank">WATCH: R300K wedding gifts, cash in the trash, Mchunu' s doomed ANC bid | Madlanga Commission</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGlQRHYwY0pOcThZNmFlVjFnclhILV91eFBEX2pSQnJ5bE8wTFZwWXotMDdaT0ljODRoRWUtUXl1c1lKN0JjTktpLVRYakx1MzJXbHI4Z0I0REpXY0pnQWxwMmVCaDcyd3FzZld1QTU0aTBxSWZrV0lWbmNMNXFRUlpKb2VULW9ycjg0dWFmS3ROY2JqdlZkZjBOSGNwcVN1RFA1WTdIVEpOa3phdEdscVoxVDdzZw?oc=5" target="_blank">Madlanga Commission and Parliament’s police inquiry – Key takeaways</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFZoOENUNGRqcEtPRkJVV3FJdUN1RWdCZGFqaS1EU1lOS2lXS0RFVVBSYWhRbl8tZXJRUFA0ZnhINURPa19sZU5WejFZRDA0dEc5QUZoU1BPQnM2OUc1aUw5OVY2Nm9NX0Zudm9QdDJDcmM0VkpRelJ2dTA5OHp5akpEMXNMckF4a25yUElBVVN4aWRETnVOenFEbmZwajZlbXdTaC1PY0xpYzZreGdORkZ6TjRUb2tlWWl3QmVIQWJWbjBU?oc=5" target="_blank">‘Sibiya is a criminal’: What Cat Matlala told cops in post-arrest recording</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmJucGRSTGh4RDRmeUJCdmhtM2VkUkJ1Z3RxazdEc2puUzBld1VkcUxIbDJFaG92QkZkWjdlWXFhc3ZFelYyVDYtaElFdDNDLVpwNWlYVDN0QmJBcDNnYkVEUVNXNHBxR09DSmNTTUVINk11N093dElTVmdaSDNpR19VN0Uzd1BNVlM0Q2VZeUdCTmFiektQWQ?oc=5" target="_blank">WATCH | Witness C continues testimony at Madlanga Commission</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMllzNHA3V0J1YUFCdnhyck80U2cwRHVWbWFhdUZFMUJMaWIzWHlldnFTa0pyNHRPNE9vdXVNX0VzRjg1U2hQWThTdVNqYTFOdF8tek1kVFlnQXQzMkxXZVhIRmFJVlYtbEw5VGtSNjBVbktZVHl5UFNsRDBWTmp5ZVUwWURFaHRPQU05OGZNaTlSaHhUNkJvTmFFRFFOdlh4ZmJCeUxlc05LWGdaTTZiNGQ4WVNPWmdaWDl4Tk5MLTFMbW1BdDJoTUZZX09iYmUxOThSQ01OQjdfcjR0U1picGFEOS1GTDNzWGowWkJwYm9ZNThi?oc=5" target="_blank">'Cat' Matlala claims to have evidence linking suspended Police Minister Senzo Mchunu to funding for ANC celebrations</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li></ol>
-Published: Sat, 01 Nov 2025 09:49 (SAST)
+Title: What Rassie Erasmus admits he didn't expect in win over Japan - Rugbypass.com
+Source: Rugbypass.com
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFRpbDkzNmdzQUVPYWhhRUxLMnhTMGp0QktNZDcwTUh4SFc3ZlVYNXkzY2Q2SmxYRVJTMFF5R1JKeWJnUnBFOTBLa3NIZ3VMV2pXcmFLVnR4a0tpQmJjN3pSd19jWl93QWZSYjRSZ1BMNVZPczhPRFBESkJldUVLcWVyWTg1M2dna21uN1lULXBLLUJZa1Bn?oc=5" target="_blank">What Rassie Erasmus admits he didn't expect in win over Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugbypass.com</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQaFJSc3lwN3Npc0Rpdk1QekZGZkZ4d0JzYXJ5QmZsM2xJZFVfM0F3cURDaGlLY0RFdF9rUEMyallpN3RGaEFNQkJoQXVsMmZiVnIyc3ozZnl6R3RWSEFFTlRSdjhSdjVxbHIwQkdQTFlEUEl2ay14a3JWRDZibVRjOEN3Q0JrdUN3Nnl6bzRQSTJsbGl6NGhpT21HdHJrSGxrWlF5OHU1YmRPazBGcWJmMzd2Q0FXclJaN2YweWFQbFZuMGxRN3lWalNocUY?oc=5" target="_blank">Feinberg-Mngomezulu spearheads clinical and brutal Boks to record win over Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaXY1MEF6N3ppOFVLcU9tbWJHMnZSUUZQeHJfd05hZ1hMSXdYOFlRTmZyMUVjcDFzdVdKYjhUZnN4X2V0dEt3el9oaE5zbmFscDI3d1Mxb1ZVbEpua1BCUE92WmxEOWI4SGlfSjJ3RzJmWmZoNDdJUjdBWFJ6MjhRaDdUajc3dXZoSktKTDE3V3YxWHpqenI0UHp3aEhQYWkyQTBDY0FUeXdZWnRVTHpIYjhHd2taeEdBbExGUXVBeXVKN2pBcXlzYzNzMVZvelV6MDdUSkhNOENkQ3EzWk1nWkxkSEthRmE2bEw3SFo2SVo?oc=5" target="_blank">Erasmus pleased with Japan win but bracing for massive battles ahead</a>&nbsp;&nbsp;<font color="#6f6f6f">supersport.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFhTZGxlTlVHaWZicWFJTXlibTJqbDR4ME9na2ZPemRTeW5Hd3QwM2g4YnVkUW13RmFsaHduZnRhUXJfTE5XUGkwZVNvLUJKTTZDTmJmU0Z5bkVCNVpXNnVHUERZX3NEWnVZS0ktRUlFNHVOTk1SN2pVTThwMmtJbDZZbGR3RkZ6aHBiVkY1OEJPbW9IcEVvT09VWE14ZGZhWkhyTWNZTUtYb2UwWTg1bWVR?oc=5" target="_blank">South Africa Springboks Vs. Japan Rugby Score, Live Updates, Live Stream</a>&nbsp;&nbsp;<font color="#6f6f6f">FloRugby</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2RYMU9qYnJNcXFOemg5RGN6NXBOV3JtV0I2TWhKTEtFcU5NSGQ2bGJKOGhUaVlDMFBJSTF4Y2hDR3NBdE1Pd3BsN0R2M2hFc3U2TkVLZWlIbjk1YVRrWHYtek84S1llYUFJZHBhckdDVFVwN0t0VmpaMlRJZC1mbw?oc=5" target="_blank">Player ratings: South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugby365</font></li></ol>
+Published: Sun, 02 Nov 2025 15:00 (SAST)
 
 
 ARTICLE 5 (Google News SA)
-Title: Orlando Pirates make a meal out of Mamelodi Sundowns to go top of the table as Kaizer Chiefs continue with their league struggles - Goal.com
-Source: Goal.com
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMijwJBVV95cUxPQjd1RVFxVjdRVHVoVVExcmNZYnM3am9zQ0hMYkV2a20zY3A4S3VoY3NDQm4yaDJUUEJWQzVyQXdSZmpPNURUNHpCNXNhY1NqNndMSUtzbmxMcEpWbFd3cVJ4ZTd2blVyQ1p4Qk1HUkVFd3ZjSWJuOFpCb24zeHFqRkQ3enVVdUpENUUyMWpEbDlQSm41dUZJbV9vVUxQSk8tbjVmUGp5Q0JoNGhqTnBSQlh3X0JldHBmTEhpVGFzX0F4OXJkbUM5cktwSVRGRzQxX3NqdUc1MHJMRmc3TGdUNGRyaEF5TVFIZlNwX0hpNGVZTzVHLUhXUXZCc1IwenNPVV94c2VjcklfbWY0NUl3?oc=5" target="_blank">Orlando Pirates make a meal out of Mamelodi Sundowns to go top of the table as Kaizer Chiefs continue with their league struggles</a>&nbsp;&nbsp;<font color="#6f6f6f">Goal.com</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQal9IVTBNN0ZQaC1nYnZTYzU1WVB6LXBCQVZYTlAzenFXU3pGaVl3OVYyNTRwNHlSenAwdXF6RTFOa29nbTdyQWFGdndqZXlyNTMyOE9ob3otZmhCTWRLMl9mTFlZbHlSXzhvOGlUS1NfTkRKZnowQWJ1RmxYUklyV0VYNjVGUQ?oc=5" target="_blank">Pirates’ new star secures vital point against Sundowns</a>&nbsp;&nbsp;<font color="#6f6f6f">PSL</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUx6MEVmc3BWNG9GWVA3M1cyd1VnMm9LTHhBYnJXVW9HUWExa2RDOGVEaTdNSVAzV185bk5vS1ozVEdaNHpZeTJ2c3VHNUJwWjRfcHdSVUZ1OHFld0pIQnVFODJoRFowWldFTzlLV000TDM1ZGFYUGJ3VnJmUEtQUlhMVHpLSUE1TFlqbDdFM0JMLXhMRmU3OWhFZ0VmOU1QNDBV?oc=5" target="_blank">Bafana Ba Style Upbeat Ahead of the Classic Showdown against the Buccaneers</a>&nbsp;&nbsp;<font color="#6f6f6f">Mamelodi Sundowns | Official Website</font></li><li><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVWZodThpSGw1RlpBWFRqX2ZuUk5iLUdUN0Z1dXNtSXZxTkFTVVQ4M1NNRjdyT0JFSEx1UGZZTjEwYVZ3c2NoOE5PYk5RUmdiSE5jWXRlcl9ENFphMFdpa2ItT0lMSUNrU2duQmNUSEJFVkJOelItTzVsTFBTWGVWZmZMbDQ4YWJCV0xOX2lFaFdPS1hYZWN3U2drWllsTkxKLUprLWRRT01sUUM3ZHJZeWZzNDlBenowTkFPMi1NUHNUTS02dmY3QmdWWHdkYTV4Wm13QnB2cGYwM1hLN2loZElIM1JhZVU?oc=5" target="_blank">Loftus stalemate proves season is going to be tightly contested affair</a>&nbsp;&nbsp;<font color="#6f6f6f">supersport.com</font></li><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1LTkZfSzlKZW9XZzNrZGZwQ0ttMnpLUUxQR0RGYUdRLWV6elQ4TTAtdjNqM1hnaC1uTHgtR3FhNlllOVd1QzRER252NFRuMWpTX0EybG4xMDUySzIwRzhXR3J2cWVhVGhZM2VQdjdMWU9FU3ZDYmF1TXY0bGQ?oc=5" target="_blank">Bucs Share Spoils with Brazilians</a>&nbsp;&nbsp;<font color="#6f6f6f">Orlando Pirates FC</font></li></ol>
-Published: Sat, 01 Nov 2025 21:47 (SAST)
+Title: Meat the law: Six suspects caught in ' high-steaks' hijack - IOL
+Source: IOL
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRW4wN2JBWWp6QUNfcUFzLUlCaGc1UkdyUHVoX1dDNXNHalVkdTJ3NnZlMWhhMDFkay1vQVppZkVJY0Z4eGlyQ21kQ1dvTmkxczUydFpiYW5ySnJqVk9wYXdRT0hhMllQTlJjNV80UGpQOGJUcDF0YVp5SWdyNF9ZTDU1WGtseVdWd0VtZ2tUWGJEamtheXVEV3owR1hrck54UzZUU2ZnZ2xXQQ?oc=5" target="_blank">Meat the law: Six suspects caught in ' high-steaks' hijack</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9RWUlvMzFLZGh5QUhJN2ZDVm5tVTl6V0F3WGNVRDdKTjlhcWNsMG0wZjlUYUlVaE92WjJsZTJtVk5KdkxKdnJ4bVVnMWRoNnc1dEYtajY4MXlkbXFMQXhYMlJVcThkbjVwbEFBSQ?oc=5" target="_blank">More than R500k worth of meat stolen in hijacking</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOTnhlTkQ4U1VzblRfUFQyckdZTzYyRUJBMTFaVWRFSDFpUWU1S3ZQZndsRDl1QUVpcjFDUFBEMTljLXBnS3ZZdjVHTUZFNzVWcGJNOEs0NDNkSGxUd0JNcXlIRFNxMmVfRkxpTVZrSmExNDNqdHNXSlRRTU1xcEpUdHZwRF93M2hLZjVVNVFGX212Tjh4UXZjTDZrUExxVDAxUVBqYmxucWFYYTlBbS1tbWkyUG9qVllRdnNqbVdCSXVDVklOckwyb3R3?oc=5" target="_blank">The braai is off: Six men in court for hijacking truck loaded with R500,000 meat</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li></ol>
+Published: Sun, 02 Nov 2025 12:32 (SAST)
 
 
 ARTICLE 6 (Google News SA)
-Title: Malawi High Court overturns extradition of Bushiri and wife to South Africa, citing safety concerns - IOL
-Source: IOL
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLUQtZW5uakQzTFFWRV95RGdQTXBLT3ktMFlfc3g3dDVYU0JlNWxCSF9BblJxS0tLS0tzRDJfY0hjaDZGdjVvTXl4d1drN3MtNEpvR29taGw0dXNaalVjMVdkUVBQWUlZanZ3WVNwYk8yOUhPdzdPRC1TNURGaWUtR1JzS295S0xocjZyUEdPRURDWnVmZlhsci1iYS1SLWRDeGpwNnlhSTdCN2pfTGIyenp2V21nT1djRzFUREltMjZRak85b2pPSGlISkJDT012d3VPUmlPOHRnTTZFS0hzTHcwZm8?oc=5" target="_blank">Malawi High Court overturns extradition of Bushiri and wife to South Africa, citing safety concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2gySW1hakRmdmxhYkdIUkNHR1dQTmpjTXdmNHhiMDI3MWwzOWFrNm9oa0VrWkNpanlnR1ZYaUYyYjFhaXBudnBJazJDVU5lOXRoRGQ5TldUWmFyZU9INm1rZ3pDdGNKZXUxMlowcWxsX3FKZUZ2ZDdxYzZnakczV3hJRkNyTzU0Wmk3bDRHUDllbk1fVTE0TmxWeEhkU3Z0LWE5LXY0V3Q3R2NIOENvdnJxajRnY1ZqRFN0OWVoRS02U0FjdC0yLXBRRm5zaHkyR08zQzZn?oc=5" target="_blank">UPDATE | ‘Prophet’ Bushiri and wife won’t be extradited to SA, Malawi High Court rules</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxObW83UmRyNHFJS2VmTTVUd1AyTEk2UUtXZUg2cUhZQnRLc2dEaC01cHlTenlTWWdWd1I1TEtRdEtnTklrSWhKUWJPZ1c3VEZHOTBhVUxmbldlczZKN2I4aE1IY0ZkNHJCYWhETWNQU3hVaUVWaTBUX3UyOE5tWkVxZERSaFZFcHdSZXF5WExTZmJxQQ?oc=5" target="_blank">SA works on its next move in Bushiri extradition matter</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWWVFZlBnNkN5XzlmY21lNm9YYndiZnRVSXJ5QndQMm9JalNDNkxuWEpMYV85bFF3S0xWX3FFejlfZ01QVVNndTA0WW5GTm1YYzc4bl9OaEZfNVVrV2ZuUEhOTWtkRkdxb0FVNVIzR2Exd0VpZDZaNEJqdHFGTUY0ZFZ4MmF0WHQxM0dYVWpPaE1jUmV0eUpWUzgtLXlnTEJiSVJFbjE3NFNTbXIwU05BZmg0SmdQbXN4TjJVaHhlN1hUdW54aTIyVlZUd25xWTla?oc=5" target="_blank">Minister Kubayi studying Malawi ruling that blocks Bushiris’ extradition to South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktNWWJfMFhURmJvU1JPbzhtMFBVTkZDWTNOYmxLSGo4VHJWMHVLLXZZc2JjOXJsWDJZUVdYMGZiRG1aa1ZqQ25mdWdJQWxSRk1HNHJja21FNGZpS2lMY2xJTDBRdF9VSWFqZFJLWVg0cVRlR2xvWnZJbFFITVZva0Vtdy1zY3NYU3pfSHQtTkF5ZkdSaGJyV3d6Y0NTeTczV2FSRU9sRl9KdEptWFZER0JjalQyZVFSYTZuaG1iaDNwNkhCcTZqZQ?oc=5" target="_blank">Bushiri secures victory against extradition: Malawi High Court declares extradition ruling unlawful and unconstitutional</a>&nbsp;&nbsp;<font color="#6f6f6f">Malawi 24</font></li></ol>
-Published: Sat, 01 Nov 2025 09:27 (SAST)
+Title: Nigerian president hopes to meet Trump after military action threat - News24
+Source: News24
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb19hUHd0QTdIdnU3Sm1oRWh2NXItdmlWRGxuY19xblZsRVFaZjJOMS1hakp5bnZaRTJkZ3dsM2tDTlV1bTE0c2F4TGprRDJIYWpQRG9Fai05LUVGN0xrWWRvMVdWQmxuRFBKOWlDLUZndEo3YzVmaGdoRTRwa295d2owbkNyNlBJSTRhZDYxdGV5Z0tKa2lXUzg5Nm5UYjBOT0JLLVJiZFBpNjA5U0JxZWo3eWFwQzRj?oc=5" target="_blank">Nigerian president hopes to meet Trump after military action threat</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEtfbWY4ZWlDdmJGVVZFZWJqckZqblpqRnJQNmV1ejFWcFI1MklxRGE1UDZaSlNRWkdKdkJUaExJREVfNndzQ2Q0SGFuN0JTbUdJYmFHeEpoQ3hXM1RwSFpucVl3c2lyZjZGWXBDeVdzR2tIVnE4QkI1UVY4Z2VpX3JfZVFvMkxUa2VfNFNUaS05LWRZRXBadWNXMzdIbEVFU0hEOUY2N0dPVmlCMEVROWVodExUZkM4ZEFZVnE1N0praDlDdUJJeTlPN09QcGx0ckxn?oc=5" target="_blank">Trump’s outburst about ‘genocide’ in Nigeria is dangerous and absurd</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iOE9oTnpxT0pIa2xJRDRuVEQyREZUSEh6cklNeDJZX1VDUE5TOUJ4WmlYMG54RW5WSUVxSUF3RDE1TjkxdlR2NW90Yzh4Q2tNRHp1ZmljWnRHZw?oc=5" target="_blank">Trump tells military to plan for 'action' over his claim that Nigeria allows killing of Christians</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2RqZlNPTURNdEF4R1ZRNHF4ZkJfbXZjMEdkRkxZMHhRWFpVQzgtbGtBeWtDSF9tOFRxbDlUcXNTSlJlVnpqMG1UOTB0RFAtSXNxaWtHejlKbGVBMEtBWnBJSE5KS1ZVeVc4bTZwYzQyM3hWUExmZUxpcWVmTTBZaGJhTDdvb3RxMi1SYjlJR25SNUdWSDMwZWYtTGtYLXM4Tjd2eWlQdTQ4ajhtYlUxbdIBtgFBVV95cUxPbmNtUTZzNHRXaDZ0RzVpWWdEVGFnSmlpNFZkU3lSSlZ2MDEycXpRenVFb3RLWWU2ajBKdk5RM0lwM3NhTnZkY0ctSTdnRFRrOThIRjRZR3A5UGp0UUVyQTlCWVUxSEYteFdPcU5zRUtxd3N3cjlnTVZMSW9hNnJpOXRKckhpbFdiNmk3MFRkM21zR0lJTUE5US1VLXltUWNCZHFUcjA5RkU2dmNPbTVvMl9MMldhdw?oc=5" target="_blank">Nigeria rejects claims of Christian genocide as Trump mulls military action</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBBOUJuRXZNcGxBQlRtQnduakQ1OXdWdEhjQzhyUS1mYVhpN2tWaHVkQlRMLVhRdXlEZkIzelpHMl9KQWZTREtOTVdVakZLbkVOcnRtRkEwd2NKQTJWTlBpVmxXLTJnbmNzMmQwcTF0VFhqczA2R3JpbA?oc=5" target="_blank">Trump says he’s ordered Pentagon to ‘prepare for possible action’ in Nigeria</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li></ol>
+Published: Sun, 02 Nov 2025 18:52 (SAST)
 
 
 ARTICLE 7 (Google News SA)
-Title: The devil is to blame: Angus Buchan prays for Cape Flats amid wave of gang violence - News24
+Title: Monday’s weather: Hot, uncomfortable as temperatures reach 40°C in parts of SA - News24
 Source: News24
-Description: <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWM1am03NWFkLVU3NEJoVlk0VlNBenN2SFFHdXZOaTluSmhDR1l3c0llckM1T3lzaW1taUpfanB1dmdoQTFYSmxuUThiNURxZnNqSnF4TUZ4VkpiMEY3dFlPOEhFTWlhajlJang2eTZyb0VhQURNeDdqa0FxUFV1R3hnQi1DWm9Md1hrdTI5cEh3Qzdsdkt2SmxGZmt2c09KYWI4OF9odDZLaWZ2WHJOZmtGTllwVGN4eGlzTHo0R1puZkRKMlFUd1FLZkpvQjRiZ0E?oc=5" target="_blank">The devil is to blame: Angus Buchan prays for Cape Flats amid wave of gang violence</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
-Published: Sat, 01 Nov 2025 21:37 (SAST)
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOSUREUTcxODlmSU1KTHBUSWFVaTFFSnVjbDI3TnhfbGJ5b2I2U2lXQ1pJNjFoUVVVcTRWeERRNGhITHhVQ0dvR2V5NEdESHlHU3Jia2tFRXhGbHRZR05rTGtZTTBJT0RHYndiR0tOenFnVDUxM0ZMWl9fRFhZcTlfeU55UGREa0ZkYzRwaGVxcDlhRm5GSjRyMno5enowdkZvMzNXdXNuV2hha3BmUVFoM2dJeVFMaEo0WXJyVGhKMVU2a3hnU1dDWG9DRQ?oc=5" target="_blank">Monday’s weather: Hot, uncomfortable as temperatures reach 40°C in parts of SA</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1KSENqQ1VtNUhpTl9HcHpvMkhmUGxaTEZ0VllJVnJOeWxuTG5NTktmY01LUU5SdUtnQ0ZsLUJGMlo5b25OVnl4OGU1eUdGVGJYSGVyRzlsV0tFV2ZER3Foakp0dFVJSWJZOWhuVzE0cWhHbDZCTTVzUlYyOA?oc=5" target="_blank">Monday weather – very hot in places with temperatures reaching 40°C</a>&nbsp;&nbsp;<font color="#6f6f6f">Snow Report Southern Africa</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNSFpuVzBXNkM1aWFVS2lHNzBGWjJmQjNPbS1DZ01GM0xzWDc0cURLMDNqd09SWkF5bnBTSjJnQnk2dEN1TUxlRnlLODhpakYzYk4tVXNhV1VHNXltQ3l5WUxMMXJJV3lVcjQ5MEhvMmt5elBZMGdfSnZJTTc1MWJSenhWdXVqN09iWHFLMlFndW94NEhSQ0lhSUlqUG9jQQ?oc=5" target="_blank">Golden skies and gentle breezes – Monday weather forecast</a>&nbsp;&nbsp;<font color="#6f6f6f">Cape Town ETC</font></li></ol>
+Published: Sun, 02 Nov 2025 18:32 (SAST)
 
 
 ARTICLE 8 (Google News SA)
-Title: Ruling on rhino horn sales could unlock millions for conservation... and maybe end poaching - News24
-Source: News24
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDBnNDFJSEYzMmFhV19xSWJiOVRnYlJ0YkVBUm5aZl9fYlJVd3I5MzFKVkJWc3ktb0pHMWFTcktvS1gtdG16NURFalU3cjNDMVpNcnZEQkliYUFZSEV2dzdWV1RBSmM3NWNZcTBKckFNOWl1THd1NTdpSFVOZV9yZG4wY1pKZFNtR3haNkw0RDA0MzFOTDQ4S2hqeU9sRHJfX09GMkNGNHd6ZEFMWWhLeEotVEN3c0ZqVlhsSXJOT1ZtMTNxd0tTSWRRU25PcEF0VWhiSi1FUFdBYkowRzF4OGtKbmlZdUlnajh0b3dVQWZNTWs?oc=5" target="_blank">Ruling on rhino horn sales could unlock millions for conservation... and maybe end poaching</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUW5tV3JGdWlxYTgxQU9EUFZxZHYyS1NGUUg1UTdFNzhXT2kyZy1xamQxN0Y0Ui1pWVJWQS11SE9zTldfXzA2amlSQWZMYVhUelFXb3FzU1dfMS1NZGtHaWN5bkpka2M0V3N5SllMTHVSWEpkWmpIejk5dVNISEZ6cDZsaDEzNDhmOUlyYUFWSWdza2VVV1JJV0xGTG5PNjZjQlh3Tkp2RkZUNGRIVHA1M3QtZ0tqX2lrQzk1b1dwUS1YbTBBbWI2WnJZUHk0Ni1QM053NQ?oc=5" target="_blank">Rhino horn harvested from captive breeding operations can be exported, high court rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFd1QWhFemRubmlUeXhwU0lXLUZaQ2VCdzhZeDRSY09HOXp3OEZKYUVOdWZHMWROV1ZPM2h3LU9zeC1CVFdVV0IxbHBUU0hSY2k2eUMxSFpKbGU5UUtPdHJWNkZkZjItYTA2aWxHVTg3UHk3ajJvbWpKS3dkVUdKTFpOdnBkN3RkNUF5TTNrSTY0RGtqRnpDU0NNMTlZYTRxaGM1X25uZw?oc=5" target="_blank">High Court ruling allows limited international trade of rhino horns</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNOEtvWXM1TkxPLTZRSVU2YWxOU2w5TXBOb0MzYTYtZVQ4VGhsRVJod0NOSnBLZnAxbjk5U2o5OFN1Ui1rT0pXcWdKN1JrZnBUcUowZkxxdlctWnJUSTg4OVNwaWdDYUo1UXZ2WnJUdnpxVkVZNDdoUHVvWUhLeDVfTG1RNDktOWZfeUN2dkp0cEtaTmtzMnFucjExVDZMcUFlLXJXWkpGM0JZS0t2RTQ0WmNaYzFBMmxHbUVrYnU5UQ?oc=5" target="_blank">‘Our duty is to protect wildlife’ – SA reaffirms stance on ivory, rhino horn trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Polity.org.za</font></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDdGdlFpUkZ0bmoyUXhGcWxWTEhySnVlampWMHd4Y2FXZTdiRzFpbG92bzk5WUpDTVlrRFRBcFVQcTh4V2JNRkdGU1dZVUd4Z3R2UzZ3bDlHRTZtQlg1WU40bFphYk8tQnhFakk2bmhYczFMZndnYzlPb3JnQTVUTnVfN0ZJbHBsMW5hbDVRRmhLaHNZOWp4Wm4tR2tVZlc5OXAyX3YyY3hibGhnS1phODV6ZG1lU2JtUFE?oc=5" target="_blank">Court rules in favour of ethical rhino horn trade for conservation</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li></ol>
-Published: Sat, 01 Nov 2025 13:35 (SAST)
+Title: 'We're making Joburg great again': Morero insists city clean up not just to impress G20 leaders - The Citizen
+Source: The Citizen
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzYwNV84UW1FSVlhOGV5M3d5X3NUaGVJSDFSTDVOVXpYNTJnYW5iV1M5S2ZvN3hrR05GTnU5ekZnU3hVNjJVX1BRQVpBNHViNkFRWGhGS0lpcHpaS1FtUFA1bl9kSEcteFdZei1uVndsd3BNSGx6aDM4T2x0ekJUNjk5QUNScmEwWXU0al81UF9qLWJraUFjNHU4bUg?oc=5" target="_blank">'We're making Joburg great again': Morero insists city clean up not just to impress G20 leaders</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEhkUlhuWHU3d1ctNklCSEFlOUx4UWJ4Z2pGS2gxV2JxTG5CMi02allkWHQ1Sm9HQ0JrbjltT0k5V0s4MXJ5R2lkbzFKVDAwYVZHZVlRRi05bHBUZVJWRVNBVmZ2cmliYWpDNXdnM3hGWkREVVdFX2t2MmI3WjdUYkdJUWVlVXh4Q1dNWW5qUzlJY3FY?oc=5" target="_blank">Jozi inner city clean-up will continue beyond G20 - JMPD</a>&nbsp;&nbsp;<font color="#6f6f6f">Jacaranda FM</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxObC1lM3F3WXpKMGV1eG5MZXI4NFIzYUhLcEllbXNTQWVvc091U01rQVhYWk5aT0ZQelNJU2NfcktnQzlBbVUxMm84Ui1RdmxEaWtJU0liWkZVdEtUZDFMYWtZLWhoWHc4WVIyYXhSZ2RnOGxzUnRXQ3o5R2xpZWtXZmVxelRrRWM3Z0k4S2NYanNjbDFJdXUxRUVYRlNxcjljbkJncFQ1ZmdacllBaFdObmlkbjI4dw?oc=5" target="_blank">Despite crippling water issues, Morero insists Johannesburg is G20-ready</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPclFrbjY5Z1lBXzhHVnEwOVd0eUNKbkd3bjBsWWJ3MjczUWJEV0N0bmFWZHJXTHlIUnMwV1VuVVlmM0J4VmZXak90bHhLMGpxT24yRTJEdkdvVXpUZEhxeThodU8tbUp6d0tFSENwQ1FMV01MVjVxSV9qNWRuS0V3WkY2alF2YVc2TGFYN0cyWkVtdEJyd1lFemFJSWFFdEl4QnpzTQ?oc=5" target="_blank">Joburg cleanup campaign to be maintained even after G20 Summit: JMPD</a>&nbsp;&nbsp;<font color="#6f6f6f">SABC News</font></li></ol>
+Published: Sun, 02 Nov 2025 15:07 (SAST)
 
 
 ARTICLE 9 (Google News SA)
-Title: Thirteen arrested after deadly Free State farm attack - News24
-Source: News24
-Description: <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUkxSTRfSkp2Z0I4bVBmQ0xRcjRuTDlyT3MzWHJ2T0twaTVIQnJNYnJrQmVQZ2k2Y091ZklsZUxPZEExcE1VbEMzRjVmT1JrZEFlRjBHZFVkQjlzVU9rV1NlLXc4Q3d1SzhhM1F6N1dIRXdjTzJ2dmxOSTAxeW0zZkw0RkxaakFZT2gzT1dyd1JKaXp3dC16aFpIT25CMDh1Z1JwXzlaWkhScURPTlh2SEpqUVhsZVZmeUNn?oc=5" target="_blank">Thirteen arrested after deadly Free State farm attack</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
-Published: Sat, 01 Nov 2025 18:28 (SAST)
+Title: ‘My reputation will be unjustly damaged’: Sibiya guns for Masemola, Mkhwanazi - The Citizen
+Source: The Citizen
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQUnY4NV9vazVqWmhnREdLb1Roc193ekhtNnZCTkxnandRLWFtb1hZQWw3Q1FGVG01eFRGYzhOTC15SlVIeXZJSWpfRWd0a3JxN29EWTdtRXhXOHQ5Uy1JMUwyaWlkbmpWREpMcUdaOENaRkRUQnl5RU1BdDhzOVc3MG5JZ180WTctRHowY3VVbw?oc=5" target="_blank">‘My reputation will be unjustly damaged’: Sibiya guns for Masemola, Mkhwanazi</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHF2T05jeXZOVnowX3BGQVJ0Tk9WY1JGZ2RXbzl2NnBlWk9tZU9pNllIelFGb0Z6STdVX3MyLVk1UmJ2MU9mbFh6WDMyeG5FMjZYMlp5eXQtazFQQVR1SlVfUmN0S1pyZEZPYWZBS3ZpZURFLVdmZmRuSXYyQnJwdE0wU0tzUlpoWGlZVmJmdVk0MlJLMklRYnViam9BTTkwNm10N09kOE1PNzA?oc=5" target="_blank">Sibiya accuses police chiefs of misleading inquiry</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnBySkdGdXpKSFNyU0VKVklzQnoxY1Yyby15Sy13WEJBNzlaMURteTVWcnNqVjBUVzF5WVM0ZG1XSGZldjdjM2prYmt3TDQ2eHYxSFgzVXh4LTREWG9YM2NxUFFmalFONHZkWVhSX1VYUFpqdlZhaGFWY3BCX2NWYkdmOHoxTVk3TkwwOHBjek1lcThJSXJQa2V5SktIaWxBZU1HNExmckJ0VUN0LVFFc0Fnc3dacmlqMjVJVTAwUTAyX093VVlPOXlFV2FFWUpy?oc=5" target="_blank">Sibiya’s devices seized as KZN cops accuse him of corruption, fraud, money-laundering</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE83UUs0UFNTRUtFZDJxNmRsTjZFV091aVFGSVBBVlJ0ajh0RngtdHIwMVhVN2JQV1JJNGpZZFJiOXhmR05xNXN2eFNla2FJekQ1d2RqYV9kNmpxandHS1FQb0pQOGotbldySEtaX25KSGxUNUgyUENwMw?oc=5" target="_blank">In case you missed it: Sibiya guns for Masemola, Mkhwanazi | Morero's G20 'cover-up'? | R500k worth of meat stolen</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDhmNlpyenMydHpNSm1rNGdtSU1SQmRrRE96UnVUSzh6X2pyM1RrWHJHdDdiZXJVOGRlS2RVQlB2U0thMUJLMm85dnVBS3doVU1Dd0E0dHAzcVZYNFhDb2N1S1JWbG4wZ3VJU0RJbFQ3Ul9rWnVfQ29rZU0xaGVYV3dSb1lIZUs2NGFNZHhHNGpRSHNiMy03aHJ2T0c0QktXd1FHY0lUdjRtRDBiWDNkbjhIRWVZY3FyODh2Z2lETlNZbGh2d0JCZGJXV0ppTFRWX2ZB?oc=5" target="_blank">Mkhwanazi sent friends Tupac song about ‘killing enemies’ after Khumalo’s arrest – Sibiya</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li></ol>
+Published: Sun, 02 Nov 2025 11:06 (SAST)
 
 
 ARTICLE 10 (Google News SA)
-Title: Trump’s threat of military action in Nigeria revives fears of a new U.S.–Africa standoff - Business Insider Africa
-Source: Business Insider Africa
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcTd4ZHE0OVZ4ZjVkUFBYTHpmMXRFTFh6Qnp0N0s1U09QNi1tTlpmZFo1a3ZLXzNRUXY5Vk9qQUtDUDhTQzF5UURDTldRZGJUXzRVbXk3Nnh6OXRkNE9vWDlhYnVpcnVoaHFweWtIMWdoUXIwTWQxMTRXN2ZGNHlzN3RWbkNjVlNSaWpTRWRfNEFfVDNqZ0RaRnhRbkFrUUpMQkhoVnFaSkdqcTNvVklBZ3FqUWNLbDAzVmlNR1NTb0x2anNKSDF0MDVRZUoxOHNBX0xMWGFXTEptaFE?oc=5" target="_blank">Trump’s threat of military action in Nigeria revives fears of a new U.S.–Africa standoff</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider Africa</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBBOUJuRXZNcGxBQlRtQnduakQ1OXdWdEhjQzhyUS1mYVhpN2tWaHVkQlRMLVhRdXlEZkIzelpHMl9KQWZTREtOTVdVakZLbkVOcnRtRkEwd2NKQTJWTlBpVmxXLTJnbmNzMmQwcTF0VFhqczA2R3JpbA?oc=5" target="_blank">Trump says he’s ordered Pentagon to ‘prepare for possible action’ in Nigeria</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDloWi1ueWpHOENCSjk3VWt1Y3owaC02SC1HV3Z6STZnSzFLV2s5cC0yREg1YS1nYld3czRVRERPVHlLUXRmV0tSZnoxUmE0TjRXS3JNbTZQWTRIdEdVcnN0YTNSejJORmlQYXRQbmJyT085SEpkcUh5TlBLNV9qMVEwMnRSRjBfcUpBam82RlpzNHpWdTVYQko4aFVMRjB6RTRTNV84Vmc2cXNzNHR1SkZB0gG3AUFVX3lxTE9UQ0w4dmhtTVlTQW85MUdNOXgydVoxR2ZCLWExWTNMMWJjNjM4OHR3QTNjOEN1UGlQWl9pMHY2WUJOX1JyZHFLLXJyaDhZN1pEUEpWNmg4SjBFXzM2Y241VC11ZmtGbzFNS2lyTjlZVVcxblVST2lObFdqRU8tS1d0bElJZ091ZlZmYlJFWklIWXF4UzBUX2hRTnBnalU2c0FXNjE0SnBwSDRERG5rTWpIdFVfUGpVSQ?oc=5" target="_blank">Trump threatens to launch attacks in Nigeria over ‘killing of Christians’</a>&nbsp;&nbsp;<font color="#6f6f6f">Al Jazeera</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYWd0ZTkyZDgwLVFFbEpCc3hSTWQ0SnEtbWR0Tm9tSUZXMXg4UktTaTVrbVMxUnk4S1FvM3pvSjhxMDNQTG94bFhzN3NNTkE0aXJpb3ZIMFdwcXdwX1RCZkZHdjZPZzM1TE1SZWFteFVhc0Z4MEI0VS1rdThLelhQc045WVA1N3lPRk9OeDluQnRPaFVOOHo2ZHJRS01HUlRpS2VnZkxlelB3eTlzRVpVbTdGYkRMSjFaTkNXckxhb1k?oc=5" target="_blank">Donald Trump calls Nigeria 'country of particular concern' due to 'slaughter' of Christians</a>&nbsp;&nbsp;<font color="#6f6f6f">Sky News</font></li><li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGNUZ2VaWXgzcUtxTy01N0UtYWdJYThWNkMzelRXS0FIS0lQaTJKSFlHYnBqcWNxWjlTVWJBb0NpbWhIM0ZXdjZGckREM1JZMVV2OTZ4NVdKMGxqaThxMmVlN25tMkVySnFwbDVkNEVTVkZCVGp6YlQycW9ma0oxOQ?oc=5" target="_blank">Trump Threatens Military Action in Nigeria Over Protections for Christians</a>&nbsp;&nbsp;<font color="#6f6f6f">The New York Times</font></li></ol>
-Published: Sun, 02 Nov 2025 00:58 (SAST)
+Title: Chadema: 'No genuine election took place' as Tanzania imposes curfew - thecitizen.co.tz
+Source: thecitizen.co.tz
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2FQT0cyWnp0OG4zaWEwOC1tT1lLZDd0SGdXQmpneExEazB5YkVCRXltalhZamZ2cHBjVENmb3pUUnVveTI1a1RpVWY3S3hlMkFqMm80UnljelQxMUhIclNnVFRnMFFIT29BeTBoUTRFQ2pvMnptTkZ5S3FCS0o0SExISW9BZWFXeHVzVUEzMGRfdFhBMjVuWjlzQkJoYTNTVTVHT2JRN2hDQnFmM3h6NDRuRU5TR3ZZa0V1UXRB?oc=5" target="_blank">Chadema: 'No genuine election took place' as Tanzania imposes curfew</a>&nbsp;&nbsp;<font color="#6f6f6f">thecitizen.co.tz</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2QVRZMVlsblU2eEc4VDNPcTVTRHVHWUt6Mmx3SXNJUVY5YXc4SFdDS2ZyTjQ4Y2RsQTlfZ0UyX29LRi1tbkZxTW1nNXJLLWxQSm9hXzE3YWxDZw?oc=5" target="_blank">Tanzania president wins election as hundreds feared dead in unrest</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjNNNGxKN1BZODJKYllZZnctNDd4a2tuQXBjMEpuWnN5aDJlQU5ZcV9XYnpzTlJHVkl2RE9kamVlNTk4UU1FZmJraVpORl9wU21oMnE4LTFheFZzc0hWYkY5X2xaUVpVRkh5N3V4NGh1WjdwVFVTTXZNRnoxTW9zUUJISDlRTEM1eE5OdWNaeEFCWTB5WGstQklCWlVlcmQ0cjR2MDBic281c0NrUHZBN1RSRTMtQ3pUd3hPalVfeEg?oc=5" target="_blank">Tanzania: President Samia Hassan’s grip on power has been shaken by unprecedented protests</a>&nbsp;&nbsp;<font color="#6f6f6f">The Conversation</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa0ktMWpLYVAyQk45STB5eFNaMjVlVWlRWl92Ylh4SklYYjF5SGNDWTVHNm5MY0Mwc1hQR01zNmJrcmdSNk9LMGtVUC1RdUpIcVlvbWZ4cWZNenpsVGFURnRDd0RIS3lpdU1pV1dnMXAzLXVoUUdQVTc3c1FZUlI2b2tka0JtWlpCT3RVMWNNcUFtMkkwTmNJZC13bWlQZEZCbDRoZlVvMkZ2Ql9jYjRobVprRVNoWDhlMVoyWnJoLVlqams?oc=5" target="_blank">Tanzania's main opposition rejects Hassan's election win after deadly protests</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font></li><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNNEhTNDE3dEpIVEk2R2pNb0FxbzZXam9JWTJOd3BTRjB1RllCM1FxTi1hUWtWaFE3TWp1V3lYVjF6UGdBTnhWWnRtMXVXMC1tVnpNS3R3ak5Ddzd4UU9ldlJMZ3o2Y1E1cWd0QURUQUZ6SU8xTmpncjg2b1FPekR5dDN1Yy04ZjNQOVFLR0tGOFF6SW1WbWQteDZZTlNvUnF4ZUFtb0VCdW1kX0V6NFdDWW9HUm9nQ21nY0VnSGtvR1FNQzB1cnBONFhyWEk?oc=5" target="_blank">Tanzania’s Hassan declared landslide winner in election that triggered violent protests</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
+Published: Sun, 02 Nov 2025 10:58 (SAST)
 
 
 ARTICLE 11 (Google News SA)
-Title: Daily Lotto and Daily Lotto Plus results: Saturday, 1 November 2025 - The Citizen
-Source: The Citizen
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1NuTnZKR29WbEtYN3dIcUVNM2VGY3pjZGNTal91V1RnZmM2ZnhNZUtuLVB2SjJWR0ZyOGMxcVVMQ00tOFJmTjM4VTZlLVExWFNQR2F2aGhkVmVWUXBsVmI1QmdJQ2tuRk9zc3FTNEJaZlJ2eTkwQWpTY2sxNnpzN1RHT2RKNUpQcEllTDFaOXkwem5wM2FLdDZDTWtaU2s?oc=5" target="_blank">Daily Lotto and Daily Lotto Plus results: Saturday, 1 November 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1pKRDRCNl94WVhBNXBFTXVZX2RPUlNMYlBfY1RHV0pkSVVzdGxEMnR1Y2JkUlN5elNkaE9XWWpvM01FYU9pbXI1bTJXU2ExSk8zSklVQy00WVpMYzhXdmhBVjVBM3JTLTN5ajhxWFJKc0ZmZzFuZ1FKaHk5MWc3bXJySXR3WU1qZzRDWVgyS3AtUENNYzJ5LUVMVk5Zc2R5SmVfMFE5QkV2UQ?oc=5" target="_blank">Here are the Daily Lotto and Daily Lotto Plus numbers</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzVPbHR0VEY3eXc5cEdqck52TEtXVDJDb1VOMzBMRG1GUFdJQm9TNU1FV3prcXB5ZEdIY2tYVi1EaGxCNVlMT1FVX2dCR1p6UjFIcXUzY1IyaDRuSV9WU3BpZGRaTktzbi14OENtbUhpZURTV0hjNkdRVHhkRzZocHlvWlpCZ1lDQmtZR2pORkF0ZHp1UW5MbGFhRGhIS1BkQzhXVmJYNzhpNnJreEdGYQ?oc=5" target="_blank">The Daily Lotto results for Saturday, 1 November 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">The South African</font></li></ol>
-Published: Sat, 01 Nov 2025 20:45 (SAST)
+Title: WRAP | CBS dismisses Debora Patta after controversial interview with US ambassador - IOL
+Source: IOL
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU09LSXd2YTFvLTJYVUhaUHJIdk5lcG5iZVZGRWVwc3JTazdMZHZGbGJQM0YwY1h1dWpUV19CRUdFd2x1d1I5Mk5MVWdMZFUwOW5WUjdXWHVWbEpONnZBaVIyRks1MWZjZGwydXFHd2o2YUtjMnM0NTZZbkRFQTJVdVVkd3JVelRmVnI5d3pRTzJVQnAtUFlpZGNDZF9CZm5nUDRxSFZQUlVYVkQ0bklMSDdURW05OVRvSFdqblZYVHNpdnp1bXBERQ?oc=5" target="_blank">WRAP | CBS dismisses Debora Patta after controversial interview with US ambassador</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdTY5Wm5XZG1nOUdGZWlyelZaNTNubFhRZG9yNk9LaHJyZXk0OThyYUNTUVJKVllVQ1lCM3VabWkxamlHQy05aTl0VGFnRGg4OGthOW8zN2x6UW4tVmVnMzJpVnU2UVZOOVdKblhnYkpfOHo5Z3Fva09TcjFaRjFpSUNIQkE2NHp2LVcwNXVsNWtEWkt1a3lMN2RvQ1BvejJfWktFenFCalRPZUR4UldHbFJwbmVfMERQczJKelB4WE9iR2lsTmhMU2dUQUt4SW5PSWlSNFdueE0xYlRq?oc=5" target="_blank">CBS dismisses Debora Patta after controversial interview with US ambassador on situation in Gaza</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNQi1tWC1lNEZ6aThXRUE2RlJES3NtSGlZc0R5WGw4RnpDSk1mV2RWZ1VxSXdwS1JEUkpBN0w1VFBvM0tYeGIxZmZGRGQyUGx4X2xIQmNzRnpWUDBiaUZ1S3JBRTlDMWw3VmlvSTVlcWxlekM5VGhkcVFTc2pkNzVfQnE2ZlBkX2tWMC1OU2daU2h5eHBxb3NNYkVZck9ZLU41TWhHcU85a2M1T0t2NElNUmFVY2F5UE5DTmpybTNvZU9XSEdyRktBdDVDV29HbU0?oc=5" target="_blank">Exclusive | CBS reporter fired in wake of firestorm over Gaza interview with Mike Huckabee now looking to sue</a>&nbsp;&nbsp;<font color="#6f6f6f">New York Post</font></li></ol>
+Published: Sun, 02 Nov 2025 16:02 (SAST)
 
 
 ARTICLE 12 (Google News SA)
-Title: Three Porsche 911 GT3s Enter, Only the Fastest Leaves to Tell the Tale - autoevolution
-Source: autoevolution
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjZxbFZ6bmdBZjJGQUloUFp6bm1GRVRJWTZfbmJMRFBOQTBKeWZjRUctaDQyV1h1RFRWOVRqVGNXTlRrX1IwSnI1bDhzSThTNG9ucC1rS21leVM1YWhJYTg3Qzk1NVdBbmVGR3BTeHJNdGxxalAzU1dKUW1GT2thb2hXNlVObGJCdFJENHRveEF1Z3RuUjJFTUpxbUZCRnZCMHBLdU42TVV0ZnB1LTJiRXZ3Zk9aT00?oc=5" target="_blank">Three Porsche 911 GT3s Enter, Only the Fastest Leaves to Tell the Tale</a>&nbsp;&nbsp;<font color="#6f6f6f">autoevolution</font></li><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQYW9lTG9Da0FlVXVPTFFVY3poUmpKTXo1YnN3cUJkVU1BVU5DZkZQYlFYb2dzYjFTbXU4Nzh4YmpTeHZfM3ZzNTkwUTRpOUd0aFBBTlF4LXdhZVpxUEVjd2t6c1FYNzNzYTJCSERieV9qVGE3M3FPQUNIaGZsTUV5RVZHR3JzSHZvQ3kxMGFGT3JDQ3ZpMkxmY3VQREZ0QQ?oc=5" target="_blank">Old vs new Porsche 911 GT3s – car pictures of the week</a>&nbsp;&nbsp;<font color="#6f6f6f">evo.co.uk</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VNF94bmxHYkNtb2UzQkNrc1JmcU1rN0VSTEFiemxjVHN5WHQycS12VE5aQjlITEM4Zk80THIzNzBLekJrS2lfajZZb0dSVkFMZ0hVUDgyRmpGVW5n?oc=5" target="_blank">Used 2023 PORSCHE 911 GT3 S-A for sale</a>&nbsp;&nbsp;<font color="#6f6f6f">PistonHeads</font></li></ol>
-Published: Sat, 01 Nov 2025 14:23 (SAST)
+Title: André de Ruyter’s claim haunts Eskom - MyBroadband
+Source: MyBroadband
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOTk02M3E2UV9GWHVqRFk4NGhybHRTWlFoR0dkZG1CTDZUMjdpdURZUUZZSkp6MmJfTjlKMlp3blVKVFlrdG9ERmRMeDdLLWtZRUIwNkxXZjRYNzZzc1BJNDVRMDl5SUM4N2J5dzQ2R1U0VF92ZmF0QlhLVHpFb014QTVCSGNndGZub3NIb2Vn?oc=5" target="_blank">André de Ruyter’s claim haunts Eskom</a>&nbsp;&nbsp;<font color="#6f6f6f">MyBroadband</font></li><li><a href="https://news.google.com/rss/articles/CBMiugJBVV95cUxNODZVa3l2bWJPMUtIM0R0ZXJ6c0dlbGZRX2xmcDd2RjRESWpDc0JGY3FFTG40VFU2WTQzWmY5eGVETXNHRmhCbEx6b0gtV01zQ3BSd1h1WTkyU0pLOXk5eC1VdkZjTGhXWncxTVRnR0JFckdKTm9JX0dJR0N3elJWQlA0b21hLV9PLUVYWDlSZ1o3Yk1HWnk4SzFOdzVlUEFibnRHS3NEWmhqc2R5eS0zTTJqVHRjN0pSMW4yZlV5VFVsZkZMQ0tBY2lxUlN2OTc1LVdCbWJIRHN6X2JITHFUOUp5OEZwRmZJQllsV2prdWljT3F0aGM3VWV4TUVnejd0TzFCV29NQzI2TEVaeTdYa3dDQnB5MDhBbGxUemVOcEFiZzFwNzJnNVNkQ0E5MHZPYjlCWHBNcE52QQ?oc=5" target="_blank">Power system remains stable with a 1 069MW year-on-year reduction in unplanned outages, EAF surpasses last year’s performance, and Koeberg Nuclear Power Station Unit 1 rejoins the grid to strengthen 24/7 baseload supply</a>&nbsp;&nbsp;<font color="#6f6f6f">eskom.co.za</font></li><li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNakpvZV9ib2drZVNaTWw0OXZwbXNhN3NXUG14bFRrcFdYQVJWeW11S3libDBPekFEWXZpSFRQVi11MW1VM0E2aXFlaE4wbzBlZGpBTm9fc0xYRzFGMldCNVZxT1lSRllUUzMzcjVaT2J4NFdObkVGYlBsQ0hJSURQV3VCa2M1WFh4eS1mOWVMWHo2aDJpeGhXaWdlZDVOLWpUeTNfdjNwWEp3ZWVVb0k4WEx1a1dpV0hlR2RlT3lVTXB2YWNEUkJr?oc=5" target="_blank">Koeberg Unit 1 reconnected to the national grid following major maintenance</a>&nbsp;&nbsp;<font color="#6f6f6f">Engineering News</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOZTVIdEtCdTJCT21qNjNIMl9haDdPbVVnY2VXZkE5QWEzQTloaS00ckI4NHBvTmE3dnZxWHVDaU55Z056WGdDZ1pDUWpWaXlOSkNTeGpocExmck9VaEtvRS1OQ1k0cnppTExaSzhGZ1pXTXZWZDZjTWhVcHJOV2ZuYnF5dHZjY1JyZkpDMVhHSHVCU0nSAZsBQVVfeXFMTU41LU5BYnhJNHVXLXg5RHdYblhWeEJueTY5SFdzMTRfUVd3enZEVXdwWHdKNHZEUGEzRHVla0liYnc1WnRvd1pSRFBKSlNEVHVCTE5OT0FhUVFTSEVaVXhxMTdrR0JyRGFLM3NPbTd6VHhIUlVyLVVFRzlyQkdjQ19XZEppeVpkRUJLcnAxbldJemlsNmxBMklMb0U?oc=5" target="_blank">Koeberg Unit 1 returns as Eskom powers ahead on recovery</a>&nbsp;&nbsp;<font color="#6f6f6f">ESI-Africa.com</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmwwLUtUbHYwNWxxcjRFMXdZOFBGalR5dTJ3ak9GTml3YlZSNEZxVTRpWnpsTHFPMW5VczRWXzhVYzF6ajBsejJhUjdhUG90M2xWS2w3SG5YR19DNUpMQndNRl9HVVRyd0F4VURJSlhQcVIyR1NreEZZbHJsMzhkZElsc0k?oc=5" target="_blank">SA marks 168 days without load shedding</a>&nbsp;&nbsp;<font color="#6f6f6f">South African Government News Agency</font></li></ol>
+Published: Sun, 02 Nov 2025 20:24 (SAST)
 
 
 ARTICLE 13 (Google News SA)
-Title: BMW S 1000 RR just the ride to channel your inner Brad Binder - The Citizen
-Source: The Citizen
-Description: <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE12WW02V18yM1h2VWoxWGZwV3dZZWY0VFNlNDlqUHZMaHVfRE03RW1LQldzNlIwTGlBOXNjT3dWZW9Rb3NYM1VIMXVDVUdrRTZrRnpocDczdEhMSllWQWpDRzVHQ0lKbmY4UXpJWTdLU1FpWVRp?oc=5" target="_blank">BMW S 1000 RR just the ride to channel your inner Brad Binder</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font>
-Published: Sun, 02 Nov 2025 05:30 (SAST)
+Title: Pick n Pay relaunching iconic brand in South Africa - Business Tech
+Source: Business Tech
+Description: <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNdF9za2EtVlpUcmd4U3A4ZV80MWsweTBwclRaVUJoME9Md1UySXhDSVFGai0yYktEY0tnQk9LR3RDN0hxTXdYbzQ5aVVubHY0UU5XZENaNXUyY3N6djFZTnk4aVYzZjNBOGJTMTljOWY2cTVLQUpPUGNQY2NiRlAwZ3hTTXZrNjRralVWaU1fOUczOTVrUF82ZnFFeTFLZTFuV3c?oc=5" target="_blank">Pick n Pay relaunching iconic brand in South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Tech</font>
+Published: Sun, 02 Nov 2025 07:57 (SAST)
 
 
 ARTICLE 14 (Google News SA)
-Title: Baic X55 is made to impress | South Coast Herald - The Citizen
+Title: Daily Lotto and Daily Lotto Plus results: Sunday, 02 November 2025 - The Citizen
 Source: The Citizen
-Description: <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOd195bld1NjNPRHA1emRGMTBPVUtfdGJkOU1iWU0zUS1pRmZuQ1VwSjlYNngxcHZqSVBHSGZqRzdzaXpJX2NOYXBweUZNdE96WnBiQUxHN0lEV3Y3NmtWV0ozcU5fYktnSUVrOEhkUzIyTHVHRENGdG5KN08xUVVIQW14LXY4QTFnS3ZZVDk3UG42TmtNcWd5cmh4bHM1Zjk0UllnMXZTNFNaaDFP?oc=5" target="_blank">Baic X55 is made to impress | South Coast Herald</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font>
-Published: Sat, 01 Nov 2025 11:08 (SAST)
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNWW50VHJHWTZOR1JRcnNnQWdqWFdQVGMwUmVseElvQ2d3STRqNkpieVloY1gyZ1F5QnRUT01xenI2TnJyMWpTelM2cVVULUV0SEFtUk50aW1YbS01X0VMaTVhMkhVQi1xd0Vtbm4zR1AtNFd2TDZyQVBnWEhCY2s1ZEFxTWF6Ry1XOFRUcmczdTdvUzB5RmU5UHhfXzQ?oc=5" target="_blank">Daily Lotto and Daily Lotto Plus results: Sunday, 02 November 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPd3R2Rk9KWThNOXFEUWVZbHZWaVozdGJEZEdRYm1IQnR6WllLZFZOUDlVVU9PQkdRQkhBNzNhc0JYd1Z1TDROSm1Bd1BsaFlVUTFaVlEyTkk4Z1NNNWFoRlIzUDhncTlqT0JVY094M2Y0d2lzay1uUFpFX0c4dk1mcTFBMzFPaWQxOWxmN2swckJtbUZLZW10LWN0QjZwaWo4MU9IZlJzTFhhODFsZHc?oc=5" target="_blank">The Daily Lotto results for Sunday, 2 November 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">The South African</font></li></ol>
+Published: Sun, 02 Nov 2025 20:46 (SAST)
 
 
 ARTICLE 15 (Google News SA)
-Title: Norco Fluid FS 3 - SRAM SX - Dropper - Air - Bike Hub
-Source: Bike Hub
-Description: <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTJwcWJDTVZDZG1janYwWWlnMjNFeVBwRk45d1FMaDZlSGRPcWZXbC1yYm9GdVhmU0YtMnZtTWx1WXRQamhjaWd2WGNjTHljbk85LXRJbUpBSURSVERBandfSTNEVGFGODA3UmNkbXNDN3BoTlVUNC1IcVFYLXY2dmlHQmljQ2VjVjE0WkhRRzNaQ1h3b1NvTkt0bURvQlBUc2Q2RGpVYw?oc=5" target="_blank">Norco Fluid FS 3 - SRAM SX - Dropper - Air</a>&nbsp;&nbsp;<font color="#6f6f6f">Bike Hub</font>
-Published: Sat, 01 Nov 2025 13:05 (SAST)
+Title: The most expensive province in South Africa to buy groceries - Business Tech
+Source: Business Tech
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOanZLbExnMXhjbERCUGl5QjdfYnhwM1NYby11M0NNejFnNFMyTzJfdWZqVEtkRk41TExTanZoU3ZHTDlVLVY3ekEtNkgtN3BXSGt0MFdoYW8yQ1EyZDRHa0UydkxvQTFxX2JabkVhWkFWdW1lOFV5TlQ2RjBEdGQyc3BUamVMREJGZVZHQ0FqZ3Z4REZJa3BOX1p4ai02dXo0bTFxbzNJakNBMGM1WG40?oc=5" target="_blank">The most expensive province in South Africa to buy groceries</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Tech</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWxBQ054NDZ6Uk1Geng0Ry1UeDI2X1BFWUZRWUZDa1NRLTREcVdZNjd2dlFtdG5XRU5YbVNfSUtJRE83aENDT1Q4cG5lcDRxaWwyeWdTU0kzUWFhTXdxS0gzWFlnWUYtN0FUakozdzZZX2R6RUlBVGZRRWVkVW5Id1NSQmlIUEhzSE5aWlBEbjF1NUVLaFdRUUVPTU1DSHprMlJnNllwZ2ZuTXQtcUdMa29ZX1I5bmlSRkZtOVR1X2o2dw?oc=5" target="_blank">Cost-of-living crisis: All local households across income levels affected</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXZEam1mZXJvU3U1ZmpkMFE0VGhqY3JnZnphSmZXdV9BZXlnZHJ4RXZKRTk1UmZBSk1BVk94M3ZVeFg5aFBMcW16UTNkTVNoa3FadTFRendQYVo1YTlpMjZrVHppbVBTdEl0dEplSEE5OTdZM2hmOTNyZ2J5RU1VeE42YmM?oc=5" target="_blank">Braai the beloved country: Meat prices keep sizzling higher in SA - report</a>&nbsp;&nbsp;<font color="#6f6f6f">ECR</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFpzTXB1d2ZtaXRVXzhoNTh3dVY2QXpuOGtNWm5fQWFFMEVzLWpqdC15LXBpWkpTRkUxTEJRT19jV2x5YnRZZHpuU2k5NDV2V294SWdFcUhYTVhCNVAwWjh5ZzltWFRJRmFlcUY0Y1JSWGV6cGdOdzNrWVNJSnRxWUtab2tKN25lbmNyR0JLQ3BuRWlEY2N3N3Vn?oc=5" target="_blank">Bad news for anyone who likes to braai in South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Tech</font></li><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEVxb18zX0tNMktmWU00ZjVoU2h4TWJpd2x4ZVFId1lYcVBxMTdjeFdWN3pseDBLclB6RGlsX3FOMmdUQ1V6YUNfSXVUcXY5ZloxLVdvbnVEU0Y5bmt6MU9XQUlzYW1sN2FhWDJVajRyS1dIX25zTHhQTU1LbzZtUGZNVUg0bXlTbHBtQ1VBTVNrQXlNR09KRlVRaTloNVFheWEtalp4N0RHZW1xVkVRd21KRUpfYnpPSllvYjZ0ZHNoRjQ?oc=5" target="_blank">Food prices rise again as household costs edge higher in October — PMBEJD</a>&nbsp;&nbsp;<font color="#6f6f6f">IOL</font></li></ol>
+Published: Sun, 02 Nov 2025 15:02 (SAST)
 
 
 ARTICLE 16 (Google News SA)
-Title: How DJ Black Coffee went from poverty to property and tech investment tycoon - News24
-Source: News24
-Description: <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3hnczJWcDNEOWgya0JDZHJDbTM1eTBDdnk3VE13Ym9lYkxDMFVYUE1zWjlzZVNDc0M0alRQZnNsNHFOd2lybW9yZTJtMnpCOERvczFlR3FYVHdBQW5GVmVDeDgzb0E0VGxOOVU0T085RU83U3JYUVZfSmlHUU5uRmQxRGVZRnUxZkFYNkJqVzdUUGJ3X0xxdlh3OFZBMEhCWV9mbkV2N25sVUtHRU04RGJ0bDlZT2RjRC0zekd4QnQ2X0tCT012QUJn?oc=5" target="_blank">How DJ Black Coffee went from poverty to property and tech investment tycoon</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font>
-Published: Sat, 01 Nov 2025 08:02 (SAST)
+Title: Fujifilm brings advanced ink tech to printers - gadget.co.za
+Source: gadget.co.za
+Description: <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE55SGlzU2ZHSG9NWWRmSjhOUk5rdlJEMHJFZWNEdURFZ2oySDl6RFdxNkFDanRkbEExYVowQzJHSUE0N0FSM21OOG9wX0piazlOa2xPbzBpd2Uwd1nSAWJBVV95cUxOX0NaRTJRUUFvVDd5RmpYYnJFUGxCbEtoN24xQmJXQzNfd2JzR3VjazVRU0ItYlVGS3JKQ3d0RDY0ekUyRFJtV29PYlY5UXFnd2hVYndDTDV6OExHNDViWGxhUQ?oc=5" target="_blank">Fujifilm brings advanced ink tech to printers</a>&nbsp;&nbsp;<font color="#6f6f6f">gadget.co.za</font>
+Published: Mon, 03 Nov 2025 00:21 (SAST)
 
 
 ARTICLE 17 (Google News SA)
-Title: All Blacks power over Ireland as Beirne sees red early - Rugbypass.com
-Source: Rugbypass.com
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9ycFA4RWdGSUtPekw4emF3WktNNXVCZjI1SHg3RTZ6Uk5VNzlNb0w5U2pBeWZGaE1veXN1ODJlSldpRDJSLTBad2dNaTZ2LXRxaHhpR2dIaVQyNFdPUlNpLUU1alliRHVlN3dXQTBlRWg?oc=5" target="_blank">All Blacks power over Ireland as Beirne sees red early</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugbypass.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQVZWTGFReE43enRac1NQTU1Hc3dlYnNZMldJVW1ua1JBamduSWw5OHlwTHNJR1pNQktScWhvdThJU2I1MzR0N0g2Uk8wME4wTEd4bnhiQmlYQVFwMUNHamx1eXl1RE1qa0RLaVF1YkxzOE1QT1pmVGUtNWpnTTdNM3dkdnd1QWdzQVdlbGNTMUdiZnpuRHQ3QnFLLTZVRzlCdWw5UVdUdE1KQTVyUzYya1dQS0hUTk1GZmw1aHpsbUV4aHVWb0xrb0R5VFZFTEw1UFdZaFJObXZDcEhmNFQwaG53V2pHSl9BcVRqUWtJLWNEa21tZUNaVHl3WnZXX0Fyel9YR2Q3TWtGdWs?oc=5" target="_blank">Ireland vs New Zealand LIVE! (8.10pm kick-off)</a>&nbsp;&nbsp;<font color="#6f6f6f">Sky Sports</font></li><li><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pbU80azFRZFBLSnk5VDFWSFZsellHeldNWTNkUDFHd1lSNHlsS3k0V1RFc2o3QS1WUlJXNEROVHpjSEZpR2daaVBwMkNMUlRrZTNsamQ1V3JjeTZNaHhpUlpkTDlzMEF3?oc=5" target="_blank">New Zealand beat Ireland in Chicago - as it happened</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNTElyZHRYdVgyUXZOaHlpc045bkdONXp4a3BBQ1FHUjAtQlctci1TeU5hazFhOEZuaVM0VWtiX3NOd245QWlxdG9nZWlCbWRCazdjVExidHpkSlFwbEJaV2FsZ3N3REM2bFpaUTFWR3NYSlgyQS1RN0Q0UEVBZl93QVA3Q2d6UEczckw3eUZOck5hNGVKa09jdDRn?oc=5" target="_blank">Ireland 13-26 New Zealand: rugby union Test – as it happened</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVF6aXUwdmhSR3JHT2FHcUc5N2t5bExRMHUxdzZhRE0zakEtWnl3Vi1sQ001MTd6cEVGWGtMbmtXTlBXUFhGWWZxbzF6ZFVXaDk3YTZJbU1PT0l5enFWYWNDY3dDYjh6cEd4dkxrVmdpTXlUbHZ5S0pRdkhndEJjVGU3OVFjdElRbWttZXd6ekwyZndjVEtr?oc=5" target="_blank">All Blacks bury Chicago demons with win over Ireland at Soldier Field</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugby365</font></li></ol>
-Published: Sun, 02 Nov 2025 00:22 (SAST)
+Title: Mbalenhle Mlotshwa crashed at DJ Black Coffee’s house on their first date - sundayworld.co.za
+Source: sundayworld.co.za
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPSTJsU0tWaURldzVZdFhpQUFSaDJveXJSdmUwM2JIbGZtejhrRHNEMmVObks1NlhXOXMyVkdPQlJoMTJiLUgwMEx0TWdhNDBVQ2tqM2kxMHpzUU9IazhXQ3Z4Q2N1bHZJMjlyclVmYW0xOVE3R2dPMkhlcHFvU19vYlpDa19pTHBVRjRGOUo2MFFoZ0NmNGg5akhkM3J0Ty10dWVDVEtLWUJyUFh5OUhaNjl5bUM?oc=5" target="_blank">Mbalenhle Mlotshwa crashed at DJ Black Coffee’s house on their first date</a>&nbsp;&nbsp;<font color="#6f6f6f">sundayworld.co.za</font></li><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjFSVUR5RHNqdjlrWENLdWx5MUV5Z1hkU1dLYk9PaDBQVF9ldjZGaGdJNmhWaG52ZFEwOUo5LTBTYlgtR25nLWNEaXFtLWF0Y3FzWU1SRzFaUWxrM2RaY1l4X1FJQXJBZ1NEWWpaOHpTZGlDSHNOZlJoaUN4eU1jdHpScjlONC1DSFowWWtkbXlEN2t2ZUlVMDRmNXRXOURyQ0tlcGJ3ZUdBb29DNFRPb0pvZjZJM0JSdFdXRzJtb1A1VFNfS211cldlWDMzNi1VSEI3Rnp3?oc=5" target="_blank">Wake up and smell the Black Coffee: We spill the beans on who bought R157m Clifton home</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYm9nTjQ2UFFTZGZYR1Y2aFdjeDVjellHbVBSbjVWTktoQXVoRV8yNUV6Q2dhYjVKQTBqa21JdXpxcWlhZ2lCYlE3bkdKbjRFbnd3cDd0YTVtRkNUeF9zNFpBV2ZiZU02NVg1SXdjS1lmd1BCQzQ0ZV9XQmVkZUhtRnhvSlU0UGlPWF9PV3VJdk5FOEc2Z2RFcF9MQU9uRWJMS3NEZFcydmxCX0k?oc=5" target="_blank">Inside the complexities of high-net-worth divorces</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font></li><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmhmTGNyRkhzeW9JQjJiaXg5V2dVbm5XQWVkQXF6dUZwdDRycG9NNW44QVZ2MTFYOGxsVTdiUU5HUnFUcFF2djZiUUR5TXBJNk45bWZDcHRnTXI5Mm9LcW5mc0QtNmxIMWpnRElhU1g3NXNaNmdaQUtTNmlPZHJvWDVWcFdObmJEZHp6c0dUUG5aNzZFbEJGLVd5YzI4cWJQWl84Vkt1OFFKSTdRQ094RHRPVklvVlB6?oc=5" target="_blank">Black Coffee and Enhle ruling sends a clear message: customary and white weddings are equal in SA</a>&nbsp;&nbsp;<font color="#6f6f6f">The Citizen</font></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3hnczJWcDNEOWgya0JDZHJDbTM1eTBDdnk3VE13Ym9lYkxDMFVYUE1zWjlzZVNDc0M0alRQZnNsNHFOd2lybW9yZTJtMnpCOERvczFlR3FYVHdBQW5GVmVDeDgzb0E0VGxOOVU0T085RU83U3JYUVZfSmlHUU5uRmQxRGVZRnUxZkFYNkJqVzdUUGJ3X0xxdlh3OFZBMEhCWV9mbkV2N25sVUtHRU04RGJ0bDlZT2RjRC0zekd4QnQ2X0tCT012QUJn?oc=5" target="_blank">How DJ Black Coffee went from poverty to property and tech investment tycoon</a>&nbsp;&nbsp;<font color="#6f6f6f">News24</font></li></ol>
+Published: Sun, 02 Nov 2025 17:00 (SAST)
 
 
 ARTICLE 18 (Google News SA)
-Title: England player ratings: Bomb Squad 'live up to the billing' with second-half 'detonation' while Ben Earl 'proves a point' - Planet Rugby
-Source: Planet Rugby
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUmNrX1RrQ2RmRG1JbWRVX0pBSl91M0tmTV9nR19md0ZhaUZ2N2otVnVpRVNSZ1JpSmh1ZXNEeGZRQTNqYkZGeW5Jd1JXSkdKaVgtbGZzcXl3T2VWeVdoU1JQbVdaZEpaNHlsQXpmdXVnc2Z0WVFXOVFPQ1ZQaUVnZ0lZYjBMdDRobzVrWDZiakpKaFY2VTZaMTlDUGdfMWZaR2JjQjd0TEhlMFFqbUZIdkZfWUowbkN5TXE4SFdBNVZCVXc1SXNfa3NLZXlOMnFVNEU1a2JlNERnVk52LUtQaw?oc=5" target="_blank">England player ratings: Bomb Squad 'live up to the billing' with second-half 'detonation' while Ben Earl 'proves a point'</a>&nbsp;&nbsp;<font color="#6f6f6f">Planet Rugby</font></li><li><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TTDR3QjNPUXhuTEtkeUVmb0I5WG02Y1hBU3RLaDNLNlNnM3poQmdIZk5teWZ1U0FGcjJBMG9XUjR4VGh0eldpZ0FGbmVYN01HMmV2Q2lLdHVBSDBvejFsMk93ajF5QQ?oc=5" target="_blank">England 25-7 Australia LIVE: Rugby Autumn Internationals try-scorers, reaction, updates</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQml5bndEUDE4UzZ6SHplWEdFeHBjLTRTWXNObUxtUHpBZ0N1UWZiX1VMQ1QtWVNDX0t4MDBUd0VocmF4b2tMLVEyRmppWmtTUEdsWmVaYUtGLUZlVTZFbmp2dzdwMEEzd3l2OVZEX3VoaTVpaG9EaWJmWEExQ3NjdUh6R0RndlZVdW01dmR5QThkUTVGcGV2NnZlRktIeXdfQzBFbTdtQjFaM0lvV1ZHZDhzblFjWXJreURidVdVa3pXT1JQNHVIZ19VU3RfZkl6ZVRmR08yYXNXcXZoOV9Dc0U1bkdXd0pocENR?oc=5" target="_blank">Borthwick hails 'ball of energy' Pollock as England down Australia</a>&nbsp;&nbsp;<font color="#6f6f6f">supersport.com</font></li><li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlN2bWgtbTJCOUFMWHBheFJHYmdMbUE5ZnlVUzZraGtMeDM5LV9ON3E3S0tSTFQtRlBJSm1Vdmo0SkpVczI3dW11S21VWm5yeUpmU2tkR2FPZ254dlVDZ1hBYlRNcDNqUlFRNFBpdDcxTUNVWUhKbTJHVF9BMTlMallnbFF5VGxlckNENTcyRGptLTBUTFNaVzloR0lRMWFH?oc=5" target="_blank">Joe Schmidt pinpoints key ‘difference’ in England’s win over Wallabies</a>&nbsp;&nbsp;<font color="#6f6f6f">Rugbypass.com</font></li><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmpyYmNpSFp2Ml9IdjR5VEZxblJuZVc2cm0tMlBfZG5vWTlyTVVMNzcyeEVndGFhbDhaZWR4RFBxVWNKU2JxbElmVVFZb2hVMjRaSEMzbnZCZU5QU0ZkcEZnd1lLOVZPUmgzRDR5Nks0VnFiU2R1NGw1cWdRNlFWRVpvQklhbkhDbmtvNHRIVlozYnNTQjFEN3d5WUR1b3FBVTZfNmgzcWdkVk1BcWN3NA?oc=5" target="_blank">Suaalii’s struggles sum up an Australia side searching for fluency | Daniel Gallan</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
-Published: Sat, 01 Nov 2025 19:58 (SAST)
+Title: Andrew to lose his last military rank: defence minister - EWN
+Source: EWN
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxObmNlUmhPMEtpSWd3UUs2ck1zVXdrdnRSYjZSVC1TZlQzUFg2X1FvbzZJdGkya2cyVXlMVkhxRzRzdzdiZXNLYkNlMUxwdDlncGg0Z214a2RIODNiUVdfNzZkVG50cjJOMG50QWVHQ3NwelZsNlhlelBTOTJHMkxLcTQ2NXNsOGtQNnpsX3JHYXM?oc=5" target="_blank">Andrew to lose his last military rank: defence minister</a>&nbsp;&nbsp;<font color="#6f6f6f">EWN</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPZnQ2VnNfWnpOMDZlT0g5LXM1S3RvdDE5VVhSZ25jUFdZNHV3QmRQSVJnejZUdk8wa3V4WThYRUtCUG5tM0hucjJ4YkFhNjMxQ1BhVHhjNFl2SE9XdlZNQTU2anp0QWdqSmJEZUFvOUxHLW84dzF3a01ETkd5ZEZva2F0ZTg5TU52N0hoMHl3bkVnLUJqRkVNSGhFTXFldVdTMXVCd0JrbWJJdW1xMDlRV0t5N2xSb0w0bXhzUFJVSFhBS0ZWV0xaM1VnZHQxUQ?oc=5" target="_blank">Donald Trump says he feels 'badly' for royals after Andrew stripped of titles over Epstein row</a>&nbsp;&nbsp;<font color="#6f6f6f">Sky News</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5LZThKWjB5eTFCRkRsalIxanI3NUhLV3hSbmxWeVpQQjNSZVloQTV6bkQ0eURzV0VzaVVSNlZRUGZEYS01U1BkX1BXSzQyMWVhZFJaLUViR0xiZDhselZRODVTbmM0d3hmdkdRVXRMTXdyRFBXcTByRUVEMmJtWGM?oc=5" target="_blank">What we know about Sandringham, Andrew’s new home</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUU5UdGFOZDhWcHhTMUlmQndOdlZfVHhycWRZczh1WDJyWHNacDlxaEFPRVlacnp4Rk1BRGliY0JCWmlicVdNSDk1Q2pxd3dOaXZnSUgwRzliZw?oc=5" target="_blank">King to strip Andrew of his final military title, minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3dUSS1jMDJrVUZZbE1MTng3NTFGTjF6LTJ0c2hERDRiUVJhb0VWMFhfN0pXWFU5eXZCb2wxSnZZRG1vcnRWTzg2UVU2RVBGaWxGcTVkOGgtOF9VQWlpdjdRUFo5ZFdEazcyV0JHXzJJTWRXMlFmY25FSmVtRjRUdVdiSnNtdw?oc=5" target="_blank">Stupidity and royal self-entitlement sank Andrew, and it may not be over yet</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
+Published: Sun, 02 Nov 2025 14:13 (SAST)
 
 
 ARTICLE 19 (Google News SA)
-Title: Gravel Burn: Matt Beers and Axelle Dubau-Prevot win inaugural seven-day stage race across the Great Karoo of South Africa - Cyclingnews
-Source: Cyclingnews
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9nei1GNUtMMWd2OVg0NXdEaUU5Z052QjVrWTJnSktrXzd5SVJESWxMd0xpT1BLZ3ZJbHZpTGJfU2xtQmgyODVNMmtTVUVpV1Z1ckV6VWhvb01lTjV1clhKU3lsbGdGaXlPRjUtblJqYnVJNDlFUmFLQTlQcWJRZw?oc=5" target="_blank">Gravel Burn: Matt Beers and Axelle Dubau-Prevot win inaugural seven-day stage race across the Great Karoo of South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">Cyclingnews</font></li><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzBzZXBFTC1hTFE1NEJEZlpaWUM1UlpZdzBhZ1VnNXdzNHdlcm5WYkNkRDd3emxzYmpRdnYxNVY0NXh0aFVaSks3RDZsM3kyR2t5aFozX3AzWk4wMHJYVFRKeXh4ZW40VTBLLURFTGxxV1FwbVdnMVJRdkJiTHd4TDVEZzAtRVJIX0ZRZkhxREluUGhacF9HTGRKVWUtLURZSGNES1dONDVrWWpjdUZFay05cG9QUQ?oc=5" target="_blank">Pidcock pounces, Beers retains lead</a>&nbsp;&nbsp;<font color="#6f6f6f">supersport.com</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1VWRGlxTm0xWDhENmtXeHhHRjk0bm9JUkt1V3RDV0xCeW5tT3cwTFd4ekZWQnBWajNzUk43ZXJHT0g0WVJ2V2hLbVRWRXRhUE9Udzd0YWdhVkRZNkhWUldSbVh1bm82YlJKNHhkRFJ1ZVMxQUJFSzZacEdhaElzeGg2dnVFSmFZS21MVDg3Z2lwdVRjLU1iaWpqcmhOWlE4Y1BEcFhnOEsyZDZUb2NDclVIREZreEsyYlNRaVhR?oc=5" target="_blank">Shamwari Private Game Reserve to host historic finish of the world’s largest gravel race</a>&nbsp;&nbsp;<font color="#6f6f6f">Cape Town ETC</font></li><li><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRDF0SWY3ZnJ1VFBiaXVocmotc21IY3Y2U0p1bzhIbmxlX3J4c1kzeVdOQ25IQVI2cjRDUERzOVkycmgydzlkaG8tMURoRmtVQmRqYVUzQVVnOWQyXzVjYnl3Z3BKOV85bzFqa3dFMEVRN3dwRzZuT09oMUZjQzI0M1I2WVFaT1lFc3NIVWo3OHBsaTBXRW9jQkl3TTR3TDRWbWFfR1ljWWNaVjNXQlU2bVE1ckR6STh4dWg1eF8tVGZNZw?oc=5" target="_blank">Beers downs the field for another stage win</a>&nbsp;&nbsp;<font color="#6f6f6f">supersport.com</font></li><li><a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQWF8wMTRtdUVHdWRKeGc3WjVJRW40OTh6XzRWS1k0VzZwQ3VSa19qemlUQTZ3MlpJb29SVUNGcWZxUXNnYVkxMXNhajJZeERpakxvdmcwUFBIWVkzS0pQV01GaGRwWk5lLTF1NExUZDhSZERjT3dYdURzRUhtZEg5RWowbXRyVXNvNzB2Tjc2N2JBMHdSS29UZ2thNklxWkU0U0p0bzRGdlNrNTM1T3ZaclA1QlRJOG5kUGp2TmRRVU0yTERENVFrbG80STR0Njg3UzhuV1JTZ0d3bF9rVnFzeWVrNF9OMGIzUHRQUDNmYkpCb29ORzNCNFdhNXVxOEl3c2JHbkprOXlCRklwSHNhR2JHaDlUemM?oc=5" target="_blank">'I have been suffering all year. I don't want to suffer here' - Tom Pidcock earns a stage victory at Gravel Burn while Matt Beers holds lead with two days to go</a>&nbsp;&nbsp;<font color="#6f6f6f">Cyclingnews</font></li></ol>
-Published: Sat, 01 Nov 2025 19:13 (SAST)
+Title: ‘I want my child’ - Jub Jub pleads with Kelly Khumalo for access to son - TimesLIVE
+Source: TimesLIVE
+Description: <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlZ6TW0wS3JSQV92T0ZwSXI2cTBRYV9zbkJodmlHckhydjZkWS1aMXAyNVVKa2JpZkt1TjZmd2t1YmQxQ2QzZTdqZkhrNU9RTlBTREctTC1FNTN6LWtIZksxWmtMYk4zOWIya1RaRFhXMGI3aE1qUVpWZWN2enlXNVNoTWxRME1nN1ZWZTRBV1VnQzlJdmlhVEJoZmVGMGptVDg3bmdyMHdscktBQUVYTkEwdUkzVE15Zm5F?oc=5" target="_blank">‘I want my child’ - Jub Jub pleads with Kelly Khumalo for access to son</a>&nbsp;&nbsp;<font color="#6f6f6f">TimesLIVE</font>
+Published: Sun, 02 Nov 2025 16:07 (SAST)
 
 
 ARTICLE 20 (Google News SA)
-Title: 2 million-year-old teeth reveal secrets from the dawn of humanity - ScienceDaily
-Source: ScienceDaily
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9rUFEtN281S1JJVGpyV283Ty1OYmJYalg4REdSMndKUHJTaGZiZlhydEdxWlc2WkNsX1lnc0RDbFJILVdFeEpTWEFqWDBVQzJaNTFveGVZMVZ5YlRIMjlUYmtBdUlpVGRseXRzWldFZw?oc=5" target="_blank">2 million-year-old teeth reveal secrets from the dawn of humanity</a>&nbsp;&nbsp;<font color="#6f6f6f">ScienceDaily</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmRLUERoZXp3MWVKX0dhLXlIU3ZHbWYwdVQ3eWpkN282V2RjaUdXY211V0JheE13S3VBOVRWM1QybHZCWEUwX0NpMEt0ajVVTUJfZmdyYzZPN0pQRDBfNUlOYTAwSHdDR2IwWWhvdTRxeDQ2V1ZIREZjMDFxbjdYbXd6QWlKbWRpOXdGdm9LeTVoVng0LTdjRGV2LWNwWmNPM09FZFEyOHdHcDlKZ3c?oc=5" target="_blank">Ancient antelope teeth offer surprise insights into how early humans lived</a>&nbsp;&nbsp;<font color="#6f6f6f">The Conversation</font></li><li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPREZBaXlTMkZheWQtRXJhSHlHYnBDU29hLWc4alYzaU5TTTRTenJDV0hqT2xYeHY5OWJPVjRTdUl6bk16MW9TenpJZGw5NXBmdWJURnM4c2dYUExPdDJMQTdkN1dBb09lRTdxX2RCUktZWWMybWhVX1RLZXVuNjRGNEU0ek9GNDd1cTQzemc5cVdSRzR5SXlMdw?oc=5" target="_blank">Two-Million-Year-Old Teeth Reveal Secrets About Human Evolution</a>&nbsp;&nbsp;<font color="#6f6f6f">Mena FN</font></li></ol>
-Published: Sat, 01 Nov 2025 11:26 (SAST)
+Title: Proteas Women fall at the final hurdle again as India clinch maiden World Cup trophy - Daily Maverick
+Source: Daily Maverick
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaVNKVUpmUEhZd0duMDh1OFNmU3hmWTJZaHlaYUd6Nlpmemo3LWs3REZwRmd3R2FyNW9VUjRBN2N4QTFId0pSQ0VFMGJ1MnZ1QVJFNnkyVnBmVEZoU00yRFJ2aThqcy1qZTdmelBDRVd4OEJaTjRaZTJEeFZvMjJWQ2RpWWFFZGVnZ2UxbzkxNngzbXJzY2g0OWdLOF9hVklBMnlHMWJfU185R3JvWFZ3RkttUnJUT0loaUZibVp4OGdUNTY0Nm41ZEl2R0F1X3J5anc?oc=5" target="_blank">Proteas Women fall at the final hurdle again as India clinch maiden World Cup trophy</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Maverick</font></li><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdW1oTU9XV2lSUUZON1NuTUJwSG5nZFVYTmZMQWc5ZFZCQ1RSdUs4Y3Nkc2JsWm41MjI0X2lyMHJWaEN6MHdObExyT0VaclR3R3BRWXZLTFZHWDlQTXJ0dDZKT21XdTd3V0VESl94QWFHaDhtZnAyR3FMZ2tSVmdYMkxjcXFLRy11Qk0zbk9KN2k4TkJ0MFNwNDdvbER2SUdRNU01eVVYTlNvNDNWVU1ZTUJ4ZjNkRWRtaGhsVnZfcmhRV3ZBLTg3QTQ2aEdkUXZPY291dU4yVGJjRzU2MVFBMlp4R2lCV1N3cTdXN0R2dVUzZw?oc=5" target="_blank">Women's Cricket World Cup final - India vs South Africa, Navi Mumbai (9.30am start)</a>&nbsp;&nbsp;<font color="#6f6f6f">Sky Sports</font></li><li><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQcU5wbllUR2hSam5pRUdWTi16bDU1eTIwRGJoMnN3NllfQjRjUzlObXJSd3lra2FqRElCSXhqWHdYc0lpMkNEYzdyZTl4eWlmeEFFamdoSFJTQWpTZm82cDdpZldKaHBFRUkwREdETjBPZlZTbElnQ2N3alprUFVjakRR?oc=5" target="_blank">‘We were waiting for this moment’ - India wins Women’s Cricket World Cup for first time</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWEdEd25vTjN1c004dWpnR1VpY0hSaVVUNThGZUhWTVNpWFZhcFBOUG9OVEFuQ2R3UlZoa0pRenAyQ2tnVXF4QXkyMHQ0ckR5Yms1aU5VczRLZV9XN252SEkxUUdBMzVqLXNjdmptZXY2U0RxU3ZKSFdDX3JKZXZXeDEyTTZLVnphN1J0SHI3ZTZGaFFWajBWckNrQlhDZllrSzFUNWdTQVBGX3Y0ZU03WmQyZXlJUlJFUlRlU21pUk9RRTAyN1RYVGZGSXgzT3pQMm51T0h3OA?oc=5" target="_blank">IND Women beat SA Women, IND Women won by 52 runs</a>&nbsp;&nbsp;<font color="#6f6f6f">ESPNcricinfo</font></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWm1kZk9vUU9ua3VydVhIRGllTHRYT21ONk0xNHp5RnFLQWlEaUZhOGdBcEhzb25lTWpFS1JsTUwxSWpMdVZSMXVjdW1oUENubEZHS0RiaGhOOVRaNXoxSElIT3BWblBPalNBSHllTU40VlU4enB3UG5ZM21LdGJBbVg5R3l4cExZYU4xcy1PYVdaVGxGR2RZeWZ6Sk4zc2dfX2l0Qw?oc=5" target="_blank">India rejoice in first Women’s World Cup triumph as South Africa fall short</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font></li></ol>
+Published: Sun, 02 Nov 2025 23:25 (SAST)
 
 
 ARTICLE 21 (Google News SA)
-Title: Your Complete Guide To This Week’s ‘Fireball’ Meteor Shower - Forbes
-Source: Forbes
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHIzVUFpbXIwTWhsYWZyOUtYRGNrRHY4RmxDSXVWaXpORGI1XzZ3dktpa3ZYX3JiWnpTak5PZElWSTdlQ0d1c2hCblpIZnp4NjNpS3pRa0pWWnFGVDNYQnhxcFNPcmV0TlVya08ybHdwQTNzMkR3RkV6bC02Und6S1RRSVNnVWVDY1UtODZ4VWo1QXkwYnk1S2IwMThfNThZLURvX0VUem1Va2J3aHBOb0dMaFc0dw?oc=5" target="_blank">Your Complete Guide To This Week’s ‘Fireball’ Meteor Shower</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font></li><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3BPRzE0UWhqU05rWjQ1dlJWUFlKWklxal9aNzBYb2g1dXlJSUt1QWE2aVZ0SGVxT2ZEdDYtdUpNelU3aDVTOG5ScXBSZ21GbnVZaXd6eDJUa1NWVkpwZGY5SWxnTGx1SHZXSUVvQVlwRF9kdk1RTHpkRGpadVJzTGswaXlQQm5NSjdvS0ZxdzlMTmh1OWlFd25xU3BMOEtQRkw3OU5XNzRad1BLUUFuYXNpRDVqbGZNenZNSlZjWi1iMkRtb3R3R1hWRUZ2MzFFUjFFOVV5aHhsV2E4Y0xV?oc=5" target="_blank">When is the next meteor shower in 2025? Everything you need to know about South and North Taurid meteor showers</a>&nbsp;&nbsp;<font color="#6f6f6f">primetimer.com</font></li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1Sb2IydXptcno1dU9FRHpXU0NWRmRwSVo3UE9JZy1tM2FxOVVYTEd3dGhtN0kzdG1RWUxfV19IUTA1VVlDN29tczgxMkd1aDRuTndMU000T0VfNWdIODdDN2t3SFdYaVVSZjJvWW1yUmlVU3VGOEZWTU1DM2JCdUU?oc=5" target="_blank">Scientists Warn Of Potential Taurid Swarm Asteroids That Could Pass Near Earth</a>&nbsp;&nbsp;<font color="#6f6f6f">The Daily Galaxy</font></li><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUXhNc1otZUh3QzhnVjFJVzRrRDJFY3VURXpzWWowckNBLUlkblFYYU5VZHBsdHdrakpGcTNwbTN2NFJjV2c1cEt5S0hHd0dmVFBYNklMeEZVaWxkS1N5VWhoeVlqcnRLc2VWZUdGaWVaU05RX0hkRlcyMXlkVDVYeC1BazY4eXBxVktIT1B1VWpxanVORDZGVXNuTjg1UzM1QUhNOVNiLTlCVU1hRC1FZDhjNmdZdjRHdkNJTF8xNEFoR3dfSXZ4dVc2OVVRa3BWSW1pb1djanc?oc=5" target="_blank">UNM research suggests Halloween fireballs could signal increased risk of cosmic impact or airburst in 2032 and 2036</a>&nbsp;&nbsp;<font color="#6f6f6f">UNM Newsroom</font></li></ol>
-Published: Sat, 01 Nov 2025 10:00 (SAST)
+Title: Fourth official has announced 3 minutes of added time. - PSL
+Source: PSL
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnBOUDI3NUhMa2FPRS01dlZtSDdYZVVtSVpRRG0wY2xSMkhOQlJjcl9jb1hPYWhvVDVJcWZ2bkNITDdYcGtVc0dzNS1PMWlwZDdJQ0JndnJKcDBqYmp2TGVsT2ZTSkx2X3JaVG9nSEJrS01kd3BoOEdDbm5qdGVCSGtiMkdsMVY0?oc=5" target="_blank">Fourth official has announced 3 minutes of added time.</a>&nbsp;&nbsp;<font color="#6f6f6f">PSL</font></li><li><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1NQldoRTBYTmFGOFlUNEU4ZHVCR01JbGFfMHRKa1ZIRUtmRnBkazU0NzhJSEVHenA0NTRHRDljTHl6UFJEcXZNN3RnUUVaU3BlS1BIR0Izenc5a1NYYlpYbl84bjNJdGtQMnJWb1hR?oc=5" target="_blank">PSL Wrap: Golden Arrows outclass Marumo Gallants with ruthless four-goal display as Thokozani Khumalo seals late brace in dominant home victory | Goal.com South Africa</a>&nbsp;&nbsp;<font color="#6f6f6f">Goal.com</font></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnBRRzI1b29mX2FJamVNaTZyM2lPTFlrc2h5Yk1FWjFpWHM3LTNRNnU4T3FTTXZDWTR3R0s5T0pzS1ZmZzZDRUc2bUhSdnlORDdvSmZCUEYydGEtWkRSTW4wQUNIUUFTcDdPVjl0N2toX2tERWxjV3hXZ1lHYUFndWllN3hkcTA?oc=5" target="_blank">Arrows climb into top eight after thumping Gallants</a>&nbsp;&nbsp;<font color="#6f6f6f">PSL</font></li><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOck1XeHVpbnRHZ0JjX0Vra1JCdXk0b1dySkE3b1VEd0JJZjZnT1RHdEswRUFRcE5CeThDal8wZU5PMy1sUjNUWHNVbnMzZzJnVi1ZTVpnUXBwR0ExZHRqVmxJcWZ2c2owajJHdl9OZ1FsY0ZXZldyQVpUekVwaXVQOWpnckJrNFpZalNla0NNanJCU2xOVGx1U3IzYw?oc=5" target="_blank">LIVE: Stellies Tackle Galaxy, Arrows Host Gallants</a>&nbsp;&nbsp;<font color="#6f6f6f">Soccer Laduma</font></li></ol>
+Published: Sun, 02 Nov 2025 18:10 (SAST)
 
 
 ARTICLE 22 (Google News SA)
-Title: Meet 4 ‘Extinct’ Animals That Were Miraculously Rediscovered (Hint: One Was An Ancient Fish Found In A Fishing Net In 1938) - Forbes
-Source: Forbes
-Description: <a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxQT002OUNVTlZ3SEpMSjh1UUNkcGxQRmFZazZpcDRBRi1KMDZOZ2l1TFFndWtSc25yQXliVzlqTEhLbE5qazBzYUxxRlNmUEdQU0xuX3J6YWdJSlBUTnEzYjQtay1xNVQ2NkQ4dXVyV0poVTZ4YjBsTHE2ZXJPanFnU3d5anNySGV3MUxiZEhTMWlLUTJlcy1KZXluNmw3RVJoMTl4MFBVSXl1dThJSFVLWkl1TDF2WTBaRm5oWjZ4Ujc4S0VuUjVpNUpiN01zVkxaaTFyUU43cUpZdG80LTU3M2V4TUJVU0g0WW5nN0JWakR6RHZodDd6aTVWSkV0dTFmb1E?oc=5" target="_blank">Meet 4 ‘Extinct’ Animals That Were Miraculously Rediscovered (Hint: One Was An Ancient Fish Found In A Fishing Net In 1938)</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font>
-Published: Sat, 01 Nov 2025 15:37 (SAST)
+Title: Videos show orcas hunting great white sharks, eating their livers - NBC News
+Source: NBC News
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGhZeFZmOGExMjdGRjJsZGJrMVgwUHpOUTNEbldUNGtZbW1nT3lMeWd6OWdXdzI2X1E0anV6UE5VajBad1VmT1R3LTY0b1U0N0VMaHlwT0E2c3FKeVA3REZUbUR6OUxPRTZCTXRkOWl4Q24tNGZ5Y1NaN0JHLW5DN1llaldGM1pPZVlmTDIxMUd6VHBtS1hoQTFR0gFWQVVfeXFMUEFkc2x2dFFRN1VDQWRPaXQtWXdfdTBHcE05MUlnVUh6cWx2SUwwclozZjdhQzFBQVRHY2JZVm5iOWplX0Z5VFY4U2Vkc1lEb0lJWWRoZlE?oc=5" target="_blank">Videos show orcas hunting great white sharks, eating their livers</a>&nbsp;&nbsp;<font color="#6f6f6f">NBC News</font></li><li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WSUZ6djF6bXRzUEJpR29XT0tEY3VaRVJhdmx6cUtSTzJ0X1E2cFc3TTV5Um1hclV1UDg4V0FJTDA0V0RDcXBDMllQbDZrd2JXZjl2WFlhUTg4VE9r?oc=5" target="_blank">Orcas seen killing young great white sharks by flipping them upside-down</a>&nbsp;&nbsp;<font color="#6f6f6f">EurekAlert!</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNenV4emJnOFpYRDR6UlBxOTFpRlBwd0RRLU1WSDBza1pERjhsVElUZFpfR090ekZDS196OHUxa0c1Ni1XcHkxUnRxOVZnZW9nM2s4cE5xdWpyb3FNRnMxU2s2LTdnSjctYmlaVnliRjhYOGlSaUlweXBwV29HQ2RpYnlndDJMTzU3WkVBWnY0VEpjLTNYWURHTTVRSzRXQXptZG9N?oc=5" target="_blank">There's One Predator in The Ocean Instilling Terror in Great White Sharks</a>&nbsp;&nbsp;<font color="#6f6f6f">ScienceAlert</font></li></ol>
+Published: Mon, 03 Nov 2025 07:00 (SAST)
 
 
 ARTICLE 23 (Google News SA)
-Title: Explorers seek ancient Antarctica ice in climate change study - eNCA
-Source: eNCA
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxONXZyYkQzd1BoUEtHdGxRdXgyc1ppUHR6VmQ5WEkyZFhPUXo5Y21rN0h4X1pwdzlnd3kzZVJkV1c0d2JfZjBWMk9QcGp0aE9ZNGlDVVVYUEVoWmFsLTVmMTJwRTFCSEFSOTE0M3ByblZQd20xYWphRHg0QkY5T2hBLWNaWjBZM0dNZDM5ODZRcVpaSUk?oc=5" target="_blank">Explorers seek ancient Antarctica ice in climate change study</a>&nbsp;&nbsp;<font color="#6f6f6f">eNCA</font></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE11Y0w1SnFCWlA4aFdFXy1wX0ZQYmhha3NxMVZrWGY2VFdHN2Y2TWQ4T0NIR2pJblBtY0g5ODBqT1FXNzMzemh5TFpGeWdzc2JIYUJkQ2ZTb2Uyb19YalRnaXliME9HeUkta0l1d0NSR2tsUEt2Q0ZGMw?oc=5" target="_blank">Researchers exploring Antarctica on kite skis</a>&nbsp;&nbsp;<font color="#6f6f6f">Taipei Times</font></li><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHpwMEJsN3NLR1NKVHV6VURvNFRzMmlPSzkzOEZvcjhHLWNaOWtESDNhR0sydG1RVUxWOUdXWlNmMl9oMF9tTFF4Rjd3Y01KNXhpT2x1eTVIbnpnbzNrTjRMNnVUR0V0SWZKTFFxZUxoakNjdk5GOXJUQTg5Z181bjZsLUwtdGtFMTR6QnVPVHFCZDA1SllKbHJuMVhfX3FKMU96S1otOGlCS056RDNCRldFYWxPeGp6RE9VM2N3?oc=5" target="_blank">Six-million-year-old ice discovered in Antarctica offers unprecedented window into a warmer Earth</a>&nbsp;&nbsp;<font color="#6f6f6f">Oregon State University</font></li><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQUU9kaWNyRmdlZlBfUENNMGhiUnUzUFJJdmQ2SDhpY3haYVRhUmdpMjBWVTNVcXhGaUsyVm1oZndscGJsemlDQjliUHduR0FqcVBIRUFWNEcwcnRDOUdrRHdhci1WTkd0WHdLbDhIT2lDWDA3aWlMREFaZFFGOV94YlZYLTBXMTVvVE50dkF3MmZ0bjU3XzNhTFVaTTdWREFILVBKV29Xaw?oc=5" target="_blank">Scientists Find 6-Million-Year-Old Air Trapped in Earth’s Oldest Known Ice</a>&nbsp;&nbsp;<font color="#6f6f6f">Gizmodo</font></li></ol>
-Published: Sat, 01 Nov 2025 11:05 (SAST)
+Title: First of its kind 'butt drag fossil' discovered in South Africa — and it was left by a fuzzy elephant relative 126,000 years ago - Live Science
+Source: Live Science
+Description: <a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxPX1pNNUhCYl9sMDk4anhYVEROS2NlM2hZYmRsSHJlWGU0bGFaQ3FlOXJQZHVfSUFEcGhfRVhUOHZ4aFMtTDlSdlFSYU81RXVHY1FlamhEeHhjM0ppcEduUFNkQWg4TVUyN2RDNnljVGdERnJ3R3dqOWpxTUxsYmwwZDctazU4c3U2WmRkN1BYQTJsc2VEdnRNd2dkRWZ4c2M3MHdIZlF2SjhlUF9XWlA5LTUyS0Q2MEVuQ19QaThkZkdSY1Q1eU5YaHNQbVdLX01XOVBJUEhaY1dJYmVSWTZWbGd3SzU2cy05X0tWR0RJXzhzeGxoOVJoOTdMZk9KZ2VjODNn?oc=5" target="_blank">First of its kind 'butt drag fossil' discovered in South Africa — and it was left by a fuzzy elephant relative 126,000 years ago</a>&nbsp;&nbsp;<font color="#6f6f6f">Live Science</font>
+Published: Sun, 02 Nov 2025 17:00 (SAST)
 
 
 ARTICLE 24 (Google News SA)
-Title: Meeting the needs of patients with HIV: Virologic suppression and the expanding treatment landscape - European AIDS Treatment Group
-Source: European AIDS Treatment Group
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVTR1LTBtZWpEdlR6NVBXMWxISjBvZlp2bG9TQ25VVXFIWEpGampELVdFSHJnSWxqSVBtdGlMdWdWdV8tV1FGWkdYUnR6MnJLRWpXR0RwOVMxN0hRR0ZURTFmdkhpanhRV3B5OW9HR0oxQWo1MTZ2a2ttV0c1a2Z5MV9ZTXBuUUdLUDBScjltSi1VbjdoODBnWV93cWJ6Nl9vaTAydkozN3BGZVdMZUE2SndfVDRVZ0stbTU4ZGlnNU5sVmZydS1Gdg?oc=5" target="_blank">Meeting the needs of patients with HIV: Virologic suppression and the expanding treatment landscape</a>&nbsp;&nbsp;<font color="#6f6f6f">European AIDS Treatment Group</font></li><li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE56XzZ2dHNBZGdMeV9CME1XRzhONjk4YWdodTRNZFB5SjJRTnVFV0pfX3YyNDZYcWQyTk41a0d1VHl5TkJCNk9KUS1vT001NXdqUmVxMllSZzVZWl8yVF9yN1lMUllodkEzTkpEdVZfZU5jdDdj?oc=5" target="_blank">Rising HIV Infections: The Urgent Threat to Ending the Epidemic</a>&nbsp;&nbsp;<font color="#6f6f6f">BlackDoctor.org</font></li><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE8yMGt4a0xNbXZtYXhHSEtiWDFiY1YzV0JvcS0wZHFmWDB1bzk5Sm5oRG9WUHBBSDNFMXI3QmZvVGJBNFp1MVpJeXVZNDFBSV9YaHNMSHpCOXJmbmlWVGNCLXRMRHRJbHlrSWxpdkRsMzd0ZEpkTzJr?oc=5" target="_blank">HIV Prevention: What You Need to Know</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo</font></li></ol>
-Published: Sun, 02 Nov 2025 01:09 (SAST)
+Title: How We Sharpened The James Webb Telescope’s Vision From A Million Kilometres Away - Stuff South Africa
+Source: Stuff South Africa
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9mbXlQaTdaU3AzcElqM1dIZHJkbWZtdzNIOGRTaFZnRU1naXdJWWVSVDJZYkVCWXQxMkZiYm82Uld6ZmhTM0I2YzBDR2NJS2ZadUx1dVBncUpNOWNiaGlwZEx0d0FuMnF0SzVuVGhpYlFnc0JCRnhiWWxhUURRdw?oc=5" target="_blank">How We Sharpened The James Webb Telescope’s Vision From A Million Kilometres Away</a>&nbsp;&nbsp;<font color="#6f6f6f">Stuff South Africa</font></li><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2t3V01wNTdNLV9fQl9nSFk0OGQwOV9qa0xZYU11bFhkWUFNWWt1cmhQNTd2UFl5ZHNJNWVEWm9JMHBtTXZ3dC1kWDJ6NWF6NDdJLVlYcVJSem9zaWV3QmhSQ1JockYtVXJScm9NakpHRW52N3B6RnluNHo3Q2o4Y3pJb1BDZmc1cEZNUHF6R2EwTWtVMzhoOVY5ZnBYelkzNk5ObFd2N2ptcjluUmN3WXJ3eTN3WWlnMkg5SkVQdGNBMkxBSEZ5Nzlpd1dBZw?oc=5" target="_blank">We sharpened the James Webb telescope's vision from a million miles away. Here's how.</a>&nbsp;&nbsp;<font color="#6f6f6f">Live Science</font></li><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBaRTNHNFRqTnBPV1BfbHJQRTBiUzk3ZW5wY2g3SEFtc1lUNnNvU0RxbkRyamx6U3U4Vy1PUU1NaWZNZHN0OHlTU1JiSFd6cDFQU21wX1BMNEY3Z0lIUWpsY2RKeWJDNUxjOEtna3Q4Yw?oc=5" target="_blank">AI restores James Webb telescope’s crystal-clear vision</a>&nbsp;&nbsp;<font color="#6f6f6f">ScienceDaily</font></li><li><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNR0J3ak5ldTVmZ3NpVnZzaW1UaVBCX3hFQS1GZG5hQWFJeHlQVXZNb1B2eDdNLXk1cEpQZ0ZXVzFaMHVqNlBYUEEtRFdGRGZnMzMzYTRZSkR5TWN5bXNiNWZQX20xMzFreXRtcEZZYmZsWENRU0pPNU9IUUo1cWlzZUUtVDNfckZkVzB6YU9oeHMzRDg?oc=5" target="_blank">How AI Saved NASA’s $10 Billion Webb Telescope From Blurry Vision</a>&nbsp;&nbsp;<font color="#6f6f6f">SciTechDaily</font></li></ol>
+Published: Sun, 02 Nov 2025 14:30 (SAST)
 
 
 ARTICLE 25 (Google News SA)
-Title: What is canine distemper? Highly contagious disease spreads in Goa, advisory issued to pet owners - CNBC TV18
-Source: CNBC TV18
-Description: <ol><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNUjZHODc5MUIzMEFnaHlvMkE5cnZSakZEdTFPQzRxNnExaHJDQnUweFVMUEZTQU54N1VZSEc0VEZXN1d0dVVuYkZMYWZfalVJcFVidk8wakl3NTZfdmVhZVJ1Ny1jVTZjMVhvTm83TnlQdlhOcnVqZnNCTXhxYVdkcEY5cVJ5LU42V1draTYyZ1RYOWdfbmJnM1FwWlVMcWxSRGFqY1p2d0pYNkVlNHVELVdQeDh6X1hSV1pISmo2RjBHdTlUdjBZU1lya0lBQdIB0wFBVV95cUxQd0VaTS16NzQ2emVFNkx4YmdYMmNxMGdYM2RIdHdsdXhHLTFxb2VRdmhtdF9vb0tKUlIxVDZ1eDhCSUV1UUVpV3NHRlVTclAyTXE5YVZwMUlCMlA5LXprNlVJS3M5czlZU0Ytd0t2bHpJcEdNc215RkRFRWk2R2RHUlJIU0JlUkJzYnFCVUxldFpuYVk3MzVFYklsdml5SEZHYjAxNHlzLVctQ1FSLURnQ3FTdE9CYmpOSk52elNqdUVDYWtjYi1BMFVCclo5UDBNVTJR?oc=5" target="_blank">What is canine distemper? Highly contagious disease spreads in Goa, advisory issued to pet owners</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC TV18</font></li><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1ZjOW1SZnZVTFI1Q3dnUlJHTjA3R2dOVEVNajlXZURfRDJ6YV9oRkc5VFlwZlpWZi1JZmI3eDBDRm9fN2o0LVZTTGdIS3FBVWF3cWQ4QlNiM1NWTmVMc0NRekVBMEhoWWYyUEhkX1B5UXVfRmZDSUdOZGs0enk4RF9qczV1cTZqWkpKYjZyTmtfbl90UkJXZHcxbUMwTTA1cFpwSDRjQ2pfMFlHbnFPYWE3NTZaTFVSM2FZVmF2XzJ0UVVXUXJmaWpXWjlRN3dkY0k2eVVn0gHbAUFVX3lxTE1PX1lOTkljVUYyQzZCZ3h2MTd5TzNtTlRpQ0E0cmhIQ0laZlZZSTJjMDlURkdqdlB1UnZLaHBQc1RmSWNUbDNnVDFFaWt0YlhHeVRiY3A3aHBzWVozOTQtcTdYQ0QyQVR2VUMxUV9JZlNiQjh5NE16UnpqZzRIVHJrd2R5dkI5d3EyRzZLSmhBOGpmNWlZbWxITXZTS25JdDRsLTA1dmp1WEFweGhWQWJzWThBVVgxdDNwS1ZhQWpHdWVDdzM3M19aR2xIV0Q5ejNySDJ4Wm5vbWJIWQ?oc=5" target="_blank">What Is Canine Distemper? Highly Contagious Disease Spreads Rapidly In Goa Officials Sound Alert</a>&nbsp;&nbsp;<font color="#6f6f6f">thehealthsite.com</font></li><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVd0NThobHZxUVQzU0FDNlVTM3VfRTFQaVNhQU9MRHF0dHNoclpZU0FNemMwcmdEcHg2eTJ5dS10bmRlcDRXc05pTUVFd0VTOTEtZ2J1QUs5NkU1TjRzLUs0bkNxNWZNQXV2YjlXTGhNNzFuOV9Hc2M1TzViZl91Z0x3STBQZXhaeTRNYlBzUDRBTkNMcGN6MDh4RlU2anRhYU9n?oc=5" target="_blank">Pet owners panic as deadly virus hits Goa’s dogs, government issues warning</a>&nbsp;&nbsp;<font color="#6f6f6f">Northeast Herald</font></li></ol>
-Published: Sat, 01 Nov 2025 12:50 (SAST)
+Title: Scientists Just Found a 1.5-Million-Year-Old Fossil With Gorilla Grip and Human Feet - The Daily Galaxy
+Source: The Daily Galaxy
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9mYS1hcVVsQmtHdXI0eERRR3Y3bmkxLUpWUVFYWVo3NzVEVXo4aEJzTXBXZW1NcGo0TnFtOElFa2dsb1JzVktDbkE3OGptYm9rcGtMRncwMkk5NmlrOW9oOEhwUmgyTkhMa0I1NnlfM0M2TVFOUGhKNXBXYVlIT0k?oc=5" target="_blank">Scientists Just Found a 1.5-Million-Year-Old Fossil With Gorilla Grip and Human Feet</a>&nbsp;&nbsp;<font color="#6f6f6f">The Daily Galaxy</font></li><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9rUFEtN281S1JJVGpyV283Ty1OYmJYalg4REdSMndKUHJTaGZiZlhydEdxWlc2WkNsX1lnc0RDbFJILVdFeEpTWEFqWDBVQzJaNTFveGVZMVZ5YlRIMjlUYmtBdUlpVGRseXRzWldFZw?oc=5" target="_blank">2 million-year-old teeth reveal secrets from the dawn of humanity</a>&nbsp;&nbsp;<font color="#6f6f6f">ScienceDaily</font></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDl2cnZCRS1lU1g5ZEFLcEc5cVUwNjgteTVVYmdUQTMybzV2TzU0bTJMZWU3T2pGUjN0MmxXN3lNczlQUERGYnp6U0hwVHZDakJKQ1c4NVFnLUd1a2pPdWE5bW95UU1hMG1vSUhpczJWaTItaElpdGh4Nk1zRWpVNEl2RHZvcm5NcWhNZ3FnLU1VdXlndVYwUTVVaS1iSG5fLXMxaUtOVm5CZXZ2YUE?oc=5" target="_blank">Rare Fossils Reveal Surprisingly Gorilla-Like Features of Ancient Human Relative</a>&nbsp;&nbsp;<font color="#6f6f6f">ScienceAlert</font></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9TY21kZENBOXM5MWd0Uml6dnFVYllnZ1I4YkttejFCcEtzajdYMElDMG02X0RwckwxbDlhRXdPZS03VERPYjlJcUhETHNqS2Ezd2NkZnlseTZRb3JVTlFqMm1XTHZ3V21udThjYk9aelA?oc=5" target="_blank">Hidden in Tooth Enamel: The Protein That Changes Everything We Knew</a>&nbsp;&nbsp;<font color="#6f6f6f">Indian Defence Review</font></li></ol>
+Published: Sun, 02 Nov 2025 20:45 (SAST)
+
+
+ARTICLE 26 (Google News SA)
+Title: Democratic Republic of the Congo (DRC), Africa | Ebola - Operation Update #2 (MDRCD047) - ReliefWeb
+Source: ReliefWeb
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1J4OVB2OVd4ZzBjWnM1cXZfbzFlbkstaTVsSmFyNXZuSENnNm9YNFhXSXAyemxzLUp6US1hYmhKVjJNR2dVZWkwTzFMakRpQWh2MWVOTktUa2hUMWpLWklRWjEwRHRwam9CV3BkVmlkUC1abGN1S3FlN2RwUXRqZGhjejJSOV9sZXdrTWxEd2x4SlNTcnVWdzFEQlVuUms1TzkyNTE5anFaZm8tc1g2Z0tTZTFRLTk1anNjZjZBX1kwNFE?oc=5" target="_blank">Democratic Republic of the Congo (DRC), Africa | Ebola - Operation Update #2 (MDRCD047)</a>&nbsp;&nbsp;<font color="#6f6f6f">ReliefWeb</font></li><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQZU81ang0ekthV2hVMzdOX09OSmprdnhSSjdZYm5DNVRaYlVMSXVxTWlEZGFpcXNxVU42VENtNG10S2xjUzFBWHl3Q3RRRlV6cGZUakVJbWd1cjh0OVF5d1FpcW5JeFpHTHRkQl9FVTBBSEI5NTgzSDZqZzhPTmpkeVZuVFNvTTA3MkRZSzdiR01Rc1dfR1kzZDFWTG5iNTFnX0RTYktJcW11b1RFQkJQQk4yMDhLaVYtaG5DYTBUVVlJbE5XMmFXMHJRWmw0N1gxaDJhMlRqNE9JT0NVY25hVUdrUjNoMnVESUFvMlZJRlhrTDBnc2tPbXlUNHM5REpt?oc=5" target="_blank">Médecins Sans Frontières (MSF) hands over Ebola response activities in Democratic Republic of Congo (DRC)</a>&nbsp;&nbsp;<font color="#6f6f6f">ZAWYA</font></li></ol>
+Published: Sun, 02 Nov 2025 23:33 (SAST)
+
+
+ARTICLE 27 (Google News SA)
+Title: Highlights from GCOS 2025 by Aaron Sverdlov - Oncodaily
+Source: Oncodaily
+Description: <ol><li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MUUMyMUZWVE1zTjhjTDQ4UWVoaUVoSTBncGE4VHdNMHNpVTUzSkt6UlhXLUNSOElIaEJZRFU2d05DUXpNeGdZM1BqaXJySHhZM3hwR0paX0ctTWxvek5z?oc=5" target="_blank">Highlights from GCOS 2025 by Aaron Sverdlov</a>&nbsp;&nbsp;<font color="#6f6f6f">Oncodaily</font></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZTjhxSDluWHF5dzRMTzRHbjFZZXNxd1dMYTh3d01mdjh4LThmMGpSYVFnQXZlSGhkdGhOeTY4VF9hd1lCbDQ0X01hUHJWTXlxUEE3dU9MSy0?oc=5" target="_blank">GCOS 2025: Cardiac Imaging – What and When in Low Resource Environment?</a>&nbsp;&nbsp;<font color="#6f6f6f">Oncodaily</font></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vaGNlaUNtVDBZRkFZNHBrNkhtVXljdXRZNmVYY183a0dpMHpMbTFNWlZJZWtEcFpJTGJwczRXQWZpbGdVcHZyM1M3SmVtOHZkVGh0ZHNWZDU?oc=5" target="_blank">15 Posts Not To Miss from GCOS 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Oncodaily</font></li></ol>
+Published: Sun, 02 Nov 2025 22:06 (SAST)
 
 
 
 ARTICLE 1 (Sunday Times)
-Title: Port of Gauteng | ‘Give Transnet a cut of N3 tolls’
-Description: Port of Gauteng developer Francois Nortjé says the expiry of the 30-year N3 concession in 2029 will pave the way to restructure highway tolls so that the rail corridor gets a cut of the money, which would improve freight efficiency. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: Eastern Cape family devastated after young woman wrongly treated for TB instead of cancer
+Description:  Misdiagnosis of TB and cancers such as Lymphoma remains a significant clinical challenge in rural parts of South Africa and other countries with high TB rates
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 2 (Sunday Times)
-Title: Old Mutual banking on Gen Z for growth 
-Description: Insurer hopes to attract 2.8m clients to open accounts with its lending arm by 2028
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: Carousel punter paid last of his winnings two years after striking it lucky
+Description: Another winner, Israel Mogotsi, faced similar delays with his R400,000 Bingo prize, which was resolved after media involvement
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 3 (Sunday Times)
-Title: Ramaphosa’s secret GNU state of play pow-wow
-Description: President Cyril Ramaphosa has convened a secret retreat with leaders of political parties in the GNU to hold talks on the state of the coalition government that could have implications for its future. The event begins today and will end tomorrow.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: Blast from the past: Taylor climbs from the canvas four times to win world title
+Description: Today in SA sport history: November 3
+
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 4 (Sunday Times)
-Title: Sibiya accuses police chiefs of misleading inquiry
-Description: The suspended deputy national commissioner says testimony heard by the Madlanga Commission has created ‘a misleading impression’ of his role and relationship with the various role players under investigation.
-Published: Sun, 02 Nov 2025 00:01 (SAST)
+Title: JUSTICE MALALA | Long speeches about ‘our people’ are done, we need politicians in orange overalls
+Description:  The finance minister's top job should be financing the NPA to do everything it can to get charges against corrupt politicians brought before functioning courts, writes Justice Malala
+Published: Sun, 02 Nov 2025 20:12 (SAST)
 
 
 ARTICLE 5 (Sunday Times)
-Title: Miss South Africa: Pageant power meets purpose
-Description: Qhawekazi Mazaleni balances her crown with advocacy and education.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: EDITORIAL | South Africa’s democratic betrayal: when councillors can’t read budgets they approve 
+Description: We voters have to confront an uncomfortable truth
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 6 (Sunday Times)
-Title: Railway regulator warns of clampdown on errant operators 
-Description: The Railway Safety Regulator  has warned that it will use new powers at its disposal to fine and even suspend the permits of operators that repeatedly cause accidents on the national rail network. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: Can next-gen Boks win when it counts? We’re about to find out
+Description:  Next-gen Boks probably makes more sense than new-look Boks
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 7 (Sunday Times)
-Title: Two-pot queries still flooding in, pension funds adjudicator tells MPs
-Description: The Pension Funds Adjudicator received 2,246 queries from pension fund members related to the two-pot system.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: Inside the complexities of high-net-worth divorces
+Description: Black Coffee and actress Enhle Mbali’s longtime divorce legal battle has grabbed headlines in recent weeks
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 8 (Sunday Times)
-Title: Fiserv shares plunge after $30bn wipeout
-Description: Shares in Fiserv plummeted nearly 42% on Wednesday and were set for a record single-day drop after the payments software company reported results below estimates and cut its growth forecast for the second consecutive quarter, with analysts calling the ear
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: Netherlands to return 3,500-year-old sculpture to Egypt
+Description: The artefact is believed to have been stolen and illegally exported during the unrest of the 2011 Arab Spring
+Published: Sun, 02 Nov 2025 19:28 (SAST)
 
 
 ARTICLE 9 (Sunday Times)
-Title: Pick n Pay set to revamp No Name brand
-Description: Pick n Pay will relaunch its No Name in-house brand after overhauling the product range to remove items that “should not have been there”, according to CEO Sean Summers.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 10 (Sunday Times)
-Title: RMB report points to massive R1-trillion export opportunities for SA
-Description: South Africa sits on an R1.3-trillion untapped export prize, revealed in Rand Merchant Bank’s latest Where to Invest in Africa report. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 11 (Sunday Times)
-Title: What township traders can teach SA about surviving December
-Description: The festive tinsel still needs to go up, but South Africa is already winding down. For most of us, downtime during December is time to kick back and enjoy a well-earned break.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 12 (Sunday Times)
-Title: NDUMISO NGCOBO | In awe of human decency in the shady part of Boksburg
-Description: In this country bedevilled by crime and corruption, it’s easy to forget that the honest and the upstanding walk among us too.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 13 (Sunday Times)
-Title: LETTERS | Netanyahu has turned Israel into a pariah 
-Description: Most telling of all is that it is not Hamas that has isolated Israel. It is the actions of Netanyahu and his warmongering coalition that have created the environment that has turned Israel into pariahs in the eyes of most of the world, says the writer.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 14 (Sunday Times)
-Title: Amad stunner gets Man U out of Forest
-Description: A stunning volley from Amad Diallo earned Manchester United a battling 2-2 draw at Nottingham Forest in the Premier League last night.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 15 (Sunday Times)
-Title: Swiatek swats aside Keys
-Description: World number two Iga Swiatek began her quest for a second WTA Finals trophy with a 6-1 6-2 win over Australian Open champion Madison Keys in their round robin clash at the season-ending championships yesterday.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 16 (Sunday Times)
-Title: Highveld Techno Park office blocks under the hammer
-Description: Park Village Auctions (PVA) is putting numerous commercial investment properties in Pretoria’s well-established business hub, Highveld Techno Park, under the hammer. PVA’s Clive Lazarus says the properties present a favourable opportunity for immediate re
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 17 (Sunday Times)
-Title: BBK UNPLUGGED | Magic in the performance, not umuthi
-Description: What? Are you telling me that Bafana have returned to winning ways not because of the brilliance of Hugo Broos but because Safa has finally settled the outstanding bill of the muthi man who cast a spell on them by locking all their goals inside a bottle?
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 18 (Sunday Times)
-Title: My Brilliant Career | Keeping your brand in glowing health 
-Description: Tamryn Geldenhuys is a reputation strategist and the owner of Lemon Sorbet Marketing.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 19 (Sunday Times)
-Title: Sunday Times Literary Awards shortlist: Shubnum Khan on her novel ‘The Lost Love of Akbar Manzil’
-Description: Author struggled for 12 years before she felt satisfied with her book
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 20 (Sunday Times)
-Title: Braless Tyla adds mussel to Women of the Year award
-Description: The 23-year-old South African megastar sent the red carpet press line into a frenzy, wearing a risqué cropped jacket made entirely of mussel shells and nothing underneath for the event at 180 The Strand.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 21 (Sunday Times)
-Title: Don’t let your employees gamble away their lives 
-Description: Organisations have a responsibility to address the rapidly spreading addiction that affects their staff along with everyone else
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 22 (Sunday Times)
-Title: EDITORIAL | How far does betrayal of trust by school staff extend?
-Description: As reported in the Sunday Times last week, principal Mihlali Makhalima apparently blew more than R1m intended for school meals, allegedly misusing funds from the national school nutrition programme. This is an appalling breach of the trust.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 23 (Sunday Times)
-Title: Q&A with Gauteng Cogta and infrastructure development MEC Jacob Mamabolo 
-Description: Service delivery failures across Gauteng have been characterised by a lack of accountability. Chris Barron asked Cogta & infrastructure development MEC Jacob Mamabolo ...
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 24 (Sunday Times)
-Title: Mampara of the Week: Malusi Shezi 
-Description: One might think a CEO of the construction education & training authority would know a great building when he saw one. Malusi Shezi seems to think he does, and rushed out to buy new offices in Midrand last year at a cost of R49m to the taxpayer. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 25 (Sunday Times)
-Title: Opportunity galore at Highveld Techo Park
-Description: Park Village Auctions is inviting offers on commercial investment properties in Pretoria’s well-established business hub, Highveld Techno Park, says PVA’s Clive Lazarus.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 26 (Sunday Times)
-Title: WANDILE SIHLOBO | Why Asia beats Africa for new SA agricultural markets
-Description: Rest of the continent would be a tough sell, for different reasons, writes Wandile Sihlobo.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 27 (Sunday Times)
-Title: MAKHUDU SEFARA | ANC stares into the abyss as inquiries reveal how deep the rot runs
-Description: The ANC’s chances of recovering from a slump to 40% in the last general election are diminishing, writes Makhudu Sefara.
-
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 28 (Sunday Times)
-Title: Stirring up feat with Stephen King
-Description: How about some Stephen King horror for Halloween?
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 29 (Sunday Times)
-Title: Newsmaker | How to stop turning grey 
-Description: South Africa must guard against complacency now that it’s earned FATF approval of its efforts to counter financial crime, says Roxanna Naidoo
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 30 (Sunday Times)
-Title: Sharks v wealthy bathers in Club Med beach row
-Description: Environmental activists say the R2bn Club Med Beach & Safari Resort on the KwaZulu-Natal coast is leaving a deadly footprint before it opens. 
-
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 31 (Sunday Times)
-Title: Building resilience must be at heart of G20 agenda
-Description: Building resilience must be at the heart of the G20 agenda
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 32 (Sunday Times)
-Title: Councillors ‘vote on budgets they can’t read’ 
-Description: South Africa is heading towards the 2026 local government elections amid a governance crisis as hundreds of elected councillors entrusted with municipal budgets cannot read or write proficiently.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 33 (Sunday Times)
-Title: Marizanne’s chance to Kapp a stellar career with golden crown  
-Description: Veteran all-rounder has continued to produce world class displays to drive her side to the brink of global success 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 34 (Sunday Times)
-Title: Boks put on a masterclass for Japan 
-Description: Three penalties within three minutes to the Springboks and a five pointer within five minutes to the King (Siya) Kolisi. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 35 (Sunday Times)
-Title: BARNEY MTHOMBOTHI | Democracy is being undermined from within
-Description: Everywhere one looks these days, it would seem democracy, that system of government whose efficacy has been extolled and celebrated by its advocates over the ages, is either seriously under attack or in terminal decline. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 36 (Sunday Times)
-Title: How to deal with grief at work
-Description: Grief is emotional, neurological and physical, so it it can be impossible to carry on after the loss of a loved one or other life-changing event.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 37 (Sunday Times)
-Title: Cameron vacates title in bold boxing protest
-Description: Chantelle Cameron relinquished her WBC Super Lightweight title on Friday in a bold protest over women’s boxing rules, with the British fighter demanding the right to fight three-minute rounds like her male counterparts.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 38 (Sunday Times)
-Title: KEO UNCUT | A calm and calculated Boks World Cup build-up 
-Description: Rassie Erasmus has refused, post the 2023 Rugby World Cup, to choose between the present and the future. He has demanded both, which is why the Springboks have never been in a stronger position midcycle in between World Cups.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 39 (Sunday Times)
-Title: From R280m dream to liquidation sale — Sandton’s ghost megaproject seeks a buyer 
-Description: Four hectares above the Gautrain station — once tied to Gupta-linked Regiments Group — go on sale in boardroom auction this month.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 40 (Sunday Times)
-Title: Investing with conviction in uncertain conditions
-Description: Investors face an uncertain market environment that demands responsiveness and discernment with macroeconomic risks and policy shifts at levels not seen in decades. In addition to market forces which have changed dramatically, this requires a proactive ap
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 41 (Sunday Times)
-Title: Regional clothing co-operation ‘key to surviving tariffs’
-Description: Experts say deeper regional textile cooperation will improve supply security, reduce dependency on extra-regional markets, and enhance competitiveness.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 42 (Sunday Times)
-Title: IFP yields to ANC as premier fights to stay in office  
-Description: Insiders say the IFP will bow to a demand from the ANC that its Cogta MEC in KwaZulu-Natal be removed from the post.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 43 (Sunday Times)
-Title: ‘Mo Amer: Wild World’, ‘Ballad of a Small Player’ and more: 5 things to stream this week
-Description: Here's what you can catch on the small screen.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 44 (Sunday Times)
-Title: HOT LUNCH | It all started with dad and his camcorder  
-Description: Abigail Visagie tells me she is an introvert, which may very well be true, but she also appears to have a preternatural talent for finding herself looking very composed and comfortable in what is a very public-facing life. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 45 (Sunday Times)
-Title: EDITORIAL | Team SA, bring home that trophy
-Description: This squad — led with composure by Laura Wolvaardt — has already shown resolve, expertise and good old-fashioned South African gees to get to this exalted place, to the verge of cricketing glory.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 46 (Sunday Times)
-Title: Fitbit? Oura? Or just count sheep 
-Description: Sleep scientists say hi-tech wearable monitors can be part of the problem, not the solution, for anxious insomniacs
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 47 (Sunday Times)
-Title: Consensus between Godongwana and SARB key to greater growth 
-Description: Deciding on a new 3% inflation target for SA - who’s the boss?
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 48 (Sunday Times)
-Title: PARTING SHOT|Jackal in the Hide
-Description: A rare opportunity to witness Botswana's wildlife from a front-row seat
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 49 (Sunday Times)
-Title: MATHATHA TSEDU | SA and Africa’s silence on Darfur is shameful
-Description: Darfur, and indeed the whole of Sudan, is in the grip of a genocide that no one wants to speak about, writes Mathatha Tsedu.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 50 (Sunday Times)
-Title: A big yawn, as Downs vs Bucs ‘clash of titans’ ends in stalemate  
-Description: At the end, both sets of players looked at each other, some with hands on hips and they didn’t know who mugged who. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 51 (Sunday Times)
-Title: TIM BERNERS-LEE | The man who invented the world wide web
-Description: This is an edited extract from the prologue of 'This is for Everyone' by Tim Berners-Lee
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 52 (Sunday Times)
-Title: Moment of truth for Proteas
-Description: SA, who face India in World Cup final, need to stay as grounded and focused as possible, says skipper Laura Wolvaardt.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 53 (Sunday Times)
-Title: Joburg residents running out of water, power and patience
-Description: People’s right to water being violated through ‘neglect, mismanagement and diversion of public funds’, say protesters.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 54 (Sunday Times)
-Title: ‘No-fee’ schools demand ‘donations’ from struggling parents
-Description: Impoverished parents in South Africa are being coerced into paying so-called 'donations' to no-fee schools, with threats of their children being excluded or having their reports withheld if payments aren't made. 
-
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 55 (Sunday Times)
-Title: Men ‘shot in their hundreds or disappeared’ after fall of Sudanese city to paramilitaries 
-Description: Fighters riding camels rounded up a couple of hundred men near the Sudanese city of al-Fashir at the weekend and brought them to a reservoir, shouting racial slurs before starting to shoot, according to a man who said he was among them.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 56 (Sunday Times)
-Title: Police raid took place three days before warrant was issued, mine claims 
-Description: A mining rights dispute has taken a new twist, with allegations that a police raid last week in which mining equipment was seized happened three days before a warrant for it was issued.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 57 (Sunday Times)
-Title: New partners could put more spark into Africa’s renewable revolution 
-Description: Private investors from Asia are showing interest in solar projects in Africa - seeing them as opportunities rather than risks
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 58 (Sunday Times)
-Title: A tax-free upswing could be coming SA’s way, says Oasis boss
-Description: Adam Ebrahim optimistic the wave of good news could mean no VAT increase.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 59 (Sunday Times)
-Title: ASPASIA KARRAS | What to do when Trump interferes with your zen? 
-Description: When world politics intrude on your retreat, just hide under the closest forest tree and consult AI.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 60 (Sunday Times)
-Title: ARTHUR GOLDSTUCK | Will quantum finally get its ‘ChatGPT moment’?
-Description: Will quantum finally get its ‘ChatGPT moment’?
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 61 (Sunday Times)
-Title: YOU WEEKLY STARS | 2-9 November
-Description: See what the stars have in store for you.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 62 (Sunday Times)
-Title: From prince to pariah: the fall of ‘Randy Andy’ 
-Description: The family of Virginia Roberts Giuffre has hailed the decision to strip British royal Prince Andrew of his title as a “victory”.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 63 (Sunday Times)
-Title: Gaza ‘ceasefire’ is all about the money 
-Description: The Trump plan appears to benefit him and Jared Kushner above all others, with Palestinians left out of the process, writes Mia Swarts
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 64 (Sunday Times)
-Title: HOGARTH | Refugee roulette? 
-Description: The Orange One appears to have moved swiftly on from accusing South Africa of committing “Afrikaner genocide”.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 65 (Sunday Times)
-Title: VALLI MOOSA | Our constitution is no accident of history 
-Description: Who would have imagined that a generation after the adoption of South Africa’s constitution, in 1996, there would be a small group of men, both black and white, who unashamedly campaign against equal rights and fundamental freedoms?
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 66 (Sunday Times)
-Title: PETER BRUCE | Joburg’s great, and it will bounce back
-Description: Zille is by no measure “stupid”, heaven forfend, but while her single-mindedness may be perfect for battle in Joburg it has not, strategically, done her party much good.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 67 (Sunday Times)
-Title: Everybody’s got their own Gary story 
-Description: South African sports stars, celebrities and business leaders from around the world gathered at Sun City this weekend to celebrate the 90th birthday of Gary Player and pay tribute to a man who has touched all of their lives.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 68 (Sunday Times)
-Title: 2025 Sunday Times Literary Awards shortlist: Q&A with Khumisho Moguerane on ‘Morafe: Person, Family and Nation in Colonial Bechuanaland, 1880s and 1950s’
-Description: We ask the author a few questions on her shortlisted book.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 69 (Sunday Times)
-Title: AI meets mobile money and transforms African finance
-Description: Optasia has harnessed AI to create an ecosystem that assesses creditworthiness in ways that traditional systems cannot, the company’s CEO says
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 70 (Sunday Times)
-Title: A-LISTERS | A gallery of Rich fashion and yummy snacks 
-Description: A collaboration between Mnisi and Foschini marks a century since the fashion retailer opened its first store in Pritchard Street, Joburg. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 71 (Sunday Times)
-Title: ‘Take care of me and I will take care of you’
-Description: The Madlanga commission heard explosive evidence from witness C about claims made by Vusimusi Cat Matlala on police minister Senzo Mchunu and deputy national police commissioner Shadrack Sibiya 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 72 (Sunday Times)
-Title: Spots in T20 World Cup squad still up for grabs
-Description: The Proteas' inconsistency in the T20 format, is making it hard for the selectors, to decide on last few places in the squad for the World Cup
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 73 (Sunday Times)
-Title: EPWP workers forced to become ANC members, do ‘hard labour ‘ at MMC’s home, pay fuel costs
-Description: Unemployed residents selected to be part of government’s expanded public works programme (EPWP) for a monthly stipend of R1,800 were allegedly made to work at a North West city official’s home in Lebotlwane.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 74 (Sunday Times)
-Title: Boom boxes, booze, boisterous behaviour a no-no on SA beaches
-Description: Planning to soak up some sun on Cape Town’s beaches this festive season? If so, you’d be advised to first do a quick inventory of the contents of your bag.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 75 (Sunday Times)
-Title: Dis-Chem aims for steroid-style growth
-Description: Dis-Chem had 302 retail pharmacy stores and 44 retail baby stores at the end of August, the end of its 2026 first half. It plans to have added 32 pharmacy stores by the end of the financial year. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 76 (Sunday Times)
-Title: DRDGOLD says draft mining bill has undertones of ‘expropriation without compensation’
-Description: DRDGOLD, which has been listed on the JSE for 130 years, has described proposals in the draft Mineral Resources Development Bill gazetted by the department of mineral & petroleum resources (DMPR) as “expropriation without compensation”. 
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 77 (Sunday Times)
-Title: Weeds that feed 
-Description: Locavore Nikki Brighton on her abundant edible weeds journey
-Published: Sun, 02 Nov 2025 00:00 (SAST)
-
-
-ARTICLE 78 (Sunday Times)
-Title: What’s On November 2-9
-Description: Your weekly guide to being out and about.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Title: Nigeria says US help against Islamist insurgents must respect its sovereignty
+Description: President Trump said he had asked the defence department to prepare for possible ‘fast’ military action in Nigeria if Africa’s most populous country fails to crack down on the killing of Christians
+Published: Sun, 02 Nov 2025 18:48 (SAST)
 
 
 ARTICLE 1 (TimesLive)
-Title: Port of Gauteng | ‘Give Transnet a cut of N3 tolls’
+Title: ‘I was bitter for a long time’ - Pearl Mbewe reflects on her marriage to Sello Maake kaNcube
 Source: TimesLive
-Description: Port of Gauteng developer Francois Nortjé says the expiry of the 30-year N3 concession in 2029 will pave the way to restructure highway tolls so that the rail corridor gets a cut of the money, which would improve freight efficiency.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: "I’m at peace, I’m OK, not faking it."
+Published: Mon, 03 Nov 2025 07:15 (SAST)
 
 
 ARTICLE 2 (TimesLive)
-Title: Ramaphosa’s secret GNU state of play pow-wow
+Title: Powerful 6.3 quake kills at least 10 in Afghanistan, scores injured
 Source: TimesLive
-Description: President Cyril Ramaphosa has convened a secret retreat with leaders of political parties in the GNU to hold talks on the state of the coalition government that could have implications for its future. The event begins today and will end tomorrow.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: A 6.3-magnitude earthquake struck near the northern Afghan city of Mazar-e Sharif early on Monday, killing at least 10 people and injuring about 260, authorities said, with the death toll likely to rise.
+Published: Mon, 03 Nov 2025 07:00 (SAST)
 
 
 ARTICLE 3 (TimesLive)
-Title: Sibiya accuses police chiefs of misleading inquiry
+Title: Halloween in SA: Thabethe channels Rihanna’s pregnancy, Gigi and Reason become villain couple
 Source: TimesLive
-Description: The suspended deputy national commissioner says testimony heard by the Madlanga Commission has created ‘a misleading impression’ of his role and relationship with the various role players under investigation.
-Published: Sun, 02 Nov 2025 00:01 (SAST)
+Description: South African celebrities joined in the global Halloween festivities.
+Published: Mon, 03 Nov 2025 06:36 (SAST)
 
 
 ARTICLE 4 (TimesLive)
-Title: BBK UNPLUGGED | Magic in the performance, not umuthi
+Title: UK police say train stabbings carried out by lone attacker, not terrorism
 Source: TimesLive
-Description: What? Are you telling me that Bafana have returned to winning ways not because of the brilliance of Hugo Broos but because Safa has finally settled the outstanding bill of the muthi man who cast a spell on them by locking all their goals inside a bottle?
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: A 32-year-old British man was the sole suspect accused of a mass stabbing on a train in England after another man arrested in the case was released on Sunday with no charges.
+Published: Mon, 03 Nov 2025 06:11 (SAST)
 
 
 ARTICLE 5 (TimesLive)
-Title: Braless Tyla adds mussel to Women of the Year award
+Title: Blast from the past: Taylor climbs from the canvas four times to win world title
 Source: TimesLive
-Description: The 23-year-old South African megastar sent the red carpet press line into a frenzy, wearing a risqué cropped jacket made entirely of mussel shells and nothing underneath for the event at 180 The Strand.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Today in SA sport history: November 3
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 6 (TimesLive)
-Title: Mampara of the Week: Malusi Shezi
+Title: Eastern Cape family devastated after young woman wrongly treated for TB instead of cancer
 Source: TimesLive
-Description: One might think a CEO of the construction education & training authority would know a great building when he saw one. Malusi Shezi seems to think he does, and rushed out to buy new offices in Midrand last year at a cost of R49m to the taxpayer.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Misdiagnosis of TB and cancers such as Lymphoma remains a significant clinical challenge in rural parts of South Africa and other countries with high TB rates
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 7 (TimesLive)
-Title: MAKHUDU SEFARA | ANC stares into the abyss as inquiries reveal how deep the rot runs
+Title: Carousel punter paid last of his winnings two years after striking it lucky
 Source: TimesLive
-Description: The ANC’s chances of recovering from a slump to 40% in the last general election are diminishing, writes Makhudu Sefara.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Another winner, Israel Mogotsi, faced similar delays with his R400,000 Bingo prize, which was resolved after media involvement
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 8 (TimesLive)
-Title: IFP yields to ANC as premier fights to stay in office
+Title: JUSTICE MALALA | Long speeches about ‘our people’ are done, we need politicians in orange overalls
 Source: TimesLive
-Description: Insiders say the IFP will bow to a demand from the ANC that its Cogta MEC in KwaZulu-Natal be removed from the post.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: The finance minister's top job should be financing the NPA to do everything it can to get charges against corrupt politicians brought before functioning courts, writes Justice Malala
+Published: Sun, 02 Nov 2025 20:12 (SAST)
 
 
 ARTICLE 9 (TimesLive)
-Title: Councillors ‘vote on budgets they can’t read’
+Title: EDITORIAL | South Africa’s democratic betrayal: when councillors can’t read budgets they approve
 Source: TimesLive
-Description: South Africa is heading towards the 2026 local government elections amid a governance crisis as hundreds of elected councillors entrusted with municipal budgets cannot read or write proficiently.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: We voters have to confront an uncomfortable truth
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 10 (TimesLive)
-Title: ‘Mo Amer: Wild World’, ‘Ballad of a Small Player’ and more: 5 things to stream this week
+Title: Can next-gen Boks win when it counts? We’re about to find out
 Source: TimesLive
-Description: Here's what you can catch on the small screen.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Next-gen Boks probably makes more sense than new-look Boks
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 11 (TimesLive)
-Title: Boks put on a masterclass for Japan
+Title: Inside the complexities of high-net-worth divorces
 Source: TimesLive
-Description: Three penalties within three minutes to the Springboks and a five pointer within five minutes to the King (Siya) Kolisi.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Black Coffee and actress Enhle Mbali’s longtime divorce legal battle has grabbed headlines in recent weeks
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 12 (TimesLive)
-Title: PARTING SHOT|Jackal in the Hide
+Title: Wolvaardt’s efforts in vain as Proteas eclipsed by India in World Cup final
 Source: TimesLive
-Description: A rare opportunity to witness Botswana's wildlife from a front-row seat
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: South African captain makes magnificent century, but with no support from teammates, SA lose another final
+Published: Sun, 02 Nov 2025 21:14 (SAST)
 
 
 ARTICLE 13 (TimesLive)
-Title: A big yawn, as Downs vs Bucs ‘clash of titans’ ends in stalemate
+Title: Haaland shines with two goals as Manchester City beat Bournemouth
 Source: TimesLive
-Description: At the end, both sets of players looked at each other, some with hands on hips and they didn’t know who mugged who.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Erling Haaland delivered another masterclass in ruthless finishing with two goals on Sunday as Manchester City beat high-flying Bournemouth 3-1 and climbed into second place in the Premier League.
+Published: Sun, 02 Nov 2025 20:55 (SAST)
 
 
 ARTICLE 14 (TimesLive)
-Title: EDITORIAL | Team SA, bring home that trophy
+Title: Netherlands to return 3,500-year-old sculpture to Egypt
 Source: TimesLive
-Description: This squad — led with composure by Laura Wolvaardt — has already shown resolve, expertise and good old-fashioned South African gees to get to this exalted place, to the verge of cricketing glory.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: The artefact is believed to have been stolen and illegally exported during the unrest of the 2011 Arab Spring
+Published: Sun, 02 Nov 2025 19:28 (SAST)
 
 
 ARTICLE 15 (TimesLive)
-Title: MATHATHA TSEDU | SA and Africa’s silence on Darfur is shameful
+Title: Tshwane investigating spike in typhoid cases amid water safety concerns
 Source: TimesLive
-Description: Darfur, and indeed the whole of Sudan, is in the grip of a genocide that no one wants to speak about, writes Mathatha Tsedu.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: The City of Tshwane says it is intensifying investigations into the source of a rise in typhoid fever cases in Hammanskraal and Bronkhorstspruit amid growing public concern over water safety in the metro.
+Published: Sun, 02 Nov 2025 19:29 (SAST)
 
 
 ARTICLE 16 (TimesLive)
-Title: KEO UNCUT | A calm and calculated Boks World Cup build-up
+Title: Nigeria says US help against Islamist insurgents must respect its sovereignty
 Source: TimesLive
-Description: Rassie Erasmus has refused, post the 2023 Rugby World Cup, to choose between the present and the future. He has demanded both, which is why the Springboks have never been in a stronger position midcycle in between World Cups.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: President Trump said he had asked the defence department to prepare for possible ‘fast’ military action in Nigeria if Africa’s most populous country fails to crack down on the killing of Christians
+Published: Sun, 02 Nov 2025 18:48 (SAST)
 
 
 ARTICLE 17 (TimesLive)
-Title: A-LISTERS | A gallery of Rich fashion and yummy snacks
+Title: ‘I want my child’ - Jub Jub pleads with Kelly Khumalo for access to son
 Source: TimesLive
-Description: A collaboration between Mnisi and Foschini marks a century since the fashion retailer opened its first store in Pritchard Street, Joburg.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: “I’m not asking for full custody, I’m just asking to be present in my boys life.”
+Published: Sun, 02 Nov 2025 16:07 (SAST)
 
 
 ARTICLE 18 (TimesLive)
-Title: ‘Take care of me and I will take care of you’
+Title: ‘We cannot keep quiet and turn a blind eye’ — GBV activist calls out ‘shocking scenes’ in ‘Nandi and The Rev’
 Source: TimesLive
-Description: The Madlanga commission heard explosive evidence from witness C about claims made by Vusimusi Cat Matlala on police minister Senzo Mchunu and deputy national police commissioner Shadrack Sibiya
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Sibisi said the show’s content raises serious red flags about emotional and physical abuse in the Mlombi household.
+Published: Sun, 02 Nov 2025 15:27 (SAST)
 
 
 ARTICLE 19 (TimesLive)
-Title: EPWP workers forced to become ANC members, do ‘hard labour ‘ at MMC’s home, pay fuel costs
+Title: WATCH | ‘Bring the cup home. That cup belongs in South Africa,’ says Ramaphosa ahead of Women’s World Cup final
 Source: TimesLive
-Description: Unemployed residents selected to be part of government’s expanded public works programme (EPWP) for a monthly stipend of R1,800 were allegedly made to work at a North West city official’s home in Lebotlwane.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: President Cyril Ramaphosa has rallied behind the Proteas Women ahead of their historic ICC Women’s Cricket World Cup final against India on Sunday, urging the team to “bring the cup home”.
+Published: Sun, 02 Nov 2025 13:30 (SAST)
 
 
 ARTICLE 20 (TimesLive)
-Title: Moment of truth for Proteas
+Title: NSFAS board chair Dr Karen Stander resigns citing racism, bullying and threats to family safety
 Source: TimesLive
-Description: SA, who face India in World Cup final, need to stay as grounded and focused as possible, says skipper Laura Wolvaardt.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: National Student Financial Aid Scheme (NSFAS) board chairperson Dr Karen Stander has resigned with immediate effect citing a “toxic” work environment marked by racism, bullying, intimidation and personal threats.
+Published: Sun, 02 Nov 2025 13:11 (SAST)
 
 
 ARTICLE 21 (TimesLive)
-Title: ‘No-fee’ schools demand ‘donations’ from struggling parents
+Title: Police launch manhunt for killers of six people in  drive-by shooting in Reiger Park
 Source: TimesLive
-Description: Impoverished parents in South Africa are being coerced into paying so-called 'donations' to no-fee schools, with threats of their children being excluded or having their reports withheld if payments aren't made.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Gauteng police have launched a manhunt for assailants who killed six people and injured three others in a drive-by shooting in Reiger Park, Boksburg, on Saturday.
+Published: Sun, 02 Nov 2025 12:17 (SAST)
 
 
 ARTICLE 22 (TimesLive)
-Title: Police raid took place three days before warrant was issued, mine claims
+Title: Sundowns coach Cardoso says this season is going to be closely contested
 Source: TimesLive
-Description: A mining rights dispute has taken a new twist, with allegations that a police raid last week in which mining equipment was seized happened three days before a warrant for it was issued.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: After they were held to a 1-1 draw by Orlando Pirates at Loftus on Saturday, Mamelodi Sundowns coach Miguel Cardoso said this season is going to be closely contested.
+Published: Sun, 02 Nov 2025 11:43 (SAST)
 
 
 ARTICLE 23 (TimesLive)
-Title: VALLI MOOSA | Our constitution is no accident of history
+Title: Israeli defence minister says Lebanese government must fulfill commitment to disarm Hezbollah
 Source: TimesLive
-Description: Who would have imagined that a generation after the adoption of South Africa’s constitution, in 1996, there would be a small group of men, both black and white, who unashamedly campaign against equal rights and fundamental freedoms?
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Israeli defence minister Israel Katz said on Sunday the Lebanese government must fulfil its commitment to disarm Hezbollah and remove it from southern Lebanon, as Israel continued to intermittently attack the group in the south of the country.
+Published: Sun, 02 Nov 2025 11:17 (SAST)
 
 
 ARTICLE 24 (TimesLive)
-Title: YOU WEEKLY STARS | 2-9 November
+Title: Erasmus lauds Springboks’ intensity in big win over Japan
 Source: TimesLive
-Description: See what the stars have in store for you.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Springbok coach Rassie Erasmus lauded the intensity his players showed in their 61-7 demolition of Japan at Wembley Stadium on Saturday, but warned next weekend’s Autumn International series clash with France will be another step up.
+Published: Sun, 02 Nov 2025 11:16 (SAST)
 
 
 ARTICLE 25 (TimesLive)
-Title: From prince to pariah: the fall of ‘Randy Andy’
+Title: Thirteen arrested after worker killed in attack on Free State farm
 Source: TimesLive
-Description: The family of Virginia Roberts Giuffre has hailed the decision to strip British royal Prince Andrew of his title as a “victory”.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Thirteen suspects have been arrested after an attack on a farm in Heilbron in the Free State in the early hours of Saturday in which a farm worker was shot dead.
+Published: Sun, 02 Nov 2025 11:06 (SAST)
 
 
 ARTICLE 26 (TimesLive)
-Title: ASPASIA KARRAS | What to do when Trump interferes with your zen?
+Title: Pupil to appear in court for ‘pouring boiling water’ on boy she accused of sexual assault
 Source: TimesLive
-Description: When world politics intrude on your retreat, just hide under the closest forest tree and consult AI.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: A 20-year-old female Limpopo matric pupil is expected to appear in court on Monday to face charges of assault with intention to cause grievous bodily harm after allegedly pouring boiling water over a male pupil she accused of sexual assault.
+Published: Sun, 02 Nov 2025 11:01 (SAST)
 
 
 ARTICLE 27 (TimesLive)
-Title: Joburg residents running out of water, power and patience
+Title: Pirates coach Ouaddou predicts bright future for starlet Dansin
 Source: TimesLive
-Description: People’s right to water being violated through ‘neglect, mismanagement and diversion of public funds’, say protesters.
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: Orlando Pirates coach Abdeslam Ouaddou has a reputation for making brave selection calls and was at it again when he started with young midfielder Camren Dansin against Mamelodi Sundowns.
+Published: Sun, 02 Nov 2025 10:26 (SAST)
 
 
 ARTICLE 28 (TimesLive)
-Title: Weeds that feed
+Title: FACTBOX | What did Trump, Xi agree to on tariffs, export controls and fentanyl
 Source: TimesLive
-Description: Locavore Nikki Brighton on her abundant edible weeds journey
-Published: Sun, 02 Nov 2025 00:00 (SAST)
+Description: The White House on Saturday released details about the agreement that US President Donald Trump reached this week with Chinese President Xi Jinping to de-escalate their countries’ trade war.
+Published: Sun, 02 Nov 2025 10:12 (SAST)
 
 
 ARTICLE 29 (TimesLive)
-Title: Proteas lose series after another woeful batting display
+Title: Obama calls Mamdani, praises campaign ahead of New York mayoral election
 Source: TimesLive
-Description: Pakistan claimed a four wicket victory in the T20 series decider against South Africa
-Published: Sat, 01 Nov 2025 21:03 (SAST)
+Description: Former Democratic President Barack Obama called New York mayoral candidate Zohran Mamdani on Saturday and offered to be a “sounding board” if the 34-year-old frontrunner wins the election. He also praised Mamdani’s campaign.
+Published: Sun, 02 Nov 2025 09:48 (SAST)
 
 
 ARTICLE 30 (TimesLive)
-Title: Powerhouse Boks trample Japan in nine-try rout
+Title: Trump threatens US military action in Nigeria over treatment of Christians
 Source: TimesLive
-Description: The world champion Springboks pulverised Japan 61-7 at Wembley Stadium in London on Saturday to kick off their five-match northern hemisphere tour in style.
-Published: Sat, 01 Nov 2025 20:55 (SAST)
+Description: US President Donald Trump on Saturday said he has asked the defence department to prepare for possible “fast” military action in Nigeria if the West African nation fails to crack down on the killing of Christians.
+Published: Sun, 02 Nov 2025 09:32 (SAST)
 
 
 ARTICLE 31 (TimesLive)
-Title: Relentless Arsenal beat Burnley to stretch Premier League lead
+Title: Two arrested after multiple people stabbed on UK train, police say
 Source: TimesLive
-Description: Arsenal moved seven points clear at the top of the Premier League with a straightforward 2-0 victory over Burnley at Turf Moor as their mastery of set pieces again proved irresistible on Saturday.
-Published: Sat, 01 Nov 2025 19:46 (SAST)
-
-
-ARTICLE 32 (TimesLive)
-Title: Stunning Diallo volley earns Man United battling point at Forest
-Source: TimesLive
-Description: A stunning volley from Amad Diallo earned Manchester United a battling 2-2 draw at Nottingham Forest in the Premier League on Saturday.
-Published: Sat, 01 Nov 2025 19:34 (SAST)
-
-
-ARTICLE 33 (TimesLive)
-Title: Qhawekazi Mazaleni’s journey to being crowned with purpose
-Source: TimesLive
-Description: New Miss SA plans to help teachers and parents in underserved communities  create their own educational resources.
-Published: Sat, 01 Nov 2025 18:48 (SAST)
-
-
-ARTICLE 34 (TimesLive)
-Title: Heavyweights Sundowns and Pirates fail to land a knockout blow in Loftus stalemate
-Source: TimesLive
-Description: At the end, both sets of players looked at each other, some with hands on hips, and they didn’t know who mugged who.
-Published: Sat, 01 Nov 2025 18:01 (SAST)
-
-
-ARTICLE 35 (TimesLive)
-Title: Wolvaardt calls on her side to stay calm in World Cup final
-Source: TimesLive
-Description: SA and India chase first world title in Mumbai
-Published: Sat, 01 Nov 2025 18:08 (SAST)
-
-
-ARTICLE 36 (TimesLive)
-Title: Simphiwe Shembe takes police commissioner’s call to heart ahead of 2nd annual Comedy Picnic
-Source: TimesLive
-Description: Comedian Simphiwe Shembe is making sure his upcoming 2nd Annual Simphiwe Shembe Comedy Picnic aligns fully with festive season safety regulations.
-Published: Sat, 01 Nov 2025 17:05 (SAST)
-
-
-ARTICLE 37 (TimesLive)
-Title: Limpopo musician Kharishma fighting for her life after horrific car crash
-Source: TimesLive
-Description: Popular Limpopo musician Melita Mogale, known to fans as Kharishma, is fighting for her life in hospital after a near-fatal car accident on Friday
-Published: Sat, 01 Nov 2025 17:03 (SAST)
-
-
-ARTICLE 38 (TimesLive)
-Title: Nigeria’s Dangote refinery ramps up output on back of new fuel import duty
-Source: TimesLive
-Description: Nigeria’s Dangote Petroleum Refinery, Africa’s largest oil refinery, is ramping up output to meet national petrol and diesel demand, it said on Saturday, after the government approved a new import tariff on fuel aimed at protecting domestic production.
-Published: Sat, 01 Nov 2025 16:18 (SAST)
-
-
-ARTICLE 39 (TimesLive)
-Title: Justice ministry reviewing Bushiri extradition ruling
-Source: TimesLive
-Description: Justice and constitutional development minister Mmamoloko Kubayi said they are reviewing a judgment by the Malawian high court on Friday which overturned an earlier order to extradite self-proclaimed prophet Shepherd Bushiri and his wife Mary to face tria
-Published: Sat, 01 Nov 2025 16:17 (SAST)
-
-
-ARTICLE 40 (TimesLive)
-Title: Two-month-old baby found dead in caregiver’s bed
-Source: TimesLive
-Description: A two-month-old baby boy was found dead in Mhlasini, KwaZulu-Natal, on Saturday.
-Published: Sat, 01 Nov 2025 15:21 (SAST)
-
-
-ARTICLE 41 (TimesLive)
-Title: Sundowns coach Cardoso picks Aubaas to replace Mokoena against Pirates
-Source: TimesLive
-Description: Mamelodi Sundowns coach Miguel Cardoso has picked Bafana Bafana midfielder Bathusi Aubaas in the place of suspended Teboho Mokoena for the crunch Betway Premiership clash against Orlando Pirates at Loftus.
-Published: Sat, 01 Nov 2025 15:18 (SAST)
-
-
-ARTICLE 42 (TimesLive)
-Title: North West woman to appear in court after daughter’s suspected remains discovered
-Source: TimesLive
-Description: A 43-year-old woman will appear in the Rustenburg magistrate’s court on Monday for the alleged murder of her 20-year-old daughter and defeating the ends of justice.
-Published: Sat, 01 Nov 2025 15:03 (SAST)
-
-
-ARTICLE 43 (TimesLive)
-Title: Lady Du and Skeem GP join hands to uplift schools and communities
-Source: TimesLive
-Description: The amapiano star and reality TV personality are using their platforms to spark real change among the youth.
-Published: Sat, 01 Nov 2025 13:56 (SAST)
-
-
-ARTICLE 44 (TimesLive)
-Title: Sea of Joburg protesters gather over empty water promises
-Source: TimesLive
-Description: Helen Zille, the DA’s mayoral candidate for Johannesburg, was among hundreds of residents who marched to the Joburg council chamber on Saturday to protest against the ongoing water crisis in the city.
-Published: Sat, 01 Nov 2025 13:40 (SAST)
-
-
-ARTICLE 45 (TimesLive)
-Title: EC woman nabbed with R50,000 dagga-laced confectionery allegedly intended for children
-Source: TimesLive
-Description: A 54-year-old woman is expected to appear in the Motherwell magistrate’s court for dealing in drugs after being found with dagga-coated confectionery and the discovery by police of a dagga plantation at her Colchester property in the Eastern Cape.
-Published: Sat, 01 Nov 2025 12:48 (SAST)
-
-
-ARTICLE 46 (TimesLive)
-Title: Public works minister Dean Macpherson and Zulu king to meet over KZN infrastructure, job creation
-Source: TimesLive
-Description: Public Works and infrastructure minister Dean Macpherson will pay a courtest visit to Zulu King Misuzulu kwaZwelithini on Monday to present the department’s latest infrastructure delivery plans for KwaZulu-Natal.
-Published: Sat, 01 Nov 2025 12:17 (SAST)
-
-
-ARTICLE 47 (TimesLive)
-Title: ‘The most important thing is that he scores,’ says Khalil Ben Youseff of Silva’s impact at Chiefs
-Source: TimesLive
-Description: The win moved Chiefs to third spot and within two points of leaders and defending champions Mamelodi Sundowns who will host a red-hot Orlando Pirates in Pretoria in a blockbuster fixture on Saturday.
-Published: Sat, 01 Nov 2025 12:03 (SAST)
-
-
-ARTICLE 48 (TimesLive)
-Title: Inquest opened after two toddler cousins found drowned in Kariega pool
-Source: TimesLive
-Description: Eastern Cape police are investigating the death of two toddlers who drowned in a swimming pool in Kariega on Friday.
-Published: Sat, 01 Nov 2025 11:36 (SAST)
-
-
-ARTICLE 49 (TimesLive)
-Title: Sundowns and Pirates lock horns in crunch Betway Premiership clash at Loftus
-Source: TimesLive
-Description: Besides the obvious and important three Betway Premiership points at stake, there is also a small matter of bragging rights for Mamelodi Sundowns and Orlando Pirates players.
-Published: Sat, 01 Nov 2025 11:34 (SAST)
-
-
-ARTICLE 50 (TimesLive)
-Title: 13 motorists arrested for drunk driving in KZN roadblock
-Source: TimesLive
-Description: More than a dozen motorists in KwaZulu-Natal found themselves on the wrong side of the law on Friday night.
-Published: Sat, 01 Nov 2025 11:34 (SAST)
-
-
-ARTICLE 51 (TimesLive)
-Title: White House restricts access for journalists to press secretary’s office
-Source: TimesLive
-Description: A new White House rule issued Friday restricts the ability of credentialed journalists to freely access the offices of press secretary Karoline Leavitt and other top communications officials in the West Wing, near the Oval Office.
-Published: Sat, 01 Nov 2025 11:15 (SAST)
-
-
-ARTICLE 52 (TimesLive)
-Title: Prince William leaves Andrew scandal behind for trip to Brazil
-Source: TimesLive
-Description: Prince William heads to Brazil next week for the awards ceremony for his multi-million-dollar environmental prize, hoping to refocus attention away from the scandal of his uncle Andrew and back on the royals’ causes.
-Published: Sat, 01 Nov 2025 10:50 (SAST)
-
-
-ARTICLE 53 (TimesLive)
-Title: No room for old scars as Springboks prepare for Japan battle
-Source: TimesLive
-Description: Several South Africa players lining up against Japan at Wembley Stadium on Saturday carry vivid memories of the "Miracle of Brighton".
-Published: Sat, 01 Nov 2025 09:03 (SAST)
-
-
-ARTICLE 54 (TimesLive)
-Title: Canada’s Carney says he apologised to Trump over Reagan ad
-Source: TimesLive
-Description: Canadian Prime Minister Mark Carney said on Saturday he had apologised to US President Donald Trump over an anti-tariff political advertisement and had told Ontario Premier Doug Ford not to run it.
-Published: Sat, 01 Nov 2025 10:25 (SAST)
-
-
-ARTICLE 55 (TimesLive)
-Title: Tanzania’s Hassan declared landslide winner in election marred by violence
-Source: TimesLive
-Description: Tanzania’s electoral commission declared on Saturday that President Samia Suluhu Hassan had won, with nearly 98% of the votes, an election that set off violent protests across the country this week.
-Published: Sat, 01 Nov 2025 10:24 (SAST)
-
-
-ARTICLE 56 (TimesLive)
-Title: Martinelli ruled out, Saliba doubtful as Arsenal aim to maintain hot form at Burnley
-Source: TimesLive
-Description: Arsenal winger Gabriel Martinelli will miss Saturday’s Premier League trip to Burnley due to injury, while centre back William Saliba remains doubtful, manager Mikel Arteta said as his side look to extend their remarkable run of form.
-Published: Sat, 01 Nov 2025 09:07 (SAST)
+Description: Multiple people have been taken to hospital after a series of stabbings on a train near Cambridge in eastern England on Saturday and two people have been arrested, in what Prime Minister Keir Starmer called an “appalling incident”.
+Published: Sun, 02 Nov 2025 09:30 (SAST)
 
 
 
 
 ARTICLE 1 (Daily Maverick)
-Title: THE CONVERSATION: Who are the worst mothers in literature?
-Description: The first sentence of Anna Karenina is now a literary cliché, yet contains a nub of truth. “All happy families,” writes Leo Tolstoy, “resemble one another, each unhappy family is unhappy in its own way.”
-Published: Sun, 02 Nov 2025 04:00 (SAST)
+Title: MINI CROSSWORD: Daily Crossword Quickie – Mon, 3 Nov
+Description: Welcome to Daily Maverick's free mini crossword quickie. Follow the clues and fill in the squares to solve these minis.
+
+Published: Mon, 03 Nov 2025 07:05 (SAST)
 
 
 ARTICLE 2 (Daily Maverick)
-Title: BOKS VS BLOSSOMS: Feinberg-Mngomezulu spearheads clinical and brutal Boks to record win over Japan
-Description: The Springboks swept Japan aside with a 61-7 (halftime 26-0) win at Wembley in London.
-Published: Sat, 01 Nov 2025 21:41 (SAST)
+Title: WHAT’S COOKING: Lekker Brekker Monday: Chicken mayo toasties, à la Croque Monsieur
+Description: These are not Croques Monsieur, but they do take from those classic Parisian sandwiches the idea of layering cheese on top of the sandwiches when grilling, as well as slathering mustard on the bread. Other than that, they are toasted chicken mayo sarmies, air fryer style.
+
+Published: Mon, 03 Nov 2025 06:00 (SAST)
 
 
 ARTICLE 3 (Daily Maverick)
-Title: ATTACK ON HUMAN RIGHTS: How shadowy Russian and US groups are pouring billions into the systematic destruction of women’s rights globally
-Description: The world is being split in two by transnational organisations that are promoting right-wing politics under the insidious guise of ‘family values’, and they are reversing human rights gains all over the world. 
-Published: Sat, 01 Nov 2025 13:00 (SAST)
+Title: Newsdeck: UK police say train stabbings carried out by lone attacker, not terrorism
+Description: HUNTINGDON, England, Nov 2 (Reuters) - A 32-year-old British man was the sole suspect accused of a mass stabbing on a train in England, after another man arrested in the case was released on Sunday with no charges.
+Published: Mon, 03 Nov 2025 04:39 (SAST)
 
 
 ARTICLE 4 (Daily Maverick)
-Title: THE WEEKEND WRAP: Inside the GNU, Halloween horrors, and quiet power in small gestures
-Description: Inside the talks that shaped the GNU; Halloween horrors; and the quiet power of small gestures — all in the Weekend Wrap.
-Published: Sat, 01 Nov 2025 10:30 (SAST)
+Title: STATES OF CAPTURE: Beyond the Big Five cartel — a murky mix of taxi boss ‘Mswazi’, politicians and dodgy private security
+Description: Zooming in on accusations that Pretoria taxi boss Jothan ‘Mswazi’ Msibi once headed a drug trafficking cartel that has infiltrated South Africa’s law enforcement reveals ties to dubious private security and leads to the names of various politicians.
+Published: Mon, 03 Nov 2025 04:30 (SAST)
 
 
 ARTICLE 5 (Daily Maverick)
-Title: GAMING: Ghost of Yōtei is a masterclass in open-world storytelling and technical brilliance for PS5
-Description: Ghost of Yōtei will feel instantly familiar to anyone who played the series predecessor Ghost of Tsushima on PS4 or its PS5 Director’s Cut, as its refinements elevate it into something richer and more human. It’s less a radical reinvention and more a thoughtful evolution — a samurai epic that balances spectacle with soul.
+Title: CRICKET: Proteas Women fall at the final hurdle again as India clinch maiden World Cup trophy
+Description: India 298 for 7 (Shafali Verma 87, Deepti Sharma 58, Smriti Mandhana 45, Richa Ghosh 34, Ayabonga Khaka 3-58) beat South Africa 246 (Laura Wolvaardt 101, Annerie Dercksen 35, Deepti Sharma 5-39) by 52 runs.
+Published: Sun, 02 Nov 2025 23:21 (SAST)
 
-Published: Sat, 01 Nov 2025 08:00 (SAST)
+
+ARTICLE 6 (Daily Maverick)
+Title: Johannesburg: The G20 wields global influence, but does it have power?
+Description: Supporters of the G20 argue that its prominent membership gives it real weight on global policy, despite the lack of formal enforcement mechanisms. However, disputes over its legitimacy, criticisms of its organisation and the efficacy of its declarations remain.
+Published: Sun, 02 Nov 2025 21:38 (SAST)
+
+
+ARTICLE 7 (Daily Maverick)
+Title: SHIPPING NEWS: Nelson Mandela Bay ports are improving — but business calls for better cooperation with road hauliers
+Description: Nelson Mandela Bay’s two ports – particularly the Port of Ngqura – may be showing signs of improvement, but they still rank near the bottom of the World Bank’s annual Container Port Performance Index.
+Published: Sun, 02 Nov 2025 21:20 (SAST)
+
+
+ARTICLE 8 (Daily Maverick)
+Title: AFRICA UNSCRAMBLED OP-ED: Trump’s outburst about a ‘Christian genocide’ in Nigeria is as dangerous as it is absurd
+Description: A  combination of ignorance and emotional manipulation resurfaced this weekend when US President Donald Trump erupted on social media, threatening a ‘fast, vicious and sweet’ military invasion of Nigeria to stop a supposed genocide against Christians.
+Published: Sun, 02 Nov 2025 21:10 (SAST)
+
+
+ARTICLE 9 (Daily Maverick)
+Title: Newsdeck: Netherlands to return 3,500-year-old sculpture to Egypt
+Description: Nov 2 - The Netherlands will return a 3,500-year-old sculpture that turned up at a Dutch art fair to Egypt, Prime Minister Dick Schoof said on Sunday during a visit to the country, where he met with President Abdel Fattah al-Sisi.
+Published: Sun, 02 Nov 2025 21:03 (SAST)
+
+
+ARTICLE 10 (Daily Maverick)
+Title: LEGAL LOOPHOLE: ConCourt to hear NPA extradition case that will decide the fate of alleged criminals abroad
+Description: For decades, the NPA has applied to foreign countries to extradite alleged criminals to face trial in SA. According to the Supreme Court of Appeal, that power rests with the Justice Minister.
+Published: Sun, 02 Nov 2025 21:02 (SAST)
+
+
+ARTICLE 11 (Daily Maverick)
+Title: Newsdeck: Kenya landslide death toll rises to 26
+Description: Nov 2 (Reuters) - The death toll from a landslide in western Kenya's Rift Valley has risen to 26, a government spokesperson said on Sunday, following heavy rains on Saturday.
+Published: Sun, 02 Nov 2025 20:57 (SAST)
+
+
+ARTICLE 12 (Daily Maverick)
+Title: VICTORY FOR CONSUMERS: Nersa’s process for approving municipal electricity tariff hikes is unconstitutional, high court rules
+Description: A high court has ordered the National Energy Regulator of South Africa to implement new timelines in its process for approving municipal electricity tariffs, to ensure public participation in future decisions.  
+Published: Sun, 02 Nov 2025 20:35 (SAST)
+
+
+ARTICLE 13 (Daily Maverick)
+Title: SEWAGE SPILL: NMB metro set to reopen Brighton Beach – but expert says he wouldn’t swim there
+Description: Ten months after Nelson Mandela Bay’s Brighton Beach was closed due to a sewage spill from the Fishwater Flats Wastewater Treatment Works, the metro says it’s preparing to reopen the popular site — but a water safety expert warns it’s still too risky to swim there.
+
+Published: Sun, 02 Nov 2025 20:29 (SAST)
+
+
+ARTICLE 14 (Daily Maverick)
+Title: OPINIONISTA: My plea to fellow Afrikaners-“Stop navel-gazing and get stuck in”
+Description: We live in a free society, in a constitutional democracy. We have serious economic and societal problems that we need to address very quickly; therefore, we need to stop navel-gazing as Afrikaners and get stuck in.
+Published: Sun, 02 Nov 2025 20:23 (SAST)
+
+
+ARTICLE 15 (Daily Maverick)
+Title: MUNICIPAL CONFUSION: ‘Jobs on the line’ — Coega Steels explains emergency lease of NMB metro transformer
+Description: While acting city manager Lonwabo Ngoqo indicated early last week that a decision to lease a municipal transformer to Coega Steels would be taken to the Eastern Cape high court on review, the company said on Friday that it learnt about the problem via the media.
+Published: Sun, 02 Nov 2025 20:20 (SAST)
+
+
+ARTICLE 16 (Daily Maverick)
+Title: Owned
+Published: Sun, 02 Nov 2025 20:19 (SAST)
+
+
+ARTICLE 17 (Daily Maverick)
+Title: RUGBY: Ox Nché out of Bok tour, allowing a way back for doping-accused Ntlabakanye
+Description: Loosehead prop Ox Nché's season is over after he suffered a serious leg injury during the Springboks’ 61-7 win over Japan at Wembley on Saturday.
+Published: Sun, 02 Nov 2025 20:13 (SAST)
+
+
+ARTICLE 18 (Daily Maverick)
+Title: NATIONAL DIALOGUE: Mbeki says the way presidents in South Africa are elected is wrong
+Description: During an address on Saturday, former president Thabo Mbeki said a National Dialogue was urgently needed to solve South Africa’s many crises and called for a reform of the country's presidential election method.
+
+Published: Sun, 02 Nov 2025 19:56 (SAST)
+
+
+ARTICLE 19 (Daily Maverick)
+Title: COST OF HEALTHCARE : All you need to know about 2026 medical scheme contribution increases
+Description: Expect to pay more for health plans next year, with increases once again above the inflation rate. 
+Published: Sun, 02 Nov 2025 19:55 (SAST)
+
+
+ARTICLE 20 (Daily Maverick)
+Title: NO BOTS ABOUT IT: In South Africa’s e-commerce boom, trust beats automation
+Description: As global e-commerce platforms chase scale, homegrown sites like OneDayOnly and Takealot are showing that trust, precision and a bit of human graft still win clicks in South Africa’s online value war.
+Published: Sun, 02 Nov 2025 19:33 (SAST)
+
+
+ARTICLE 21 (Daily Maverick)
+Title: TAKING COVER: Insurance gap seven times GDP leaves households dangerously underinsured
+Description: South Africa’s insurance safety net has a gaping hole. ASISA’s 2025 Insurance Gap Study shows the life-and-disability shortfall has ballooned to R50.4-trillion—about seven times SA's 2024 GDP.
+Published: Sun, 02 Nov 2025 19:15 (SAST)
+
+
+ARTICLE 22 (Daily Maverick)
+Title: LAPSE IN CONSCIENCE OP-ED: South Africa’s baboon crisis — how bureaucracy became a death sentence
+Description: The case of the 39 Stormberg baboons – whose fate rests on permits lapsing, jurisdictional buck‑passing and the suggestion that ‘killing is the cost‑effective route’ – is a clarion call for reform, empathy and realignment of wildlife policy with dignity and responsibility.
+Published: Sun, 02 Nov 2025 18:55 (SAST)
+
+
+ARTICLE 23 (Daily Maverick)
+Title: PHANTOM SHARES: The Finance Ghost: Optasia and WeBuyCars show the joys and risks of growth stocks
+Description: If something goes wrong in the growth story, even just temporarily, the market reverts to a particular brand of pessimism that is as South African as a braai with friends before the Springboks game. WeBuyCars found that out the hard way in the past week. We deal with that first, followed by a short note on the successful Optasia IPO, and the great interest from local investors in that story.
+Published: Sun, 02 Nov 2025 18:46 (SAST)
+
+
+ARTICLE 24 (Daily Maverick)
+Title: OPINIONISTA: Institutions that regulate the legal profession don’t inspire confidence
+Description: The lack of accountability and rationalisation of unethical and egregious behaviour is characteristic of many professions, but the key problem in the legal profession is that the Judicial Service Commission and Legal Practice Council have failed to show that members will be held accountable both to its legal and ethical commitments.
+Published: Sun, 02 Nov 2025 18:31 (SAST)
+
+
+ARTICLE 25 (Daily Maverick)
+Title: OPINIONISTA: A type of perceptual narrowing shapes the DA’s policies and approach to politics
+Description: The erasure of South Africa’s cultural landscape that started with enforcement of the Group Areas Act in the 1950s continues in Cape Town, and there is no end in sight.
+Published: Sun, 02 Nov 2025 18:20 (SAST)
+
+
+ARTICLE 26 (Daily Maverick)
+Title: BUSINESS REFLECTION: Crossed Wires: The Netflix dilemma and the future of video
+Description: Long-form streaming is giving way to shorter attention spans, as shorter-form video steals viewers’ attention thanks to mobile – small screen, fast scroll, dollops of dopamine-inducing video. Netflix needs to respond urgently.
+Published: Sun, 02 Nov 2025 18:19 (SAST)
+
+
+ARTICLE 27 (Daily Maverick)
+Title: OPINIONISTA: Moral panic or measured response? The politics behind South Africa’s elephant ‘crisis’
+Description: Behind claims of escalating human-elephant conflict lies a tangle of weak data, mismanagement and a R460-million fund that seems to need a crisis more than it proves one.
+Published: Sun, 02 Nov 2025 18:10 (SAST)
+
+
+ARTICLE 28 (Daily Maverick)
+Title: MARKET PARALYSIS: Property chaos as syndicates raid abandoned City of Joburg plans archives
+Description: Developers can’t build, homeowners can’t sell and banks are refusing bonds – all because the City of Joburg can’t find its own building plans.
+Published: Sun, 02 Nov 2025 15:08 (SAST)
+
+
+ARTICLE 29 (Daily Maverick)
+Title: DRY TAPS: Joburg water crisis disrupts schools, imperils health, fuels crime, say protesters
+Description: From Thembelihle to Soweto, residents say Johannesburg’s prolonged water outages are crippling schools, threatening public health and exposing communities to crime. Civil society groups are demanding urgent action and accountability as frustration with the City deepens.
+Published: Sun, 02 Nov 2025 15:03 (SAST)
+
+
+ARTICLE 30 (Daily Maverick)
+Title: DEEPENING CRISIS: Water tanker cadres keep cashing in on R223m Joburg contract despite court action
+Description: Even as Johannesburg Water throttles water supply, two cadre companies with no track record keep cashing in on a three-year contract to supply water when the taps run dry.
+Published: Sun, 02 Nov 2025 14:47 (SAST)
+
+
+ARTICLE 31 (Daily Maverick)
+Title: VIDEO: Watch – Lucky no more: R4.5bn State Capture trail leads back to ex-Prasa boss
+Description: Lucky Montana’s tax saga made headlines but the real story runs much deeper. Jacob Zuma’s MK party has become a haven for the same figures who once oversaw South Africa’s most corrupt state-owned entities. This is the network reshaping South African politics from the shadows.
+Published: Sun, 02 Nov 2025 12:47 (SAST)
+
+
+ARTICLE 32 (Daily Maverick)
+Title: MATTERS OF THE ART: From fashion to war, the haunting duality of Lee Miller and Cecil Beaton’s photography
+Description: For South Africans heading to (or living in) London, two exhibitions, at Tate Britain and the National Portrait Gallery, offer a rare glimpse into the intertwined lives of photographers Lee Miller and Cecil Beaton. Both shaped by Vogue and the creative orbit of Condé Nast, their work spans fashion, art and the haunting imagery of war, revealing a shared flair for style, theatricality and reinvention.
+
+Published: Sun, 02 Nov 2025 11:00 (SAST)
