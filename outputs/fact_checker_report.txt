@@ -4,50 +4,64 @@
 
 ### ACCURACY:
 
-1. **Murray Investigation Timeline Error**: The transcript states "More than two and a half years after Cloete and Thomas Murray were killed" and later "thirty months of disappointment." The source article states "more than two-and-a-half years" which equals approximately 30 months, so this is consistent. However, the transcript says the case is being "restarted from scratch" while the source says "being started from scratch" - minor wording difference but acceptable. **NO ERROR**.
+1. **Reiger Park shooting - victim's age**: The transcript states Leòcant Joseph was "twenty nine‑year‑old" but the source (Article "He took bullets for his child") states he was **29 years old** - this is consistent, no error.
 
-2. **Reiger Park Shooting - Commissioner Name Error**: The transcript states "Provincial police commissioner **Masemola** has deployed a specialised team." However, according to the RSS feed article title, it's "**Masemola** deploys specialised team" - but Masemola is the **national** police commissioner, not provincial. The source doesn't clarify this distinction clearly, but this could be misleading. **POTENTIAL ERROR** - needs verification of Masemola's actual title.
+2. **Reiger Park shooting - death toll**: The transcript states "six people dead and three others wounded." The source confirms "six people" were killed and "three others were wounded." ✓ Accurate.
 
-3. **NSFAS Chairperson Details**: The transcript correctly identifies Dr Karen Stander as chairperson and accurately reports her reasons for resignation (racism, bullying, intimidation, threats to family safety). **NO ERROR**.
+3. **Auditor-General SAPS irregular expenditure**: The transcript states "three point two billion rand." The source headline states "R3.2bn" but the article text states "R650m for 2024/25" with "R2.5bn previously red-flagged." The **R3.2bn figure does not appear in the provided sources** - this appears to be an error or conflation. The sources indicate R650m irregular expenditure for 2024/25, with R2.5bn in unresolved historical issues.
 
-4. **Nersa Court Ruling**: The transcript accurately reports the high court finding and the order for new timelines for public participation. **NO ERROR**.
+4. **Fuel price drop**: The transcript states "fifty one cents per litre." The source confirms "petrol will drop by 51 cents per litre." ✓ Accurate.
 
-5. **Eastern Cape Health Story**: The transcript mentions "a young relative" but the source describes "young woman" - the transcript uses vaguer language which is acceptable for anonymity. The clinical challenge description is accurate. **NO ERROR**.
+5. **Fuel price timing**: The transcript states the cut takes effect "at midnight on Wednesday." The source states "At midnight on Tuesday" (referring to the night between Tuesday and Wednesday, November 5). This is potentially confusing but technically accurate if referring to Wednesday's start.
 
-6. **Mbeki Presidential Election Comments**: The transcript states Mbeki "argued that the current presidential election process is wrong and urgently needs reform." The source confirms he "said the way presidents in South Africa are elected is wrong" and called for "urgent intervention." **NO ERROR**.
+6. **Gautrain operator**: The transcript states the GMA "has not yet selected a replacement operator despite plans to do so more than a year ago." The source states "The Gautrain Management Agency has not selected a new operator yet. It initially planned to do so over a year ago." ✓ Accurate.
+
+7. **Johannesburg traders court ruling**: The transcript states "two‑week deadline." The source confirms "two-week deadline." ✓ Accurate.
+
+8. **Date**: The transcript states "four November two thousand and twenty five." This should be **2024**, not 2025. This is a **major factual error**.
 
 ### CONTEXT:
 
-1. **Murray Investigation**: The transcript provides minimal context about who the Murrays were or the nature of the "brazen shooting." While the source article title mentions "murder," the transcript doesn't specify this was a murder investigation, though it's implied. More context about the case would be helpful but isn't fabricated.
+1. **Reiger Park shooting**: The transcript mentions "Local reports say the slaughter has laid bare severe resource shortages" but doesn't clarify this is according to the station commander's own statements, not just "local reports."
 
-2. **Reiger Park Shooting**: The transcript mentions "six people dead and three injured" and describes it as a "drive-by shooting" - all confirmed by sources. However, it doesn't mention this occurred on **Saturday** (timing context missing but not critical for a Monday broadcast).
+2. **SAPS irregular expenditure**: The transcript conflates different figures without clearly distinguishing between current year irregular expenditure (R650m) and historical unresolved amounts (R2.5bn). The R3.2bn figure is not supported by sources.
 
-3. **Johannesburg Water Crisis**: The transcript mentions "two contractor companies with limited track records" drawing on a "three-year, two hundred and twenty three million rand water-supply contract." This is supported by the Daily Maverick article headline about "Water tanker cadres" and "R223m Joburg contract." Context is adequate.
+3. **Madlanga Commission**: The transcript provides good context about the commission's purpose and the contradictory testimony, but could clarify that Lt-Gen Khumalo is "set to return" for further testimony.
 
-4. **NSFAS Resignation**: The transcript could have provided more context about why this matters (NSFAS's role in student funding), but does mention it's "a cornerstone of student support" and raises "concerns about governance and culture." Adequate context provided.
+4. **GNU retreat**: The transcript mentions "ahead of next year's elections" - this needs clarification as to which elections (local government elections in 2026).
 
 ### OPINION ATTRIBUTION:
 
-1. **Nersa Ruling**: The transcript states the finding "is being touted as a victory for consumers" - this appropriately uses passive voice to indicate this is an opinion/characterization rather than stating it as fact. **ACCEPTABLE**.
+1. **Reiger Park**: "Local reports say the slaughter has laid bare severe resource shortages" - this should be attributed to the station commander's warning, not vague "local reports."
 
-2. **Eastern Cape Health**: The transcript states "the human cost was highlighted in that coverage" - this is a factual statement about what the reporting showed. **ACCEPTABLE**.
+2. **Ramaphosa on GNU**: The transcript attributes quotes to Ramaphosa ("exceptionally well" and "here to stay") which appear in sources. ✓ Properly attributed.
 
-3. **Mbeki's Views**: The transcript correctly attributes the opinions to "Mr Mbeki argued" and "He said." **ACCEPTABLE**.
+3. **Gautrain**: "mounting pressure" is editorial language not directly from sources.
 
 ### NEUTRALITY:
 
-1. **Water Crisis Framing**: The phrase "two contractor companies with limited track records continue to draw on" could be seen as slightly editorial, but it's supported by the Daily Maverick source which refers to "cadre companies with no track record." The transcript is actually more neutral than the source. **ACCEPTABLE**.
+1. **Reiger Park**: The phrase "the slaughter has laid bare" is emotionally charged language that goes beyond neutral reporting.
 
-2. **Overall Tone**: The broadcast maintains a neutral, factual tone throughout, using phrases like "according to on-the-ground reporting," "reporting has exposed," and "the finding is being touted" to maintain distance from claims. **ACCEPTABLE**.
+2. **SAPS expenditure**: "raises questions about how tenders were awarded" is neutral enough and supported by source material.
+
+3. **Madlanga Commission**: "heavy pressure faced by investigators" is supported by source material describing threats.
+
+4. **Overall tone**: Generally neutral, though some word choices are slightly dramatic.
 
 ## RECOMMENDATIONS:
 
-1. **Clarify Masemola's Title**: Verify whether Masemola is the provincial or national police commissioner and correct accordingly. The sources suggest he may be national commissioner, not provincial.
+1. **CRITICAL CORRECTION**: Change the date from "two thousand and twenty five" to "two thousand and twenty four" (2024).
 
-2. **Add Brief Context to Murray Case**: Consider adding one sentence about the nature of the case (e.g., "a double murder investigation") for listeners unfamiliar with the story.
+2. **CRITICAL CORRECTION**: Revise the SAPS irregular expenditure figure. The R3.2bn is not supported by sources. Should state: "irregular expenditure of six hundred and fifty million rand for the 2024/25 financial year, while two point five billion rand previously flagged remains unresolved."
 
-3. **Minor Wording Precision**: Consider changing "young relative" to "young woman" in the Eastern Cape health story for consistency with source material, unless anonymity was intentionally sought.
+3. **Attribution correction**: Change "Local reports say the slaughter has laid bare severe resource shortages" to "The station commander has warned of severe resource shortages."
 
-## OVERALL ASSESSMENT:
+4. **Neutrality adjustment**: Change "the slaughter has laid bare" to "the shooting has highlighted" or similar neutral phrasing.
 
-The transcript demonstrates **strong adherence to source materials** with accurate fact representation, appropriate opinion attribution, and neutral presentation. The main concern is the potential misidentification of Masemola's official title (provincial vs. national commissioner), which should be verified and corrected if necessary. Otherwise, the broadcast maintains high journalistic standards with facts well-grounded in the provided sources.
+5. **Clarity improvement**: Specify which elections when mentioning "next year's elections" (2026 local government elections).
+
+6. **Timing clarification**: Clarify fuel price timing as "midnight Tuesday night/Wednesday morning" to avoid confusion.
+
+7. **Minor**: Remove "mounting pressure" regarding Gautrain or attribute it to a source.
+
+**OVERALL ASSESSMENT**: The transcript contains one critical factual error (the year 2025 instead of 2024) and one significant accuracy issue (the R3.2bn SAPS figure is not supported by sources). Most other facts are accurate, but some attribution and neutrality improvements are needed.
