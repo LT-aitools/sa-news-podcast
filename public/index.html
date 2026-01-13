@@ -301,9 +301,42 @@
             scroll-behavior: smooth;
         }
 
-        .built-by {
-            position: fixed;
-            top: 1rem;
+        .deprecation-banner {
+            background-color: #ff9800;
+            color: #000;
+            padding: 1rem 2rem;
+            text-align: center;
+            font-weight: 500;
+            font-size: 1rem;
+            line-height: 1.5;
+            border-bottom: 3px solid #f57c00;
+            position: relative;
+        }
+
+        .deprecation-banner strong {
+            font-weight: 700;
+        }
+
+        .deprecation-banner a {
+            color: #000;
+            text-decoration: underline;
+            font-weight: 600;
+        }
+
+        .deprecation-banner a:hover {
+            color: #333;
+        }
+
+        @media (max-width: 768px) {
+            .deprecation-banner {
+                padding: 1rem;
+                font-size: 0.9rem;
+            }
+        }
+
+        .deprecation-banner .built-by {
+            position: absolute;
+            bottom: calc(-2.5rem);
             right: 1rem;
             display: flex;
             align-items: center;
@@ -311,10 +344,11 @@
             color: white;
             text-decoration: none;
             font-size: 0.9rem;
+            font-weight: normal;
             z-index: 10;
         }
 
-        .built-by img {
+        .deprecation-banner .built-by img {
             height: 24px;
             width: auto;
         }
@@ -342,16 +376,20 @@
         }
 
         @media (max-width: 768px) {
-            .built-by {
-                position: absolute;
+            .deprecation-banner .built-by {
+                bottom: calc(-2.5rem);
+                right: 0.5rem;
             }
         }
     </style>
 </head>
 <body>
-    <a href="https://www.letstalkaitools.com" class="built-by" target="_blank">
-        Built by <img src="/LTAIT_logo.png" alt="Let's Talk AI Tools">
-    </a>
+    <div class="deprecation-banner">
+        <strong>⚠️ This podcast is no longer running as of January 2026.</strong> We found a better solution: The <a href="https://open.spotify.com/show/7dlLmy9OpjTbDk279QCgw9" target="_blank">Daily Bagel Show</a> - a human-hosted SA daily news podcast. Episodes below are archived for reference only.
+        <a href="https://www.letstalkaitools.com" class="built-by" target="_blank">
+            Built by <img src="/LTAIT_logo.png" alt="Let's Talk AI Tools">
+        </a>
+    </div>
     <div class="container">
         <div class="content">
             <img src="daily_news_icon.jpg" alt="Mzansi Lowdown Podcast" class="podcast-image">
