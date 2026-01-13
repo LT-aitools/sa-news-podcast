@@ -1,4 +1,13 @@
 # sa-news-podcast
+
+> **⚠️ PROJECT ARCHIVED - No Longer Running**
+>
+> This project is no longer actively running as of January 2026 because we found a better solution: A human-hosted and -produced SA daily news podcast (Daily Bagel Show). So automated daily podcast generation has been disabled (to avoid unnecessary API costs). The code is preserved for portfolio purposes and potential future use.
+>
+> **To run manually:** Use the "Run workflow" button in GitHub Actions, or run scripts locally following setup instructions below.
+
+---
+
 Creating a short (4-5 min) daily weekday podcast, focused solely on South African news and all AI-generated.
 
 ## overview 

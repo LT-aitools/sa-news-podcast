@@ -1,8 +1,8 @@
 name: Daily Podcast Generation
 
 on:
-  schedule:
-    - cron: '30 5 * * *'  # Runs at 5:30 AM UTC daily (7:30 AM SAST)
+  # schedule:
+  #   - cron: '30 5 * * *'  # DEPRECATED - Disabled to save costs (previously ran at 5:30 AM UTC daily)
   workflow_dispatch:  # Allows manual triggering
 
 # Workflow to generate daily podcast episodes and update feed
